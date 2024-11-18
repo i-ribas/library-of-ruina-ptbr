@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="Philip_OverHit">
+      <Name>Sobrecalentado</Name>
+      <Desc>La Resistencia al Aturdimiendo cambia a "Débil". Haz 3 más de Daño con Dados Ofensivos.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Philip_AddBurn">
+      <Name>Espíritu Feroz</Name>
+      <Desc>Gana 2 Fuerza al comienzo de la Escena. Cuando infringes Quemadura esta Escena, inflige 2 Acumulaciones adicionales.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Philip_Baby_Died">
+      <Name>Mente Desvanecida</Name>
+      <Desc>Todos los Dados pierden {0} de Poder.</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>

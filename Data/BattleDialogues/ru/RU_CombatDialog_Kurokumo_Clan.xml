@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Kurokumo Clan</GroupName>
+  <Character ID="Sayo">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Que grupo tan adorable de personas insignificantes~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Terminemos esto en un suspiro.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Si insisten en derrotarnos tanto… Todos, prepárense.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Espero que esto les enseñara una lección.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Esto no hubiera pasado si se hubieran escondido sus colas y se hubieran rendido… Uf, una lástima.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Si solo esta perra no hubiera interferido con nuestro negocio…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tsk. ¿Esta es toda la fuerza de alguien que juró protegerme?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Esto no es… Aún no has completado tu papel.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Parece que la situación se dirige a la dirección equivocada.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Deberías empacar tus cosas y dejar este trabajo si eres tan inepto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Pareces muy impaciente~ ¿Quizás estás nervioso?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eso fue muy decepcionando para un grupo con tanta fama.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Gin">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Me ocuparé de ese.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No parecen oponentes fáciles.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Incluso si estamos en igualdad de condiciones, debemos mantenernos alertas hasta el final.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">He agotado todas mis energías después de tener dos batallas tan duras en un solo día.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Regresemos. Parece que nos hemos ocupado de todos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Solo puedo culpar a mi ineptitud. Lo siento por eso.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Podríamos haber evitado una muerte de perro como esa.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Hemos perdido algo de vigor con la lucha de fuera… Supongo que nos quedaba muy poco para manejar esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No quiero ver a nadie más caer.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¿Intentaste detenerme teniendo tan poca fuerza?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Deberías conocer tu lugar.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Es desafortunado, pero es tiempo de que te rindas.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Yang">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hooh~ Hombre, estoy agotado.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Cuando dejaré de cubrirme de sucias manchas de sangre?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Nada bueno puede venir de ponerse así de nervioso~</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Ahora entiendo por qué nos envió aquí. Vi un montón de cosas raras aquí.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Son tan frágiles, no puedo soportar verlos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Demonios… ¿Saben lo que pasa si tratan al Clan Kurokumo de esta forma…?</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Eso… fue muy duro. Mejor tengo cuidado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No puede ser. ¿Estamos siendo superados por estos tontos?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Nada bueno puede venir de perder nuestras fuerzas uno por uno…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hah, Y eso que dejé mi guardia abierta más a menudo de lo que quería.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Saben que no estamos bromeando, verdad?.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Ni siquiera valía la pena esquivar.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Normal Enemies">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No dejaré que pongan un dedo encima de la Señorita Sayo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Comenzar una pelea contra Kurokumo… Son muy valientes, les concedo eso.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Nos moveremos primero. Prepárense chicos…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Pienso que podemos considerar esto un éxito.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">No puedo esperar para quitarme toda esta sangre con una ducha caliente.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Nunca pensé… que me equivocaría así…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">C-corra, Sra. Sayo. Algo no está bien con este lugar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Otro ha caído… Esto no está bien.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Esto me da un escalofrío. Maldición… Me estoy asustando.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Debemos ser un poco más cautelosos al proceder.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Eras muy hábil… pero fuiste imprudente en tu último momento.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No dejaré que escapen.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

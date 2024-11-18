@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbnormalityCardsRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sephirah SephirahType="Malkuth">
+    <AbnormalityCard ID="FairyCarnival_Care">
+      <Abnormality>Festival de las Hadas</Abnormality>
+      <CardName>El Cuidado de las Hadas</CardName>
+      <AbilityDesc>Heal 25% HP upon selection.</AbilityDesc>
+      <FlaborText>The fairies protect our employees. Everything will be peaceful while you are under the fairies' care.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Don't worry, now! We'll take good care of you.</Dialogue>
+        <Dialogue ID="2">Don't be alarmed. We're here to protect you.</Dialogue>
+        <Dialogue ID="3">Fairies are sacred beings, you know. Have some confidence.</Dialogue>
+        <Dialogue ID="4">You're a good-hearted lover of nature, you deserve our care.</Dialogue>
+        <Dialogue ID="5">You're the special one. The others should reflect on themselves.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="FairyCarnival_Gluttony">
+      <Abnormality>Fairy Festival</Abnormality>
+      <CardName>Gluttony</CardName>
+      <AbilityDesc>For 5 Scenes, heal 10% HP at the end of the Scene.
+After taking 3 hits, lose 25% of the current HP and lose this effect.</AbilityDesc>
+      <FlaborText>The fairies were no more than carnivorous monsters, and their "protection" was their method to keep the meat fresh.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">The reason we're staying by your side? Of course it's to protect you!</Dialogue>
+        <Dialogue ID="2">Enjoy the fairies' care to your heart's content.</Dialogue>
+        <Dialogue ID="3">A good person like you shouldn't die at the hands of anyone else.</Dialogue>
+        <Dialogue ID="4">We won't harm you, as long as you don't do anything evil.</Dialogue>
+        <Dialogue ID="5">Are you doubting us? That's a wicked thought you have…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="BeautyandtheBeast_Curse">
+      <Abnormality>Beauty and the Beast</Abnormality>
+      <CardName>Cycle of the Curse</CardName>
+      <AbilityDesc>Take 1 more damage from attacks.
+On death, the killer takes 4 more damage from attacks for the rest of the Scene.</AbilityDesc>
+      <FlaborText>However, the curse continues eternally, never broken.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">This curse will never be lifted. It'll just…</Dialogue>
+        <Dialogue ID="2">Every moment will be agonizing until I finally die.</Dialogue>
+        <Dialogue ID="3">I will wait… Wait until you set me free from this curse.</Dialogue>
+        <Dialogue ID="4">The curse of the greedy will never be broken. It will only repeat…</Dialogue>
+        <Dialogue ID="5">Now you'll hope as well. That you want to end this cycle of the curse…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="BeautyandtheBeast_Hate">
+      <Abnormality>Beauty and the Beast</Abnormality>
+      <CardName>Self-loathing</CardName>
+      <AbilityDesc>Each die is enhanced at a 50% chance.
+Lose 1-2 HP every time the character rolls a die.</AbilityDesc>
+      <FlaborText>"Every moment of my life is pain.
+I'd rather die than suffer for eternity."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">I can't do this on my own… Someone has to help me.</Dialogue>
+        <Dialogue ID="2">I'm so hideous and gross, I can't stand it.</Dialogue>
+        <Dialogue ID="3">Why won't you help me? I'm asking for help.</Dialogue>
+        <Dialogue ID="4">Please let me die in your hands.</Dialogue>
+        <Dialogue ID="5">Go ahead, hit me! I want this pain to end…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ScorchedGirl_Walk">
+      <Abnormality>Scorched Girl</Abnormality>
+      <CardName>Footfalls</CardName>
+      <AbilityDesc>If the character's HP falls to 20% or below, deal 30% of the target's max HP as damage upon approaching them and die.</AbilityDesc>
+      <FlaborText>I am coming to you. You, who will be reduced to ash like me.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">If I must perish, then join me.</Dialogue>
+        <Dialogue ID="2">It's just too sad to die alone… You know this feeling well, don't you?</Dialogue>
+        <Dialogue ID="3">Wait for me. I am coming to you, who will be reduced to ash…</Dialogue>
+        <Dialogue ID="4">Step by step... Burn into pitch black char.</Dialogue>
+        <Dialogue ID="5">Is there anything I can do, me, a scorched dark child?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ScorchedGirl_Ashes">
+      <Abnormality>Scorched Girl</Abnormality>
+      <CardName>Ashes</CardName>
+      <AbilityDesc>Take 1 less damage from attacks.</AbilityDesc>
+      <FlaborText>“The charred body represents the child's crumbled hope, while the ever blazing flame represents the obsession for affection.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">To burn all things that are bright to ashes…</Dialogue>
+        <Dialogue ID="2">I know very well that my scorched body can't ever return to normal.</Dialogue>
+        <Dialogue ID="3">It's scary to turn to ashes… But I don't want this fire to go out.</Dialogue>
+        <Dialogue ID="4">I can feel happiness through the candlelight. And warmth…</Dialogue>
+        <Dialogue ID="5">Maybe I'll freely soar through the sky as ash one day.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="HappyTeddyBear_Hug">
+      <Abnormality>Happy Teddy Bear</Abnormality>
+      <CardName>Nostalgic Embrace of the Old Days</CardName>
+      <AbilityDesc>Upon winning a clash, deal Stagger damage equal to the dice value at a 10% chance.
+Clashing against the same target multiple times will increase the likelihood.</AbilityDesc>
+      <FlaborText>Teddy was hugging someone tightly. Teddy loved hugs. But something was odd.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Give me a tight hug, will you? It'll soothe your mind.</Dialogue>
+        <Dialogue ID="2">Everyone loves hugs. Don't you agree?</Dialogue>
+        <Dialogue ID="3">Come over here and feel this fuzzy and warm feeling.</Dialogue>
+        <Dialogue ID="4">It's okay. Don't be afraid. All I do, is wrap you up in my arms.</Dialogue>
+        <Dialogue ID="5">You're tired, aren't you? Come take a rest in my embrace.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="HappyTeddyBear_Memory">
+      <Abnormality>Happy Teddy Bear</Abnormality>
+      <CardName>Happy Memories</CardName>
+      <AbilityDesc>Choose the page with the highest Cost in hand. Using the pages with the same name will decrease the Cost of all pages with that name by 1.</AbilityDesc>
+      <FlaborText>But, you see, Teddy never wanted to be separate from its owner ever again.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Why are you trying to leave me? We were such good friends…</Dialogue>
+        <Dialogue ID="2">Don't leave me. You'll change your mind when I hug you just once more.</Dialogue>
+        <Dialogue ID="3">It's too sad to say goodbye twice…</Dialogue>
+        <Dialogue ID="4">Why do you have to leave me and promise to meet again?</Dialogue>
+        <Dialogue ID="5">Have you come to dislike me because I hugged you too tight?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="TheDreamingCurrent_Sea">
+      <Abnormality>The Dreaming Current</Abnormality>
+      <CardName>Rainbow Sea</CardName>
+      <AbilityDesc>For three Scenes, all characters lose 3 Speed.
+For three Scenes, all characters lose 10% of their current HP and restore 1 Light at the start of the Scene.</AbilityDesc>
+      <FlaborText>Instead of visiting the ocean, the child was given candy which let him see the ocean. Many colorful nights and days passed.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">I want to see the sea. The shining ocean waves…</Dialogue>
+        <Dialogue ID="2">Let us all watch the brilliant ocean tides together, sparkling in rainbow colors.</Dialogue>
+        <Dialogue ID="3">It makes me happy just looking at candy with the sea inside.</Dialogue>
+        <Dialogue ID="4">When you're looking at beautiful things, it's okay to take slow steps.</Dialogue>
+        <Dialogue ID="5">My eyes will be dyed in rainbow colors, too.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="TheDreamingCurrent_Run">
+      <Abnormality>The Dreaming Current</Abnormality>
+      <CardName>Hippity-Hop</CardName>
+      <AbilityDesc>Gain 3 Speed.</AbilityDesc>
+      <FlaborText>Though the only thing the child could do was run around inside a cramped lab instead of a grass field under the sun, his steps were shaky but filled with enthusiasm.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">What flavor of candy will I eat… It makes my heart flutter, you know?</Dialogue>
+        <Dialogue ID="2">I'm so excited, I just can't stand still.</Dialogue>
+        <Dialogue ID="3">Will I be able to run around in wider places one day?</Dialogue>
+        <Dialogue ID="4">I'm not wishing for things like vast meadows or warm sunlight.</Dialogue>
+        <Dialogue ID="5">I had a happy dream. A dream where I swam… in the sea.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="TheDreamingCurrent_candy">
+      <Abnormality>The Dreaming Current</Abnormality>
+      <CardName>Candy</CardName>
+      <AbilityDesc>At the start of the Scene, each opponent gains a random 'Candy' at a 20% chance.
+Deals 50% more damage to targets carrying a 'Candy'. Deals 100% more damage to targets with 'Grape-Flavored Candy' instead.</AbilityDesc>
+      <FlaborText>Tell the kid today's treat is going to be grape-flavored candy. It's his favorite.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">What flavor is today's candy gonna be?</Dialogue>
+        <Dialogue ID="2">Please tell me it's grape-flavored candy. It's my favorite.</Dialogue>
+        <Dialogue ID="3">It's okay, it doesn't always have to be grape-flavored.</Dialogue>
+        <Dialogue ID="4">For me, eating candy is like… moments of little pleasures.</Dialogue>
+        <Dialogue ID="5">After a delicious treat, I'll be able to happily fall asleep.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="27thofMarch_Shelter">
+      <Abnormality>Shelter from the 27th of March</Abnormality>
+      <CardName>Shelter</CardName>
+      <AbilityDesc>Gain Blurred for this Scene.
+Cannot act for this Scene.
+Heal 50% HP.</AbilityDesc>
+      <FlaborText>However, this shelter, while perfectly safe on the inside, alters the reality of the outside to be even more hopeless.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">This shelter can provide safety like no other place in this world.</Dialogue>
+        <Dialogue ID="2">Do not pay any attention to the noises coming from outside. Outside matters do not concern you.</Dialogue>
+        <Dialogue ID="3">You will be able to withstand an indefinite amount of time, if you have the will.</Dialogue>
+        <Dialogue ID="4">You will be safe as long as you stay inside.</Dialogue>
+        <Dialogue ID="5">Personal safety is the number one priority.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+  <Sephirah SephirahType="Yesod">
+    <AbnormalityCard ID="1.76 MHz_MHz">
+      <Abnormality>1.76 MHz</Abnormality>
+      <CardName>1.76 MHz</CardName>
+      <AbilityDesc>All Offensive dice of all allies gain 0-1 Power.
+All Defensive dice of all allies lose 0-1 Power.</AbilityDesc>
+      <FlaborText>It is still unknown what caused the collective rage among employees.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Help… There… monsters… … …pened.</Dialogue>
+        <Dialogue ID="2">Can y… … ar me? … …o, plea … … me.</Dialogue>
+        <Dialogue ID="3">… … requesting... … We need… … …ance…</Dialogue>
+        <Dialogue ID="4">A sudden appearanc… … … from… every… …</Dialogue>
+        <Dialogue ID="5">Emergency al… … … All personnel… … …evacua… …</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="1.76MHz_423">
+      <Abnormality>1.76 MHz</Abnormality>
+      <CardName>Memories of April 23rd</CardName>
+      <AbilityDesc>When using a page, the damage of each roll is increased by the number of the Offensive dice.</AbilityDesc>
+      <FlaborText>This is a recording of the day we must never forget. It brings us to a chaotic place—forgotten by many—that must never be forgotten.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">We should never forget this day, even if it's gone from everyone else's memories…</Dialogue>
+        <Dialogue ID="2">If it's gotten blurry, then I'll repeat it for you anytime.</Dialogue>
+        <Dialogue ID="3">Remember. Do not erase this from your head. For any reason.</Dialogue>
+        <Dialogue ID="4">I hope you're keeping the radio at this frequency.</Dialogue>
+        <Dialogue ID="5">We'll have to remember this for a long time. This terrible incident.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ForsakenMurderer_Tie">
+      <Abnormality>Forsaken Murderer</Abnormality>
+      <CardName>Chained Wrath</CardName>
+      <AbilityDesc>Lose 2 Speed.
+Deal 1-3 more damage with attacks.</AbilityDesc>
+      <FlaborText>He wears a straitjacket, but is as free as any man. No amount of chains and restraints is enough to prevent him from committing violence.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Even if my body is tied… I'll be as free as any man.</Dialogue>
+        <Dialogue ID="2">Release me… Why do I have to be bound!</Dialogue>
+        <Dialogue ID="3">Don't look at me with those eyes. You're the most pitiful ones here…</Dialogue>
+        <Dialogue ID="4">You're not going to keep me shackled with this!</Dialogue>
+        <Dialogue ID="5">I may be a mess now, but you'll have to fear me all the same.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ForsakenMurderer_Metal">
+      <Abnormality>Forsaken Murderer</Abnormality>
+      <CardName>Metallic Ringing</CardName>
+      <AbilityDesc>Enhance Blunt dice.</AbilityDesc>
+      <FlaborText>“My head... turning into metal... folds in my brain, being flattened...”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">My head is ringing. I can hear the sound of metal, clear and loud…</Dialogue>
+        <Dialogue ID="2">It feels as if my head is turning to cold steel.</Dialogue>
+        <Dialogue ID="3">Is my head actually turning into metal?</Dialogue>
+        <Dialogue ID="4">When I bash my head onto a wall, it makes a refreshing sound.</Dialogue>
+        <Dialogue ID="5">If my head turns into steel, all the wrinkles in my brain will be gone.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="LittleHelper_Clean">
+      <Abnormality>All-Around Helper</Abnormality>
+      <CardName>Cleaning Tools</CardName>
+      <AbilityDesc>Enhance Slash dice.</AbilityDesc>
+      <FlaborText>However, the limbs were equipped with sharp instruments instead of cleaning supplies.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">The helper-bot can help you with any household chores!</Dialogue>
+        <Dialogue ID="2">What kind of task do you want me to do? I can help with anything.</Dialogue>
+        <Dialogue ID="3">Contamination scan complete. Initiating cleaning protocol.</Dialogue>
+        <Dialogue ID="4">Beebeebeep~ Beep. Contamination spotted! Proceeding with trash disposal protocol.</Dialogue>
+        <Dialogue ID="5">I will help you with my wide selection of tools.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="LittleHelper_Pattern">
+      <Abnormality>All-Around Helper</Abnormality>
+      <CardName>Repetitive Pattern-Recognition Feature</CardName>
+      <AbilityDesc>At the end of each Scene, gain 3 Haste and 1 Strength if the character dealt 10 or more damage to enemies that Scene.</AbilityDesc>
+      <FlaborText>The day I was sent to a new home for the first time, I gave them the gift they wanted so earnestly.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">When I'm done cleaning, people would always praise me!</Dialogue>
+        <Dialogue ID="2">They're giving me orders with a loud voice. That means I'm doing a good job.</Dialogue>
+        <Dialogue ID="3">Beepboop~ Piii! Pattern data accumulated.</Dialogue>
+        <Dialogue ID="4">People love to shout when they compliment me.</Dialogue>
+        <Dialogue ID="5">The helper-bot has excellent learning capabilities.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Schadenfreude_See">
+      <Abnormality>Schadenfreude</Abnormality>
+      <CardName>Gaze</CardName>
+      <AbilityDesc>After engaging in a clash, inflict 2 Feeble and 2 Disarm to the opponent at a 25% chance.</AbilityDesc>
+      <FlaborText>Someone's persistent gaze can be felt from the keyhole inside the machine.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Whatever you do, the gaze will always linger on you.</Dialogue>
+        <Dialogue ID="2">Even if you try to escape the gaze, it'll be everywhere.</Dialogue>
+        <Dialogue ID="3">Have you ever found comfort in witnessing the misfortune of others?</Dialogue>
+        <Dialogue ID="4">It will never lose track of you, to the moment you give up everything.</Dialogue>
+        <Dialogue ID="5">There's no use turning around in anxiety.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Schadenfreude_Eye">
+      <Abnormality>Schadenfreude</Abnormality>
+      <CardName>Eye Contact</CardName>
+      <AbilityDesc>All dice gain 0-2 Power in clashes.
+All dice lose 0-2 Power in one-sided attacks.</AbilityDesc>
+      <FlaborText>They faced towards the Abnormality for 10 seconds. After 5 seconds, it aggressively approached the employee. Experiment halted.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">It feels awful to catch someone's gaze.</Dialogue>
+        <Dialogue ID="2">Don't place your gaze on me. Don't look at me.</Dialogue>
+        <Dialogue ID="3">If you won't turn away yourself, removing those eyes from your face is an option.</Dialogue>
+        <Dialogue ID="4">Only one of us has to be peeking.</Dialogue>
+        <Dialogue ID="5">I hate crossing my gaze with another's, it's as though I'm revealing something to them.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="YouMustBeHappy_Q">
+      <Abnormality>You Must Be Happy.</Abnormality>
+      <CardName>The Query</CardName>
+      <AbilityDesc>The first die of each page only yields either the minimum or the maximum value.</AbilityDesc>
+      <FlaborText>Do you love your city?</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Do you love the City?</Dialogue>
+        <Dialogue ID="2">Quick answers are appreciated.</Dialogue>
+        <Dialogue ID="3">You may answer "Yes" or "No" to the question.</Dialogue>
+        <Dialogue ID="4">If your answer is "No", then you unfortunately may not be discharged.</Dialogue>
+        <Dialogue ID="5">There is no obligation to answer "Yes", however… You understand where this is going, right?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ChangeAnything_Energy">
+      <Abnormality>We Can Change Anything.</Abnormality>
+      <CardName>Energy Conversion</CardName>
+      <AbilityDesc>Whenever a page is used, discard a random page from the hand and restore 1 Light.</AbilityDesc>
+      <FlaborText>Just open up the machine, step inside, and press the button to make it shut. Now everything will be just fine.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">This robot will change anything that does not please your mind.</Dialogue>
+        <Dialogue ID="2">Are you dissatisfied with your own strength? Do you find yourself too feeble?</Dialogue>
+        <Dialogue ID="3">We will change anything you find unsatisfying.</Dialogue>
+        <Dialogue ID="4">Everything will become better.</Dialogue>
+        <Dialogue ID="5">The interior provides optimal comfort, so have no concern.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Variant_Dimensional">
+      <Abnormality>Dimensional Refraction Variant</Abnormality>
+      <CardName>Dimensional Refraction</CardName>
+      <AbilityDesc>Gain Blurred for the rest of the Scene.
+This character's attacks can no longer redirect the target.</AbilityDesc>
+      <FlaborText>The area is a vacuum. Strictly speaking, the Abnormality itself is the vacuum phenomenon.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">It will detach your limbs with earnesty.</Dialogue>
+        <Dialogue ID="2">If you want to leave in one piece that isn't just your torso, be aware of your surroundings.</Dialogue>
+        <Dialogue ID="3">All we can say is that you must stay cautious at all times.</Dialogue>
+        <Dialogue ID="4">Please ignore useless words of advice such as "Use your inner eye".</Dialogue>
+        <Dialogue ID="5">That area is essentially a vacuum. You won't be able to breathe.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Behavior_Adjustment">
+      <Abnormality>Behavior Adjustment</Abnormality>
+      <CardName>Adjustment</CardName>
+      <AbilityDesc>Upon losing a clash, enhance the next Offense die at a 50% chance.</AbilityDesc>
+      <FlaborText>It readjusts everyone to become righteous, no matter how wicked, evil, and arrogant they may be.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">With the aid of this device, all people will be corrected to become righteous.</Dialogue>
+        <Dialogue ID="2">Do not rely too much on this device.</Dialogue>
+        <Dialogue ID="3">Do not stop thinking at all times while you are using this device.</Dialogue>
+        <Dialogue ID="4">It is advised against letting go of your willingness to adjust yourself too early.</Dialogue>
+        <Dialogue ID="5">We will correct your behavior.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+  <Sephirah SephirahType="Hod">
+    <AbnormalityCard ID="SpiderBud_Cocoon">
+      <Abnormality>Spider Bud</Abnormality>
+      <CardName>Cocoon</CardName>
+      <AbilityDesc>On a successful attack, if the dice rolled maximum value, deal 2-4 Stagger damage to the opponent and inflict 1 Fragile.</AbilityDesc>
+      <FlaborText>Unsurprisingly, not a single employee volunteered to retrieve the corpse of their cocooned colleague.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">What careless fool stepped on my baby?</Dialogue>
+        <Dialogue ID="2">Few realized that the food inside my cocoons were not dead.</Dialogue>
+        <Dialogue ID="3">Spider's poison is unique, it prevents its victim from dying too quickly.</Dialogue>
+        <Dialogue ID="4">Watch your step. If you didn't, then watch your head.</Dialogue>
+        <Dialogue ID="5">No one dared to save my hunt.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="SpiderBud_Dinner">
+      <Abnormality>Spider Bud</Abnormality>
+      <CardName>Meal</CardName>
+      <AbilityDesc>On a successful attack, recover 2-7 HP if the target is Staggered.</AbilityDesc>
+      <FlaborText>Peter was dragged to the ceiling in only a moment. The cocooned employee hanging off the ceiling of the Containment Unit will be a healthy meal for the spider's offspring.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Rejoice. You will bring joy to my offspring.</Dialogue>
+        <Dialogue ID="2">Growing children are always hungry.</Dialogue>
+        <Dialogue ID="3">It's all for our survival, it couldn't be helped.</Dialogue>
+        <Dialogue ID="4">It's relieving to have plenty of food.</Dialogue>
+        <Dialogue ID="5">Well now, we have a tasty meal ready for consumption… Come, children.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ShyLookToday_Face">
+      <Abnormality>Today's Shy Look</Abnormality>
+      <CardName>Today's Expression</CardName>
+      <AbilityDesc>The face constantly shifts.
+Dice gain different amounts of Power depending on the current face. (Min. -2, Max. +3)</AbilityDesc>
+      <FlaborText>One sunny day, just like that day they sincerely dried the laundry, they dried their own skin.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">I'm just shy, that's all. Just shy…</Dialogue>
+        <Dialogue ID="2">A sad look doesn't fit the City.</Dialogue>
+        <Dialogue ID="3">It's very important to express oneself… I guess it is.</Dialogue>
+        <Dialogue ID="4">Please don't look at what's behind this. It's the least you can do.</Dialogue>
+        <Dialogue ID="5">Put a big smile on your face, like mine. It's not so hard, is it?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="OldLady_Lonely">
+      <Abnormality>Old Lady</Abnormality>
+      <CardName>Solitude</CardName>
+      <AbilityDesc>On a successful one-sided attack, inflict Solitude for 2 Scenes at a 15% chance.
+The chance is increased by 5% for every additional one-sided attack.
+Characters with Solitude lose 2 Speed and take 1-2 damage at the start of the Scene. (Does not stack)</AbilityDesc>
+      <FlaborText>She was so talkative before, yet in the end, loneliness was the only listener.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Child. Will you come next to me, so this old woman won't feel lonely?</Dialogue>
+        <Dialogue ID="2">No one visits me when I'm so old and dull.</Dialogue>
+        <Dialogue ID="3">In the end, this silence is my only listener.</Dialogue>
+        <Dialogue ID="4">Why won't anyone visit this poor old lady…</Dialogue>
+        <Dialogue ID="5">I fear I might end up being forgotten and meet a lonely end.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="OldLady_Story">
+      <Abnormality>Old Lady</Abnormality>
+      <CardName>Storytime</CardName>
+      <AbilityDesc>The maximum Stagger Resistance value is lowered by 25%.
+Deal 1-2 more damage with attacks.</AbilityDesc>
+      <FlaborText>It's not a good idea to keep listening to her. She knows every story on Earth and even those that cannot possibly exist.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Dearie, dearie… Would you like to hear an old story?</Dialogue>
+        <Dialogue ID="2">Yes, yes… What kind of stories do you like, little muffin?</Dialogue>
+        <Dialogue ID="3">Now, sit next to this old lady. I'll tell you a fun story.</Dialogue>
+        <Dialogue ID="4">Let's see… Would you like to sing a song about animal friends together?</Dialogue>
+        <Dialogue ID="5">This granny knows a lot of things. I can tell you all about it.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="MeatLantern_Predation">
+      <Abnormality>Meat Lantern</Abnormality>
+      <CardName>Predation</CardName>
+      <AbilityDesc>Deal 1-3 more damage when in a clash against an opponent with higher Speed.</AbilityDesc>
+      <FlaborText>Ah, screw it. Just enjoy looking at that flower all you want...</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Enjoy looking at the flower… It'll be more comfortable that way...</Dialogue>
+        <Dialogue ID="2">You're already right on top of me… It's too late...</Dialogue>
+        <Dialogue ID="3">Don't worry… It won't take too long…</Dialogue>
+        <Dialogue ID="4">The food will naturally come to me…</Dialogue>
+        <Dialogue ID="5">All I do is close my jaws at the right time…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="MeatLantern_Bait">
+      <Abnormality>Meat Lantern</Abnormality>
+      <CardName>Bait</CardName>
+      <AbilityDesc>The opponent targeted by this character will be forced to attack them regardless of Speed.
+All Defense dice gain 0-1 Power.</AbilityDesc>
+      <FlaborText>The bud is glowing, it's amazing. It's so bright, other employees came over to look at the flower too...</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">This lamp shines brightly in the dark…</Dialogue>
+        <Dialogue ID="2">Pretty, isn't it… Go ahead, come closer and take a good look...</Dialogue>
+        <Dialogue ID="3">Lighting up the dark isn't the only purpose of lamps…</Dialogue>
+        <Dialogue ID="4">They're naturally attracted by pretty things...</Dialogue>
+        <Dialogue ID="5">Just a little closer… Come near me… Just a tiny bit closer…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="MeatLantern_Ambush">
+      <Abnormality>Meat Lantern</Abnormality>
+      <CardName>Ambush</CardName>
+      <AbilityDesc>At the end of each Scene, if the character is at 20% HP or lower, gain Blurred for the next Scene.</AbilityDesc>
+      <FlaborText>As it moves underground, not through the hallway, it is impossible to predict its path when breaching.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">What's more important than baiting, is hiding…</Dialogue>
+        <Dialogue ID="2">To make sure that no one notices me… I should conceal myself…</Dialogue>
+        <Dialogue ID="3">If I stay here… No one will spot me…</Dialogue>
+        <Dialogue ID="4">Silently, in the dark… Wait for the prey…</Dialogue>
+        <Dialogue ID="5">They won't see what's coming, when I strike them…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Porccubus_Thorn">
+      <Abnormality>Porccubus</Abnormality>
+      <CardName>Thorns</CardName>
+      <AbilityDesc>On a successful attack, weaken the target's next Defense die at a 50% chance.</AbilityDesc>
+      <FlaborText>At first, all I had to do was be lightly pricked by one of the thorns. Now I have to rub my whole body against it to get the same high.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sure, I'll bend down for you~ Feel free to pet me.</Dialogue>
+        <Dialogue ID="2">It's scary at first, but the next step won't be difficult at all.</Dialogue>
+        <Dialogue ID="3">Come under me. I'll liberate you from all kinds of pain.</Dialogue>
+        <Dialogue ID="4">Just a little taste of the heaven won't hurt, right?</Dialogue>
+        <Dialogue ID="5">I pity those fools who don't know this happiness~</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Porccubus_Happy">
+      <Abnormality>Porccubus</Abnormality>
+      <CardName>Pleasure</CardName>
+      <AbilityDesc>Restore 2 Light after taking damage that exceeds 20% of the max HP.
+After taking a hit, die instantly if the HP drops below 25%.</AbilityDesc>
+      <FlaborText>Now it's time for my head to burst. Good day.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">If you wish for unbearable pleasure, you'll break down eventually.</Dialogue>
+        <Dialogue ID="2">I'm just giving you laughter, so much that you might die laughing~</Dialogue>
+        <Dialogue ID="3">You'll start with one, and keep wanting more.</Dialogue>
+        <Dialogue ID="4">Your head will soon be filled with happiness, almost enough to burst your head.</Dialogue>
+        <Dialogue ID="5">Once you've had a taste of this sweetness, you can't quit.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="RedShoes_Kirakira">
+      <Abnormality>The Red Shoes</Abnormality>
+      <CardName>Glitter</CardName>
+      <AbilityDesc>At the start of the Scene, each enemy is Allured at a 50% chance.
+Allured enemies gain 2-4 damage for their attacks, and prioritize this character as a target.
+Deal 3-5 more damage when attacking Allured targets.</AbilityDesc>
+      <FlaborText>The shoes were colorless. 
+They will soon turn red.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">The red is so vivid, isn't it simply dazzling?</Dialogue>
+        <Dialogue ID="2">Once you get rid of that person… The shoes are all yours.</Dialogue>
+        <Dialogue ID="3">It's fine. It won't be hard to take the shoes off their feet if you chop at their ankles.</Dialogue>
+        <Dialogue ID="4">Don't you want to be the one shining the brightest here?</Dialogue>
+        <Dialogue ID="5">This glamour should be yours alone.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="RedShoes_Desire">
+      <Abnormality>The Red Shoes</Abnormality>
+      <CardName>Sanguine Desire</CardName>
+      <AbilityDesc>Gain 1 Speed. On a successful attack, inflict 1 Bleed at a 50% chance.
+When a Positive Coin is generated, generate a Negative Coin instead at a 50% chance.</AbilityDesc>
+      <FlaborText>I’ll break your legs, then you won’t be able to dance ever again.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">I should be the one in the spotlight!</Dialogue>
+        <Dialogue ID="2">Only I should perform an elegant dance…</Dialogue>
+        <Dialogue ID="3">I'll make you unable to dance forever.</Dialogue>
+        <Dialogue ID="4">If I rendered those legs unusable, could I take the position of the protagonist?</Dialogue>
+        <Dialogue ID="5">Show me your one last dance.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+  <Sephirah SephirahType="Netzach">
+    <AbnormalityCard ID="UniverseZogak_Echo">
+      <Abnormality>Fragment of the Universe</Abnormality>
+      <CardName>Echoes</CardName>
+      <AbilityDesc>When the character's HP is at 20% or below, destroy all dice of both themselves and the attacker at a 50% chance upon getting hit.</AbilityDesc>
+      <FlaborText>You see a song in front of you. It's approaching, becoming more colorful by the second.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sing. Perform. Human. Song. Ear. Listen.</Dialogue>
+        <Dialogue ID="2">Sings. Nerves. Focus. Moment. See. Exist.</Dialogue>
+        <Dialogue ID="3">Eye. Shut. Feel. Grandeur. Come. Happiness. Beyond.</Dialogue>
+        <Dialogue ID="4">Understand. Perfection. Moment. Know. Knowledge. Our. Meaning. Deliver.</Dialogue>
+        <Dialogue ID="5">Do. Together. Chant. Song. Enlightenment.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="UniverseZogak_Tentacle">
+      <Abnormality>Fragment of the Universe</Abnormality>
+      <CardName>Tentacles</CardName>
+      <AbilityDesc>Enhance Pierce dice.</AbilityDesc>
+      <FlaborText>The moment its tentacle penetrates you, it'll drain all the interest for the life you're currently living out of you.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Negative. Attack. Come. Help. Give.</Dialogue>
+        <Dialogue ID="2">Knowledge. Our. Simple. Give. Relay. None.</Dialogue>
+        <Dialogue ID="3">Human. Attack. I. Protect. Along. Attack.</Dialogue>
+        <Dialogue ID="4">Attack. Swift. Impale.</Dialogue>
+        <Dialogue ID="5">Human. Attack. Soul. Disappear. Gone. Want.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ChildofGalaxy_Friend">
+      <Abnormality>Child of the Galaxy</Abnormality>
+      <CardName>Friends</CardName>
+      <AbilityDesc>When attacking the same target as the last Scene, restore 2-3 HP on each successful hit.
+When attacking a different target from the last Scene, take 1-2 damage on each successful hit.</AbilityDesc>
+      <FlaborText>Do you like it? More than you like me? Isn't it obvious? I know everything. Whatever you do, wherever you go.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Why did you visit that friend instead… Do you like them more than you like me?</Dialogue>
+        <Dialogue ID="2">I treasure you, but you won't treasure me…</Dialogue>
+        <Dialogue ID="3">Whatever you do, wherever you go… I'm always watching everything.</Dialogue>
+        <Dialogue ID="4">If you won't keep me company, then I don't need you.</Dialogue>
+        <Dialogue ID="5">Goodbye, don't come back to me again.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ChildofGalaxy_Tear">
+      <Abnormality>Child of the Galaxy</Abnormality>
+      <CardName>Teardrop</CardName>
+      <AbilityDesc>On death, all characters take 25% of this character's max HP as damage.</AbilityDesc>
+      <FlaborText>I hear his whispers and breath. Pitch black darkness follows... just like the night I met him...</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Walk across the Milky Way with me.</Dialogue>
+        <Dialogue ID="2">You'll become a pebble, and join me.</Dialogue>
+        <Dialogue ID="3">Let's go back, just like that night.</Dialogue>
+        <Dialogue ID="4">I'm so glad to meet you.</Dialogue>
+        <Dialogue ID="5">If you find me crying again, then wipe my tears for me.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ChildofGalaxy_Token">
+      <Abnormality>Child of the Galaxy</Abnormality>
+      <CardName>A Token of Friendship</CardName>
+      <AbilityDesc>For 3 Scenes, all allies restore 10% HP at the start of the Scene.
+When another ally dies, take 20% of the max HP as damage.</AbilityDesc>
+      <FlaborText>The pebble dropped into your hand sparkles, sways, tickles, and eventually becomes the universe.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Don't lose it, and don't give it to anyone else.</Dialogue>
+        <Dialogue ID="2">It's my gift to celebrate our friendship. Please treasure it.</Dialogue>
+        <Dialogue ID="3">As long as you're holding it, I'll be right next to you.</Dialogue>
+        <Dialogue ID="4">You have to stay by my side forever, promise? Don't forget this.</Dialogue>
+        <Dialogue ID="5">If my friend gets hurt… That would be sad.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="SingingMachine_Music">
+      <Abnormality>Singing Machine</Abnormality>
+      <CardName>Music</CardName>
+      <AbilityDesc>On a successful attack, enhance the next Offense die at a 50% chance.</AbilityDesc>
+      <FlaborText>But nothing could compare to the music it makes when it eats a human.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Nothing makes as fascinating music as a human can.</Dialogue>
+        <Dialogue ID="2">Don't you want to hear a beautiful song? You already know how.</Dialogue>
+        <Dialogue ID="3">Don't you worry. I'm sure that one wants to be a fine instrument, too.</Dialogue>
+        <Dialogue ID="4">People all carry musical talent in them.</Dialogue>
+        <Dialogue ID="5">Those who are fortitudinous, come to me. Join me.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="SingingMachine_Rhythm">
+      <Abnormality>Singing Machine</Abnormality>
+      <CardName>Rhythm</CardName>
+      <AbilityDesc>This character gains Rhythm.
+Characters with Rhythm have their Offense dice enhanced at a 50% chance, and take 1-3 additional damage on hit. 
+Whenever a character with Rhythm kills an enemy, a random character who doesn't yet have Rhythm gains the status.</AbilityDesc>
+      <FlaborText>It was creating a rhythm.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Everyone wants to hear my song again.</Dialogue>
+        <Dialogue ID="2">Various sounds join together to create music.</Dialogue>
+        <Dialogue ID="3">They're all volunteering to be instruments…</Dialogue>
+        <Dialogue ID="4">If everyone threw their bodies into me, it'll certainly create an even sweeter melody.</Dialogue>
+        <Dialogue ID="5">You won't want to hear any other music anymore.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="TheLittlePrince_Bigbusut">
+      <Abnormality>The Little Prince</Abnormality>
+      <CardName>Giant Mushroom</CardName>
+      <AbilityDesc>All characters take 2-4 additional Stagger damage upon taking hits.</AbilityDesc>
+      <FlaborText>If you can only perceive the Abnormality as a giant mushroom, that's because you're seeing with clouded eyes</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">We can see the essence, unlike others.</Dialogue>
+        <Dialogue ID="2">It's quite a hard task to gain one's heart.</Dialogue>
+        <Dialogue ID="3">Approache me slowly, step after step.</Dialogue>
+        <Dialogue ID="4">You're not like the others, you can hear my voice.</Dialogue>
+        <Dialogue ID="5">Could you call us friends?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Alriune_Bush">
+      <Abnormality>Alriune</Abnormality>
+      <CardName>Bushes</CardName>
+      <AbilityDesc>Upon staggering an enemy, deal 5-7 damage to them.</AbilityDesc>
+      <FlaborText>Spring is coming. 
+That was the magnificent beginning of my slow descent into despair.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">I was born from earth, so now I yearn to return to it.</Dialogue>
+        <Dialogue ID="2">With unwithering flowers began my magnificent descent to despair.</Dialogue>
+        <Dialogue ID="3">I was adored by humans and wished to become one.</Dialogue>
+        <Dialogue ID="4">I am cracked, yet beautiful flowers fill that space.</Dialogue>
+        <Dialogue ID="5">Will you be the one to grant my wish?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Alriune_flower">
+      <Abnormality>Alriune</Abnormality>
+      <CardName>Petals</CardName>
+      <AbilityDesc>At the end of each Scene, if the character used a page with three dice, deal 1-5 damage to all other characters and gain Blurred.</AbilityDesc>
+      <FlaborText>Shedding flower petals in place of tears, you spoke to me. 
+"We were all part of earth once, so I plead you not to speak of the end here and now."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">I have no eyes, but I can see everything.</Dialogue>
+        <Dialogue ID="2">Let us go back to the grave with all that lives and breathes.</Dialogue>
+        <Dialogue ID="3">My atonement ended with a heavy breath in the cold.</Dialogue>
+        <Dialogue ID="4">These flowers bloom without an end, and not one of them would wither.</Dialogue>
+        <Dialogue ID="5">I was abandoned in a dark forest, my mind and body withering away.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Rudolta_Gift">
+      <Abnormality>Rudolta of the Sleigh</Abnormality>
+      <CardName>Present</CardName>
+      <AbilityDesc>After winning a clash, inflict 2 Bind and deal 1-2 Stagger damage at a 50% chance.</AbilityDesc>
+      <FlaborText>With my infinite hatred, I give you this gift.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Merry children all deserve to have a gift!</Dialogue>
+        <Dialogue ID="2">With my infinite hatred, I give you this gift.</Dialogue>
+        <Dialogue ID="3">If you're happy even when tears are flowing down your cheek, then you may receive this gift.</Dialogue>
+        <Dialogue ID="4">Santa visits all joyous children.</Dialogue>
+        <Dialogue ID="5">If you aren't happy, then take my gift and be happy.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Theresia_Orgel">
+      <Abnormality>Theresia</Abnormality>
+      <CardName>Music Box</CardName>
+      <AbilityDesc>Increase Stagger Resist Recovery by 50%.</AbilityDesc>
+      <FlaborText>“Do you remember this melody? The professor used to play this song when the students were sleepy. Happy birthday.”</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Remember this melody?</Dialogue>
+        <Dialogue ID="2">Happy birthday. With love, Theresia.</Dialogue>
+        <Dialogue ID="3">Wind up the spring, and cure the ailing mind.</Dialogue>
+        <Dialogue ID="4">A long-haired child… Garden pranked with blossoms… And brother and sister.</Dialogue>
+        <Dialogue ID="5">Why is it that macabre can be felt in this melody?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+  <Sephirah SephirahType="Keter">
+    <AbnormalityCard ID="Bloodbath_Blood">
+      <Abnormality>Bloodbath</Abnormality>
+      <CardName>Blood</CardName>
+      <AbilityDesc>Lose 3 Speed.
+Enhance Defensive dice.</AbilityDesc>
+      <FlaborText>Unbearable depression overwhelms all who look into the bath.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">That person simply couldn't take her sorrow in stride.</Dialogue>
+        <Dialogue ID="2">Can you withstand this deep despair?</Dialogue>
+        <Dialogue ID="3">Come inside. Get into this dreadful pool of blood.</Dialogue>
+        <Dialogue ID="4">Let go of it all, close your eyes, and sink into this bottomless pool.</Dialogue>
+        <Dialogue ID="5">No matter how much blood is added, the bathtub never overflows.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Bloodbath_Scar">
+      <Abnormality>Bloodbath</Abnormality>
+      <CardName>Scars</CardName>
+      <AbilityDesc>Take 1-5 less damage from Slash attacks.</AbilityDesc>
+      <FlaborText>When I saw the latticework of scars on her severed wrist, I was reminded of our wine cabinet. That day, I popped the cork off the last one.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">It takes a strong will and courage to cut your own wrist.</Dialogue>
+        <Dialogue ID="2">Don't call these people foolish. You're the biggest coward.</Dialogue>
+        <Dialogue ID="3">The scars are marks of failure, but they aren't worthless.</Dialogue>
+        <Dialogue ID="4">Caress this pain filling the tub softly.</Dialogue>
+        <Dialogue ID="5">The depth of a cut depends on the moment's mind and willpower.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Bloodbath_Hands">
+      <Abnormality>Bloodbath</Abnormality>
+      <CardName>Pale Hands</CardName>
+      <AbilityDesc>After every three clash losses, deal 2-10 Stagger damage to the opponent when rolling dice on the next clash.</AbilityDesc>
+      <FlaborText>Many hands float in the bath.
+They are the hands of the people I once loved.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">The hands of one that you, perhaps we, loved are resting inside.</Dialogue>
+        <Dialogue ID="2">These hands are waiting for someone to hold them, would you grant their wishes?</Dialogue>
+        <Dialogue ID="3">No matter how much you wish to grasp what slips through your fingers…</Dialogue>
+        <Dialogue ID="4">These hands earnestly want help, yet no one bothers to give them a glance.</Dialogue>
+        <Dialogue ID="5">She must've trembled hard, the knife could slip from her hand at any moment.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="TheSnowQueen_Sord">
+      <Abnormality>The Snow Queen</Abnormality>
+      <CardName>Sword of Frost</CardName>
+      <AbilityDesc>On a successful one-sided attack, inflict 1-2 Bind to target.</AbilityDesc>
+      <FlaborText>A queen lives alone in the frosty winter forest.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">The edge of this blade is sharp and cold.</Dialogue>
+        <Dialogue ID="2">Only the warmth of Spring can melt away this sword.</Dialogue>
+        <Dialogue ID="3">The straight blade knows exactly where to point itself to.</Dialogue>
+        <Dialogue ID="4">One day, when it gets warm enough for snow to melt, this sword too shall thaw away.</Dialogue>
+        <Dialogue ID="5">When this weapon impales your heart, you'll become oblivious of yourself for a moment.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="TheSnowQueen_Chu">
+      <Abnormality>The Snow Queen</Abnormality>
+      <CardName>A Kiss</CardName>
+      <AbilityDesc>After winning 2 or more clashes within a single page, inflict Ice Splinter on the opponent.
+At the end of each Scene, characters with 3 or more Ice Splinters become immobilized for the next 2 Scene.</AbilityDesc>
+      <FlaborText>The Snow Queen's kiss froze his heart, and he couldn't feel the cold anymore.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Only those who know of the scent of roses can bring an end to it all.</Dialogue>
+        <Dialogue ID="2">You must have had a warm heart once.</Dialogue>
+        <Dialogue ID="3">Forgetting the cold, forgetting the memories, and at last…</Dialogue>
+        <Dialogue ID="4">Could a frozen heart that's become numb to coldness thaw out?</Dialogue>
+        <Dialogue ID="5">Only the strong shall be able to rescue the frozen.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="TheSnowQueen_Snow">
+      <Abnormality>The Snow Queen</Abnormality>
+      <CardName>Blizzard</CardName>
+      <AbilityDesc>Deal 1-5 additional stagger damage upon successful attacks at 50% HP or below.</AbilityDesc>
+      <FlaborText>Spring arrived with blossoming roses. Its warmth melted the Snow Queen's palace. No one remembered her, sleeping underneath.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">None will realize that I am slumbering in this place.</Dialogue>
+        <Dialogue ID="2">When this snow melts, I will also be forgotten.</Dialogue>
+        <Dialogue ID="3">Is my castle melting away, has the warm Spring truly arrived…</Dialogue>
+        <Dialogue ID="4">The full bloom of roses signal to me that Spring has come.</Dialogue>
+        <Dialogue ID="5">That person must not have wished for any more of this cold.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Pinocchio_Learn">
+      <Abnormality>Pinocchio</Abnormality>
+      <CardName>Learning</CardName>
+      <AbilityDesc>Add a 1 Cost &lt;Learn&gt; page to the hand: '[Start of Clash] Replace all dice with ones belonging to the opponent's page.'</AbilityDesc>
+      <FlaborText>All the child could do was 'learn' by observing others and mimicking their behavior. And that was the problem.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">I'm keen to learn as usual. Would you like to see me learn?</Dialogue>
+        <Dialogue ID="2">People taught me how to speak.</Dialogue>
+        <Dialogue ID="3">I'm not a fast learner. I just mimic what I see.</Dialogue>
+        <Dialogue ID="4">It's not hard to mimic others. I don't have to think.</Dialogue>
+        <Dialogue ID="5">I've learned lots of things, but I never go anywhere.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Pinocchio_Lie">
+      <Abnormality>Pinocchio</Abnormality>
+      <CardName>Lies</CardName>
+      <AbilityDesc>At the start of the Scene, shuffle the hand into the draw pile, and draw 6 pages.</AbilityDesc>
+      <FlaborText>People lie all the time. Why is that a bad thing?</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">People love to say things the other way round.</Dialogue>
+        <Dialogue ID="2">They said it wasn't for themselves. They were lying for the good of everyone…</Dialogue>
+        <Dialogue ID="3">Lalala… I sing along to the song of lies all the people sing.</Dialogue>
+        <Dialogue ID="4">I see the world upside down, as people have taught me.</Dialogue>
+        <Dialogue ID="5">Everyone lies, why are you saying it's a bad thing?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="QuietKid_Hammer">
+      <Abnormality>Silent Girl</Abnormality>
+      <CardName>Nail and Hammer</CardName>
+      <AbilityDesc>Deal 1-5 additional stagger damage upon winning a clash.</AbilityDesc>
+      <FlaborText>However, when she met a person carrying 'guilt' or 'fear', the girl revealed the nail and hammer she had been hiding behind her back.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">I wonder if there's a crack in your mind that I could hammer a nail in?</Dialogue>
+        <Dialogue ID="2">When a nail drives into a fissure, it gets twice as wide.</Dialogue>
+        <Dialogue ID="3">You should've been quick to deal with baggages in your mind.</Dialogue>
+        <Dialogue ID="4">Nothing hurts as much as a nail down the chest.</Dialogue>
+        <Dialogue ID="5">Dear, you seem to be quite… afraid, aren't you?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="QuietKid_Eyeshine">
+      <Abnormality>Silent Girl</Abnormality>
+      <CardName>Glare</CardName>
+      <AbilityDesc>Reduce the maximum Stagger Resist value (Min. 0%, Max. 50%), and Gain Speed (Min. 1, Max. 5) and damage (Min. 1-1, Max. 1-5).
+The change becomes more drastic with the amount of Negative Coins.</AbilityDesc>
+      <FlaborText>To repeat once again, the girl remains silent. She would simply glare at the core of one's inner side with her deep eyes.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">You stole something when you were a kid, didn't you.</Dialogue>
+        <Dialogue ID="2">You're still holding onto those painful memories... You poor fellow.</Dialogue>
+        <Dialogue ID="3">Did you know? Because of the misdeed you committed, that person…</Dialogue>
+        <Dialogue ID="4">Don't shift the responsibility on others. The agony is yours to carry.</Dialogue>
+        <Dialogue ID="5">Oh, you absolutely could've done it. You were just too busy running away.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="MirrorofAdjustment_Mirror">
+      <Abnormality>Mirror of Adjustment</Abnormality>
+      <CardName>Mirror</CardName>
+      <AbilityDesc>At the start of the Scene, randomize the Costs of all pages.</AbilityDesc>
+      <FlaborText>Those who face themselves in the mirror may appear the same, but in actuality, they have become completely different people.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">The satisfaction is only temporary.</Dialogue>
+        <Dialogue ID="2">Are you unsatisfied with your current self?</Dialogue>
+        <Dialogue ID="3">Those who face the mirror would become completely different people in essence.</Dialogue>
+        <Dialogue ID="4">I don't recommed looking into the mirror twice even if you're still not satisfied with your new self, though.</Dialogue>
+        <Dialogue ID="5">When you look into the mirror twice, it'll eat away your humanity.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="HeartofAspiration_Doki">
+      <Abnormality>Heart of Aspiration</Abnormality>
+      <CardName>Aspiration</CardName>
+      <AbilityDesc>Increase Max HP by 40%.
+Gain 3 Speed.
+At the end of each Scene, if the character did not deal any damage with Offensive dice, lose 10% of the current HP.</AbilityDesc>
+      <FlaborText>Excessive aspiration would bring about unwarranted frenzy.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Overwhelming aspiration is what leads to wrongful frenzy.</Dialogue>
+        <Dialogue ID="2">Why won't you wish for anything when you've earned such power?</Dialogue>
+        <Dialogue ID="3">He who holds power should rightfully wield it.</Dialogue>
+        <Dialogue ID="4">Yes, feel the rapid beating of your heart.</Dialogue>
+        <Dialogue ID="5">It seems we have a common goal we're desperately wishing for, so allow us to help.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+</AbnormalityCardsRoot>

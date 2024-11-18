@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Shi Association</GroupName>
+  <Character ID="Yujin">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Necesitas superar crisis para poder escalar a posiciones más altas.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Estoy bien. Prioriza tu seguridad primero.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No seas impaciente. La ansiedad solo causará que pierdas tu voluntad y concentración.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Deseo que estos libros tengan información valiosa que entregar.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">… Eso estuvo cerca. Retirémonos con los otros supervivientes.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Estaba tan cerca de alcanzar lo que quería…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Un minuto de silencio.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Lo hiciste bien aguantando hasta el final. … Gracias por estar con nosotros.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Terminarás exponiendo tus debilidades si no puedes reducir los movimientos inútiles.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">No tomaré a la ligera ninguna muerte, incluso de mis enemigos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">La misión aún no se ha completado, manténganse serios.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Tenma">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No te preocupes, Directora. Te asistiremos completamente.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Este es un espacio bastante abierto… nunca he visto este tipo de cosas en una solicitud antes.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Estoy cercana a mi punto de ruptura… Tenga cuidado y manténganse a salvo chicos..</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Estoy segura de que la Directora tiene una idea brillante.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Qué pueden estar planeando para hacernos pasar por esto…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No… Los otros lo tendrán aún más difícil…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Tenía que ser… Lucharé más duro… por ti.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">¡¡¡Directora!!! … Como te atreves… te atreviste a lastimar al Directora Yujin…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ten en cuenta que mi postura no se romperá sin importar qué…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Puedo aguantar… tengo que superar esto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Estoy bien. Tengo suficiente fuerza en mi cuerpo para continuar.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Valentin">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No parecen ser unos debiluchos de ninguna manera.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Seguiré contando contigo, Directora.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Participar en combate, como siempre hacemos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hemos terminado este trabajo, pero debo decir que no estoy muy contento…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Estoy nervioso pensando en la posibilidad de que este no se el final.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Este es mi límite… Lo siento, no pude aguantar más.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Los mataré a todos en tu lugar.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Juro que terminaré sus vidas con mi propia espada…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Debería estar feliz de que aún me quede mucha fuerza reunida…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Pueden quedar solo unos pocos, pero debemos mantenernos vigilantes.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Tu movimiento casi fueron una distracción.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Shi-Fixers">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Es realmente necesario empujarnos hasta el borde con trabajos como este…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Esto tiene que ser parte de alguna conspiración de la que no somos conscientes. De otra manera no tiene sentido…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Solo necesitamos eliminar a nuestros objetivos como siempre. No nos quejemos sobre esto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Mantengan sus ojos en el objetivo si tienen energías para hablar, están viniendo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Estoy de acuerdo con los otros. Estoy demasiado cansado para hacer este trabajo…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Espero que este sea el último.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Me agrada ver que pudimos manejar esto.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">No estoy en un estado para tomar ningún trabajo más…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Sabía que esto pasaría.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Si mi cuerpo estuviera en un mejor estado… No hubiera tenido problemas con esto.</BattleDialog>
+      <BattleDialog ID="DEATH_2">No entren en pánico chicos, solo… céntrense en la misión.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Debiste estar agotado… Descansa bien.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Estoy asustado de que podría encontrar el mismo destino pronto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Ninguno de nosotros parece estar en un buen estado… Debemos terminar eso rápidamente.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ese fue un objetivo fácil, se movió justo como esperaba.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Que tan lejos puedo ir… no estoy seguro.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… Debemos completar nuestra responsabilidad.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Limpio y rápido… Apuntamos por nuestro objetivo específicamente.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Este lugar y los seres que la habitan… Son todos un enigma.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

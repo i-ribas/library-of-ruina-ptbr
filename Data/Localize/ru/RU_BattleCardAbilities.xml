@@ -1,0 +1,2335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BattleCardAbility ID="exhaust">
+    <Desc>Esta página se agota al usarla</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="vulnerable1atk">
+    <Desc>[Al golpear] Inflige 1 de Frágil la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="vulnerable2atk">
+    <Desc>[Al golpear] Inflige 2 de Frágil la siguiente escena </Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="vulnerable3atk">
+    <Desc>[Al golpear] Inflige 3 de Frágil la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="vulnerable4atk">
+    <Desc>[Al golpear] Inflige 4 de Frágil la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="vulnerable5atk">
+    <Desc>[Al golpear] Inflige 5 de Frágil la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="bleeding1atk">
+    <Desc>[Al golpear] Inflige 1 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="bleeding2atk">
+    <Desc>[Al golpear] Inflige 2 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="bleeding3atk">
+    <Desc>[Al golpear] Inflige 3 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="bleeding4atk">
+    <Desc>[Al golpear] Inflige 4 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="bleeding6atk">
+    <Desc>[Al golpear] Inflige 6 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="bleeding2pw">
+    <Desc>[Al ganar un choque] Inflige 2 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="bleeding1atk_pierre">
+    <Desc>[Al golpear] Inflige 1 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="bleeding2atk_pierre">
+    <Desc>[Al golpear] Inflige 2 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+
+
+  <BattleCardAbility ID="burn1atk">
+    <Desc>[Al golpear] Inflige 1 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="burn2atk">
+    <Desc>[Al golpear] Inflige 2 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="burn3atk">
+    <Desc>[Al golpear] Inflige 3 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="burn4atk">
+    <Desc>[Al golpear] Inflige 4 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="burn6atk">
+    <Desc>[Al golpear] Inflige 6 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="burn10atk">
+    <Desc>[Al golpear] Inflige 10 de Quemadura</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="burn2pw">
+    <Desc>[Al ganar un choque] Inflige 2 de Quemadura</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="weak1atk">
+    <Desc>[Al golpear] Inflige 1 de Endeble la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="weak2atk">
+    <Desc>[Al golpear] Inflige 2 de Endeble la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="malkuthboss_whitesnow_far2">
+    <Desc>[Al golpear] Inflige 3 de Endeble la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="weak1pw">
+    <Desc>[Al ganar un choque] Inflige 1 de Endeble la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="recoverHp1atk">
+    <Desc>[Al golpear] Recupera 1 de HP</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="recoverHp2atk">
+    <Desc>[Al golpear] Recupera 2 de HP</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="recoverHp3atk">
+    <Desc>[Al golpear] Recupera 3 de HP</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="recoverHp4atk">
+    <Desc>[Al golpear] Recupera 4 de HP</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="recoverHp6atk">
+    <Desc>[Al golpear] Recupera 6 de HP</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="recoverHp1">
+    <Desc>[Al usar] Recupera 1 de HP</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="recoverHp2dfn">
+    <Desc>[Al usar] Recupera 2 de HP</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="disarm1atk">
+    <Desc>[Al golpear] Inflige 1 de Desarmar la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="disarm2atk">
+    <Desc>[Al golpear] Inflige 2 de Desarmar la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="disarm3atk">
+    <Desc>[Al golpear] Inflige 3 de Desarmar la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="malkuthboss_whitesnow_far3">
+    <Desc>[Al golpear] Inflige 3 de Desarmar la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="binding1atk">
+    <Desc>[Al golpear] Inflige 1 de Atadura la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="binding2atk">
+    <Desc>[Al golpear] Inflige 2 de Atadura la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="binding3atk">
+    <Desc>[Al golpear] Inflige 3 de Atadura la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="paralysis1atk">
+    <Desc>[Al golpear] Inflige 1 de Parálisis la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="paralysis2atk">
+    <Desc>[Al golpear] Inflige 2 de Parálisis la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="paralysis3atk">
+    <Desc>[Al golpear] Inflige 3 de Parálisis la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="paralysis4atk">
+    <Desc>[Al golpear] Inflige 4 de Parálisis la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="final_queenbee_paralyze">
+    <Desc>[Al golpear] Inflige 4 de Parálisis la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="paralysis1pw">
+    <Desc>[Al ganar un choque] Inflige 1 de Parálisis la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="paralysis2pw">
+    <Desc>[Al ganar un choque] Inflige 2 de Parálisis la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="quickness1">
+    <Desc>[Al usar] Gana 1 de Prisa la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="quickness2">
+    <Desc>[Al usar] Gana 1 de Prisa la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="quickness1atk">
+    <Desc>[Al golpear] Gana 1 de Prisa la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="endurance1pw">
+    <Desc>[Al ganar un choque] Gana 1 de Dureza la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="endurance2pw">
+    <Desc>[Al ganar un choque] Gana 2 de Dureza la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="endurance2">
+    <Desc>[Al usar] Gana 2 de Dureza la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="protection2">
+    <Desc>[Al usar] Gana 2 de Protección la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="energy1">
+    <Desc>[Al usar] Recupera 1 de Luz</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="energy2">
+    <Desc>[Al usar] Recupera 2 de Luz</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="energy4">
+    <Desc>[Al usar] Recupera 4 de Luz</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="energy1atk">
+    <Desc>[Al golpear] Recupera 1 de Luz</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="strength1">
+    <Desc>[Al usar] Gana 1 de Fuerza la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="strength2">
+    <Desc>[Al usar] Gana 2 de Fuerza la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="strength3">
+    <Desc>[Al usar] Gana 3 de Fuerza la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="upgradeNext1pw">
+    <Desc>[Al ganar un choque] Mejora en +3 el resultado máximo del siguiente dado</Desc>
+  </BattleCardAbility>  
+  <BattleCardAbility ID="downgradeNext1pw">
+    <Desc>[Al ganar un choque] Reduce en 3 el resultado máximo del dado del oponente</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerUpNext2pw">
+    <Desc>[Al ganar un choque] Añade +2 de Poder al siguiente dado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerUpNext1pl">
+    <Desc>[Al perder un choque] Añade +1 de Poder al siguiente dado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerUpNext2pl">
+    <Desc>[Al perder un choque] Añade +2 de Poder al siguiente dado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="protection1friend">
+    <Desc>[Al usar] Da 1 de Protección a todos los aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="endurance1friend">
+    <Desc>[Al usar] Da 1 de Dureza a todos los aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="endurance2friend">
+    <Desc>[Al usar] Da 2 de Dureza a todos los aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="damage2pw">
+    <Desc>[Al ganar un choque] Haz 2 de daño al oponente</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="damage3pw">
+    <Desc>[Al ganar un choque] Haz 3 de daño al oponente</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="damage2atk">
+    <Desc>[Al golpear] Haz 2 de daño al objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="damage3atk">
+    <Desc>[Al golpear] Haz 3 de daño al objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="damage5atk">
+    <Desc>[Al golpear] Haz 5 de daño al objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="discard_lowest">
+    <Desc>[Al usar] Descarta la página de coste más bajo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="discardall">
+    <Desc>[Al usar] Descarta todas las páginas </Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="drawDiscard">
+    <Desc>Roba una página al descartar esta página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="power_2">
+    <Desc>[Al usar] Todos los dados de esta página pierden 2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="energy1paralysis1">
+    <Desc>[Al usar] Restaura 1 de Luz; inflige 1 de Parálisis a ti mismo la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="discardAndEnergy">
+    <Desc>[Al usar] Descarta la página con el coste más bajo y Restaura 2 de Luz</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="pierre">
+    <Desc>[Al golpear] Recupera HP igual a la cantidad de Sangrado del objetivo</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="ruru1">
+    <Desc>[Al golpear] Inflige 2 de Quemadura, Haz 3 de daño a ti mismo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="ruru2">
+    <Desc>[Al golpear] Inflige 3 de Quemadura, Haz 3 de daño a ti mismo</Desc>
+  </BattleCardAbility>
+  <!-- 토머리 패치 - 텍스트 변경됨 -->
+  <BattleCardAbility ID="gyeongmi">
+    <Desc>[Al usar] Remueve todos los dados de esta página y copia el dado de una página aleatoria en tu mano</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="pinocchio">
+    <Desc>[Al comenzar un choque] Remueve todos los dados de esta página y copia el dado en la página del oponente</Desc>
+  </BattleCardAbility>
+
+  <!-- The Carnival -->
+  <BattleCardAbility ID="energy1pw">
+    <Desc>[Al ganar un choque] Restaura 1 de Luz</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="carnival">
+    <Desc>Añade "Tela fascinante" a la mano de cada uno</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerPerHand">
+    <Desc>Gana 1 de Poder por cada página en la mano</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="limit3">
+    <Desc>Solo hasta 3 de esta página se pueden tener a la vez</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="break2atk">
+    <Desc>[Al golpear] Haz 2 de daño de aturdimiento al objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="break3atk">
+    <Desc>[Al golpear] Haz 3 de daño de aturdimiento al objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="break5atk">
+    <Desc>[Al golpear] Haz 5 de daño de aturdimiento al objetivo</Desc>
+  </BattleCardAbility>
+  
+  <!-- 새벽 이후 -->
+  
+  <BattleCardAbility ID="otherAlly2protection2">
+    <Desc>[Al usar] Da 2 de Protección a dos aliados aleatorios la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="gainNegative1">
+    <Desc>[Al usar] Gana 1 de punto de emoción negativa</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerDownNext2pwTarget">
+    <Desc>[Al ganar un choque] Reduce el Poder del próximo dado del oponente en 2</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="powerDown1target">
+    <Desc>Reduce el Poder del dado actual del oponente en 1</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="drawCard">
+    <Desc>[Al usar] Roba 1 página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="drawCard2">
+    <Desc>[Al usar] Roba 2 páginas</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="drawCard1atk">
+    <Desc>[Al golpear] Roba 1 página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="drawCard1pw">
+    <Desc>[Al ganar un choque] Roba 1 página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="drawCard2pw">
+    <Desc>[[Al ganar un choque] Roba 2 páginas</Desc>
+  </BattleCardAbility>
+
+  <!-- Gaze Office -->
+  <!-- card ability -->
+  <BattleCardAbility ID="costDown1self">
+    <Desc>[Al usar] Baja el coste de esta página en 1 (Нasta 2 veces)</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="cardPowerDown1target">
+    <Desc>[Al comenzar un choque] Reduce en 1 el Poder de todos los dados del objetivo</Desc>
+  </BattleCardAbility>
+
+  <!-- dice ability -->
+  <BattleCardAbility ID="powerUp1targetParalysis">
+    <Desc>Añade +1 de Poder si el objetivo está paralizado</Desc>
+  </BattleCardAbility>
+
+  <!-- Lovetown, Tomerry -->
+  <!-- card ability -->
+  <BattleCardAbility ID="tomerry1">
+    <Desc>[Al usar] Si el HP es 25% o inferior, todos los dados de esta página ganan +2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="tomerry2">
+    <Desc>[Al usar] Haz 7 de daño a ti mismo; todos los dados de esta página ganan +2 de Poder</Desc>
+  </BattleCardAbility>
+
+  <!-- enemy only -->
+  <BattleCardAbility ID="tomerryReady">
+    <Desc>[Al usar] Gana 5 de Fuerza la siguiente escena; La siguiente escena usara un ataque poderoso; Recibe daño de aturdimiento extra mientras se prepara</Desc>
+  </BattleCardAbility>
+
+  <!-- dice ability -->
+  <!-- enemy only -->
+  <BattleCardAbility ID="lovetownPower">
+    <Desc>Añade +10 de Poder si el ataque es de un solo-lado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="lovetownNextPower">
+    <Desc>[Al perder un choque] Añade +6 de Poder al siguiente dado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="tomerryBuf">
+    <Desc>[Al golpear] Da 3 de Fuerza a todos los aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <!-- kurokumo -->
+
+  <BattleCardAbility ID="slashUp2thisRound">
+    <Desc>[Comienzo del combate] Incrementa el Poder de los dados cortante en 2+ por esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="protection3start">
+    <Desc>[Comienzo del combate] Gana 3 de Protección</Desc>
+  </BattleCardAbility>
+  <!-- 주의 -->
+  <BattleCardAbility ID="bleedingSlash1thisRound">
+    <Desc>[Comienzo del combate] Cada vez que realizas daño cortante con exitó, inflige 1 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="protection3">
+    <Desc>[Al usar] Gana 3 de Protección la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <!-- Bremen -->
+  <!-- card ability -->
+  <BattleCardAbility ID="enemy1weak1thisRound">
+    <Desc>[Comienzo del combate] Inflige 1 de Endeble a un enemigo aleatorio</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="enemy2weak1thisRound">
+    <Desc>[Comienzo del combate] Inflige 1 de Endeble a dos enemigos aleatorios</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="ally1strength1thisRound">
+    <Desc>[Comienzo del combate] Da 1 de Fuerza a un aliado aleatorio</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="ally2strength1thisRound">
+    <Desc>[Comienzo del combate] Da 1 de Fuerza a dos aliados aleatorios</Desc>
+  </BattleCardAbility>
+
+  <!-- dice ability -->
+  <BattleCardAbility ID="ally2strength1atk">
+    <Desc>[Al golpear] Da 1 de Fuerza a dos aliados aleatorios la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="ally2recover3atk">
+    <Desc>[Al golpear] Recupera 3 de HP de dos aliados aleatorios</Desc>
+  </BattleCardAbility>
+
+
+  <!-- shi -->
+  <!-- card ability-->
+  <BattleCardAbility ID="powerUp2speed6">
+    <Desc>[Al usar] Si la velocidad es 6 o superior, todos los dados de esta página ganan 2+ de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerUp2speed7">
+    <Desc>[Al usar] Si la velocidad es 7 o superior, todos los dados de esta página ganan 2+ de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerUp1Hp">
+    <Desc>[Al usar] Si el HP es 25% o inferior, todos los dados de esta página ganan 1+ de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerUp2Hp">
+    <Desc>[Al usar] Si el HP es 25% o inferior, todos los dados de esta página ganan 2+ de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="clashPowerUp">
+    <Desc>[Al comenzar un choque] Haz 5 de daño a ti mismo, todos los dados de esta página ganan +2 de Poder</Desc>
+  </BattleCardAbility>
+
+  <!-- dice ability -->
+  <BattleCardAbility ID="yujin">
+    <Desc>Si el lanzamiento natural del dado es el máximo y es 4 o superior, añade +45 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="energy1hp">
+    <Desc>[Al usar] Si el HP es 50% o inferior, restaura 1 de Luz</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="energy1atkAndHp">
+    <Desc>[Al golpear] Si el HP es 25% o inferior, restaura 1 de Luz</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="onlypage">
+    <Desc>[Página exclusiva]</Desc>
+  </BattleCardAbility>
+
+  <!-- puppet -->
+  <BattleCardAbility ID="powerDown2targetDfn">
+    <Desc>Reduce en 2 el Poder defensivo de los dados del objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerDown3targetDfn">
+    <Desc>Reduce en 3 el Poder defensivo de los dados del objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="weakDisarmBinding1atk">
+    <Desc>[Al golpear] Inflige 1 de Endeble, Desarmar y Atadura en la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="weakDisarmBinding2atk">
+    <Desc>[Al golpear] Inflige 2 de Endeble, Desarmar y Atadura en la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="energy1atkMostHp">
+    <Desc>[Al golpear] Restaura 1 de Luz para todos los aliados con el HP al máximo </Desc>
+  </BattleCardAbility>
+
+  <!-- circus -->
+  <BattleCardAbility ID="strength1atkMostHp">
+    <Desc>[Al golpear] Da 1 de Fuerza al aliado con el HP más alto la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="protection2atkMostHp">
+    <Desc>[Al golpear] Da 2 de Protección al aliado con el HP más alto la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="recoverBreak3atk">
+    <Desc>[Al golpear] Recupera 3 de resistencia al aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="recoverBreak5atk">
+    <Desc>[Al golpear] Recupera 5 de resistencia al aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="strength1atkAllFriend">
+    <Desc>[Al golpear] Da 1 de Fuerza a todos los aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+
+  <!-- 성냥불 카드 -->
+  <BattleCardAbility ID="burningGirl">
+    <Desc>[Al usar] Gana 1 de Ember</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="match">
+    <Desc>[Al golpear] Inflige 1 de Quemadura</Desc>
+  </BattleCardAbility>
+  
+  <!-- sweepers -->
+  <BattleCardAbility ID="sweeperUnique">
+    <Desc>[Al usar] Gana "Persistencia" por 4 escenas</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="sweeperOnly">
+    <Desc>[Al usar] Todos los dados ofensivos de esta página ganan "[Al golpear] Recupera 2 de HP"</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="sweeperOnlyDice">
+    <Desc>[Al golpear] Si el lanzamiento natural del dado es 3, reutiliza este dado (Hasta 6 veces)</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="ally2protection1thisRound">
+    <Desc>[Comienzo del combate] Da 1 de Protección a dos aliados aleatorios</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerDown2thisRound">
+    <Desc>[Comienzo del combate] Todos los dados que el usuario usa este turno pierden 2 de Poder esta escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="powerUp1highlander">
+    <Desc>[Al usar] Si Único, todos los dados de esta página ganan 1+ de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="drawCard3highlander">
+    <Desc>[Al usar] Si Único, roba 3 páginas</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerUp2fullCard">
+    <Desc>[Al usar] Si hay 7 o más páginas en la mano, todos los dados de esta página ganan +2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerDown3thisRound">
+    <Desc>[Comienzo del combate] Todos los dados que el usuario usa este turno pierden 3 de Poder esta escena</Desc>
+  </BattleCardAbility>
+
+  <!--
+  <BattleCardAbility ID="destroyNextHighlander">
+    <Desc>Si no hay duplicados en la Estante de combate, destruye el próximo dado del oponente</Desc>
+  </BattleCardAbility>
+  -->
+  <BattleCardAbility ID="powerUpDice4highlander">
+    <Desc>Si Único, añade +4 de Poder</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="fairy_ego">
+    <Desc>[Al Golpear] Recupera 3 de HP, reutiliza este dado hasta lanzar el resultado minimo (Hasta 5 veces)</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="schorchedArea">
+  </BattleCardAbility>
+  <BattleCardAbility ID="snowwhiteArea">
+  </BattleCardAbility>
+  <BattleCardAbility ID="schorchedAreaDice">
+    <Desc>[Al golpear] Inflige 5 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="snowwhiteAreaDice">
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="teddyEgo">
+    <Desc>[Al ganar un choque] Destruye todo el dado del oponente</Desc>
+  </BattleCardAbility>
+
+  <!-- warp crew -->
+  <BattleCardAbility ID="warpSkill">
+    <Desc>[Página exclusiva], [Al usar] Gasta toda la Carga, tiene (Carga*9,9)% chances de éxito</Desc>
+    <Desc>[Éxito] Todos los dados de esta página ganan 8+ de Poder;
+[Fallo] Haz 20 de daño a ti mismo</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="warpSkillDice">
+    <Desc>Si fueron gastados 10 de Carga de una vez, añade 2+ Poder</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="power3costCharge"> <!-- If no "충전",  "이 책장의 모든 주사위 위력 +3" is not activated.-->
+    <Desc>[Al usar] Gasta 3 de Carga para incrementar el Poder de todos los dados de esta página en +3</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="warpOvercharge">
+    <Desc>[Al usar] Gana 10 de Carga y obtienes Inmovilizado la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="warpCharge3">
+    <Desc>[Al usar] Gana 3 de Carga</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="warpCharge4">
+    <Desc>[Al usar] Gana 4 de Carga</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="warpCharge5">
+    <Desc>[Al usar] Gana 5 de Carga</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="warpCharge6">
+    <Desc>[Al usar] Gana 6 de Carga</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="warpCharge2energy1">
+    <Desc>[Al usar] Gana 2 de Carga y Restaura 1 de Luz</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="drawCardWarp">
+    <Desc>[Al usar] Gana 1 de Prisa la siguiente escena; gasta 3 de Carga y roba 2 páginas</Desc>
+  </BattleCardAbility>
+
+
+  <!-- 웃는 얼굴들 -->
+  <BattleCardAbility ID="smoke1atk">
+    <Desc>[Al golpear] Inflige 1 de Humo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="smoke2atk">
+    <Desc>[Al golpear] Inflige 2 de Humo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="smoke3atk">
+    <Desc>[Al golpear] Inflige 3 de Humo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="smoke4atk">
+    <Desc>[Al golpear] Inflige 4 de Humo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="smoke5atk">
+    <Desc>[Al golpear] Inflige 5 de Humo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="smoke7atk">
+    <Desc>[Al golpear] Inflige 7 de Humo</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="smokeSelf4atk">
+    <Desc>[Al golpear] Gana 4 de Humo</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="smokeSelf2">
+    <Desc>[Al usar] Gana 2 de Humo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="smokeSelf3">
+    <Desc>[Al usar] Gana 3 de Humo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="smokeSelf4">
+    <Desc>[Al usar] Gana 4 de Humo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="smokeSelf7">
+    <Desc>[Al usar] Gana 7 de Humo</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="energySmoke">
+    <Desc>[Al usar] Gana 2 de Humo. Restaura 1 de Luz</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="energySmoke2">
+    <Desc>[Al usar] Gana 2 de Humo. Restaura 2 de Luz</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="powerUp2smoke">
+    <Desc>[Al usar] Usa 2 Humo para incrementar +2 de Poder todos los dados de esta página</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="bleedingXsmoke">
+    <Desc>[Al golpear] Inflige 1 de Sangrado la siguiente escena por cada 2 de Humo en el objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="bleeding3smoke">
+    <Desc>[Al golpear] Utiliza 2 Humo para inflingir 3 Sangrado</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="debufsSmoke">
+    <Desc>[Al golpear] Si el objetivo tiene 7+ de Humo, inflige 2 de Parálisis y 1 de Endeble</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="debufsSmokeRemake">
+    <Desc>[Al golpear] Si el objetivo tiene 4+ de Humo, inflige 2 de Parálisis y 1 de Endeble</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="drawSmoke">
+    <Desc>[Al golpear] Si el objetivo tiene 3+ de Humo, roba 2 páginas</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="smokeOnly1">
+    <Desc>[Al usar] Roba 1 página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="smokeOnly2">
+    <Desc>[Al usar] Gana 2 de Humo</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="freischutz">
+    <Desc>Apunta a todos los otros personajes</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="butterfly_brkdmg">
+    <Desc>[Al golpear] Нaz 5 de daño de aturdimiento al objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="weak5atk">
+    <Desc>[Al golpear] Inflige 5 de Endeble</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="disarm5atk">
+    <Desc>[Al golpear] Inflige 5 de Desarmar</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="binding5atk">
+    <Desc>[Al golpear] Inflige 5 de Atadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="yesod_final_butterfly_ego_brk">
+    <Desc>[Al golpear] Haz 3 de daño de aturdimiento al objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="yesod_final_butterfly_ego_dmg">
+    <Desc>[Al golpear] Haz 3 de daño al objetivo</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="murderDice1">
+    <Desc>[Al golpear] Haz daño de aturdimiento igual al 10% de la resistencia al aturdirmiento actual del objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="murderDice2">
+    <Desc>[Al golpear] Haz daño de aturdimiento igual al 50% de la resistencia al aturdirmiento actual del objetivo</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="helperEgo">
+  </BattleCardAbility>
+  <BattleCardAbility ID="helperDice">
+    <Desc>[Al golpear] Inflige 2 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="singingMachineEgo">
+    <Desc>Con cada golpe exitoso, un aliado aleatorio recibe 3 de daño de aturdimiento y gana 1 de Fuerza la siguiente escena</Desc>
+    <Desc>Al derrotar a un enemigo, todos los aliados ganan 2 de Fuerza</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="singingMachineDice">
+    <Desc>[Al golpear] Reutiliza este dado hasta lanzar el resultado más bajo (Hasta 2 veces)</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="buterflyEgo">
+    <Desc>Cada dado en este página es lanzado 8 veces</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="buterflyDice">
+    <Desc>[Al golpear] Haz 3 de daño o 3 de daño de aturdimiento al objetivo</Desc>
+  </BattleCardAbility>
+
+  
+  <BattleCardAbility ID="freischutzEgo">
+    <Desc>[Sincronizar] El bibliotecario se Sincroniza con la Anormalidad las siguiente 3 escenas"</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="philipEgo">
+    <Desc>Solo puede ser utilizado con un nivel de emoción 3 o superior</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="cryingChildPenalty">
+    <Desc>[Al perder un choque] Todas las resistencias de todos los aliados cambian a "Fatal"</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="cryingChildArea">
+    <Desc>El usuario está aturdido al terminar la escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="cryingChildAreaDice">
+  </BattleCardAbility>
+  
+  <!-- 리우 2과 -->
+  <!-- card ability -->
+  <BattleCardAbility ID="liuUnique">
+    <Desc>[Al usar] gana +1 de Poder por cada 2 niveles de emoción</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="costDown1emotion3">
+    <Desc>Cuesta 1 menos con un nivel de emoción 3 o superior </Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="dmgUp1thisRound">
+    <Desc>[Comienzo del combate] Los dados ofensivos hacen +1 daño por esta escena</Desc>
+  </BattleCardAbility>
+  
+  <!-- dice ability -->
+  <BattleCardAbility ID="gainEmotion1pw">
+    <Desc>[Al ganar un choque] Gana 1 de punto de emoción</Desc>
+  </BattleCardAbility>
+
+  <!-- card ability -->
+  <BattleCardAbility ID="gainPositive1">
+    <Desc>[Al usar] Gana 1 de punto de emoción nositiva</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="endurance1emotion">
+    <Desc>[Al usar] Gana 1 de Dureza la siguiente escena. Con un nivel de emoción 3 o superior, gana 2 de Dureza en su lugar</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="lowelonly">
+    <Desc>[Al usar] Remueva todos los dados de esta página. Añade una página de ataque en masa que solo puede ser usada la siguiente escena.</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="lowelCreated">
+    <Desc>Solo puede ser usada esta escena</Desc>
+  </BattleCardAbility>
+
+  <!-- dice ability -->
+  <BattleCardAbility ID="lowelDice">
+    <Desc>[Al golpear] Inflige 3 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="liuBurnDice">
+    <Desc>[Al golpear] Inflige 1 + (Nivel de emoción personal) de Quemadura</Desc>
+  </BattleCardAbility>
+
+  <!-- hod ego -->
+  <BattleCardAbility ID="shyLookEgoDice">
+    <Desc>Haz 10+ daño contra objetivos aturdidos</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="redshoesEgoDice2">
+    <Desc>Gana Poder igual al doble de Sangrado del objetivo</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="spiderBudEgoDice">
+    <Desc>[Al golpear] Inflige 3 de Atadura, Endeble y Desarmar la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="latitiaAreaEgo">
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="latitiaEgoDice">
+    <Desc>[Al golpear] Añade una copia de la página "Pequeño Regalo" a la mano del objetivo</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="blackSwanAreaEgo">
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="blackSwanEgoDice1">
+  </BattleCardAbility>
+  <BattleCardAbility ID="blackSwanEgoDice2">
+    <Desc>[Al golpear] El objetivo pierde 3 de Luz la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <!-- card ability -->
+  <BattleCardAbility ID="AddBullet1">
+    <Desc>[Al usar] Añade 1 Munición aleatoria a la mano</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="AddBullet2">
+    <Desc>[Al usar]Añade 2 Munición aleatorias a la mano</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="discard1">
+    <Desc>[Al usar] Descarta la página con el coste más bajo.</Desc>
+    <Desc>Si una Munición fue descartada, todos los dados ofensivos en esta página ganan 1+ de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="discard2draw1">
+    <Desc>[Al usar] Descarta las 2 páginas con el coste más bajo de la mano y roba una página.</Desc>
+    <Desc>Gana +1 de Poder por cada Munición descartada</Desc>	
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="negatePower">
+    <Desc>Los dados en esta página y la página a la que se enfrenta no son afectadas por el Poder ganado o perdido</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="dmgUpFriend3">
+    <Desc>[Al usar] Todos los aliados hacen +2 daño con sus dados ofensivos la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="thumbBullet1">
+    <Desc>Se agota al ser usada o descartada; [Al agotarse] Los dados que se enfrentan a páginas de Rango del usuario pierden 1 de Poder esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="thumbBullet2">
+    <Desc>Se agota al ser usada o descartada; [Al agotarse] Al golpear con páginas de Rango, inflige 1 de Parálisis y Desarmar la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="thumbBullet3">
+    <Desc>Se agota al ser usada o descartada; [Al agotarse] Al golpear con páginas de Rango esta escena, inflige 2 de Quemadura</Desc>
+  </BattleCardAbility>
+
+  <!-- dice ability -->
+  <BattleCardAbility ID="repeat3">
+    <Desc>Este dado se lanza 3 veces</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="repeat4">
+    <Desc>Este dado se lanza 4 veces</Desc>
+  </BattleCardAbility>
+  
+  <!-- 지팡이 -->
+  <BattleCardAbility ID="badaCard">
+    <Desc>[Al comenzar un choque] Gasta 3 de Carga para reducir el Poder de todos los dados del oponente en 2</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="chargeProtection">
+    <Desc>[Al usar] Gasta 2 de Carga para dar 1 de Protección a todos los aliados esta escena y la siguiente.</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="chargeEnergy">
+    <Desc>[Al usar] Gasta 4 de Carga para Restaurar 3 de Luz</Desc>
+  </BattleCardAbility>
+  <!-- remake -->
+  <BattleCardAbility ID="badaCardRemake">
+    <Desc>[Al usar] Gasta 4 de Carga para auemntar el Poder de todos los dados de esta página en 2</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="chargeDestroyDesc"> <!-- "chargeDestroy"의 텍스트가 너무 길어서 분리 -->
+    <Desc>Las habilidades del dado en esta página solo se activa si el oponente tiene dados ofensivos</Desc>
+  </BattleCardAbility>
+  <!-- 주사위 능력 -->  
+  <BattleCardAbility ID="chargeDestroy">
+    <Desc>[Al ganar un choque] Gasta 2 de Carga para destruir el próximo dado ofensivo del oponente</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="charge2pw">
+    <Desc>[Al ganar un choque] Gana 2 de Carga</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="charge1pl">
+    <Desc>[Al perder un choque] Gana 1 de Carga</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="charge2pl">
+    <Desc>[Al perder un choque] Gana 1 de Carga</Desc>
+  </BattleCardAbility>
+  
+  <!-- balance update-->
+  <BattleCardAbility ID="AddBullet1AndDraw">
+    <Desc>[Al usar] Añade una Munición aleatoria a tu mano; roba 1 página</Desc>
+  </BattleCardAbility>
+  
+  <!-- 톱니 신도-->
+  <BattleCardAbility ID="smokeSelf4draw">
+    <Desc>[Al usar] Gana 4 de Humo y roba 1 página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="smokePowerUp">
+    <Desc>[Al usar] Si el objetivo tiene 2 de Humo o más, todos los dados ofensivos en esta página ganan +1 de Poder</Desc>
+  </BattleCardAbility>
+
+  <!-- 아르갈리아 -->
+  <BattleCardAbility ID="nullifyPower">
+    <Desc>[Al usar] El Poder del dado del objetivo no puede ser influenciados por ningún efecto la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaBuf">
+    <Desc>[Al golpear] Da 1 de Fuerza y Dureza a todos los aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <!-- 네짜흐 EGO -->
+  <BattleCardAbility ID="areaText">
+  </BattleCardAbility>
+  <BattleCardAbility ID="cardPowerDown2target">
+    <Desc>[Al comenzar un enfretamiento] Reduce el poder de todos los dados del objetivo en 2</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="cardPowerDown4target">
+    <Desc>[Al comenzar un enfretamiento] Reduce el poder de todos los dados del objetivo en 4</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="universeDice">
+    <Desc>[Al golpear] Haz 10 de daño de aturdimiento al objetivo</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="galaxyEgoDice">
+    <Desc>[Al golpear] Recupera HP igual al lanzamiento natural del dado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="porccubusEgoDice">
+    <Desc>Gana Poder igual al nivel de emoción del objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="porccubusEgoDice2">
+    <Desc>Este dado se lanza 3 veces.
+[Al golpear] Inflige 3 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="aliuneEgoDice">
+    <Desc>[Al golpear] Si el objetivo está aturdido, haz 8 de daño</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="orchestraEgoDice1">
+    <Desc>[Al golpear] El objetivo pierde 2 de Luz la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="orchestraEgoDice2">
+    <Desc>[Al golpear] La velocidad del objetivo es 1 la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="orchestraEgoDice3">
+    <Desc>[Al golpear] Inflige 1 de Endeble y Desarmar la siguiente escena</Desc>
+  </BattleCardAbility>
+
+
+  <BattleCardAbility ID="redshoesEgo">
+    <Desc>[Comienzo del combate] Los enemigos no pierden Sangrado después de lanzar sus dados ofensivos esta escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="breakCharge">
+    <Desc>[Al golpear] Gasta 2 de Carga para hacer 5 de daño de aturdimiento</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="gloriaCard">
+    <Desc>Solo es usable en el estado de "Espada Desbloqueada"</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="estherCard">
+    <Desc>Solo es usable en el estado de "Espada Desbloqueada"</Desc>
+    <Desc>Reduce el Poder de todos los dados del oponente que se enfrenta a esto en 12</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="hubertCard">
+    <Desc>Solo es usable en el estado de "Espada Desbloqueada"</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="gloriaDice">
+    <Desc>[Al golpear] Inflige 1 de Endeble esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="estherDice">
+    <Desc>[Al golpear] Haz daño y daño de aturdimiento adicional de 7 veces el resultado natural del lanzamiento</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="hubertDice">
+    <Desc>[Al golpear] Inflige 1 de Endeble y 8 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="strength1friendKill">
+    <Desc>Al matar, da 1 de Fuerza a todos los aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerUp1targetHp50">
+    <Desc>Añade 1 de Poder si el HP del objetivo es 50% o inferior</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="cardPowerDown1targetHighlander">
+    <Desc>[Comienzo del combate] Si Único, reduce el Poder de todos los dados del objetivo en 1 </Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerDownNext2pwTargetHighlander">
+    <Desc>[Al ganar un choque] Si Único, reduce el Poder del siguiente dado del oponente en 2</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="draw1CardAndHighlanderEnergy">
+    <Desc>[Al usar] Roba 1 página, Si Único, también Restaura 2 de Luz</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="indexRelease1">
+    <Desc>[Al usar] Añade la página "Desbloquear-II" a tu mano</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="indexRelease2">
+    <Desc>[Al usar] Añade la página "Desbloquear-III" a tu mano</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="drawAndEnergy">
+    <Desc>[Al usar] Restaura 1 de Luz y roba 1 página</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="shyaoDice1">
+    <Desc>[Al golpear] Inflige 2 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="shyaoDice2">
+    <Desc>[Al golpear] Inflige 2 de Quemadura; repite este efecto por cada nivel de Emoción</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="burn1atk2times">
+    <Desc>[Al golpear] Inflige 1 de Quemadura 2 veces</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="burn1atk3times">
+    <Desc>[Al golpear] Inflige 1 de Quemadura 3 veces</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="burnSpread">
+    <Desc>[Al golpear] Si el objetivo tiene 4 de Quemadura o más, inflige 1 de Quemadura a todos los enemigos</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="burnPlus">
+    <Desc>[Comienzo del combate] Cuando infringes Quemadura usando páginas de combate esta escena, inflige 1 de Quemadura adicional</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="punchDraw">
+    <Desc>[Al usar] Al comienzo de la siguiente escena, roba todas las copias de "Puñalada a un Punto" del mazo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="fireIlsum">
+    <Desc>[Al usar] Si la página "Destello ardiente" está en tu mano, descartala y roba una página, entonces añade los dados ofensivos de la página descartada a esta.</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="discard4bullet">
+    <Desc>[Al usar] Descarta hasta cuatro páginas de coste 0 de tu mano.</Desc>
+    <Desc>Los dados ofensivos en esta página ganan +1 de Poder por cada Munición descartada está escena de esta página</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="breakChargeRemake">
+    <Desc>[Al golpear] Gasta 2 de Carga para hacer 6 de daño de aturdimiento, hasta 3 veces</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="powerUp1Hp_ver2">
+    <Desc>[Al usar] Si el HP es 50% o inferior, todas las páginas del dado ganan 1+ de Poder</Desc>
+  </BattleCardAbility>
+
+  <!-- tiphereth EGO-->
+  <BattleCardAbility ID="hateEgoDice">
+  </BattleCardAbility>
+  <BattleCardAbility ID="despairEgoDice">
+    <Desc>[Al golpear] Sella un dado de velocidad del objetivo la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="greedEgoDice">
+    <Desc>[Al golpear] Restaura 1 de Luz; Gana 1 de Fuerza la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="wrathEgo">
+    <Desc>Apunta a todos los otros personajes</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="voidEgo">
+    <Desc>[Al usar] Si no hay páginas en tu mano, inflige 4 de Endeble, Desarmar, Atadura y Parálisis a todos los enemigos esta y la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="voidEgoDice">
+  </BattleCardAbility>
+
+  <!-- kali -->
+  <!-- card ability -->
+  <BattleCardAbility ID="kaliNormalAttackJ">
+    <Desc>Si 8 o más daño ha sido realizado con esta página, roba 1 página y reduce el coste de todas tus otras cartas "Corte vertical" en 1</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="kaliNormalAttackZ">
+    <Desc>Si 8 o más daño ha sido realizado con esta página, roba 1 página y reduce el coste de todas tus otras cartas "Lanzas" en 1</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="kaliNormalAttackH">
+    <Desc>Si 8 o más daño ha sido realizado con esta página, restaura 2 de Luz y reduce el coste de todas tus otras cartas "Corte horizontal" en 1</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="kali">
+    <Desc>Si el objetivo es derrotado o aturdido, utiliza esta página de nuevo en el objetivo o en un enemigo aleatorio</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="kaliEgoAwaken">
+    <Desc>[Al usar] Restaura 6 de Luz; Restaura completamente tu resistencia al aturdimiento. Manifiesta el E.G.O. de la Niebla Roja la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="kaliSuperAttack">
+    <Desc>[Al golpear] Destruye una página de combate en otro dado de velocidad aleatorio del objetivo</Desc>
+  </BattleCardAbility>
+  
+  <!-- dice ability -->
+  <BattleCardAbility ID="kaliAreaDice">
+    <Desc>[Al golpear] Inflige 5 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="kaliAttackBuf">
+    <Desc>[Al golpear] Gana 3 de Fuerza la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <!-- binah -->
+  <BattleCardAbility ID="protection3friendThisRound">
+    <Desc>[Al usar] Da 3 de Protección a todos los aliados esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="drawUntil4">
+    <Desc>[Al usar] Roba hasta que tengas 4 páginas en la mano</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="fairy3atkCard">
+    <Desc>[Al golpear] Inflige 3 de Hada al objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="fairy5atkCard">
+    <Desc>[Al golpear] Inflige 5 de Hada al objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="binahShockwaveDice1">
+  </BattleCardAbility>
+  <BattleCardAbility ID="binahShockwaveDice2">
+    <Desc>[Al golpear] Inflige 1 de Endeble esta escena</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="fairy1atk">
+    <Desc>[Al golpear] Inflige 1 de Hada</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="fairy2atk">
+    <Desc>[Al golpear] Inflige 2 de Hada</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="fairy3atk">
+    <Desc>[Al golpear] Inflige 3 de Hada</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="forbidReuseDice">
+    <Desc>El dado del objetivo no puede ser reutilizado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="sealTargetAtk">
+    <Desc>[Al golpear] Sella un dado de velocidad del objetivo la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="forbidCardAtk">
+    <Desc>[Al golpear] Sube el coste de las páginas del objetivo con coste de 4+ en 2 la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <!-- R 사 -->
+  <!-- 네임드 카드 -->
+  <BattleCardAbility ID="myoCard">
+    <Desc>Solo usable con 20+ Carga. [Al golpear] Inflige 3 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="myoDice1">
+  </BattleCardAbility>
+  <BattleCardAbility ID="myoDice2">
+    <Desc>[Al golpear] Inflige 15 bonus de daño contra el objetivo seleccionado manualmente</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="rudolphCard">
+    <Desc>Solo usable en 20+ Carga.</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="rudolphDice">
+    <Desc>[Al golpear] Inflige 6 de de daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="maximCard">
+    <Desc>Solo usable en 20+ de Carga.</Desc>
+    <Desc>[Al usar] Gasta 20 de Carga para aumentar el Poder de todos los dados en esta página en +10</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="maximDice">
+    <Desc>[Al golpear] Si haz hecho 20 o más de daño, haz 15 de daño adicional al objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="nicolaiDice">
+    <Desc>Si el HP del objetivo es 50% o inferior, añade +5 de Poder</Desc>
+  </BattleCardAbility>
+  
+  
+  <BattleCardAbility ID="deerCard">
+    <Desc>[Al usar] Haz 4 de daño de aturdimiento a ti mismo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="deerDice">
+    <Desc>[Al golpear] Gasta 3 de Carga para hacer 8 de daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="rhinoCard">
+    <Desc>[Comienzo del combate] Gana 2 de Protección esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="drawCardWarpOnly">
+    <Desc>[Al usar] Gasta 3 de Carga para robar 2 páginas</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="power1costCharge">
+    <Desc>[Al usar] Gasta 3 de Carga para robar 2 páginas</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="energyAndCharge">
+    <Desc>[Al usar] Restaura 1 de Luz y gana 3 de Carga</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="warpCharge8">
+    <Desc>[Al usar] Gana 8 de Carga</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="warpCharge10">
+    <Desc>[Al usar] Gana 10 de Carga</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="charge1atk">
+    <Desc>[Al golpear] Gana 1 de Carga</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="charge8atk">
+    <Desc>[Al golpear] Gana 8 de Carga</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="otherAlly2strength1thisRound">
+    <Desc>[Comienzo del combate] Da 1 de Fuerza a 2 aliados aleatorios</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="copyMostCost">
+    <Desc>[Al usar] Copia la página más costosa en tu mano y añadela a tu mano</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="costdown">
+    <Desc>El coste de esta página es bajado por el número de cartas "Cortes Rápidos" en mano.</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="myoBerserk">
+    <Desc>[Al usar] Convierte todas las páginas de Rango en el mazo en páginas Melee. Añade una copia de "Cuchillos salvajes" a la mano. Al comienzo de la siguiente escena, todos los dados de este personaje ganan 1+ de Poder</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="gyeongmiRemake">
+    <Desc>[Al usar] Remplaza todos los dados en esta página con los de una página aleatoria en la mano que su coste original sea de 4 o menos (Excluyendo dados de contra)</Desc>
+  </BattleCardAbility>
+
+  <!-- added -->
+
+  <BattleCardAbility ID="nicolaiCard2">
+    <Desc>Solo con 20+ Carga. Al derrotar un enemigo, añade una copia de "Desechar" y baja su coste en 1</Desc>
+    <Desc>Si el HP del objetivo es 50% o menos, dobla el daño</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="nicolaiDice1">
+    <Desc>[Al ganar un choque] Destruye el dado del oponente
+[Al perder un choque] Destruye el otro dado en esta página</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="nicolaiDice2">
+    <Desc>Si el objetivo tiene "Мarca", incrementa el daño y daño de aturdimiento hecho por el dado</Desc>
+  </BattleCardAbility>
+
+  <!-- rabbit added -->
+  <BattleCardAbility ID="powerUp1speed6exhaust">
+    <Desc>[Al usar] Si la velocidad es 6 o superior, Todos los dados en esta página ganan +1 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerUp2speed6exhaust">
+    <Desc>[Al usar] Si la velocidad es 6 o superior, Todos los dados en esta página ganan +2 de Poder</Desc>
+  </BattleCardAbility>
+
+  <!-- geburah ego -->
+  <BattleCardAbility ID="wolfEgo">
+    <Desc>El dado en esta página no hace daño o daño de aturdimiento al golpear</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="wolfEgoDice1">
+    <Desc>Este dado es lanzado 4 veces</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="wolfEgoDice2">
+    <Desc>[Al golpear] Haz daño igual a la suma de todos tus lanzamientos validos (Todos tus enfrenamientos ganados y golpes) hecho por todos los dados.</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="mountainEgoDice">
+    <Desc>[Al golpear] Inflige 2 de Endeble y Desarmar esta escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="freischutzEgo2">
+    <Desc>[Al usar] Sincroniza con "Der Freischütz" por las siguientes 3 escenas</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="redHoodEgo">
+    <Desc>[Al usar] Sincroniza con "La mercenaria Caperucita Roja" por las siguiente 3 escenas</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="cancelChangeEgo">
+    <Desc>[Al usar] Cancela Sincronización la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="nosferatuEgoDice">
+    <Desc>[Al golpear] Recupera 5 de HP; Gana 1 de Fuerza la siguiente escena; El objetivo recibe 1 de Fuerza y 5 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="nothingEgo">
+    <Desc>[Al golpear] Recupera HP igual al daño realizado</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="matanEgoDice1">
+    <Desc>[Al golpear] Sella un dado de velocidad la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="nothingEgoDice">
+    <Desc>[Al golpear] Inflige 10 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <!-- purple tear -->
+  <BattleCardAbility ID="slashUp1thisRound">
+    <Desc>[Comienzo del combate] Incremente el Poder de los dados cortantes en +1 por esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerDouble">
+    <Desc>Los incrementos de Poder afectan x2 este dado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="bleeding3atkTwoRound">
+    <Desc>[Al golpear] Inflige 3 de Sangrado la siguiente escena y la siguiente</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="vulnerable1atkTwoRound">
+    <Desc>[Al golpear] Inflige 1 de Frágil la siguiente escena y la siguiente</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="breakDmg2thisRoundHit">
+    <Desc>[Comienzo del combate] Haz 2 de daño de aturdimiento adicional en dados contundentes esta escena</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="purpleSpecialDice">
+    <Desc>[Al usar] Los tipos de dados ofensivos en esta página cambian al tipo más débil del objetivo</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="purpleAreaDice1">
+    <Desc>[Al golpear] Haz 5 de daño</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="purpleAreaDice2">
+    <Desc>[Al golpear] Haz 5 de daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="purpleAreaDice3">
+    <Desc>[Al golpear] Inflige 3 de Sangrado y 1 de Frágil esta escena y la siguiente</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="slashStance">
+    <Desc>[Al jugarla] Cambia a postura cortante y aumenta el Poder de los dados cortantes en +1 por esta escena. La postura puede ser cambiada cada 2 escenas</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="penetrateStance">
+    <Desc>[Al jugarla] Cambia a postura perforante y aumenta el Poder de los dados perforantes en +1 por esta escena. La postura puede ser cambiada cada 2 escenas</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="hitStance">
+    <Desc>[Al jugarla] Cambia a postura contundente y aumenta el Poder de los dados contundentes en +1 por esta escena. La postura puede ser cambiada cada 2 escenas</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="defeneseStance">
+    <Desc>[Al jugarla] Cambia a postura defensiva y aumenta el Poder de los dados defensivos en +1 por esta escena. La postura puede ser cambiada cada 2 escenas</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="bleedingPlus">
+    <Desc>[Comienzo del combate] Cuando infringes Sangrado usando páginas de combate esta escena, inflige 1 de Sangrado adicional</Desc>
+  </BattleCardAbility>
+
+  <!-- chessed ego -->
+  <BattleCardAbility ID="scarecrowEgoDice">
+    <Desc>Gana +2 de Poder por cada aliado vivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="lumberjackEgoDice1">
+    <Desc>[Al ganar un choque] El último dado gana +2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="homeEgo">
+    <Desc>Si el ataque golpea al menos una vez, todos los otros aliados Restauran 2 Luz al final de esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="ozmaEgoDice">
+    <Desc>Si el ataque golpea al menos una vez, todos los aliados roban 1 página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="wizardEgoDice">
+    <Desc>[Al usar] La siguiente escena, resucita a todos los aliados muertos que murieron este Acto por una escena. Los aliados revividos tienen 4 Luz y todos los estados excepto por el nivel de emoción son reseteados. Los personajes no pueden ser revividos dos veces por este efecto.</Desc>
+  </BattleCardAbility>
+  
+<!-- chessed creature -->
+  <BattleCardAbility ID="ozma_forgotten">
+    <Desc>[Al jugarla] Inmovilizado por esta escena; no puedes volverte objetivo</Desc>
+    <Desc>Al final de esta escena, recupera 40% del HP máximo y restaura completamente la Luz</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oz_emerald">
+    <Desc>El coste de esta página no puede ser cambiado</Desc>
+    <Desc>[Al jugarla] [Objetivo Enemigo] Cancela 2 páginas de combate aleatorias en el dado de velocidad del objetivo.</Desc>
+    <Desc>Recupera 1 de Luz por cada golpe exitoso en el objetivo está escena. (Hasta 2 veces)</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oz_control">
+    <Desc>El coste de esta página no puede ser cambiado</Desc>
+    <Desc>[Al jugarla] Reduce el coste de todas las páginas en la mano a 0</Desc>
+    <Desc>Al usar, su coste es reseteado al resultado de antes que este efecto fuera aplicado</Desc>
+  </BattleCardAbility>
+
+  <!-- added -->
+  <BattleCardAbility ID="nodice">
+    <Desc>Esta página no realiza ninguna acción porque no tiene ningún dado que no es de contraataque</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="nodiceAndDraw">
+    <Desc>Esta página no realiza ninguna acción porque no tiene ningún dado que no es de contraataque</Desc>
+    <Desc>[Comienzo del combate] Roba 1 página</Desc>
+  </BattleCardAbility>
+
+  <!-- xiao -->
+  <BattleCardAbility ID="allyBuf">
+    <Desc>[Comienzo del combate] Da 1 de Fuerza, 2 de Protección y 2 de Protección de aturdimiento a un aliado aleatorio</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="strength1atk">
+    <Desc>[Al golpear] Gana 1 de Fuerza la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="strength2atk">
+    <Desc>[Al golpear] Gana 2 de Fuerza la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="shyaoDebufDice">
+    <Desc>[Al golpear] Inflige 1 de Endeble y Desarmar la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="shyaoAreaStrength">
+    <Desc>[Al usar] Gana 2 de Fuerza y Dureza la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="shyaoSelfBurn">
+    <Desc>[Comienzo del combate] Recibe 10 de daño menos de Quemadura por esta escena</Desc>
+    <Desc>[Al usar] Si el usuario tiene Quemadura, recupera 4 de HP y gana 2 de Protección la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="burnBoth">
+    <Desc>[Al golpear] Inflige 3 de Quemadura a cada uno</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="burnAll">
+    <Desc>[Al golpear] Inflige 2 de Quemadura a todos los enemigos</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="dragonAnger">
+    <Desc>Si el dado seleccionado como "Escala invertida" pierde el Choque, haz 70 de daño de aturdimiento a ti mismo y gana 4 de Fuerza y Dureza la siguiente escena </Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="dragonAngerDice">
+    <Desc>[Escala invertida]</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="shyaoBurnAreaDice">
+    <Desc>[Al golpear] Inflige 8 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="burn1AreaEachDice">
+    <Desc>[Al golpear] Inflige 1 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="burn2AreaEachDice">
+    <Desc>[Al golpear] Inflige 8 de Quemadura</Desc>
+  </BattleCardAbility>
+
+  <!-- binah ego -->
+  <BattleCardAbility ID="bigBirdEgo">
+    <Desc>[Comienzo del combate] Los enemigos no son influenciados por el Poder ganado o perdido por esta escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="longBirdEgo">
+    <Desc>[Al golpear] daño es igual al 10% del HP máximo del objetivo (máximo 50 daño)</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="smallBirdEgo">
+    <Desc>[Al usar] Reduce el coste de 2 página aleatorias en mano en 1 hasta que sean utilizados (No se acumula)</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="bossBirdFirstEgoDice">
+    <Desc>[Al golpear] Inflige 1 de Parálisis la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="bossBirdSecondEgo">
+    <Desc>[Al usar] Si el HP de objetivo es 50% o inferior, todos los dados en esta página ganan 8+ de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="bossBirdSecondEgoDice">
+    <Desc>Haz 50% más de daño contra objetivos con 50% o menos HP</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="emotion_small_beak">
+    <Desc>[Al jugarla] [Regresa a la mano] Toma un 5% del HP máximo como daño; Restaura 1 de Luz</Desc>
+  </BattleCardAbility>
+
+  <!-- yan -->
+  <BattleCardAbility ID="yanAreaDice">
+    <Desc>[Al golpear] Inflige 2 de Erosion</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="yanOnly1Dice">
+    <Desc>[Al golpear] Inflige 2 de Erosion</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="yanOnly2Dice">
+    <Desc>[Al ganar un choque] Destruye el próximo dado del oponente</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="yanInstantEnergy">
+    <Desc>[Al jugarla] Restaura 3 de Luz; pierde lo mismo de Luz la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="yanSword">
+    <Desc>El coste de esta página es igual a la cantidad Maxima de Luz del usuario.</Desc>
+    <Desc>[Al usar] Todos los dados en esta página ganan Poder igual al nivel de Emoción; Restaura toda la Luz</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="powerDownAndEnergy">
+    <Desc>[Al usar] Restaura 1 de Luz; todos los dados en esta página pierden 2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="energy3AndDraw1">
+    <Desc>[Al usar] Restaura 3 de Luz; roba 1 página</Desc>
+  </BattleCardAbility>
+  
+<!-- yan enemy -->
+  <BattleCardAbility ID="yanEnemyBuf1">
+    <Desc>Solo se puede utilizar si hay una mano con 31 o más HP</Desc>
+    <Desc>[Comienzo del combate] Si el objetivo es una mano, entonces recibe 3 Fuerza</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="yanEnemyBuf2">
+    <Desc>Solo se puede utilizar si hay una mano con 31 o más HP</Desc>
+    <Desc>[Comienzo del combate] Si el objetivo es una mano, entonces recibe 3 Protección</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="yanEnemyBuf3">
+    <Desc>Solo se puede utilizar si hay una mano con 31 o más HP</Desc>
+    <Desc>[Comienzo del combate] El objetivo no es influenciado por el Poder ganado o perdido por esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="yanEnemyBuf4">
+    <Desc>[Comienzo del combate] Si el objetivo es una mano, recupera su HP en 40. De no ser asi, recupera el HP del objetivo en 5.</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="yanEnemyBuf5">
+    <Desc>[Comienzo del combate] Recupera el HP de todos los aliados en 80</Desc>
+  </BattleCardAbility>
+
+<!-- yan special card -->
+  <BattleCardAbility ID="yanSpecial1">
+    <Desc>Solo 1 página "Precepto" que puede ser usada por cada escena</Desc>
+    <Desc>[Al jugarla] [Objetivo aliado] Da 1 de Fuerza</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="yanSpecial2">
+    <Desc>Solo 1 página de "Precepto" que puede ser usada por cada escena</Desc>
+    <Desc>[Al jugarla] [Objetivo aliado] Da 1 de Protección y Protección a aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="yanSpecial3">
+    <Desc>Solo 1 página de "Precepto" que puede ser usada por cada escena</Desc>
+    <Desc>[Al jugarla] [Objetivo aliado] El objetivo roba 1 página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="yanSpecial4">
+    <Desc>Solo 1 página de "Precepto" que puede ser usada por cada escena</Desc>
+    <Desc>[Al jugarla] [Objetivo aliado] El objetivo restaura 1 de Luz</Desc>
+  </BattleCardAbility>
+
+<!--RustyChainGroup-->
+  <BattleCardAbility ID="selfbleeding1">
+    <Desc>[Al usar] Inflige 1 de Sangrado a ti mismo la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="selfbleeding2">
+    <Desc>[Al usar] Inflige 2 de Sangrado a ti mismo la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="selfbleeding1energy1">
+    <Desc>[Al usar] Inflige 1 de Sangrado a ti mismo la siguiente escena; Restaura 1 de Luz</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="selfbleeding3powerup2">
+    <Desc>[Al usar] Inflige 3 de Sangrado a ti mismo la siguiente escena; Todos los dados en esta página ganan +2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="selfbleeding5powerup3">
+    <Desc>[Al usar] inflige 5 de Sangrado a ti mismo la siguiente escena; todos los dados en esta página ganan +3 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="alliespower1">
+    <Desc>[Al usar] Da 1 de Fuerza a los aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <!--공방소속 해결사-->
+  <BattleCardAbility ID="penetrateup1recoverplayerpoint1">
+    <Desc>[Comienzo del combate]Incrementa el Poder de los dados Perforar en +1 por esta escena</Desc>
+    <Desc>[Al usar] Restaura 1 de Luz</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="penetrateUp2thisRound">
+    <Desc>[Comienzo del combate] Incrementa el Poder de dados perforantes en +2 por esta escena, pero recibe 1-3 daño por cada golpe exitoso</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="emotion_martyr">
+    <Desc>[Al jugarla] Por esta escena, haz 4-6 daño de aturdimiento adicional con tus ataques,</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="emotion_bless">
+    <Desc>[Al jugarla] [Objetivo aliado] [Regresa a la mano] El objetivo recupera 6 de HP y gana 1 de Dureza esta escena(Solo aliados, una vez por escena)</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="emotion_bless_upgraded">
+    <Desc>[Al jugarla] [Objetivo aliado] [Regresa a la mano] El objetivo recupera 12 de HP y gana 2 de Dureza esta escena(Solo aliados, una vez por escena)</Desc>
+  </BattleCardAbility>
+
+  <!-- hokma ego -->
+  <BattleCardAbility ID="bloodyTreeEgoDice">
+    <Desc>[Al golpear] Sella un dado de velocidad la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="clockEgo">
+    <Desc>[Al usar] Gana un dado de velocidad por la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="clockEgoDice">
+    <Desc>[Al ganar un choque] Destruye el próximo dado del oponente</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="blueStarEgoDice">
+    <Desc>[Al golpear] Haz daño de aturdimiento igual a la mitad de la resistencia al aturdimiento actual del usuario</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="oneBadManyGoodEgo">
+    <Desc>[Al usar] Todos los aliados recupera 15 de HP y resistencia al aturdimiento</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="whiteNightEgo">
+    <Desc>[Al usar] Sincronización con la Noche Blanca por las siguientes 3 escenas. Todos los otros aliados se transforman en Apóstoles mientras la Sincronización esta activa.</Desc>
+    <Desc>Los Apóstoles no pueden ser controlados o derrotados. Si el HP de un Apóstol desciende hasta 1, entonces no pueden actuar hasta que la Sincronización termine.</Desc>
+    <Desc>Los Apóstoles vuelven a ser bibliotecarios una vez la Sincronización termine</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="whiteNightCard1">
+    <Desc>[Comienzo del combate] Da 1 de Fuerza a todos los aliados</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="whiteNightArea">
+    <Desc>[Al usar] Recupera 8 de HP y resistencia al aturdimiento por cada enemigo presente</Desc>
+  </BattleCardAbility>
+
+  <!-- added -->
+  <BattleCardAbility ID="whiteNightCard2">
+    <Desc>[Comienzo del combate] Todos los aliados recuperan 6 de HP y resistencia al aturdimiento</Desc>
+  </BattleCardAbility>
+
+
+
+  <!-- added -->
+  <BattleCardAbility ID="blueStarEgo">
+    <Desc>Si esta página derrota algún objetivo, recupera 30 de resistencia al aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="blueStarEgoDiceRemake">
+    <Desc>[Al golpear] Si la resistencia de aturdimiento del usuario es superior al 50%, haz 10 de daño y daño de aturdimiento</Desc>
+  </BattleCardAbility>
+
+  <!-- hana -->
+  <BattleCardAbility ID="hanaSpecial">
+    <Desc>Gana un efecto adicional dependiendo de la página de los Cuatro trigramas ("Geon", "Gon", "Gam" y "Ri"), usados durante esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="debufHalf">
+    <Desc>[Comienzo del combate] Divide a la mitad los efectos de estados en ti mismo (Redondeado hacia arriba)</Desc>
+    <!-- ex) 5 -> 3 -->
+  </BattleCardAbility>
+  <BattleCardAbility ID="discardAllAndPower2">
+    <Desc>[Al usar] Descarta todas las páginas de la mano; Todos los dados en esta página ganan +2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="hanaDiscardDraw">
+    <Desc>[Al usar] Descarta una página aleatoria; roba 2 páginas al comienzo de la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="hanaQuick">
+    <Desc>[Al usar] Gana 1 de Prisa la siguiente escena; Si la velocidad es 7 o superior, gana +1 de Poder</Desc>
+  </BattleCardAbility>
+
+  <!-- hana passive -->
+  <BattleCardAbility ID="hanaPassive1">
+    <Desc>Solo uno de los Cuatro trigramas puede ser usado por escena. Una vez usado, No puede ser reutilizado hasta que los Cuatro trigramas sean utilizados</Desc>
+    <Desc>[Al jugarla] Gana 1 de Fuerza y haz 2 de daño y daño de aturdimiento adicional con ataques esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="hanaPassive2">
+    <Desc>Solo uno de los Cuatro trigramas puede ser usado por escena. Una vez usado, No puede ser reutilizado hasta que los Cuatro trigramas sean utilizados</Desc>
+    <Desc>[Al jugarla] Gana 1 de Dureza y toma 30% menos de daño y daño de aturdimiento de ataques esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="hanaPassive3">
+    <Desc>Solo uno de los Cuatro trigramas puede ser usado por escena. Una vez usado, No puede ser reutilizado hasta que los Cuatro trigramas sean utilizados</Desc>
+    <Desc>[Al jugarla] Restaura 1 de Luz</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="hanaPassive4">
+    <Desc>Solo uno de los Cuatro trigramas puede ser usado por escena. Una vez usado, No puede ser reutilizado hasta que los Cuatro trigramas sean utilizados</Desc>
+    <Desc>[Al jugarla] Roba 1 página</Desc>
+  </BattleCardAbility>
+
+
+  <!-- black silence -->
+  <BattleCardAbility ID="blackSilenceSpecial">
+    <Desc>Esta página solo puede ser usada después de utilizar las 9 páginas de combate de el Silencio Negro</Desc>
+    <Desc>[Al golpear] Inflige 5 de Sangrado, 3 de Atadura y 3 de Frágil la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="blackSilenceSpecialDice">
+    <Desc>[Al ganar un choque] Destruye todo el dado del oponente</Desc>
+  </BattleCardAbility>
+
+  <!-- 세븐 협회에서 추가됨 -->
+  <BattleCardAbility ID="powerUpNext1pw">
+    <Desc>[Al ganar un choque] Añade +1 de Poder al siguiente dado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="Seven_Engagement">
+    <Desc>[Al usar] Añade una página "En Garde" a la mano</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="Seven_EnGarde">
+    <Desc>[Al usar] Da 1 de Fuerza al objetivo y a ti mismo la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="Seven_Fleche">
+    <Desc>[Al ganar un choque] Haz 4 de daño de aturdirmiento; inflige 1 de Frágil la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="increaseMaxLast2pw">
+    <Desc>[Al ganar un choque] Incrementa el lanzamiento máximo del último dado en 2</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="vulnerable2pw">
+    <Desc>[Al ganar un choque] Inflige 2 de Frágil la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="strength1pw">
+    <Desc>[Al ganar un choque] Gana 1 de Fuerza la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+  <!-- roland added -->
+  <BattleCardAbility ID="fixedCost">
+    <Desc>El coste de esta página no puede ser cambiado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="rolandDrawUtil">
+    <Desc>El coste de esta página no puede ser cambiado</Desc>
+    <Desc>[Al usar] Roba 1 página</Desc>
+  </BattleCardAbility>
+
+  <!--검계-->
+  <BattleCardAbility ID="limit1">
+    <Desc>Solo una copia de esta página se puede tener a la vez</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="upgradeNext2atk">
+    <Desc>[Al golpear] Incrementa el resultado máximo del siguiente dado en +2</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="slashUp3thisRound">
+    <Desc>[Comienzo del combate] Incrementa el Poder de los dados cortantes en +3 por esta escena</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="Sword_getbonecuttingcardpl">
+    <Desc>[Al perder un choque] Añade la página "Para Reclamar Sus Huesos" a la mano</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="paralysis5bleeding3atk">
+    <Desc>[Al golpear] Inflige 5 de Parálisis y 3 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+
+
+  <!--매우강한1급해결사-->
+  <BattleCardAbility ID="bleeding3pw">
+    <Desc>[Al ganar un choque] Inflige 3 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="dmgUpbybleedingbuf">
+    <Desc>Incrementa el daño por la cantidad de Sangrado del objetivo</Desc>
+  </BattleCardAbility>
+  
+  <!-- roland added2 -->
+
+  <BattleCardAbility ID="rolandSpecialRemake">
+    <Desc>Esta página solo puede ser usada después de utilizar las 9 páginas de combate de el Silencio Negro; [Poder Nulo]</Desc>
+  </BattleCardAbility> 
+  
+  
+  <!-- 잔향악단 사서 -->
+  <BattleCardAbility ID="bremenCard"> <!-- Chorus (합창) -->
+    <Desc>[Comienzo del combate] Da 1 de Fuerza a todos los aliados; esta página pierde su habilidad después de esto</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="reBurnAttackCard"> <!-- Rekindled Strike (다시 타오르는 일격) -->
+    <Desc>[Al usar] Baja el coste de una copia aleatoria de la página "Golpe Ardiente" que el usuario tenga por 1; inflige 2 de Quemadura a ti mismo</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="tanyaOnlyCardDice">
+    <Desc>[Al ganar un choque] Todos los dados en la página del objetivo pierden 5 de Poder</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="vibrateActivatePlayer">
+    <Desc>[Al usar] Si la velocidad es igual a la Vibración del objetivo, todos los dados en esta página ganan 4+ de Poder</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="plutoCard">
+    <Desc>Restaura 1 de Luz al descartar esta página</Desc>
+  </BattleCardAbility>
+  
+  <!-- for passive -->
+  <BattleCardAbility ID="jaeheonPassive">
+    <Desc>[Al jugarla] [Objetivo aliado] Da una página de "Cuerdas de marioneta" al objetivo</Desc>
+  </BattleCardAbility>
+  <!-- remake -->
+  <BattleCardAbility ID="argaliaDownWithCond">
+    <Desc>[Al golpear] Si el objetivo tiene Vibración 6 o más, reduce esto por 1</Desc>
+  </BattleCardAbility>
+    
+  <BattleCardAbility ID="argaliaChangeVibrate">
+    <Desc>[Al golpear] La Vibración del objetivo es fijada en 4</Desc>
+  </BattleCardAbility>
+    
+  <BattleCardAbility ID="vibrateAddition">
+    <Desc>Si esta página activa Resonancia, roba 2 páginas</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="vibrateAdditionEnergy">
+    <Desc>Si esta página activa Resonancia, roba 1 página</Desc>
+    <Desc>[Al usar] Restaura 1 de Luz</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="contract1">
+    <Desc>[Condición] Usa una página que el coste este modificado
+</Desc>
+    <Desc>[Terminos] El coste de las páginas en la mano se vuelve aleatorio; usar páginas con cierto coste tiene una penalización
+</Desc>
+    <Desc>[Al jugarla] Apunta un aliado que no tenga asignado un contrato para agotar el contrato de las manos de cada uno, e intercambia contratos al comienzo de la siguiente escena </Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="contract2">
+    <Desc>[Condición] Ten una páginas de coste 1, 2 y 3 en la mano al final de la escena
+</Desc>
+    <Desc>[Terminos] páginas con cierto coste ganan Poder ; las otras pierden Poder
+</Desc>
+    <Desc>[Al jugarla] Apunta un aliado que no tenga asignado un contrato para agotar el contrato de las manos de cada uno, e intercambia contratos al comienzo de la siguiente escena </Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="contract3">
+    <Desc>[Condición] Gana 4 de Choques usando dados defensivos
+</Desc>
+    <Desc>[Terminos] Gana Prisa, debes participar en un Choque
+</Desc>
+    <Desc>[Al jugarla] Apunta un aliado que no tenga asignado un contrato para agotar el contrato de las manos de cada uno, e intercambia contratos al comienzo de la siguiente escena </Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="contract4">
+    <Desc>[Condición] Ten cualquier cantidad de Fuerza al final de la escena
+</Desc>
+    <Desc>[Terminos] Gana Fuerza cada escena; debes usar páginas con un dado ofensivo
+</Desc>
+    <Desc>[Al jugarla] Apunta un aliado que no tenga asignado un contrato para agotar el contrato de las manos de cada uno, e intercambia contratos al comienzo de la siguiente escena </Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="contract5">
+    <Desc>[Condición] Debes estar en un nivel de emoción 2 al final de la escena
+</Desc>
+    <Desc>[Terminos] Restaura completamente toda la Luz cada escena; debes usarla toda
+</Desc>
+    <Desc>[Al jugarla] Apunta un aliado que no tenga asignado un contrato para agotar el contrato de las manos de cada uno, e intercambia contratos al comienzo de la siguiente escena </Desc>
+  </BattleCardAbility>
+
+  <!--검은침묵 2페이즈 사용--> 
+  <BattleCardAbility ID="heavysmoke1atk">
+    <Desc>[Al golpear] Inflige 1 de Bruma Sofocante </Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="heavysmoke3atkarea">
+    <Desc>[Al golpear] Inflige 3 de Bruma Sofocante</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="bleeding5atkarea">
+    <Desc>[Al golpear] Inflige 5 de Sangrado</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="addRecoverHp3Atkalldice">
+    <Desc>[Al usar] Todos los dados ofensivos en esta página ganan "[Al golpear] Recupera 3 de HP"</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="rolandcontinuousDice">
+    <Desc>[Al golpear] Si el lanzamiento natural del dado es 5, reutiliza este dado (Hasta 4 veces)</Desc>
+  </BattleCardAbility>
+
+  <!-- 뒤틀린 그레타 -->
+  <BattleCardAbility ID="addRecoverHp2Atkalldice">
+    <Desc>[Al usar] Todos los dados ofensivos en esta página ganan "[Al golpear] Recupera 2 de HP"</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="greta_dmgUpbybleedingbufatk">
+    <Desc>[Al golpear] Incrementa el daño por la cantidad de Sangrado del objetivo</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="greta_destroyDice">
+    <Desc>[Al ganar un choque] Destruye los dados del oponente
+[Al perder un choque] Destruye los dados en esta página</Desc>
+  </BattleCardAbility>
+  
+
+  <!-- 뒤틀린 브레멘-->
+  <BattleCardAbility ID="bremen_ally2recover5atk">
+    <Desc>[Al golpear] Recupera 2 de HP a dos aliados aleatorios</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="bremen_binding2weak1atk">
+    <Desc>[Al golpear] Inflige 2 de Atadura y 1 de Endeble</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="bremen_ally2strength1pw">
+    <Desc>[Al ganar un choque] Da 1 de Fuerza a dos aliados aleatorios la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="bremen2_concert">
+    <Desc>[Comienzo del combate] [Objetivo aliado] Si el objetivo es aliado, da 2 de Prisa esta escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="bremen2_musictherapy">
+    <Desc>[Comienzo del combate] [Objetivo aliado] Si el objetivo es aliado, recupera 20 de HP</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="bremen2_canselectfriend">
+    <Desc>[Comienzo del combate] [Objetivo aliado] Si el objetivo es aliado, todos los aliados ganan 1 Fuerza y Recuperan 20 de HP</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="bremen2_ally2protectionpw">
+    <Desc>[Al ganar un choque] Da 2 de Protección a un aliado con el HP más bajo la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <!-- 뒤틀린 필립 -->
+
+  <BattleCardAbility ID="philip_weak1binding1disarm1atk">
+    <Desc>[Al golpear] Inflige 1 de Atadura, Desarmar y Endeble la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="philip_negative1atk">
+    <Desc>[Al usar] Todos los dados ofensivos en esta página ganan "[Al golpear] Gana 1 de punto de emoción negativa"</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="philip_powerup2bytargetburn8">
+    <Desc>[Al usar] Si el objetivo tiene 8 o más Quemadura, gana 2+ de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="philip_arrest1atk">
+    <Desc>[Al golpear] Inflige 1 de Restricción</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="philip_areaburn10atk">
+    <Desc>[Al golpear] Inflige 10 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="philip_vigor_atk2">
+    <Desc>[Al golpear] Inflige 2 de Quemadura a cada uno</Desc>
+  </BattleCardAbility>
+
+  <!-- Translation Mistake Correction -->
+    <BattleCardAbility ID="roland2phaseFar">
+    <Desc>[Al ganar un choque] Destruye los dados del oponente
+[Al perder un choque] Destruye los dados en esta página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="roland2phaseenemys1">
+    <Desc>[Al ganar un choque] Destruye los dados del oponente
+[Al perder un choque] Destruye los dados en esta página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="roland2phaseenemys2">
+    <Desc>[Al golpear] Si el lanzamiento natural del dado es 3, reutiliza el dado (Hasta 4 veces)</Desc>
+  </BattleCardAbility>
+
+      <!-- The Black Silence phase 3 -->
+  <BattleCardAbility ID="blackbind">
+    <Desc>[Comienzo del combate] Si Angelica es el objetivo, da 1 de Fuerza, Dureza y Protección. Si no es asi, el objetivo recibe "Presencia de Oscuridad"</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="dmg3pw">
+    <Desc>[Al ganar un choque] Haz 3 de daño</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="quickness1pw">
+    <Desc>[Al ganar un choque] Gana 1 de Prisa la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="loselink1plwe">
+    <Desc>[Al perder un choque] Si el objetivo tiene "Presencia de cenizas", baja el "Enlace del alma" en 1</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="atkcombo_zelkova">
+    <Desc>[Comienzo del combate] Si el objetivo es el mismo personaje que Angelica, todos los dados ofensivos en esta página son movidos a ella</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="atkcombo_allas">
+    <Desc>[Comienzo del combate] Si el objetivo es el mismo personaje que Angelica, todos los dados ofensivos en esta página son movidos a ella</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="atkcombo_logic">
+    <Desc>[Comienzo del combate] Si el objetivo es el mismo personaje que Angelica, todos los dados ofensivos en esta página son movidos a ella</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="bind1paralysis1atk">
+    <Desc>[Al golpear] Inflige 1 de Atadura y Parálisis la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerup2highspeed">
+    <Desc>[Al usar] Si la velocidad es mayor que la del objetivo, gana +2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="vul1bleed1atk">
+    <Desc>[Al golpear] Inflige 1 de Sangrado y Frágil la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="allstr1endu1atk">
+    <Desc>[Al golpear] Da 1 de Fuerza y Dureza a todos los aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="whitebind">
+    <Desc>[Comienzo del combate] Si Roland es el objetivo, dale 1 Fuerza, Dureza y Protección. Si no es asi, el objetivo recibe "Presencia de cenizas"</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="loselink1plbe">
+    <Desc>[Al perder un choque] Si el objetivo tiene "Presencia de Oscuridad", baja el "Enlace del alma" en 1</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="dmg4break4atk">
+    <Desc>[Al golpear] Haz 4 de daño y daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="dmg10break10atk">
+    <Desc>[Al golpear] Haz 10 de daño y daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="bs3combodestroy">
+    <Desc>[Al golpear] [Al ganar un choque] Destruye todos los dados del oponente
+[Al perder un choque] Destruye todos los dados en esta página
+    </Desc>
+  </BattleCardAbility>
+
+  <!--The Black Silence phase 4-->
+  <BattleCardAbility ID="black_4th_hammer_atk">
+    <Desc>[Al golpear] Recupera 5 de resistencia al aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_dagger_atk">
+    <Desc>[Al golpear] Inflige 3 de Sangrado y Desarmar la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_gaunlet_atk1">
+    <Desc>[Al golpear] Inflige 3 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_gaunlet_atk2">
+    <Desc>[Al golpear] Inflige 1 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_lance_pw">
+    <Desc>[Al ganar un choque] Inflige 6 de de daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_attitude_atk1">
+    <Desc>[Al golpear] Inflige 3 de Sangrado y Endeble la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_attitude_atk2">
+    <Desc>[Al golpear] Inflige 3 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_attitude_atk3">
+    <Desc>[Al golpear] Inflige 1 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_dualblade_atk1">
+    <Desc>[Al golpear] Inflige 1 de Atadura la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_dualblade_atk2">
+    <Desc>[Al golpear] Inflige 6 de de daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_bfsword_pw">
+    <Desc>[Al ganar un choque] Destruye todos los dados del oponente</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_bfsword_atk">
+    <Desc>[Al golpear] Inflige 1 de Atadura la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_shotgun_atk">
+    <Desc>[Al golpear] Inflige 1 de Atadura la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_durandalstrong_atk">
+    <Desc>[Al golpear] Haz 8 de daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_area_atk">
+    <Desc>[Al golpear] Inflige 2 de Sangrado, 1 de Atadura y 1 de Frágil la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_areastrong_atk">
+    <Desc>[Al golpear] Inflige 2 de Frágil la siguiente escena y 1 de Parálisis</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_lance">
+    <Desc>[Al usar] Si no es un Choque, gana +2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_durandalstrong">
+    <Desc>[Al usar] Si el objetivo tiene Atadura, gana +2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_durandal">
+    <Desc>[Al usar] Si el objetivo tiene Atadura, gana +2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_durandalweak">
+    <Desc>Si esta página falla en hacer +15 de daño, el usuario recibe 15 de daño de aturdimiento y gana 1 de Fuerza la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_area">
+    <Desc>El tercer dado es reutilizado en cada arma restante</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_afterimage">
+    <Desc>[Al jugarla] Purga todos los efectos de estado de uno mismo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="black_4th_area_atk_Final">
+    <Desc>Ataca con tipos de daño aleatorios. [Al golpear] Inflige 2 de Sangrado, 1 de Atadura y 1 de Frágil la siguiente escena</Desc>
+  </BattleCardAbility>
+
+
+<!-- 뒤틀린 오스왈드 -->
+  <BattleCardAbility ID="oswald_summonandhide">
+    <Desc>Sra.Sirena y el Sr.Cuchillo aparecen la siguiente escena. Dejan el combate luego de 2 escenas</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_summon">
+    <Desc>[Comienzo del combate] Señor Conejo aparece la siguiente escena a menos que Oswald este muerto </Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_attack_atk">
+    <Desc>[Al golpear] Haz 4 de daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_counter_atk">
+    <Desc>[Al golpear] Inflige 1 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_combo_atk1">
+    <Desc>[Al golpear] Inflige 2 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_combo_atk2">
+    <Desc>[Al golpear] Inflige 1 de Quemadura</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_distract">
+    <Desc>[Comienzo del combate]  Si el objetivo está aturdido al final de la escena, conviertelo en un aliado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_distract_atk">
+    <Desc>[Al golpear] Inflige 6 de de daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_vulnerable">
+    <Desc>[Comienzo del combate] La resistencia del objetivo cambia a "Fatal" por esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_vulnerable_atk">
+    <Desc>[Al golpear] Inflige 1 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_climax">
+    <Desc>[Al usar] Inflige uno de los siguientes estados al objetivo aleatoriamente: 2 Frágil, 2 Desarmar, 2 Endeble, 2 Protección, 2 Fuerza, 2 Dureza</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_climax_atk">
+    <Desc>[Al golpear] Haz 8 de daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_boom">
+    <Desc>[Comienzo del combate] El usuario muerte la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_boom_atk">
+    <Desc>[Al golpear] Haz daño igual al 50% del HP actual del objetivo</Desc>
+  </BattleCardAbility>
+  
+  <!-- 뒤틀린 재헌 -->
+  <BattleCardAbility ID="jaeheon_area_atk">
+    <Desc>[Al golpear] Da 1 "Cuerdas de marioneta" la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="jaeheon_string">
+    <Desc>[Comienzo del combate] Da 1 "Cuerdas de marioneta" la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="jaeheon_string_pw">
+    <Desc>[Al ganar un choque] Inflige 1 de Endeble la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="jaeheon_link">
+    <Desc>[Comienzo del combate] Añade "Hilos rojos" a la mano del objetivo y los enemigos que tengan que ver con el circo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="jaeheon_link_pw">
+    <Desc>[Al ganar un choque] Inflige 1 de Endeble la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="jaeheon_guard_pw1">
+    <Desc>[Al ganar un choque] Inflige 1 de Endeble la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="jaeheon_guard_pw2">
+    <Desc>[Al ganar un choque] Inflige 1 de Desarmar la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="jaeheon_attackStrong_pw">
+    <Desc>[Al ganar un choque] Inflige 1 de Endeble la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="jaeheon_bind_atk">
+    <Desc>[Al golpear] Inflige 1 de Atadura la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="jaeheon_control1_pl">
+    <Desc>[Al perder un choque] Haz 20 de daño de aturdimiento a ti mismo; Todos los bibliotecarios pierden 1 "Cuerdas de marioneta" la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="jaeheon_control2_pl">
+    <Desc>[Al perder un choque] Haz 20 de daño de aturdimiento a ti mismo; Todos los bibliotecarios pierden 1 "Cuerdas de marioneta" la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_string">
+    <Desc>Mientras tengas esta página, gana "Hilos rojos". No deja tu mano al utilizarlo.</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_string_pl">
+    <Desc>[Al perder un choque] Agota esta página, haz 10 de daño de aturdimiento a Jae-heon</Desc>
+  </BattleCardAbility>
+
+
+  <BattleCardAbility ID="recoverNextRound">
+    <Desc>[Comienzo del combate] Recupera 50 de HP al comienzo de la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="immuneDestory">
+    <Desc>Este dado no puede ser destruido</Desc>
+  </BattleCardAbility>
+
+
+  <!-- added -->
+  <BattleCardAbility ID="binahArea">
+    <Desc>[Al usar]  Da 3 de Protección y Protección al aturdimiento a todos los aliados esta escena</Desc>
+  </BattleCardAbility>
+
+
+  <!-- 케테르 완전 개방 -->
+  <!-- 플레이어블 앤젤라 -->
+  <BattleCardAbility ID="angela_guard">
+    <Desc>El coste de esta página no puede ser cambiado. [Al usar] Restaura 3 de Luz; roba 1 página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="break3pw">
+    <Desc>[Al ganar un choque] Haz 3 de daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="angela_galaxy">
+    <Desc>[Al usar] Recupera 6 de HP y resistencia al aturdimiento para el aliado con el HP más bajo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="angela_heaven">
+    <Desc>El coste de esta página no puede ser cambiado</Desc>
+    <Desc>[Al usar] Restaura 1 de Luz; roba 1 página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="angela_teddy">
+    <Desc>[Al comenzar un choque] Todos los dados en esta página ganan +2 de Poder</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="angela_final_ego">
+    <Desc>No puede ser utilizado.
+Después de utilizar las 9 páginas E.G.O., una página especial es añadida a la mano cuando la condición es cumplida</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="angela_final_card">
+    <Desc>[Al usar] Sacrifica todo el HP del usuario</Desc>
+  </BattleCardAbility>
+
+
+  <!-- 심장 -->
+  <BattleCardAbility ID="final_heart_addbreakdmg">
+    <Desc>[Al ganar un choque] Haz daño de aturdimiento adicional igual al lanzamiento del dado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="final_heart_hp20">
+    <Desc>[Al golpear] Recupera 20 de HP</Desc>
+    <Desc>[Al perder un choque] Haz 20 de daño a ti mismo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="final_heart_hp30bleed10">
+    <Desc>[Al golpear] Recupera 30 de HP; inflige 10 de Sangrado la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="final_heart_eager">
+    <Desc>[Al usar] Haz 40 de daño a ti mismo; Todos los aliados recuperan completamente su HP</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="final_heart_areabuf">
+    <Desc>[Al golpear] Da 1 de Fuerza y Prisa a todos los aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="final_heart_eager1atk">
+    <Desc>[Al golpear] Da 1 "Anhelando la aspiración" esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="final_heart_eager1pw">
+    <Desc>[Al ganar un choque] Da 1 "Anhelando la aspiración" la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <!-- 피노키오 -->
+  <BattleCardAbility ID="final_detection_lie">
+    <Desc>[Al comenzar un choque] Remueve todos los dados en esta página y copia el dado en la página que contiene una mentira</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="final_remove_error">
+    <Desc>El dado en esta página y la página la que se enfrenta no son afectados por el Poder ganado o perdido</Desc>
+    <Desc>[Al golpear] Si Pinocho es el objetivo, matalo, entonces recupera todo el HP y resistencia al aturdimiento de todos los aliados al final de la escena</Desc>
+    <Desc>y gana 2 de Fuerza la escena siguiente</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="final_exhaust_target_card">
+    <Desc>[Al ganar un choque] Si un bibliotecario es el objetivo, la página que se enfrenta a esta se agota por esta fase</Desc>
+  </BattleCardAbility>
+
+  <!-- keter ego -->
+  <BattleCardAbility ID="bloodEgo">
+    <Desc>[Al golpear] Purga Fuerza, Dureza, Protección y Protección de aturdimiento del objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="heartEgo">
+    <Desc>[Al usar] Pierde la mitad del HP actual, Da 1 de Fuerza a todos los aliados</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="pinochioego">
+    <Desc>[Al usar] El coste de todas las páginas del usuario es 1 más la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="snowqueenEgoDice">
+    <Desc>[Al golpear] Inflige 1 de Atadura y Endeble la siguiente escena </Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="silentEgo">
+    <Desc>[Al golpear] Tres enemigos aleatorios son afectados con un efecto de estado de los siguientes: 1 Parálisis, 1 Endeble, 1 Desarme, 1 Frágil (Determinado individualmente)</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+
+  <!-- New May 16th adjustments -->
+  <!-- basic Keywords -->
+  <BattleCardAbility ID="exhaustOnUseText">
+    <Desc>[Un solo uso]</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="areaText_single">
+    <Desc>[Ataque en Masa-individual]</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="areaText_summation">
+    <Desc>[Ataque en Masa-suma]</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="separator">
+    <Desc>, </Desc> <!-- This is used as separator when there are both "광역" and "일회성". -->
+  </BattleCardAbility>
+  
+  <!-- 밤의 송곳 (Night Awls) -->
+  <BattleCardAbility ID="awlofnight1">
+    <Desc>[Al usar] Incrementa el daño por la suma de (Prisa del usuario) y (Atadura del objetivo)</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="binding1pw">
+    <Desc>[Al ganar un choque] Inflige 1 de Atadura la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="binding2pw">
+    <Desc>[Al ganar un choque] Inflige 2 de Atadura la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <!-- 정사무소 (Jeong Office) -->
+  <BattleCardAbility ID="quick1discard">
+    <Desc>Cuando es descartada, gana 1 de Prisa</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="quickall1discard">
+    <Desc>Cuando es descartada, da 1 de Prisa a todos los aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="discardlowest1draw">
+    <Desc>[Al usar] Descarta la página con el coste más bajo; roba 1 página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="sakura">
+    <Desc>[Al usar] Si tienes 4+ páginas en la mano, descarta 4 páginas aleatorias e incrementa el resultado minimo de un dado ofensivo en 3</Desc>
+  </BattleCardAbility>
+
+  <!-- 우제트 (Udjat) -->
+  <BattleCardAbility ID="protect1pw">
+    <Desc>[Al ganar un choque] Gana 1 de Protección la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="protect1atk">
+    <Desc>[Al golpear] Gana 1 de Protección la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="usett_eye">
+    <Desc>[Al golpear] Da 2 de Protección a todos los aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="usett_adddice">
+    <Desc>Si el lanzamiento natural del dado Defensivo es el máximo, añade un dado Perforar (4-5) a la cola</Desc>
+  </BattleCardAbility>
+  
+  
+  <!-- 미래생명 (Mirae Life Insurance) -->
+  <BattleCardAbility ID="bleeding5pw">
+    <Desc>[Al ganar un choque] Inflige 5 de Sangrado</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="handCountDmgUp">
+    <Desc>[Al usar] Incrementa el daño en +1 por cada página en mano; Descarta todas las páginas de la mano</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="discardRandomAndEnergy">
+    <Desc>[Al usar] Descarta una página aleatoria; Restaura 1 de Luz</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="discardAllEnergy1">
+    <Desc>Cuando es descartada, todos los aliados Restauran 1 Luz</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="areaTextExhaust">
+    <Desc>[Ataque en Masa]</Desc>
+    <Desc>Esta página se agota al usarla</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="lifeInsuranceAreaAtk">
+    <Desc>[Al golpear] Inflige 2 de Desarmar, Atadura y Endeble; Recupera 2 de HP</Desc>
+  </BattleCardAbility>
+
+  <!-- 공방 소속 (Leaflet Workshop) -->
+  <BattleCardAbility ID="smokeSelf8">
+    <Desc>[Al usar] Gana 8 de Humo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="light1smoke3atk">
+    <Desc>[Al golpear] Restaura 1 de Luz; inflige 3 de Humo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="smoke2selfsmoke1atk">
+    <Desc>[Al golpear] Inflige 2 de Humo; Gana 1 de Humo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="smoke3atkparalysis3atkbytagetsmoke5">
+    <Desc>[Al golpear] Inflige 3 de Humo; Si el objetivo tiene 5+ de Humo, inflige 3 de Parálisis la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerup2byselfsmoke9">
+    <Desc>[Al usar] Si el usuario tiene 9+ de Humo, todos los dados de esta página ganan +2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="costdecrease1allcardExhaust">
+    <Desc>[Un solo uso] [Al usar] Reduce el coste de todas las páginas en la mano en 1</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="breakdmgbyselfbreak">
+    <Desc>[Al golpear] Gasta toda la resistencia a aturdimiento y haz daño de aturdimiento igual a lo gastado</Desc>
+  </BattleCardAbility>
+
+
+  <!-- 베이야드 (Bayard) -->
+  <BattleCardAbility ID="selfstunwithabil">
+    <Desc>[Al jugarla] Estás Inmovilizado esta escena. 
+Gana 3 Fuerza la proxima escena.
+Añade una copia de la carta "Romper con precisión" a la mano</Desc>
+  </BattleCardAbility>
+
+
+  <!-- Tiphereth creature -->
+  <BattleCardAbility ID="Wizard_potion">
+    <Desc>[Al jugarla] [Objetivo aliado] Concede el estado "Coraje liquido"</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="Wizard_poket">
+    <Desc>[Al jugarla] [Objetivo aliado] Concede el estado "Saco de aserrín"</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="Wizard_heart">
+    <Desc>[Al jugarla] [Objetivo aliado] Concede el estado "Corazón de plomo"</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="Wizard_home">
+    <Desc>[Al jugarla] [Objetivo aliado] Concede el estado "Casa que no puede ser alcanzada"</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="Wizard_change">
+    <Desc>[Al jugarla] [Objetivo aliado] Concede el estado "Transformación"</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="final_netzach_orchestra2_oneside">
+    <Desc>Si es un ataque de un solo-lado, el efecto de esta página aplica a todos los enemigos</Desc>
+  </BattleCardAbility>
+
+
+
+</BattleCardAbilityDescRoot>

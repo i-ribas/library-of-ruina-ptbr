@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!-- 잔향 상층 -->
+  <BattleCardAbility ID="forbidrecovery2atk">
+    <Desc>[Al golpear] Inflige 2 de Antirecuperación la siguiente escena</Desc>
+  </BattleCardAbility>  
+  
+  <!-- 아르갈리아 뒤틀림-->
+  <BattleCardAbility ID="resonanceControl"> <!-- 공명 조절 -->
+    <Desc>[Comienzo del combate] Por esta escena, la habilidad pasiva "Resonancia" se activa si el objetivo tiene 4+ de Vibración</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="nullifyPowerAtk">
+    <Desc>[Al golpear] El Poder del dado del objetivo no puede ser influenciado por ningún efecto la siguiente escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="vibrateDmg">
+    <Desc>[Al golpear] Haz un daño bonus igual a la Vibración del objetivo</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="powerUp1thisRound">
+    <Desc>[Comienzo del combate] Incrementa el Poder de los dados ofensivos en 1 por esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="debufHalfOnUse">
+    <Desc>[Al usar] Reduce en la mitad la cantidad de efectos de estado en ti mismo (Redondeado hacia arriba)</Desc>
+  </BattleCardAbility>
+  
+  <!-- 플루토 뒤틀림 -->
+  <BattleCardAbility ID="Pluto_UC_Protect">
+    <Desc>[Al golpear] Añade "Contraparte injusta defensa" a la mano del objetivo la siguiente escena</Desc>
+    <Desc>Solo puedes tener una copia de "Contraparte injusta defensa" a la vez.</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="Pluto_UC_Atk">
+    <Desc>[Al golpear] Añade "Contraparte injusta ofensa" a la mano del objetivo la siguiente escena</Desc>
+    <Desc>Solo puedes tener una copia de "Contraparte injusta ofensa" a la vez.</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="Pluto_UC_Light">
+    <Desc>[Al golpear] Añade "Contraparte injusta luz" a la mano del objetivo la siguiente escena</Desc>
+    <Desc>Solo puedes tener una copia de "Contraparte injusta luz" a la vez</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="UC_Protect">
+    <Desc>Si esta página esta en tu mano al final de la escena, descarta una página aleatorea y gana Protección igual a su coste la siguiente escena</Desc>
+    <Desc>[Al jugar] Agota esta página</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="UC_Atk">
+    <Desc>Si esta página esta en tu mano al final de la escena, barajala en la parte superior del mazo, e incrementa el daño en 1 la siguiente escena</Desc>
+    <Desc>[Al jugar] Agota esta página</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="UC_Light">
+    <Desc>Si esta página esta en tu mano al final de la escena, Restaura 1 de Luz, entonces añade una copia de "Grilletes" y descartala</Desc>
+    <Desc>[Al jugar] Agota esta página</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="shackles">
+    <Desc>[Al jugar] Agota esta página</Desc>
+  </BattleCardAbility>
+  
+  
+  <!-- 사서 추가 카드 -->
+  <!-- 공용1 -->
+  <BattleCardAbility ID="unitePower">
+    <Desc>[Vínculo]</Desc>
+    <Desc>[Comienzo del combate] Por esta escena, todos los aliados usando una página de vínculo ganan 1+ de Poder para todos los dados (No se acumula)</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="uniteAttack">
+    <Desc>[Vínculo]</Desc>
+    <Desc>[Comienzo del combate] Por esta escena, todos los aliados usando una página de vínculo ganan un dado Cortante (4-8)(No se acumula)</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="uniteDefense">
+    <Desc>[Vínculo]</Desc>
+    <Desc>[Comienzo del combate] Por esta escena, todos los aliados usando una página de vínculo ganan un dado Bloqueo (6-9) que viene primero (No se acumula)</Desc>
+  </BattleCardAbility>
+
+  <!-- 전용 -->
+  <BattleCardAbility ID="argaliaDistortedArea">
+    <Desc>Usable en la tercera escena</Desc>
+    <Desc>[Al usar] Añade una copia de "Gran final" a la mano</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaDistortedDice1">
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaDistortedDice2">
+    <Desc>Si el último dado golpea, hace 50% de daño adicional</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="plutoArea">
+    <Desc>Usable en la tercera escena.</Desc>
+    <Desc>Esta página se agota al usarla y regresa a la mano después de 4 escenas</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="elenaNewArea">
+    <Desc>Usable en la tercera escena.</Desc>
+    <Desc>Esta página se agota al usarla y regresa a la mano después de 4 escenas.</Desc>
+    <Desc>Si el usuario ha recuperado 20+ HP este Acto, el coste de esta página se reduce en 2</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="elenaNewAreaDice">
+    <Desc>[Al golpear] Recupera 3 HP</Desc>
+  </BattleCardAbility>
+  
+
+  <BattleCardAbility ID="jaeheonArea">
+    <Desc>Usable en la tercera escena.</Desc>
+    <Desc>Esta página se agota al usarla y regresa a la mano después de 4 escenas</Desc>
+    <Desc>[Al usar] Todos los aliados con "Cuerdas de Titiritero" Recuperan 20 HP y Resistencia al Aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="jaeheonAreaDice">
+    <Desc>[Al golpear] Inflige 1 de Atadura la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="oswaldArea">
+    <Desc>Usable en la tercera escena.</Desc>
+    <Desc>Esta página se agota al usarla y regresa a la mano después de 4 escenas</Desc>
+    <Desc>[Al usar] Inflige uno de los siguientes estados a los objetivos de manera aleatorea: 2 Frágil, 2 Desarmar, 2 Endeble, 2 Protección, 2 Protección de Aturdimiento</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="oswald_break8areaatk">
+    <Desc>[Al golpear] Haz 8 de daño de aturdimiento</Desc>
+  </BattleCardAbility>
+  
+  <BattleCardAbility ID="bremenArea">
+    <Desc>Usable en la tercera escena.</Desc>
+    <Desc>Esta página se agota al usarla y regresa a la mano después de 4 escenas</Desc>
+    <Desc>[Al usar] Inflige 2 de Frágil a todos los enemigos esta escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="bremen_chorus_atk">
+    <Desc>[Al golpear] Inflige 1 de Paralisis la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+  
+  <BattleCardAbility ID="eileenArea">
+    <Desc>Usable en la tercera escena.</Desc>
+    <Desc>Esta página se agota al usarla y regresa a la mano después de 4 escenas.</Desc>
+    <Desc>Si el ataque golpea al menos una vez, todos los aliados Restauran 1 de Luz al final de la escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="philipSpecial">
+    <Desc>[Al usar] En Nivel de Emoción 3, añade una copia de "Desesperación Abrasadora" a la mano a partir de la siguiente escena e inflige 1 de Quemadura a todos los enemigos</Desc>
+    <Desc>"Desesperación Abrasadora" se agota al final de la escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="philipArea">
+    <Desc>Se agota al final de la escena</Desc>
+  </BattleCardAbility>
+  
+  <!-- 공용2 -->
+  <BattleCardAbility ID="resistance1atk">
+    <Desc>[Al golpear] Si el objetivo tiene 2 o menos de Resilencia, gana 1 de Resilencia</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="costDownAndPowerUp">
+    <Desc>Mientras esta página este en la mano, su coste se reduce por cada Choque perdido en contra de un dado ofensivo</Desc>
+    <Desc>[Comienzo del combate] Incrementa el Poder de los dados ofensivos en +1 esta escena</Desc>
+    <Desc>[Al usar] Roba 1 página</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="nextCostDown">
+    <Desc>[Al usar] Roba 1 página; restaura 1 de Luz; reduce el coste de todas las páginas en 1 la siguiente escena</Desc>
+  </BattleCardAbility>
+  
+</BattleCardAbilityDescRoot>

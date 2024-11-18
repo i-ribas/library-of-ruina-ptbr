@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Carnival</GroupName>
+  <Character ID="Alpha">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Comenzar? No parece débil. ¿Precaución?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Parece sabroso? Aunque no parece humano.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Tienen un sabor tan repugnando como los Sweepers</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Comer libros? ¿Podría crear seda más elegante?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Debemos apresurarnos? Tenemos que cumplir el Precepto.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…No sabe muy bien.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿Te adelantaste demasiado? Estás acabado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Triste? Un viejo colega ha muerto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Aún no es peligroso? Bien hasta ahorar.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ataques fueron fáciles de leer. ¿Es fácil?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Debo acabar con esto rápidamente. ¿Volverse molesto?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No dejaré que unos humanos delgados me maten.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Beta">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Es nuestra oportunidad. ¿Crees que puedo apuñalar?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Parece fuerte? No será un problema.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿Me pregunto como sabes? Pareces sólido pero delicioso.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Emocionado? Ganamos. ¿Te sientes eufórico?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Somos fuertes?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¿No puedo tejer ropa nunca más?</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Uno ha sido derrotado. ¿Debemos pensar como lograrlo?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Perderemos a este ritmo? Tener cuidado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Debo ser cauteloso? Podríamos estar en serios problemas.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¿Podemos comer libros para producir un nuevo tipo de seda?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Tu fuerza no dejará ningún arañazo en mi cuerpo?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Aún no he acabado. ¿Cuantos más quedan?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Gamma">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿No te gusta ser acosado? No puedes pararte y recibir golpes todo el día.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Necesito hacer esto por seda nueva?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Evitar las acciones innecesarias. ¿Correr contra el tiempo?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿No sufrir daño serio? Pero cansado, ¿Querer descansar?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Todo lo que queda es entregar todo al Índice. ¿Mover rápidamente?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¿No puede ser? Tengo trabajo por terminar…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿Volverse un libro? Volverse un libro al morir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Está bien. ¿Podriamos morir si no tenemos cuidado?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Es peligroso volverse agresivo?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¿Uno capturado? Terminado limpiamente.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Parece que ganaremos? Es obvio.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Uno derrotado. ¿No debo ser cuidadoso?</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

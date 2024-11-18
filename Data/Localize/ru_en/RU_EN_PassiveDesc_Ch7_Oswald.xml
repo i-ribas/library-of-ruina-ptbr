@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1305011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Páginas en mano y el mazo; añade nuevas Páginas a la mano. Sus Costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305012">
+    <Name>¡No hay Tiempo para Distraerse!</Name>
+    <Desc>Recibe la mitad de Daño de Aturdimiento de los ataques y desvíos.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305013">
+    <Name>¿En realidad, Podriamos Necesitar una Mano~?</Name>
+    <Desc>En la segunda Escena, usa una Página de Combate que vuelve Estupefacto al Bibliotecario con el más alto HP.
+Una vez que un bibliotecario sale del estado Estupefacto, la Página será usada en 2 Escenas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305014">
+    <Name>Actuación Colaborativa</Name>
+    <Desc>Al comienzo de la Escena, da 1 Fuerza, 1 Dureza, y 3 Protección al Bibliotecario Estupefacto. Cuando el Bibliotecario es Aturdido: Recibe 60 de Daño de Aturdimiento al final de la Escena.
+Después que el Bibliotecario es liberado de estár Estupefacto 2 veces, usa una Página de Ataque en Masa la siguiente Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305021">
+    <Name>¡Fue un Placer Actuar a tu Lado…!</Name>
+    <Desc>Cuando este personaje es derrotado, Oswald recibe 40 de Daño de Aturdimiendo al final de la Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305022">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Páginas en mano y el mazo; añade nuevas Páginas a la mano. Sus Costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305031">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Páginas en mano y el mazo; añade nuevas Páginas a la mano. Sus Costes se vuelven 0.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

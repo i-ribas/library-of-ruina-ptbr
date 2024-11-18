@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1301011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301012">
+    <Name>Espada abrasadora</Name>
+    <Desc>Mientras estás Sobrecalentado: inflige 1 de Quemadura al objetivo al golpear, e inflige 1  de Quemadura al atacante cuando golpea.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301013">
+    <Name>Espada abrasadora</Name>
+    <Desc>Mientras estás Sobrecalentado: inflige 1 de Quemadura al objetivo al golpear, e inflige 1 de Quemadura al atacante cuando golpea.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301014">
+    <Name>Espada en llamas</Name>
+    <Desc>Inflige 1 Quemadura al objetivo al golpear, e inflige 1 de Quemadura al atacante cuando golpea.</Desc>
+  </PassiveDesc>
+
+  <!--공용-->
+  <PassiveDesc ID="1301015">
+    <Name>Corazón enfriado</Name>
+    <Desc>No recibe daño de Quemadura.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301016">
+    <Name>Espada de ascuas</Name>
+    <Desc>Cuando infringes Quemadura usando páginas de Combate, aplica +1 adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301017">
+    <Name>Sentimientos</Name>
+    <Desc>Cuando el nivel de emoción aumenta, inflige 3 de Quemadura a todos los personajes, incluyendote a ti mismo.
+Gana Poder por la mitad del nivel de emoción actual dividido en 2 (Redondeado hacia abajo)</Desc>
+  </PassiveDesc>
+    <PassiveDesc ID="1301018">
+    <Name>Sobrecalentar</Name>
+    <Desc>Si el personaje tiene 15 o más Quemadura al comienzo de la escena, recibe el estado Sobrecalentado, haciendo más daño con ataques pero volviendote más vulnerable al daño de aturdimiento.</Desc>
+  </PassiveDesc>
+
+  <!--1페이즈에 나옴-->
+  <PassiveDesc ID="1301019">
+    <Name>Corazón hirviendo</Name>
+    <Desc>El HP Máximo no baja de 60%. Cuando te aturden, procede a la siguiente fase, cambia las resistencias, y elimina todos los problemas de estado de ti mismo.</Desc>
+  </PassiveDesc>
+  <!--2페이즈에 나옴-->
+  <PassiveDesc ID="1301030">
+    <Name>Mente desvanecida</Name>
+    <Desc>Cuando un Niño que no habla es derrotado, pierde Poder por el número de Niños que no hablan que han sido derribados hasta ahora la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301032">
+    <Name>Corazón ardiente</Name>
+    <Desc>El HP Máximo no baja de 30%. Cuando te aturden, procede a la siguiente fase, cambia las resistencias, y elimina todos los problemas de estado de ti mismo.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="1301021">
+    <Name>Corazón incendiado</Name>
+    <Desc>Recibe la mitad de daño de Quemadura. Comienzo con la escena Después de aparecer, gana 1 Fuerza y Dureza cada escena 1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301022">
+    <Name>Sobrecalentar</Name>
+    <Desc>Si el personaje tiene 15 o más de Quemadura al comienzo de la escena, recibe el estado Sobrecalentado, haciendo más daño con ataques pero volviendote más vulnerable al daño de aturdimiento.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1301023">
+    <Name>Combustion</Name>
+    <Desc>Mientras estás Sobrecalentado: gana 3 de Frágil cada escena, e inflige 1 de Quemadura al objetivo al golpear. También, usa un mazo de páginas de Combate diferentes.</Desc>
+  </PassiveDesc>
+
+  <!--뒤틀림-->
+  <PassiveDesc ID="1401011">
+    <Name>Llamas prestadas</Name>
+    <Desc>Mientras vive, el primer dado ofensivo que los aliados juegan en cada combate infringen 1 Quemadura.
+Después de morir, los aliados reciben 1 Quemadura al golpear.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1401012">
+    <Name>Supercalor</Name> <!-- "Supra-" + "Heat" -->
+    <Desc>Si el personaje tiene 10 o más Quemadura al comienzo de la escena, recibe el estado Sobrecalentado, haciendo más daño.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1401014">
+    <Name>Desesperación abrasadora</Name>
+    <Desc>Cada 3 escenas: 'Desesperación abrasadora' es añadida a la mano, la cual será usada la misma escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1401017">
+    <Name>Restricciones</Name>
+    <Desc>Al golpear a un objetivo con 3 o más Acumulaciones de 'Restricción', Inmovilizado la siguiente escena.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

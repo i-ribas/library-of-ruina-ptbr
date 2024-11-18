@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <text id="Index_Yan_1">Para …. Empaca una lonchera y consúmela en los basureros de las calles del Distrito 11 a las 1 PM hoy.</text>
+  <text id="Index_Yan_2">Para …. Hornea dacquoise mientras las manecillas estén entre las 7 y 8 y cómelo mientras ves una película.</text>
+  <text id="Index_Yan_3">Para …. Inicia un juego de “10 Fingers” con las primeras cinco personas que encuentres. Cuando uno baje un dedo, rómpelo.</text> 
+  <!-- 손가락 접기 게임 (Finger Folding Game), also referred to as 이미지 게임 (Image Game) or 손병호 게임 (Son Byeong-ho Game), is a drinking game where a group of people take turns to make a boolean statement, such as "If you're wearing glasses, fold a finger!". Those who fold all five (or ten depending on the format) fingers have to drink a shot. --> <!-- This is NEET's note -->
+  <!-- This is actually relatively identical to the English speaking game "Never Have I Ever"/"Ten Fingers", only real difference is the phrasing. - Watson -->
+  <text id="Index_Yan_4">Para …. Corta cuidadosamente las uñas de la sexagésima segunda persona que te encuentres.</text>
+  <text id="Index_Yan_5">Para …. Acaricia cinco veces a animales cuadrúpedos.</text>
+  <text id="Index_Yan_6">Para …. Gira una ruleta y lánzale un pastel a la persona que salga elegida.</text>
+  <text id="Index_Yan_7">Para …. Consume ocho cangrejos a temperatura ambiente y un caqui maduro a la vez.</text>
+  <text id="Index_Yan_8">Para …. En la barandilla del techo de un edificio, grita el nombre de una persona que no te gusta, entonces salta. La altura del edificio no importa.</text>
+  <text id="Index_Yan_9">Para …. Después de una comida, desecha todos los platos que se usaron para comer.</text>
+  <text id="Index_Yan_10">Para …. A la mañana siguiente de recibir este Precepto, bebe tres vasos de agua tan pronto como te despiertes</text>
+  <text id="Index_Yan_11">Para …. Ten una carrera con los residentes de tu Edificio hasta el Distrito 7. Mide la distancia cada 23 minutos, descalifica al que este más lejos del destino.</text>
+  <text id="Index_Yan_12">Para …. En tres días, teje una bufanda con patrón de mariposa.</text>
+  <text id="Index_Yan_13">Para …. Marca cualquier número. Saluda por año nuevo y bendice a cualquiera que reciba la llamada.</text>
+  <text id="Index_Yan_14">Para …. Mira algo verde desde una muralla blanca.</text>
+  <text id="Index_Yan_15">Para …. Cuando tengas hambre, consume una Hamburguesa con cebolla añadida.</text>
+  <text id="Index_Yan_16">Para …. Construye treinta y nueve grullas de papel y lánzalas desde una azotea.</text>
+  <text id="Index_Yan_17">Para …. En el trabajo, corta la oreja de la primera persona que te haga enojar.</text>
+  <text id="Index_Yan_18">Para …. Cuando tus ojos se encuentren con los de otra persona, asiente con la cabeza.</text>
+  <text id="Index_Yan_19">Para …. Regresa a casa ahora mismo. Puedes irte una vez que un perro ladre en frente de tu casa una vez.</text>
+  <text id="Index_Yan_20">Para …. Usa ropa de color verde claro y da 10 pasos en un callejón con forma de triángulo.</text>
+</localize>

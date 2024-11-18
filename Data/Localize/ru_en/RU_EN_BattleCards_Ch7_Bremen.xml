@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703411">
+      <LocalizedName>¡¡Rarf RARF RARF!!</LocalizedName>
+      <Ability>[Comienzo del combate] Inflige 2 de Endeble esta escena</Ability>
+      <Behaviour ID="2">[Al ganar un choque] Inflige 1 de Endeble a un enemigo aleatorio la siguiente escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703412">
+      <LocalizedName>¡Barkruff! ¡¡¡BARK~!!!</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al golpear] Inflige 2 de Atadura y Desarmar la siguiente escena</Behaviour>
+      <Behaviour ID="1">[Al golpear] Inflige 2 de Atadura y Desarmar la siguiente escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703413">
+      <LocalizedName>¡¡¡BAWKBAWKBAWK!!!</LocalizedName>
+      <Ability>[Puede apuntar aliados;][Comienzo del combate] Si el objetivo es un aliado, da 2 de Fuerza esta escena</Ability>
+      <Behaviour ID="0">[Al ganar un choque] Da 1 de Fuerza a un aliado aleatorio la siguiente escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703414">
+      <LocalizedName>¡¡¡¡Cockadoodledoo~!!!!</LocalizedName>
+      <Ability>[Comienzo del combate] Da 1 de Fuerza a todos los aliados</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703415">
+      <LocalizedName>¡¡¡NEIIIGHHIHIHH!!!</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al golpear] Da 'Etiquetado' la siguiente escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703416">
+      <LocalizedName>¡¡¡Neiiigh~!!!</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al golpear] Inflige 1 de Parálisis la siguiente escena</Behaviour>
+      <Behaviour ID="1">[Al golpear] Inflige 1 de Parálisis la siguiente escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703421">
+      <LocalizedName>Potente sonido de tendones</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703422">
+      <LocalizedName>Melodía eterna</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703423">
+      <LocalizedName>Santuario de música oscura</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703424">
+      <LocalizedName>Tempo explosivo</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703425">
+      <LocalizedName>Trío</LocalizedName>
+      <Ability>[Comienzo del combate] Da 2 de Fuerza, Dureza, Prisa y Protección a un aliado aleatorio; Inflige 2 de Endeble, Desarmar, Atadura y Frágil al objetivo</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703426">
+      <LocalizedName>Coro en el clímax</LocalizedName>
+      <Ability>[Comienzo del combate] Inflige 10 de Frágil y 5 de Parálisis para apuntar manualmente al objetivo la siguiente escena</Ability>
+    </BattleCardDesc>
+
+    <!--브레멘 2차-->
+    <BattleCardDesc ID="707401">
+      <LocalizedName>Ruido amenazante</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707402">
+      <LocalizedName>Concierto</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707403">
+      <LocalizedName>Tonada fantasiosa</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707404">
+      <LocalizedName>Terapia Musical</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707405">
+      <LocalizedName>Wohlklang</LocalizedName>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

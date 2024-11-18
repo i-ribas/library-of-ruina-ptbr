@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Yun Office</GroupName>
+  <Character ID="Finn">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Derrotaré a estos chicos y probaré mi valía al operador.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Como un Fixer de Grado 9 aún me queda mucho por aprender, pero espero que tengamos un buen combate.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Tengo miedo… Pero quiero ganar.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Realmente gané…? ¡Lo hice! Lo ves, puedo hacerlo si lo intento.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡No puedo esperar para ver la cara de sorpresa del operador!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">N…no quiero morir así…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Me acababa de volver un Fixer de Grado 9…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿E-está realmente bien… seguir en este punto…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">E-esto no… puede ser. Parece que estamos siendo superados… lentamente…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Mis piernas están temblando… ¿Qué debería hacer? Qué se supone que tengo que hacer…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Lo hice! ¡Realmente lo hice!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Lo siento…! Pero debo ganar aquí.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Es un buen comienzo!.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Yun">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No hay necesidad de alargar más esto. Terminemos rápidamente.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Todos los que vinieron antes que nosotros han muerto?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Podrían no ser tan débiles como parecen. Estemos alerta.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Finn no pudo completar una tarea tan sencilla, eh?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Entonces, vamos a tomar los bienes que nos ofreciste.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¿…H…he perdido? … Que vergonzoso.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Así que me estoy convirtiendo en un libro también… Esto no era lo que esperaba.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Olvídalo. Ese tipo era demasiado suave de todos modos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… No caeré solo porque unos debiluchos han muerto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Es mejor solo olvidar este tipo de cosas.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hecho, ¿quién es el siguiente?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Comenzar una pelea conmigo fue tu último error.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bien, voy a acabar con el resto de ustedes de la misma manera.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Ella estaba tan feliz de convertirse en una Fixer de Grado 8…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Eri">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bien, aquí viene nuestro ataque final~ Esto va a dolerte.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Hmph, pensar que podría pelear contra una banda de nerds como ustedes?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Ya ves, si alguien logra golpearme, los golpearé el doble para igualar las cosas.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esto fue demasiado simple, ¿no es así?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡Lo que sea que consigamos aquí, espero que valga la pena mi tiempo!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡Esto es… injusto! ¡¡¡No… Por qué tengo que morir así!!!</BattleDialog>
+      <BattleDialog ID="DEATH_1">¡No debí haber seguido a Yun aquí… ese imbécil ni siquiera ayudo…!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tsk, estaban destinados a morir tarde o temprano…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡Que montón de idiotas inútiles!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… ¿No nos estamos poniendo en un riesgo mayor, verdad?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¿No estás demasiado abierto?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ves, no hay forma de que pudiera perder aquí.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eso es lo que consigues por subestimarme. Partido en dos~</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">¡Tenías tanta confianza sobre esto, no puedes solo morir y dejarme aquí sola!</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

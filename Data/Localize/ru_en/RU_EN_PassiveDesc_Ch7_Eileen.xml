@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1302011">
+    <Name>Engranaje de pensamiento: Objetivo</Name>
+    <Desc>Prioriza apuntar al último enemigo que atacó a Eileen la anterior escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1302012">
+    <Name>Engranaje de pensamiento: Predecir</Name>
+    <Desc>Una vez por escena, responde a un ataque de un Solo-lado con un dado de evasión [Lanzamiento: 5-10]. (No se juega en choques donde ambos personajes usan páginas de combate)</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1302013">
+    <Name>Engranaje de carne: Producción</Name>
+    <Desc>Cada vez que la fase cambia, un adorador de engranajes aparecerá por cada adorador de engranajes derrotado.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1302014">
+    <Name>Engranaje de carne: Fallecer</Name>
+    <Desc>En la escena después que un adorador de engranajes muera, usa la página de combate 'Engranaje de pensamiento: Lavar cerebro'.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1302015">
+    <Name>Entusiasmo de los creyentes</Name>
+    <Desc>Los adoradores que estén con vida al final de la fase recuperan completamente el HP y la resistencia al aturdimiento.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1302016">
+    <Name>Engranaje de carne: Papel</Name>
+    <Desc>Cuando un adorador de engranajes es derrotado, Eileen recibe 125 de daño de aturdimiento.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1302017">
+    <Name>Fe de los creyentes</Name>
+    <Desc>Cuando el HP de Eileen llega a 350, no bajará de ese límite hasta que la fase cambie; lo mismo ocurre con 150 HP. Después que el HP de Eileen llega al límite, la batalla progresará a la siguiente fase.</Desc>
+  </PassiveDesc>
+
+  <!--뒤틀림-->
+  <PassiveDesc ID="1402011">
+    <Name>Humo fumigante</Name>
+    <Desc>Cada escena, todos los aliados ganan Humo igual a la cantidad de Humo que este personaje tiene.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1402012">
+    <Name>Difusión de aerosol</Name>
+    <Desc>Mientras está vivo, todos los aliados ganan el efecto de 'Bruma profunda'.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1402013">
+    <Name>Rebosar oxido</Name>
+    <Desc>Al morir, todos los aliados reciben 10 Humo y pierden el efecto de 'Bruma profunda'.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="1402014">
+    <Name>Pronóstico</Name>
+    <Desc>Cada 5 escenas: una copia de 'Engranaje de pensamiento: Adviento' es añadida a la mano, que será usada la misma escena.</Desc>
+  </PassiveDesc>
+ 
+</PassiveDescRoot>

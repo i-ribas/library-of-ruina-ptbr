@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>WarpCrew</GroupName>
+  <Character ID="Rose">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Céntrense, ambos. No tenemos mucho tiempo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No hay tiempo para charlar, prepárense para el combate.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Sé que están comenzando a agotarse, así que manejemos esto rápidamente y regresemos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Tenemos mucho que reportar una vez regresemos, así que apresurémonos en recoger los libros.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Trabajaremos horas extras… Aguanten solo por esta noche, compañeros.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Supongo que yo era más débil… Muy patético de mi parte.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Debemos seguir moviéndonos. No necesitamos unirnos con ellos en la muerte.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Recuperen su compostura. Serán el próximo objetivo si vacilan.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… Mientras peor la situación se vuelve, más duro debemos presionar.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Estamos un paso más cerca de volver a casa.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Acabaré contigo en suspiro.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Sen">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Rose nos está diciendo que nos centremos. Prepárate, novato.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Limpiemos todo como siempre.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Eh, novato… Estás más relajado de lo que esperaba. Me asustas.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Tenemos que terminar de limpiar el tren cuando regresemos? Hombre, estoy agotadísimo…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Trabajos como este son simples para nosotros. Es lo que siempre hacemos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Maldición… Sabía que era una mala idea…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Es desafortunado… Pero no ganamos nada haciendo una escena sobre esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No puedo dejar que la tristeza tenga lo mejor de mí. Tengo que calmarme ahora.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Demasiado para una Pesadilla Urbana, eh…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">GG EZ. He luchado contra pasajeros más duros que tú.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¿Actualmente… eso se sintió más fácil que algunos pasajeros?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Lesti">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡¿Whoa, esto se ve más grande de lo que se veía por fuera?!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Había persona que se veían tan fuerte como estos chicos en el tren?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿Iremos a comer gopchang-jeongol juntos una vez esto acabe, verdad?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Pudimos terminar esto fácilmente gracias a la ayuda de mis confiables superiores~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Tomaremos este libro… ese también… ¿Deberíamos volver ahora?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Acababa de comenzar una nueva vida…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">He superado cosas como esta antes, pero… e-ese era mi superior…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Pensé que me había acostumbrado a esto…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hmhmhm~ ¡Esto es lo que he estado haciendo todos los días!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Fue muy fácil para mí!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">La gente aquí es bastante dura… Esto estuvo cerca.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="WarpCrewUnit">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Estas son… horas extras? Necesito un descanso, por favor…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Y acabábamos de terminar con esos montones de carne… Hombre, muero del cansancio…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Vamos a trabajar! Tenemos órdenes y nuestro trabajo es seguirlas.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">¿Supongo que no es tan malo como esos globos de carne?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Esas cosas eran asquerosas, es cierto… Pero no tanto como las horas extras.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">No tenemos elección. Es el trabajo que debemos hacer, así que no se quejen.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Parece que los asientos están completamente limpios… ¿Podemos volver a casa ahora, verdad?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Phew, Crisis superada… W Corp. no caerá hoy…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Imaginen si alguien de fuera pusiera sus manos en este libro.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Estuve cerca de perder mi trabajo… al menos pudimos conseguir los libros antes que nadie más lo hiciera.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">¿Qué tipo de Singularidad puede hacer libros de las personas?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Si fallamos… El secreto de W Corp……</BattleDialog>
+      <BattleDialog ID="DEATH_1">No quiero morir… Acabo de llegar al Nido y volverme un agente…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Tenemos que… evitar que el secreto se descubra…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Seguí el manual… Todo el tiempo… Eso es todo lo que hice…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Tenemos la soga ajustada.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Este es un trabajo horrible… Quiero dejarlo tan pronto como pueda…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Siempre le pasa a los agentes como nosotros.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Perdí un par de compañeros hoy, pero….</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Limpiar el tren, horas extra… Es todo lo mismo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Mucho más simple que los monstruos contra los que tuvimos que lidiar antes.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Es fácil si piensas en ellos como pasajeros del tren.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Esto es lo que pasa cuando la gente muere aquí… Tengo que mantenerme alerta.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Stray Dogs</GroupName>
+  <Character ID="Gyeong-mi">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡No manden a uno a la vez como cobardes y peleen todos a la vez!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Parece que los cachorritos que enviamos no fueron muy buenos. Que molestia.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Si! ¡Estremecete de miedo!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Así que los ‘Libros’ que se suponía que encontraríamos aquí… ¿eran tan fáciles de conseguir?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Ese hijo de perra Walter. ¡Cómo se las arreglo para perder contra estos debiluchos!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡¡¡Esto tiene que ser un sueño… No hay forma de que pueda perder!!!</BattleDialog>
+      <BattleDialog ID="DEATH_1">¡Estos hijos de perra tienen que haber usado algún truco sucio conmigo…!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Por qué tenías que ir corriendo al frente y quedar destrozado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Patético, ser matado por un grupo de nerds debiluchos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No me importa si uno o dos mueren.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¿Ajustar mi fuerza? Nunca lo he intentado.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Muere! ¡¡¡Mátenlos a todos!!!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Me hubiera encantado aplastar la cabeza de este tipo hasta volverla pulpa para desahogarme.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Zulu">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Los chicos que venían primero ya fueron destrozados?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No es un trabajo difícil tratar con debiluchos como ustedes.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Sería mejor que escapes mientras puedas.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Regresen y consigan algo para comer. Son tan delgados como me imaginaba.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Tenemos prisa, pero a ellos les debería gustar la información que contienen estos libros.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡No… No vine hasta aquí para morir como un saco de mierda…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">¡¡¡Tengo que destrozarlos a todos… No quiero terminar así!!!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Otro ha muerto. … No se siente tan bien.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">A este punto estoy acostumbrado a ver a tipos lamentables ser asesinados, pero…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Deberías haberte quedado atrás si ibas a ser tan mediocre.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No debiste meterte en mi camino en primer lugar.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Al menos hagan que esto sea divertido… bastardos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No tengo otra elección. Tengo que matar a otros si no quiero morir.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Dino">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Se supone que tenemos que pelear contra estos críos ahora? Esto no es emocionante…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Uf… Esos pobres tipos. Parece que fueron aniquilados sin nada que pudieran hacer.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Esto podría dislocar mis huesos si fallo el golpe, así que quédate quieto.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">No sudé ni una gota conquistando este lugar…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Hombre, me daría vergüenza contarle a alguien que conseguimos estos libros derrotando a enemigos feroces.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Tuve un fallo de juicio. No debí haber subestimado a estos bastardos…</BattleDialog>
+      <BattleDialog ID="DEATH_1">¡¡¡Esto no es justo… no es justo para nada!!!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Bien, supongo que no todos pueden sobrevivir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Maldición, quién acaba de morir? … Esperaba que no tuviéramos que pasar por este tipo de situación.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Pobre bastardo… morir en un lugar como este.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">El ratón de biblioteca está volando por todo el campo de batalla.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Tuviste que haberte retirado cuando te diste cuenta de que eras más débil que yo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Este chico es muy suave, se siente como golpear el aire.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Blue Reverberation2 Tiphereth</GroupName>
+  <Character ID="T_O_Oswald">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Ohohoho! La actuación está a punto de comenzar~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡Ahora, ahora! ¡Quiero risas interminables y escuchar esos aplausos!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Una ronda de aplausos… para los payasos que se han unido a la actuación de esta noche!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">El centro de atención era mío…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">D-dios mío… mi compañero…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡¡POR QUÉ TIENES QUE ATORMENTAR A SERES INOCENTES QUE SOLO QUIEREN TRAER SONRISAS!!!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Eee! ¡Parece como si uno de tus payasos estuviera teniendo mucha diversión ahí!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Es tan divertido que quiero rodar por el suelo, ¿no opinas lo mismo?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Lo sabía! Mi actuación puede hacer a cualquiera y a todos reír.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">¡Vamos a cantar más fuerte por ellos! Y uno, dos…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="T_O_Tiphereth">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Está bien. Solo hagan lo que hemos estado haciendo. ¿Saben que hacer, verdad?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Buen trabajo. Vamos a limpiar y esperar por los otros.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…No. Estoy segura que lo lograremos.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¡Es demasiado pronto para rendirse!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Si confiamos el uno en el otro y seguimos, seguramente podremos avanzar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No dejaré que sigas caminando libremente…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">¡Tenemos que mantenernos unidos, Aún hay esperanza!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Sé que nos tocó alguien duro, pero intentemos seguir un poco más!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Estoy haciéndolo bien por aquí… ¡Guarden sus preocupaciones para ustedes mismos!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No está mal. ¿Aún no están agotados, chicos?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="T_O_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Aún no estás aterrorizado, verdad?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Mmm… ¿Supongo que los otros están ocupados?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Lo siento… Estoy a mi límite…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Puedes dejarme el resto a mí.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Eso no me romperá.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… ¡Supongo que debería apretar mi cinturón!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">He acabado por este lado~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ellos son raros… pero interesantes.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¿Están todos haciéndolo bien?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="T_O_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Tenemos que hacerlo… supongo.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Gracias a dios pudimos hacerlo.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Pensé que podía hacer más…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">En tiempos como este… Hay que mantener la cabeza fría.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sus comportamientos son tan asquerosos como sus apariencias…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Cómo están los otros? ¿Pueden aguantar un poco más?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">También me siento como un payaso. Quizás incluso como todo un circo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Estoy haciendo mi parte.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Esa voz aún resuena en mi cabeza…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="T_O_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Se siente como si estuviéramos en un circo…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Una actuación que da risa, ¿eh?…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Es como… si fuera interpretado por esos payasos…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tiene que haber una manera mejor…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Estoy un poco nervioso… pero lucharé en tu lugar.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Supongo que no debemos tomarlos por objetivos fáciles.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Uno menos. Sigamos así!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Es como… si estuvieran haciendo una actuación de algún tipo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Se ven un poco espeluznantes…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="T_O_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Se ven similares al duo y a esos animales que recibimos hace un tiempo.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Señorita Tiphereth. ¿Deberíamos regresar?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No seamos temerarios y hagamos las cosas peores.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Aún podemos hacerlo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Se acabará pronto… Aguanten un poco.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No soy fan de las actuaciones demasiado ruidosas.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ese payaso de seguro disfrutaba abrir su boca…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No estoy jugando contigo.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

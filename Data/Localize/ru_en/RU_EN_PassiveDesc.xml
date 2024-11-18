@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<PassiveDesc ID="1">
+		<Name>Incremento cortante Ⅰ</Name>
+		<Desc>Probabilidad de 25% de incrementar el daño cortante en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="2">
+		<Name>Incremento perforante Ⅰ</Name>
+		<Desc>Probabilidad de 25% de incrementar el daño perforante en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="3">
+		<Name>Incremento contundente Ⅰ</Name>
+		<Desc>Probabilidad de 25% de incrementar el daño contundente en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="4">
+		<Name>Aturdimiento cortante Ⅰ</Name>
+		<Desc>Probabilidad de 25% de incrementar el daño de aturdimiento cortante en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="5">
+		<Name>Aturdimiento perforante Ⅰ</Name>
+		<Desc>Probabilidad de 25% de incrementar el daño de aturdimiento perforante en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="6">
+		<Name>Aturdimiento contundente Ⅰ</Name>
+		<Desc>Probabilidad de 25% de incrementar el daño de aturdimiento contundente en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="7">
+		<Name>Maestría cortante Ⅰ</Name>
+		<Desc>Probabilidad de 10% de incrementar el Poder de dados cortantes en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="8">
+		<Name>Maestría perforante Ⅰ</Name>
+		<Desc>Probabilidad de 10% de incrementar el Poder de dados perforantes en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="9">
+		<Name>Maestría contundente Ⅰ</Name>
+		<Desc>Probabilidad de 10% de incrementar el Poder de dados contundentes en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="10">
+		<Name>Maestría de bloqueo Ⅰ</Name>
+		<Desc>Probabilidad de 20% de incrementar el Poder de dados de bloqueo en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="11">
+		<Name>Maestría de evasión Ⅰ</Name>
+		<Desc>Probabilidad de 20% de incrementar el Poder de dados de evasión en +1</Desc>
+	</PassiveDesc>
+  <PassiveDesc ID="12">
+    <Name>Superioridad contundente Ⅰ</Name>
+    <Desc>Después de ganar un choque usando un dado contundente, probabilidad de 35% de hacer 1 de daño adicional</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="13">
+    <Name>Superioridad perforante Ⅰ</Name>
+    <Desc>Después de ganar un choque usando un dado perforante, probabilidad de 35% de hacer 1 de daño adicional</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="14">
+    <Name>Superioridad cortante Ⅰ</Name>
+    <Desc>Después de ganar un choque usando un dado cortante, probabilidad de 35% de hacer 1 de daño adicional</Desc>
+  </PassiveDesc>
+
+
+
+  <PassiveDesc ID="1001">
+		<Name>Incremento cortante Ⅱ</Name>
+		<Desc>Probabilidad de 30% de incrementar el daño cortante en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1002">
+		<Name>Incremento perforante Ⅱ</Name>
+		<Desc>Probabilidad de 30% de incrementar el daño perforante en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1003">
+		<Name>Incremento contundente Ⅱ</Name>
+		<Desc>Probabilidad de 30% de incrementar el daño contundente en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1004">
+		<Name>Aturdimiento cortante Ⅱ</Name>
+		<Desc>Probabilidad de 30% de incrementar el daño de aturdimiento cortante en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1005">
+		<Name>Aturdimiento perforante Ⅱ</Name>
+		<Desc>Probabilidad de 30% de incrementar el daño de aturdimiento perforante en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1006">
+		<Name>Aturdimiento contundente Ⅱ</Name>
+		<Desc>Probabilidad de 30% de incrementar el daño de aturdimiento contundente en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1007">
+		<Name>Maestría cortante Ⅱ</Name>
+		<Desc>Probabilidad de 12% de incrementar el Poder de dados cortantes en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1008">
+		<Name>Maestría perforante Ⅱ</Name>
+		<Desc>Probabilidad de 12% de incrementar el Poder de dados perforantes en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1009">
+		<Name>Maestría contundente Ⅱ</Name>
+		<Desc>Probabilidad de 12% de incrementar el Poder de dados contundentes en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1010">
+		<Name>Maestría de bloqueo Ⅱ</Name>
+		<Desc>Probabilidad de 24% de incrementar el Poder de dados de bloqueo en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1011">
+		<Name>Maestría de evasión Ⅱ</Name>
+		<Desc>Probabilidad de 24% de incrementar el Poder de dados de evasión en +1</Desc>
+	</PassiveDesc>
+   <PassiveDesc ID="1012">
+    <Name>Superioridad contundente Ⅱ</Name>
+    <Desc>Después de ganar un choque usando un dado contundente, probabilidad de 45% de hacer 1 de daño adicional</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1013">
+    <Name>Superioridad cortante Ⅱ</Name>
+    <Desc>Después de ganar un choque usando un dado cortante, probabilidad de 45% de hacer 1 de daño adicional</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1014">
+    <Name>Superioridad perforante Ⅱ</Name>
+    <Desc>Después de ganar un choque usando un dado perforante, probabilidad de 45% de hacer 1 de daño adicional</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="2001">
+    <Name>Incremento cortante Ⅲ</Name>
+    <Desc>Probabilidad de 35% de incrementar el daño cortante en +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2002">
+    <Name>Incremento perforante Ⅲ</Name>
+    <Desc>Probabilidad de 35% de incrementar el daño perforante en +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2003">
+    <Name>Incremento contundente Ⅲ</Name>
+    <Desc>Probabilidad de 35% de incrementar el daño contundente en +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2004">
+    <Name>Aturdimiento cortante Ⅲ</Name>
+    <Desc>Probabilidad de 35% de incrementar el daño de aturdimiento cortante en +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2005">
+    <Name>Aturdimiento perforante Ⅲ</Name>
+    <Desc>Probabilidad de 35% de incrementar el daño de aturdimiento perforante en +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2006">
+    <Name>Aturdimiento contundente Ⅲ</Name>
+    <Desc>Probabilidad de 35% de incrementar el daño de aturdimiento contundente en +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2007">
+    <Name>Maestría cortante Ⅲ</Name>
+    <Desc>Probabilidad de 14% de incrementar el Poder de dados cortantes en +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2008">
+    <Name>Maestría perforante Ⅲ</Name>
+    <Desc>Probabilidad de 14% de incrementar el Poder de dados perforantes en +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2009">
+    <Name>Maestría contundente Ⅲ</Name>
+    <Desc>Probabilidad de 14% de incrementar el Poder de dados contundentes en +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2010">
+    <Name>Maestría de bloqueo Ⅲ</Name>
+    <Desc>Probabilidad de 28% de incrementar el Poder de dados de bloqueo en +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2011">
+    <Name>Maestría de evasión Ⅲ</Name>
+    <Desc>Probabilidad de 28% de incrementar el Poder de dados de evasión en +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2012">
+    <Name>Superioridad contundente Ⅲ</Name>
+    <Desc>Después de ganar un choque usando un dado contundente, probabilidad de 60% de hacer 1 de daño adicional</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2013">
+    <Name>Superioridad cortante Ⅲ</Name>
+    <Desc>Después de ganar un choque usando un dado cortante, probabilidad de 60% de hacer 1 de daño adicional</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2014">
+    <Name>Superioridad perforante Ⅲ</Name>
+    <Desc>Después de ganar un choque usando un dado perforante, probabilidad de 60% de hacer 1 de daño adicional</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="3007">
+    <Name>Maestría cortante</Name>
+    <Desc>Poder de dados cortantes +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="3008">
+    <Name>Maestría perforante</Name>
+    <Desc>Poder de dados perforantes +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="3009">
+    <Name>Maestría contundente</Name>
+    <Desc>Poder de dados contundentes +1</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="10001">
+    <Name>Velocidad</Name>
+    <Desc>Dado de velocidad +1 (No se superpone)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10002">
+    <Name>Solo rango</Name>
+    <Desc>Solo puede usar páginas de combate de rango</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10003">
+    <Name>Rango</Name>
+    <Desc>Puede usar páginas de combate de rango (y melee)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10004">
+    <Name>Velocidad Ⅱ</Name>
+    <Desc>Dado de velocidad +2 (No se superpone)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10005">
+    <Name>La Niebla Roja</Name>
+    <Desc>???</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10006">
+    <Name>???</Name>
+    <Desc>???</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10007">
+    <Name>???</Name>
+    <Desc>???</Desc>
+  </PassiveDesc>
+	<PassiveDesc ID="10008">
+		<Name>Velocidad Ⅲ</Name>
+		<Desc>Dado de velocidad +1. Gana un dado de velocidad adicional en nivel de emoción 3. (No se superpone)</Desc>
+	</PassiveDesc>
+  
+	<PassiveDesc ID="200004">
+		<Name>Coraje a medias</Name>
+		<Desc>Cuando un aliado muere, gana 1 de Fuerza la siguiente escena</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="200006">
+		<Name>Corazonada de Yun</Name>
+    <Desc>Incrementa el resultado máximo de los dados de evasión en +3 con una probabilidad de 50%</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="200005">
+		<Name>El arte de la defensa</Name>
+    <Desc>Incrementa el resultado máximo de los dados defensivos en +3 con una probabilidad de 25%</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="201001">
+		<Name>Corte de Fixer grado 9</Name>
+		<Desc>Probabilidad de 50% de incrementar el daño cortante en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="201002">
+		<Name>Golpe de Fixer grado 9</Name>
+		<Desc>Probabilidad de 50% de incrementar el daño contundente en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="201003">
+		<Name>Estocada de Fixer grado 9</Name>
+		<Desc>Probabilidad de 50% de incrementar el daño perforante en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="200007">
+		<Name>Descarga eléctrica</Name>
+		<Desc>En un ataque exitoso, inflige 1 de Parálisis con una probabilidad de 25% la siguiente escena (Una vez por objetivo por escena)</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="200010">
+		<Name>Hook</Name>
+		<Desc>Al derrotar a un enemigo, gana 1 de Fuerza la siguiente escena</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="210002">
+		<Name>Cocina instantánea</Name>
+		<Desc>Recupera 10% de HP al derrotar a un enemigo (Máx. 12)</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="210001">
+		<Name>Ración de emergencia</Name>
+		<Desc>Recupera 2 de HP al comienzo de cada escena</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="210003">
+		<Name>Talento</Name>
+		<Desc>Haz +1 de daño de aturdimiento contra enemigos con menor velocidad</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="210006">
+		<Name>Bate en llamas</Name>
+		<Desc>Probabilidad de 50% de infligir 1 de Quemadura en un ataque exitoso</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="211005">
+		<Name>Penetración</Name>
+		<Desc>Probabilidad de 50% de incrementar el daño perforante en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="211007">
+		<Name>Corte descendiente</Name>
+		<Desc>Probabilidad de 50% de incrementar el daño cortante en +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="211003">
+		<Name>Herida abierta</Name>
+		<Desc>Haz +1 de daño contra enemigos con Sangrado</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221001">
+		<Name>Manteniendo el paso</Name>
+		<Desc>Recupera 1 de HP al ganar un choque</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221002">
+		<Name>Manteniendo el paso</Name>
+		<Desc>Recupera 1 de HP al ganar un choque</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220001">
+		<Name>Calma</Name>
+    <Desc>Al ganar un choque, incrementa el resultado máximo del próximo dado en +3 con una probabilidad de 25%</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220002">
+		<Name>Manejo de espada Zwei Ⅰ</Name>
+		<Desc>Daño cortante +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221003">
+		<Name>Manejo de espada Zwei Ⅱ</Name>
+		<Desc>Daño de aturdimiento cortante +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220004">
+		<Name>Tu escudo</Name>
+		<Desc>Poder de dados defensivos +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220003">
+		<Name>Ofensa mínima</Name>
+		<Desc>Daño de aturdimiento cortante +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221004">
+		<Name>Manejo de espada Zwei Ⅲ</Name>
+		<Desc>Daño perforante +2</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220006">
+		<Name>Margen</Name>
+		<Desc>Al final de cada escena, restaura 1 de Luz y roba 1 página si la mano está vacia</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220005">
+		<Name>Mejor elección</Name>
+		<Desc>Recupera 3 de HP cuando el personaje descarte una página</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220007">
+		<Name>¡En tiempos como estos!</Name>
+		<Desc>Si 3 o menos páginas están en la mano al final de la escena, gana 1 de Fuerza la siguiente escena</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220008">
+		<Name>Descanso</Name>
+		<Desc>Restaura 1 de Luz al final de una escena si el personaje no utilizó ninguna página esa escena</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220010">
+		<Name>Respiración proofunda</Name>
+		<Desc>Al comienzo de cada escena, restaura 1 de Luz con una probabilidad de 25%</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220009">
+		<Name>Patada doble</Name>
+		<Desc>Haz 1 de daño al oponente al ganar un choque</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221005">
+		<Name>Puñetazo al plexo solar</Name>
+		<Desc>Daño contundente +2</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221007">
+		<Name>Destreza cortante de grado 8</Name>
+		<Desc>Daño de aturdimiento cortante +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221009">
+		<Name>Destreza perforante de grado 8</Name>
+		<Desc>Daño de aturdimiento perforante +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221010">
+		<Name>Destreza cortante de grado 7</Name>
+		<Desc>Daño de aturdimiento cortante +2</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221012">
+		<Name>Destreza perforante de grado 7</Name>
+		<Desc>Daño de aturdimiento perforante +2</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221013">
+		<Name>Espíritu pandilla del hacha</Name>
+		<Desc>Daño de aturdimiento contundente +1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221014">
+		<Name>Hacha doble</Name>
+		<Desc>Daño cortante +2, daño perforante -1</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221006">
+		<Name>Golpear el punto débil</Name>
+		<Desc>Daño contundente +3</Desc>
+	</PassiveDesc>
+  <PassiveDesc ID="230001">
+    <Name>Recuerdo</Name>
+    <Desc>Si un aliado ha muerto, gana 2 de Fuerza al final de cada escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="230004">
+    <Name>Concentración</Name>
+    <Desc>Gana +1 de Poder por la primer escena</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230005">
+    <Name>Fuego ciego</Name>
+    <Desc>Gana +2 de Poder por la primer escena</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230006">
+    <Name>Ataque sorpresa</Name>
+    <Desc>Los dados ofensivos ganan +3 de Poder por la primer escena</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="230007">
+    <Name>Guardián</Name>
+    <Desc>Al comienzo del acto, tres aliados aleatorios ganan 2 de Protección.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230107">
+    <Name>Luz del alba</Name>
+    <Desc>En un golpe exitoso, haz +1-2 de daño de aturdimiento si el objetivo tiene Quemadura.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230207">
+    <Name>Estigma taller de armas</Name>
+    <Desc>Cuando infliges Quemadura usando páginas de combate, aplica +1 acumulación adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230008">
+    <Name>Fixer solitario</Name>
+    <Desc>Al final de cada escena, gana 3 de Fuerza si no hay más aliados presentes.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230009">
+    <Name>Pasión</Name>
+    <Desc>Gana Poder por el doble de tu nivel de emoción actual (Hasta nivel 1).</Desc>
+  </PassiveDesc>
+
+  <!-- Gaze Office-->
+  <PassiveDesc ID="230010">
+    <Name>Bzzz bzzz</Name>
+    <Desc>Al comienzo del acto, inflige 1 de Parálisis a tres enemigos aleatorios.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230011">
+    <Name>Pzzt pzzt</Name>
+    <Desc>En un golpe exitoso, haz 1-2 de daño adicional si el objetivo tiene Parálisis.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230012">
+    <Name>Carga inestable</Name>
+    <Desc>Al final de cada escena, gana 1 de Fuerza con una probabilidad de 50% la siguiente escena</Desc>
+  </PassiveDesc>
+
+  <!-- Tomerry -->
+  <PassiveDesc ID="230016">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="231016">
+    <Name>El poder del amor</Name>
+    <Desc>Al ganar un acto, revive a los muertos de Town con 50% de HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="232016">
+    <Name>Dernier amour</Name>
+    <Desc>Si el HP baja de 50% o menos…</Desc>
+  </PassiveDesc>
+
+  <!-- Kurokumo -->
+  <PassiveDesc ID="230018">
+    <Name>Preparado</Name> <!-- sayo -->
+    <Desc>Roba 2 páginas más al comienzo del acto</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230118">
+    <Name>Espada de nube oscura</Name> <!-- sayo2 -->
+    <Desc>Poder de dados cortantes +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230019">
+    <Name>Apuñalamiento profundo</Name> <!-- yang -->
+    <Desc>Cuando infliges Sangrado usando páginas de combate, aplica +1 acumulación adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230020">
+    <Name>Herida profunda</Name>
+    <Desc>Al ganar un choque con dados ofensivos, inflige 1 de Sangrado la siguiente escena</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="231001">
+    <Name>Golpe de espada</Name>
+    <Desc>Después de un ataque cortante exitoso, inflige 1 de Sangrado la siguiente escena</Desc>
+  </PassiveDesc>
+  
+  <!-- Bremen -->
+  <PassiveDesc ID="230021">
+    <Name>Meow meow~</Name> <!-- 미야오 -->
+    <Desc>Al comienzo del acto, da 1 de Fuerza a dos aliados aleatorios</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230121">
+    <Name>Golpe improvisado</Name>  <!-- 브레멘 전원 -->
+    <Desc>Después de un ataque contundente exitoso, inflige 1 de Frágil a un enemigo aleatorio la siguiente escena (Una vez por escena)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230022">
+    <Name>¿Muu… muu…?</Name> <!-- 무무 -->
+    <Desc>En un ataque contundente exitoso, haz 1-2 de daño adicional al objetivo</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230023">
+    <Name>¡¡Oinkie!! ¡¡¡Oink!!!</Name> <!-- 오잉크 -->
+    <Desc>Al comienzo del acto, da 1 de Endeble a dos enemigos aleatorios</Desc>
+  </PassiveDesc>
+  
+  <!-- 쐐기 -->
+  <PassiveDesc ID="230024">
+    <Name>Imparable</Name> <!-- 오스카 -->
+    <Desc>Al recibir un daño letal, reduce todo el daño incluyendo el que activó esta pasiva en 25 por la escena (Una vez por acto)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230124">
+    <Name>Wedge</Name> <!-- 쐐기 전원 -->
+    <Desc>Poder de dados perforantes +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230025">
+    <Name>Perforador</Name> <!-- 파멜리 -->
+    <Desc>Daño perforante +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230026">
+    <Name>Sacudida perforante</Name> <!-- 파멜라 -->
+    <Desc>Daño de aturdimiento perforante +1</Desc>
+  </PassiveDesc>
+
+  <!-- 필립 에고 용-->
+  <PassiveDesc ID="230028">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230128">
+    <Name>Pasión ardiente</Name>
+    <Desc>Al comienzo de la escena, inflige 3 de Quemadura a todos los enemigos si el personaje no está aturdido.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230228">
+    <Name>Caparazón inestable de ego</Name>
+    <Desc>Cambia regularmente entre los modos 'Escudo de plumas' y 'Espada abrasadora', infligiendo Quemadura después de recibir golpes y al atacar, respectivamente. Usará 'Golpe Llameante' periodicamente.</Desc>
+  </PassiveDesc>
+  <!--녹슨 사슬-->
+  <PassiveDesc ID="232001">
+    <Name>Sublimación</Name>
+    <Desc>Los dados ganan +1 de Poder por cada 5 acumulaciones de Sangrado en ti mismo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="232002">
+    <Name>Herida torcida</Name>
+    <Desc>Haz +1 de daño de aturdimiento contra enemigos con Sangrado.</Desc>
+  </PassiveDesc>
+  
+  <!--공방 소속 해결사-->
+  <PassiveDesc ID="233001">
+    <Name>Solidaridad</Name>
+    <Desc>Al final de la escena, si todos los aliados están vivos, gana 1 de Fuerza la siguiente escena; si todos los aliados están muertos, inflige 2 de Endeble en ti mismo en su lugar.
+Esta habilidad pasiva solo se activa si el acto comenzó con uno o más otros aliados.</Desc>
+  </PassiveDesc>
+  <!-- 시 협회 -->
+  <PassiveDesc ID="240001">
+    <Name>Respiración excesiva</Name><!-- 유진1 -->
+    <Desc>Restaura 2 de Luz al usar una página que su coste original fuera 4 o mayor.
+Un dado de velocidad deja de estar disponible.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240101">
+    <Name>Asalto desviado</Name><!-- 유진2 -->
+    <Desc>Una vez por escena, responde a un ataque de un solo-lado con un dado de bloqueo [Lanzamiento: 2-6]. (No se utiliza en choques donde ambos personaje jugaron páginas de combate)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240201">
+    <Name>Agotamiento</Name> <!-- 유진3 -->
+      <Desc>Un dado de velocidad deja de estar disponible</Desc>
+    </PassiveDesc>
+  <PassiveDesc ID="240301">
+    <Name>Ojo de muerte</Name> <!-- 유진5 --><!-- 사(죽을 사:死)의 눈 -->
+    <Desc>Todos los dados ganan +4 de Poder
+Todos los dados pierden 3 de Poder</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240401">
+    <Name>Drenado</Name> <!-- 유진4 -->
+    <Desc>Poder de los dados -3</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="240002">
+    <Name>Ataque singular</Name> <!-- 발렌틴 -->
+    <Desc>Cuando usas una página de combate con un dado sin contraataque, el dado gana +2 de Poder y produce el doble de puntos de emoción en un choque.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="240003">
+    <Name>Respiración</Name>  <!-- 텐마 -->
+    <Desc>Al comienzo de la escena, restaura 1 de Luz si la Luz actual es 0</Desc>
+  </PassiveDesc>
+
+  <!-- 시 협회 공용 -->
+  <PassiveDesc ID="241001">
+    <Name>Kizuna/Fatiga extrema</Name>  <!-- Japanese '絆(きずな)' = 인연, 유대 -->
+    <Desc>Después que un aliado muere, gana 1 de Fuerza y Dureza cada escena por el resto del acto. (Se acumula hasta 2 veces)
+Comienza la Batalla con 75% menos de HP</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="241101">
+    <Name>Fatiga extrema</Name>
+    <Desc>Comienza la Batalla con 75% menos de HP</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="241201">
+    <Name>Fatiga extrema</Name>
+    <Desc>Comienza la Batalla con 50% menos de HP</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="241301">
+    <Name>Kizuna/Fatiga extrema</Name> <!-- Japanese '絆(きずな)' = 인연, 유대 --> 
+    <Desc>Después que un aliado muere, gana 1 de Fuerza y Dureza cada escena por el resto del acto. (Se acumula hasta 2 veces)
+Comienza la Batalla con 25% menos de HP</Desc>
+  </PassiveDesc>
+
+
+  <!-- puppet -->
+  <PassiveDesc ID="240004">
+    <Name>Aceleración</Name> <!-- 빠른 인형 -->
+    <Desc>Cuando la velocidad es 5 o mayor, haz +1 de daño de aturdimiento con los ataques</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240005">
+    <Name>Contusión</Name> <!-- 무거운 인형 -->
+    <Desc>En un ataque contundente exitoso, haz 2 de daño de aturdimiento adicional</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240006">
+    <Name>Esqueleto Marioneta</Name> <!-- 인형 공용-->
+    <Desc>Poder de dados contundentes +1</Desc>
+  </PassiveDesc>
+  
+  <!-- enemy only -->
+  <PassiveDesc ID="240008">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240108">
+    <Name>Funambolismo</Name>
+    <Desc>Cuando Emma y Noah están juntos, no pueden ser aturdido y ganan un dado de velocidad adicional. Si su resistencia al aturdimiento baja a 0, Emma y Noah serán separados al final de la escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240208">
+    <Name>Actuación solitario</Name>
+    <Desc>Cuando Noah está muerto, todas las resistencias cambian a "Fatal".</Desc>
+  </PassiveDesc>
+  <!-- 에마 (유저가 얻는 핵심 책장에서도 사용) -->
+  <PassiveDesc ID="240308">
+    <Name>Acrobacias de alto nivel</Name>
+    <Desc>Cuando usas una página que su coste original sea 3 o mayor, todos los dados en esa página ganan +1 de Poder</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240408">
+    <Name>Puño de león</Name>
+    <Desc>Poder de dados contundentes +1</Desc>
+  </PassiveDesc>
+
+  <!-- 노아 -->
+  <PassiveDesc ID="240508">
+    <Name>Montar</Name>
+    <Desc>Al final de la escena, reunete con Emma</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="240015">
+    <Name>Transportar mente</Name> <!-- 안톤, 발레리 -->
+    <Desc>Recupera 2 de resistencia al aturdimiento en un ataque exitoso</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240016">
+    <Name>Transportar salud</Name> <!-- 라일라 -->
+    <Desc>Recupera 2 de HP en un ataque exitoso</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="241002">
+    <Name>Carne licuada</Name> <!-- 청소부 공용 -->
+    <Desc>Poder de dados defensivos +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="241102">
+    <Name>Limpieza de cadaveres</Name> <!-- 청소부 공용 2 -->
+    <Desc>Cuando otro personaje muere, recupera 5% del HP máximo al final de esa escena (Máx. 12)</Desc>
+  </PassiveDesc>
+	<PassiveDesc ID="241202">
+    <Name>Limpieza de cadaveres</Name> <!-- 청소부 적 -->
+    <Desc>Cuando otro personaje muere, recupera 20% del HP máximo al final de esa escena</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="240018">
+    <Name>Gracia del Precepto</Name> <!-- 검지 수행자 -->
+    <Desc>Cada escena, incrementa el Poder de un tipo de dado ofensivo aleatorio en +2 (Cortante, perforante o contundente)</Desc>
+  </PassiveDesc>
+  <!-- Either one of cortante, Pierce, or Blunt Poder-Ups is cast, basically -->
+  <PassiveDesc ID="240118">
+    <Name>Lectura del Precepto</Name> <!-- 검지 수행자 2 -->
+    <Desc>Roba una página más al comienzo del acto</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="240019"> 
+    <Name>Salto cuántico</Name> <!-- 로즈 --> 
+    <Desc>Si la velocidad es 4 o mayor, haz 13 de daño adicional en un ataque exitoso con una probabilidad de 10%</Desc> 
+  </PassiveDesc>
+  <PassiveDesc ID="240020"> 
+    <Name>Refracción</Name> <!-- 센 --> 
+    <Desc>En un golpe exitoso, haz 13 de daño de aturdimiento adicional con una probabilidad de 5%</Desc> 
+  </PassiveDesc>
+  <PassiveDesc ID="240021"> 
+    <Name>Fuerza de reacción</Name> <!-- 레스티 --> 
+    <Desc>Si el personaje no utilizó ninguna página por una escena, gana 1 de Fuerza y Dureza la siguiente escena</Desc> 
+  </PassiveDesc>
+  <PassiveDesc ID="240022"> 
+    <Name>Secciones dimensionales</Name> <!-- 워프 공용 --> 
+    <Desc>En un golpe exitoso, haz 10 de daño adicional con una probabilidad de 10%</Desc> 
+  </PassiveDesc>
+  
+  <PassiveDesc ID="240023">
+    <Name>Soplo de humo</Name> <!-- 왕 -->
+    <Desc>Si un personaje tiene 'Humo', incrementa el daño de aturdimiento hecho con los ataques en (Humo x 10)%</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240024">
+    <Name>Adicción al humo</Name> <!-- 진 -->
+    <Desc>En un golpe exitoso, si el personaje tenía 8 o más acumulaciones de 'Humo', inflige 2 de Parálisis la siguiente escena (Una vez por objetivo por escena)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240025">
+    <Name>Vapores estimulantes</Name> <!-- 미 -->
+    <Desc>Una vez por escena, si un personaje tiene 'Humo', responde a un ataque de un solo-lado con un dado de bloqueo [Lanzamiento: 1~(Humo)]. (No se utiliza en choques donde ambos personaje jugaron páginas de combate)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240026">
+    <Name>Bruma profunda</Name> <!-- 웃는 얼굴들 공용 -->
+    <Desc>El 'Humo' incrementa tu daño en lugar del daño que recibes en este personaje</Desc>
+  </PassiveDesc>
+
+  <!-- 불안정한 우는 아이 -->
+  <PassiveDesc ID="240027">
+    <Name>Hierro ardiente</Name>
+    <Desc>Inflige 1-2 de Quemadura al golpear</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240127">
+    <Name>Escudo emplumado</Name>
+    <Desc>Cuando golpeas, inflige 1-2 de Quemadura al atacante</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240227">
+    <Name>Pasión volátil</Name>
+    <Desc>Si el objetivo tiene Quemadura, incrementa el Poder de los dados ofensivos en +1</Desc>
+  </PassiveDesc>
+  
+  <!-- 우는 아이 -->
+  <PassiveDesc ID="240028">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240128">
+    <Name>Separando mentes</Name> <!-- 합체 설명 -->
+    <Desc>Se separa al llegar a 0 HP. Todos los bibliotecarios restauran 1 de Luz y 10 de resistencia al aturdimiento después de eso.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240228">
+    <Name>Mentes separadas</Name> <!-- 분리 설명-->
+    <Desc>Se une cuando todos los Niños llegan a 0 HP. Todos los bibliotecarios restauran 1 de Luz y 10 de resistencia al aturdimiento después de eso.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240328">
+    <Name>Niño que no ve</Name>
+    <Desc>No puedes ver una porción de la información de las páginas de combate usadas por los Niños Llorando. Esta habilidad se anula cuando este personaje es aturdido.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240428">
+    <Name>Niño que no oye</Name>
+    <Desc>No puedes ver ni redirigir los objetivos de los Niños Llorando. Esta habilidad se anula cuando este personaje es aturdido.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240528">
+    <Name>Niño que no habla</Name>
+    <Desc>Un bibliotecario aleatorio se vuelve Inmovilizado al comienzo de la escena. Esta habilidad se anula cuando este personaje es aturdido.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240628">
+    <Name>Una mente precaria</Name>
+    <Desc>Estar aturdido no cambia las resistencias del personaje temporalmente.
+En su lugar, uno de los Niños juega una página con un dado que tiene el siguiente efecto: ‘[Al perder un Enfremiento] Todas las resistencias de todos los aliados cambian a "Fatal".’</Desc>
+  </PassiveDesc>
+
+  <!--세븐 협회-->
+  <PassiveDesc ID="243001">
+    <Name>Vulnerabilidades</Name>
+    <Desc>Cuando atacas a un objetivo con un tipo de daño contra los que son "Débil" o "Fatal", haz +1 de daño.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="243101">
+    <Name>Evaluación de información</Name>
+    <Desc>Al final de la escena, una resistencia de un enemigo aleatorio cambia de tipo a "Normal" por la escena. (Elegido de resistencias que sean "Resistente" o "Normal")</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="243201">
+    <Name>Observar debilidades</Name>
+    <Desc>Si el personaje atacó a un enemigo la última escena con un tipo de daño al que es "Débil" y el enemigo tiene 5 o más acumulaciones de Frágil al final de la escena, sus resistencia contra el tipo se vuelven "Fatal" por el resto del acto.</Desc>
+  </PassiveDesc>
+
+  <!-- 검계 -->
+  <PassiveDesc ID="243003">
+    <Name>Esgrima de la tierra natal</Name>
+    <Desc>Poder de dados cortantes +2</Desc>
+  </PassiveDesc>
+
+  <!--매우 강한 1급 해결사-->
+  <PassiveDesc ID="243005">
+    <Name>Escultor de cicatrices</Name>
+    <Desc>Los dados ofensivos en la primera página de combate que el personaje usa cada escena gana un efecto adicional: ‘[Al golpear] Inflige 2 de Sangrado’</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="243105">
+    <Name>Tenacidad</Name>
+    <Desc>En nivel de emoción 1 o mayor, gana 1 de Protección y Protección al aturdimiento al comienzo de la escena. La cantidad incrementa a 2 en nivel de emoción 3 y 3 en nivel de emoción 5.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="243205">
+    <Name>Herida de ruptura</Name>
+    <Desc>Haz +3 de daño contra enemigos con Sangrado.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250001">
+    <Name>Fervor</Name>
+    <Desc>Los dados ofensivos ganan +1 de Poder en nivel de emoción 3 o mayor</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250002">
+    <Name>Un peleador que nunca se rinde</Name> <!-- 로웰, 臨戰無退 -->
+    <Desc>Cuando el nivel de emoción aumenta, gana 1 de Fuerza y Dureza</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250003">
+    <Name>Firme como una montaña</Name> <!-- 세실, 安如泰山 -->
+    <Desc>Cuando el nivel de emoción aumenta, recupera 15% del HP máximo(Máx. 20)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250004">
+    <Name>Vigilante en paz</Name> <!-- 메이, 安不忘危 -->
+    <Desc>Cuando el nivel de emoción aumenta, recupera 25% de la resistencia al aturdimiento máxima a menos que el personaje esté aturdido</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250005">
+    <Name>Suministro de munición</Name> <!-- 총 쓰는 엄지들 공용 -->
+    <Desc>Después de tres ataque exitosos con páginas de combate melee, añade una Munición aleatoria a la mano.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250006">
+    <Name>Ordenes del jefe</Name> <!-- 칼로 -->
+    <Desc>Al comienzo de la escena, da 1 de Protección a 2 aliados aleatorios.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250106">
+    <Name>Tenacidad triplicada</Name> <!-- 칼로 -->
+    <Desc>Cada tercer dado ofensivo gana +1 de Poder. Comenzando desde la cuarta escena, todos los dados ofensivos ganan +1 de Poder en su lugar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250007">
+    <Name>Arena</Name> <!-- 보리스 -->
+    <Desc>Reduce todo el daño y daño de aturdimiento entrante en 1 (Incluyendo el daño no proveniente de ataques)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250008">
+    <Name>Primer disparo potenciado</Name> <!-- 카트리엘 -->
+    <Desc>Cuando juegas una página de combate de rango, su primer dado ofensivo gana +1 de Poder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250009">
+    <Name>Suministros adicionales</Name> <!-- 데니스 -->
+    <Desc>Cada vez que agotas 3 de Munición, añade una Munición aleatoria a la mano al final de la escena.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250010">
+    <Name>Protocolo resucitación de emergencia</Name>
+    <Desc>Al recibir un ataque letal, anula el daño y gasta toda la Carga para recuperar 5 de HP por acumulación (Una vez por acto)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250011">
+    <Name>Campo de fuerza</Name>
+    <Desc>Después de gastar Carga usando una página de combate, gana 1 de Protección la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250012">
+    <Name>Fuerte de corazón pesado</Name>
+    <Desc>Haz 1-2 de daño de aturdimiento al oponente al ganar un choque.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250110">
+    <Name>Escudo cargado</Name> <!-- 지팡이 공용1 -->
+    <Desc>En nivel de emoción 2 o mayor, si el personaje ganó Carga usando páginas de combate en la anterior escena, gana 1 de Dureza al comienzo de la escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250210">
+    <Name>Energía descargada</Name> <!-- 지팡이 공용2-->
+    <Desc>En nivel de emoción 2 o mayor, si el personaje gastó Carga usando páginas de combate en la anterior escena, gana 1 de Fuerza al comienzo de la escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="250013">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250113">
+    <Name>La Reverberación Azul</Name>
+    <Desc>No recibes daño de páginas de combate de rango.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250014">
+    <Name>Motor combustión interna</Name>
+    <Desc>Cuando ganas Humo usando páginas de combate, gana +1 acumulación adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250114">
+    <Name>Engranaje de carne</Name>
+    <Desc>El primer dado ofensivo de cada página de combate hace +2-3 de daño.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250214">
+    <Name>Engranaje del pensamiento</Name>
+    <Desc>Poder de los dados de evasión +1</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="150015">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150115">
+    <Name>Proxy del Índice</Name>
+    <Desc>En la segunda escena, entra en un estado de 'Espada desbloqueada' sin importar la condición.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150016">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150116">
+    <Name>Proxy del Índice</Name>
+    <Desc>En la segunda escena, entra en un estado de 'Espada desbloqueada' sin importar la condición.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150017">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150117">
+    <Name>Proxy del Índice</Name>
+    <Desc>En la segunda escena, entra en un estado de 'Espada desbloqueada' sin importar la condición.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250115">
+    <Name>Potencial bloqueado</Name> <!-- 解禁 -->
+    <Desc>Después de usar seis páginas de combate únicas en un solo acto, entra en un estado de 'Espada desbloqueada', que incrementa el Poder de todos los dados en 1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250015"> <!-- 에스더 -->
+    <Name>Torrente rabiosa</Name> <!-- 激流 -->
+    <Desc>Roba una página cada vez que el personaje usa 4 páginas de combate únicas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250016"> <!-- 휴버트 -->
+    <Name>Presión rompedora</Name> <!-- 強壓 -->
+    <Desc>En un choque, el dado defensivo del oponente pierde 1 de Poder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250017"> <!-- 글로리아 -->
+    <Name>Descanso fácil</Name> <!-- 熟閑 -->
+    <Desc>En nivel de emoción 2 o mayor, cada escena, el coste de una página de combate aleatoria en la mano que su coste sea 1 o mayor es reducido en 1 por la escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="250018"> <!-- 춘 -->
+    <Name>Fuego furioso desgarrador</Name> <!-- 火光衝天 -->
+    <Desc>Al comienzo de la escena, dos páginas de combate en la mano ganan el siguiente efecto: 'Mientras esta página está siendo utilizada, inflige el Doble de Quemadura con las habilidades de las páginas de combate'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250020"> <!-- 샤오 -->
+    <Name>Fuerza de un incendio</Name> <!-- 燎原之火 -->
+    <Desc>En un golpe melee, inflige 1 de Quemadura y 'Fuerza de un Incendio', un estado que dura 2 escenas.
+Si un enemigo con 'Fuerza de un Incendio' es aturdido, inflige a todos los enemigos Quemadura igual a la mitad de Quemadura que el enemigo tenía. (Redondeado hacia abajo)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250021"> <!-- 미리스 -->
+    <Name>Fuego abrasador</Name> <!-- 抱火臥薪 -->
+    <Desc>Cuando el objetivo del ataque melee de este personaje recibe daño de Quemadura al final de la escena que fue atacado, también reciben daño de aturdimiento igual a la mitad de Quemadura.</Desc>
+  </PassiveDesc>
+
+  <!-- Enemy only -->
+  <PassiveDesc ID="250022">
+    <Name>Kali</Name>
+    <Desc>Restaura 1 de Luz adicional y roba 1 página más cada escena.
+Cuando el HP baja a 350, recupera completamente la resistencia al aturdimiento y Manifiesta el E.G.O; el HP no puede bajar de 350 antes que esto ocurra. (Una vez por recepción)
+Después de perder el estado 'E.G.O Manifestado', recuperalo en 3 escenas.
+Si el personaje entra a un nuevo acto después de haber manifestado el E.G.O esta recepción, manifiestalo en la segunda escena.</Desc>
+  </PassiveDesc>
+  <!-- For use only -->
+  <PassiveDesc ID="250122">
+    <Name>Legendaria</Name>
+    <Desc>Solo Gebura puede equiparlo. Puedes acceder a E.G.O único.
+En nivel de emoción 4 o mayor, la página de combate 'Manifestar E.G.O' es añadida a la mano. (Una vez por acto)</Desc>
+  </PassiveDesc>
+  
+  <!-- For both enemy and ally versions -->
+  <PassiveDesc ID="250222">
+    <Name>Represalias</Name>
+    <Desc>Gana un dado de contraataque (Cortante, 4-8) al comienzo del combate.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250322">
+    <Name>La más fuerte</Name>
+    <Desc>Escoge el dado de velocidad con menor resultado; el valor cambia al máximo valor posible.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250422">
+    <Name>La Niebla Roja</Name>
+    <Desc>Todos los dados ganan +2 de Poder.
+Puede usar 'División Mayor: Horizontal'.
+Cada escena, las resistencia contra un tipo aleatorio se vuelve "Normal" mientras las otras se vuelven "Resistente".
+Por cada enemigo derrotado, gana una acumulación de 'Niebla Roja', que incrementa el Poder de todos los dados.
+Si el personaje falla en hacer 40+ de daño con los ataques en cualquier escena, recibe daño de aturdimiento igual a 40% de la resistencia al aturdimiento máxima.
+Pierde el estado 'E.G.O Manifestado' al estar aturdido.</Desc>
+  </PassiveDesc>
+
+  <!-- 비나 조율자 -->
+  <PassiveDesc ID="10010">
+    <Name>Binah</Name>
+    <Desc>Tiene página clave y páginas de combate únicas que no pueden ser cambiadas ni remplazadas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10011">
+    <Name>Arbitro incompleto</Name>
+    <Desc>Al comienzo de la escena, roba hasta tener 4 páginas en la mano.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250522">
+    <Name>La Niebla Roja</Name>
+    <Desc>Puede equipar la página clave de La Niebla Roja</Desc>
+  </PassiveDesc>
+
+  <!-- R사 -->
+  <PassiveDesc ID="250123">
+    <Name>Traje triple-R</Name>
+    <Desc>Puede acumular hasta 20 Cargas a la vez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251001">
+    <Name>Mejora de conejo</Name> <!-- 토끼팀 + 묘 -->
+    <Desc>Por cada 30% de HP máximo perdido este acto, gana 1 de Prisa al comienzo de cada escena. (Hasta 3)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251002">
+    <Name>Procedimiento de rinoceronte</Name> <!-- 코뿔소팀 + 막심 -->
+    <Desc>Por cada 30% de HP máximo perdido este acto, gana 1 de Dureza al comienzo de cada escena. (Hasta 2)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251003">
+    <Name>Tratamiento de reno</Name> <!-- 순록팀 + 루돌프 -->
+    <Desc>Por cada 30% de HP máximo perdido este acto, gana 1 de Fuerza al comienzo de cada escena. (Hasta 2)</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250023">
+    <Name>La comandante</Name> <!-- 니콜라이 -->
+    <Desc>Si un personaje tiene 11 o más Carga al comienzo de la escena, da 1 de Fuerza y Dureza a todos los aliados.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250223">
+    <Name>Toque final</Name> <!-- 니콜라이2 -->
+    <Desc>Después de usar una página de combate en un objetivo, deja una 'Marca' en ellos al final de la escena. El enemigo Marcado recibe 50% de daño y daño de aturdimiento adicional de los ataques. Solo un enemigo se puede Marcar a la vez.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="251101">
+    <Name>Fuerza muscular Ccomprimida</Name> <!-- 토끼팀 + 묘 -->
+    <Desc>Si un personaje tiene 11 o más Carga al comienzo de la escena, gana 1 de Prisa.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251102">
+    <Name>Casco bionico sincronizado</Name> <!-- 코뿔소팀 + 막심 -->
+    <Desc>Si un personaje tiene 11 o más Carga al comienzo de la escena, gana 2 de Protección.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251103">
+    <Name>Astas de ondas cerebrales</Name> <!-- 순록팀 + 루돌프 -->
+    <Desc>Si un personaje tiene 11 o más Carga al comienzo de la escena, haz +2 de daño de aturdimiento con los ataques por la escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="250024">
+    <Name>Habilidad de Myo</Name> <!-- 묘 -->
+    <Desc>Cuando usas una página de combate, todos los dados en la página ganan Poder contra objetivos con menor velocidad. (+1 Poder por 2 puntos de diferencia, hasta 5)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250025">
+    <Name>Embestida de Maxim</Name> <!-- 막심 -->
+    <Desc>Si un personaje tiene 20 o más Carga al comienzo de la escena, haz 50% más de daño y daño de aturdimiento con los ataques; también recibe 30% menos de daño y daño de aturdimiento de los ataques.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250026">
+    <Name>Superviviente</Name> <!-- 루돌프 -->
+    <Desc>Cada vez que el personaje se recupera del aturdimiento, gana 1 de Fuerza y Dureza al comienzo de la escena por el resto del acto. (Hasta 5)</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="251201">
+    <Name>Suficiente munición</Name>
+    <Desc>Las páginas de combate que su tipo por defecto sea 'Rango' no se agota al usarla.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="250027">
+    <Name>Manipulador de probabilidades</Name>
+    <Desc>Cuando un dado que este personaje lanza consigue el valor mínimo, vuelve a lanzarlo. Se activa una vez por dado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250127">
+    <Name>Cambio de postura</Name>
+    <Desc>Puede tener una de las cuatro posturas: cortante, perforante, contundente y en guardia. Se tiene un Mazo diferente para cada postura. Al comienzo del acto, una postura aleatoria es seleccionada; la postura se puede cambiar pagando Luz.</Desc>
+  </PassiveDesc>
+  
+  <!-- enemy only -->
+  <PassiveDesc ID="250227">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Restaura completamente la Luz cada escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250327">
+    <Name>Caminante dimensional</Name>
+    <Desc>Cuando el HP baja a 350, termina el acto abruptamente y muevete a otro Piso. El HP no puede bajar de 350 antes que esto ocurra. (Una vez por recepción)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250427">
+    <Name>Cambio de postura</Name>
+    <Desc>En un intervalo regular, cambia la postura a una de las siguientes: cortante, perforante, contundente y en guardia. Después de cambiar de postura, los dados del tipo representado en la postura ganan +1 de Poder por la escena.</Desc>
+  </PassiveDesc>
+
+  <!-- 샤오 -->
+  <PassiveDesc ID="150036">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150136">
+    <Name>Xiao</Name>
+    <Desc>Queda Incapacitada luego que el HP baja a 100.</Desc>
+  </PassiveDesc>
+  <!-- 미리스 -->
+  <PassiveDesc ID="150037">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  
+  <!-- 샤오 2차 -->
+  <PassiveDesc ID="150038">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150138">
+    <Name>Nueve hijos del Dragón</Name>
+    <Desc>Poder de los dados +1.
+Al comienzo de la escena, inflige 2 de Quemadura en todos los enemigos.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150238">
+    <Name>Pú Láo</Name>
+    <Desc>Cuando 'Pú Láo' está activo, todos los personaje no son afectados por el Poder por la escena.
+'Pú Láo' se activa en la primera escena y luego se activa cada 2 escenas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150338">
+    <Name>Incremento inverso</Name>
+    <Desc>Cada escena, usa una página de combate que hace daño de aturdimiento a ti mismo pero da Fuerza si pierde en un choque.
+La resistencia al aturdimiento no se recupera completamente incluso si el personaje se recupera de un aturdimiento o el acto termina.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250036">
+    <Name>Nueve hijos del Dragón</Name>
+    <Desc>Si el nivel de emoción es 2 o mayor al final de la escena, manifiesta el E.G.O.
+El E.G.O manifestado es potencial si el nivel de emoción del personaje es 4 o mayor al final de la escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250136">
+    <Name>Nueve hijos del Dragón</Name>
+    <Desc>Poder de los dados ofensivos +1. gana la habilidad pasiva 'Bā Xià'.
+El E.G.O es potencial si el nivel de emoción del personaje es 4 o mayor al final de la escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250236">
+    <Name>Nueve hijos del Dragón</Name>
+    <Desc>Poder de los dados +1. gana la habilidad pasiva 'Bā Xià'.
+Al comienzo de la escena, inflige 2 de Quemadura a todos los enemigos.
+Tiene acceso a E.G.O único.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250336">
+    <Name>Bā Xià</Name>
+    <Desc>No recibe daño de Quemadura. Cuando recibe un problema de estado que no es Quemadura, reducelo a la mitad (Redondeado hacia abajo, no disminuye de 1)</Desc>
+  </PassiveDesc>
+
+  <!-- Left and Right Hands -->
+  <PassiveDesc ID="150039">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="150139">
+    <Name>Mano</Name>
+    <Desc>No puede ser aturdido; no se puede derrotar al agotar su HP. No puede Actuar si el HP está en 30 o menos al comienzo de la escena. Se destruye cuando 얀샋ㄷ요무 no está presente.</Desc>
+  </PassiveDesc>
+
+  <!-- Yan (enemy) -->
+  <PassiveDesc ID="150051">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150151">
+    <Name>얀샋ㄷ요무</Name>
+    <Desc>Si el HP de este personaje está en 301 o mayor y el HP de todas las manos está en 30 o menos, fusionate con las Manos.
+Si el HP de este personaje baja a 300 o menos mientras está fusionado con las Manos, separate de las Manos al final de la escena; cuando se separa, elimina todos los efectos de estado y recupera completamente la resistencia al aturdimiento.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150251">
+    <Name>Espada distorcionada</Name>
+    <Desc>Si el personaje está fusionado con las manos o si el HP del personaje está en 300 o menos, usa un ataque en Masa en intervalos regulares.
+El ataque en Masa también es usado si el acto dura un gran número de escenas.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250051">
+    <Name>얀샋ㄷ요무</Name>
+    <Desc>Si un personaje tiene más páginas de Anormalidad de 'Ruptura (Rojo)' que de 'Despertar (Azul)', todos los dados ganan +1 de Poder. Si las páginas de ruptura superan a las de despertar por 2 o más, incrementa el daño y daño de aturdimiento de los dados ofensivos en +1 en adición.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250151">
+    <Name>El mensajero</Name> <!-- 傳令 -->
+    <Desc>Cada escena, gana una página de combate especial que puede ser usada en aliados.
+El tipo de página de combate es determinada aleatoriamente cada escena. En nivel de emoción 3 o mayor, el propietario puede elegir entre dos opciones en su lugar.
+(Hay cuatro tipos de páginas de combate especiales con diferentes funciones: 'Da Fuerza', 'Da Protección y Protección al aturdimiento', 'Roba una página' y 'Restauración de Luz'.)</Desc>
+  </PassiveDesc>
+
+  <!-- 사도 -->
+  <PassiveDesc ID="300001">
+    <Name>Apóstol</Name>
+    <Desc>Incontrolable. Este personaje no puede morir, pero una vez su HP baja a 1, No puede actuar hasta que la Sincronización con la NocheBlanca termine.
+El personaje se transformará de vuelta en un bibliotecario si no hay aliados Sincronizados con la NocheBlanca.</Desc>
+  </PassiveDesc>
+
+
+  <!-- hana -->
+  <PassiveDesc ID="260001">
+    <Name>Cuatro trigramas</Name>
+    <Desc>Gana cuatro páginas de combate especiales que benefician al usuario por la escena que son utilizadas. Solo una de las páginas de Cuatro Trigramas puede ser jugada por escena, cuando una página de Cuatro Trigramas ha sido utilizada, no se podrá reutilizar hasta que todas hayan sido utilizadas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="260002">
+    <Name>Hana para todos</Name>
+    <!-- 미리내 -->
+    <!-- Please translate '하나' as 'Hana' rather than 'One'. -->
+    <Desc>Cuando ganas Fuerza, Dureza, Protección, o Protección al aturdimiento con páginas de combate: Da el mismo efecto de estado a otro aliado aleatorio también.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="260003">
+    <Name>Todos para Hana</Name>
+    <!-- 해롤드 -->
+    <!-- Please translate '하나' as 'Hana' rather than 'One'. -->
+    <Desc>Si el personaje recibio daño de los ataques en la anterior escena, cambia las resistencias de este personaje contra el tipo que haga la mayor cantidad de daño a "Resistente" por la escena. (Aplica separado para daño fisico y daño de aturdimiento)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="260004">
+    <Name>Los doce Fixers</Name>
+    <!-- 올리비에 -->
+    <!-- Epic 'The Twelve Peers' reference. -->
+    <Desc>Incrementa el resultado *Mínimo* de todos los dados en +2. En nivel de emoción 3 o mayor, también incrementa el resultado *Máximo* de todos los dados en +1.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="160004">
+    <Name>Duelo</Name>
+    <Desc>Inmune a Inmovilización. El oponente gana HP máximo y resistencia al aturdimiento máxima adicional.</Desc>
+  </PassiveDesc>
+
+  <!-- 검은 침묵 -->
+  <PassiveDesc ID="10012">
+    <Name>Orlando</Name>
+    <Desc>Tiene página clave y páginas de combate únicas que no pueden ser cambiadas ni remplazadas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10013">
+    <Name>El Silencio Negro</Name>
+    <Desc>Roba 2 páginas adicionales al comienzo del acto. Todos los dados en cada tercer página de combate usada ganan +2 de Poder.</Desc>
+  </PassiveDesc>
+
+  <!-- 잔향악단 -->
+  <PassiveDesc ID="260005">
+    <Name>Resonancia</Name>
+    <Desc>Cuando se usa una página de combate melee, si la diferencia de velocidad entre este personaje y la Vibración del objetivo es 1 o menos, todos los dados en la página ganan +2 de Poder.
+Al comienzo del acto, roba 2 páginas.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260006">
+    <Name>Sobrecalentar</Name>
+    <Desc>Mientras el personaje tiene Quemadura, los dados ofensivos ganan +1 Poder.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260007">
+    <Name>Fumador maestro</Name>
+    <Desc>Cuando usas una página de combate con un efecto que tenga que ver con 'Humo', todos los dados en la página ganan +1 de Poder.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260008">
+    <Name>Prepara el plato principal</Name>
+    <Desc>Cuando se usa una página de combate melee, si el objetivo tiene Sangrado, Los dados ofensivos en la página ganan +1~2 de Poder.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="260009">
+    <Name>¡Neigh~! ¡Woof-woof! ¡Bawk!</Name> 
+    <Desc>Al golpear con una página de combate melee, activa uno de los siguientes efectos (cada efecto se activa una vez por escena):
+- Inflige 1 de Endeble la siguiente escena
+- Inflige 1 de Parálisis la siguiente escena
+- Haz 2 de daño de aturdimiento al objetivo
+- recupera 2 de resistencia al aturdimiento</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260010">
+    <Name>Actuación esplendida</Name>
+    <Desc>Cuando usas una página de combate con 3 o más tipos de dado que no sean de contraataque, todos los dados en la página ganan +1 de Poder y haz +1 de daño.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260011">
+    <Name>Coraje</Name>
+    <Desc>Al recibir un ataque letal, anula el daño y recupera 100 de HP; al final de la escena que esto suceda, recupera toda la resistencia al aturdimiento. (Una vez por recepción)</Desc>
+  </PassiveDesc>
+
+
+  <PassiveDesc ID="260012">
+    <Name>Cuerdas de títere</Name>
+    <Desc>Al comienzo del acto, añade una página de combate especial que puede dar 'Cuerdas del titiritero' a otro aliado a la mano.
+El personaje con 'Cuerdas del titiritero' gana 1 de Fuerza o Dureza al comienzo de cada escena y su HP no baja de 1.
+Si el HP del personaje con 'Cuerdas del titiritero' llega a 1 o si el personaje con esta habilidad pasiva no está presente, 'Cuerdas del titiritero' se pierde al final de la escena.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="260013">
+    <Name>Sanguinario</Name>
+    <Desc>Al golpear, recupera 2 de HP.
+Si el personaje recupera 3 o más de HP en una sola escena, gana 1 de Fuerza la siguiente escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260014">
+    <Name>Contratos</Name>
+    <Desc>Al comienzo del acto, añade Contratos sin Firmar a las manos de todos los aliados.
+Si el personaje cumple las condiciones puestas en el Contrato sin firmar de sus manos, su efecto es otorgado y el Contrato se agotará. Es posible cambiar Contratos sin Firmar con otros aliados.</Desc>
+  </PassiveDesc>
+<!-- '계약 효과' is igual a '계약' used in Pluto's battle-->
+
+  <!--뒤틀린 잔향악단 하층 일렁임-->
+  <PassiveDesc ID="1400001">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+
+   <!-- The Black Silence, phase 1 -->
+  <PassiveDesc ID="170001">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170002">
+    <Name>Represalias</Name>
+    <Desc>Gana 2 dados (Cortante, 4-8) al comienzo del combate.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170003">
+    <Name>Rencor</Name>
+    <Desc>Recupera 5 de resistencia al aturdimiento al golpear; pierde 8 de resistencia al aturdimiento al perder un Enfremiento.</Desc> <!-- Leave the "unimplemented" text in for now, they plan to choose one of the two after testing. -->
+  </PassiveDesc>
+  <PassiveDesc ID="170004">
+    <Name>El Silencio Negro</Name>
+    <Desc>Todos los dados en la página seleccionada en el tercer dado de velocidad ganan +2 de Poder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170005">
+    <Name>Velocidad Ⅲ</Name>
+    <Desc>Dado de velocidad +1. Gana un dado de velocidad adicional en nivel de emoción 3.</Desc>
+  </PassiveDesc>
+
+<!--검은침묵 2페이즈 패시브-->
+  <PassiveDesc ID="170101">
+    <Name>El nacimiento de muertos</Name>
+    <Desc>Cuando un Desecho humeante es derrotado, aparece uno para remplazarlo la siguiente escena y pierde 50 de HP. (Una vez por unidad) No aparecerán Desechos humeantes si el personaje tiene 300 o menos de HP.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="170102">
+    <Name>Portador de Bruma sofocante</Name>
+    <Desc>Cuando estás atacando, si el objetivo tiene Bruma sofocante, haz +2 de daño.
+Cuando golpeas, si el atacante tiene Bruma sofocante, recibe 2 menos de daño.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="170103">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+
+<!-- The Black Silence, phase 3 -->
+  <PassiveDesc ID="170201">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170202">
+    <Name>Almas gemelas</Name>
+    <Desc>Dados de velocidad +2. gana Enlace del alma por 3 escenas, con un intervalo de 2-Escena. Mientra Enlace del alma está activo, gana 3 dados de velocidad adicionales. 
+Si ambos Roland y Angelica están aturdidos, Enlace del alma se retrasa en 1 escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170200">
+    <Name>Almas enlazadas</Name>
+    <Desc>Si Enlace del alma es reducido a 0 antes de que expire, la resistencia al daño del personaje cambia a  "Normal" y la resistencia al daño de aturdimiento a "Fatal" por las siguientes 2 escenas y es recibe 3 Parálisis. 
+De no se asi, recupera HP y resistencia al aturdimiento cuando Enlace del alma expira,  y establece la cantidad a la del personaje con mayor HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170203">
+    <Name>Objetivo requerido</Name>
+    <Desc>Mientras Enlace del alma está activo, los primero tres dados de velocidad apuntan al bibliotecario con menor HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170204">
+    <Name>Marca negra</Name>
+    <Desc>Cuando no tengas Enlace del alma, prioriza apuntar al bibliotecario que tenga una 'Marca negra'. Los dados ofensivos ganan +3 de Poder contra el objetivo Marcado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170205">
+    <Name>Querido adios</Name>
+    <Desc>Cuando Angelica muere, entra en un estado Frenético y usa un Conjunto diferente de páginas de combate.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170211">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170212">
+    <Name>Objetivo requedo</Name>
+    <Desc>Mientras Enlace del alma está activo, los primero tres dados de velocidad apuntan al bibliotecario con menor HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170213">
+    <Name>Marca negra</Name>
+    <Desc>En la tercera escena que Enlace del alma está activo, deja una 'Marca negra' en el último personaje que lucho contra este personaje.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170214">
+    <Name>Querida Despedida</Name>
+    <Desc>Cuando Roland muere, se vuelve Desconsolada y usa un Conjunto diferente de páginas de combate.</Desc>
+  </PassiveDesc>
+  
+  <!-- The Black Silence, phase 4 -->
+  <PassiveDesc ID="170301">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0. Recibe la mitad de daño de efectos de estado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170302">
+    <Name>Memorias de la Biblioteca</Name>
+    <Desc>Por la duración de la fase, gana una habilidad pasiva única cada escena. El HP no disminuye de 40%. Si el HP de Roland está en 40% al final de la escena, pasa a la siguiente fase. recupera completamente la resistencia al aturdimiento cuando se pasa a la siguiente fase.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170303">
+    <Name>Cicatrices</Name>
+    <Desc>Reduce el daño de un Tipo en especifico, cual cambia cada escena. Cuando te golpean con el ataque de ese tipo, reduce su daño a 0 con una probabilidad de 20%. Este efecto se puede anular destruyendo las armas invocadas por Roland.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170304">
+    <Name>Sangre</Name>
+    <Desc>Los dados defensivos ganan 1-2 de Poder esta escena. Si un dado defensivo pierde un choque, recibe 3-6 de daño de aturdimiento.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170305">
+    <Name>Leer</Name>
+    <Desc>Gana 1 de Fuerza esta escena. La Fuerza ganada incrementa en 1 cuando este efecto está activo. Si un dado ofensivo falla en hacer daño, recibe 3-6 de daño de aturdimiento.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170306">
+    <Name>Curiosidad</Name>
+    <Desc>Por esta escena, al golpear, baraja dos páginas aleatorios en la mano del objetivo de vuelta a su Mazo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170307">
+    <Name>Beso</Name>
+    <Desc>Prioriza apuntar bibliotecarios con Atadura. Por esta escena, al ganar un choque, inflige Astilla de hielo al oponente. Al final de la escena, personajes con 3 o más Astillas de hielo están Inmovilizados por la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170311">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170312">
+    <Name>Fragmentos de recuerdos dispersos</Name>
+    <Desc>Al comienzo de la fase, cuatro Imagenes del pasado son invocadas, cada una con diferentes habilidades.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170320">
+    <Name>Despecho grabado</Name>
+    <Desc>Si esto permanece por el final de la escena, esto se Clava al suelo. El último dado de la página de combate usada en la quinta escena es reciclada por cada arma en el suelo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170330">
+    <Name>Imagen del pasado</Name>
+    <Desc>Dado de velocidad +1. No ganas dados de velocidad adicionales por nivel de emoción. Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170331">
+    <Name>Pulsación</Name>
+    <Desc>Dado de velocidad -1. Al golpear, da 1 de Fuerza a todos los aliados la siguiente escena. Si el personaje no pudo hacer ningún Dañ usando dados ofensivos por el final de la escena, recibe daño de aturdimiento.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170332">
+    <Name>Aspiración</Name>
+    <Desc>El HP máximo incrementa en 15%. gana 1-2 de velocidad.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170333">
+    <Name>Latidos fervientes</Name>
+    <Desc>Este personaje muere al final de la tercera escena que fue invocado. Gana 2 de Fuerza y Dureza, 3 de Prisa y 4 de Protección cada escena hasta morir. Todas las resistencias al daño de aturdimiento cambian a "Inefectivo". El HP máximo disminuye a 50%.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170334">
+    <Name>Aprender</Name>
+    <Desc>Usa la página de combate 'Aprender' en todos los dados de velocidad. Si el ataque de este personaje golpea, inflige el estado 'Mentiras' que cambia el coste de las páginas a uno aleatorio la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170335">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+
+
+  <!--뒤틀린 잔향악단 중층 공용-->
+  <PassiveDesc ID="1405000">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0. No ganas dados de velocidad adicionales por nivel de emoción.</Desc>
+  </PassiveDesc>
+ 
+  <!--뒤틀린 잔향악단 중층 Oswald-->
+  <PassiveDesc ID="1405011">
+    <Name>Comienzo del espectáculo~</Name>
+    <Desc>Al final de la escena, todos los bibliotecarios reciben 2-4 de daño de aturdimiento. Prioriza apuntar al bibliotecario con la menor resistencia al aturdimiento actual.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1405012">
+    <Name>¡Puedo encogerme de hombros!</Name>
+    <Desc>No puede perder más de 50% del HP máximo en una sola escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1405013">
+    <Name>¡Despedida…!</Name>
+    <Desc>Cuando un aliado muere, recibe 50 de daño de aturdimiento.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1405014">
+    <Name>Final del espectáculo</Name>
+    <Desc>Al morir, todos los bibliotecarios recuperan toda la resistencia al aturdimiento y todos los problemas de estado en ellos se reducen a la mitad.</Desc>
+  </PassiveDesc>
+  <!--뒤틀린 잔향악단 중층 오스왈드 인어씨-->
+  <PassiveDesc ID="1405021">
+    <Name>¡Fue un placer actuar a tu lado…!</Name>
+    <Desc>Al morir, Oswald recibe 70 de daño de aturdimiento. (Oswald aún recibe daño incluso si está fuera de combate)</Desc>
+  </PassiveDesc>
+  <!--뒤틀린 잔향악단 중층 오스왈드 칼날씨-->
+  <PassiveDesc ID="1405031">
+    <Name>¡Fue un placer actuar a tu lado…!</Name>
+    <Desc>Al morir, Oswald recibe 70 de daño de aturdimiento. (Oswald aún recibe daño incluso si está fuera de combate)</Desc>
+  </PassiveDesc>
+  <!--뒤틀린 잔향악단 중층 오스왈드 토끼씨-->
+  <PassiveDesc ID="1405041">
+    <Name>¡Fue un placer actuar a tu lado…!</Name>
+    <Desc>Al morir, Oswald recibe 70 de daño de aturdimiento. (Oswald aún recibe daño incluso si está fuera de combate)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1405042">
+    <Name>Amalgamación</Name>
+    <Desc>Si aparece por los efectos de los 'Hilos rojos', el HP máximo incrementa en 20 por cada personaje que fue unido y gana las habilidades pasivas de los bibliotecarios que fueron unidos.</Desc>
+  </PassiveDesc>
+
+  <!--뒤틀린 잔향악단 중층 Jae-heon-->
+  <PassiveDesc ID="1407011">
+    <Name>Cuerdas enredadas</Name>
+    <Desc>Cuando un dado que cada aliado juegue tenga un resultado mínimo, vuelve a lanzarlo. Se Activa una vez por dado. Al comienzo de la escena, Un bibliotecario aleatorio recibe 2 Atadura. Al comienzo de la escena cuando 'Cuerdas Tirantes' es usado, Todas las 'Cuerdas de Títere' son removidas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1407012">
+    <Name>Carne desatada</Name>
+    <Desc>Después de morir, todos los bibliotecarios ganan 1-3 de Prisa al comienzo de cada escena y todos sus dados ganan +1 de Poder por el resto del acto.</Desc>
+  </PassiveDesc>
+
+  <!--뒤틀린 잔향악단 중층 Tanya-->
+  <PassiveDesc ID="1406011">
+    <Name>Tormenta feroz</Name>
+    <Desc>Al final de la escena, todos los bibliotecarios reciben 3-5 de daño. Los dados ofensivos de Jae-heon ganan '[Al golpear] Inflige 1 de Sangrado'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1406012">
+    <Name>Tormenta violenta</Name>
+    <Desc>Después de morir, todos los bibliotecarios hacen +3 de daño con los ataques por el resto del acto.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1406013">
+    <Name>Resolución ardiente para pelear</Name>
+    <Desc>Si no hay otros aliados presentes al final de la escena, gana 1 de Fuerza y Dureza y gana 2 dados de velocidad por el resto del acto.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="170006">
+    <Name>Máscara que bloquea la percepción</Name>
+    <Desc>Un dado de velocidad con la menor velocidad se vuelve imposible de apuntar.</Desc>
+  </PassiveDesc>
+  
+  
+  <!-- 최종전 머눈발 -->
+  <PassiveDesc ID="180001">
+    <Name>Un Arbitro</Name>
+    <Desc></Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="180002">
+    <Name>Una Garra</Name>
+    <Desc></Desc>
+  </PassiveDesc>
+  
+  <!-- special geburah -->
+  <PassiveDesc ID="180104">
+    <Name>Habilidad de Gebura</Name> <!-- igual a 묘의 기량 -->
+    <Desc>Cuando usas una página de combate, todos los dados en la página ganan Poder contra objetivos con menor velocidad. (+1 de Poder por 2 puntos de diferencia, hasta 5)</Desc>
+  </PassiveDesc>
+  
+  <!-- special binah -->
+  <PassiveDesc ID="180005">
+    <Name>Un Arbitro</Name>
+    <Desc>Al comienzo de la escena, roba hasta 5 páginas en la mano.</Desc>
+  </PassiveDesc>
+  
+
+  <!-- special black silence -->
+  <PassiveDesc ID="10112">
+    <Name>Cansancio</Name>
+    <Desc>Comienza la Batalla con 25% menos de HP</Desc>
+  </PassiveDesc>
+
+  
+<!-- 밤의 송곳 (Night Awls) -->
+  <PassiveDesc ID="252001">
+    <Name>Misericordia</Name>
+    <Desc>Los dados ofensivos ganan +1 de Poder contra objetivos con menos que 10% de HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="252002">
+    <Name>Estilete</Name>
+    <Desc>Los dados perforantes ganan +2 de Poder y los dados cortantes y contundentes pierden -2 de Poder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="252003">
+    <Name>Grieta en la armadura</Name>
+    <Desc>Cuando se usa una página de combate melee, Si la velocidad de este personaje es mayor que la del objetivo por 3 o más, destruye un dado de bloqueo que el objetivo tenga.</Desc>
+  </PassiveDesc>
+
+  <!-- 정사무소 (Jeong's Office) -->
+  <PassiveDesc ID="234001">
+    <Name>Trato</Name>
+    <Desc>Si el personaje descarta un página, roba 1 página al comienzo de la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="234002">
+    <Name>Apilando el mazo</Name>
+    <Desc>Si el personaje descarta un página, restaura 1 de Luz al final de la escena.</Desc>
+  </PassiveDesc>
+
+  <!-- 우제트 (Udjat) -->
+  <PassiveDesc ID="253001">
+    <Name>Espejismo</Name>
+    <Desc>Al final de la escena, recupera la mitad del daño de aturdimiento recibido durante la escena. (Mínimo 1; no se activa estando aturdido)</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="253002">
+    <Name>Ojo de halcón</Name>
+    <Desc>Al final de la escena, da 2 de Protección al aliado que sufrió la mayor cantidad de daño.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="253003">
+    <Name>Haboob</Name>
+    <Desc>Una vez por escena, después de sufrir un ataque de un solo-lado, gana 1 de Protección y Protección al aturdimiento la siguiente escena.</Desc>
+  </PassiveDesc>
+
+  <!-- 미래생명 (Mirae Life Insurance) -->
+  <PassiveDesc ID="254001">
+    <Name>Beneficios del seguro</Name>
+    <Desc>Si el personaje sufrió 1 o más ataques de un solo-lado en una escena, restaura 1 de Luz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="254002">
+    <Name>Formulario de póliza</Name>
+    <Desc>Al final de la escena, remueve todas las acumulaciones de un problema de estado (Endeble, Desarmar, o Atadura) que podría ser infligido a este personaje la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="254003">
+    <Name>Seguro de vida</Name>
+    <Desc>Instranferible. Al final de la escena, si un personaje tiene 30% o menos de HP, añade una copia de 'Seguro de vida' a la mano.</Desc>
+  </PassiveDesc>
+  
+
+  <!--공방소속 (Leaflet Workshop) -->
+  <PassiveDesc ID="255001">
+    <Name>Humo desbordante</Name>
+    <Desc>Al final de la escena, si un personaje tiene 8 o más de Humo, gana 1 de Fuerza la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="255002">
+    <Name>Exceso de demanda</Name>
+    <Desc>Si un personaje tiene 10 o más de Humo, haz +3 de daño con los ataques.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="255003">
+    <Name>Reparación inmediata</Name>
+    <Desc>Cuando eres aturdido, recuperate del aturdimiento y recupera completamente la resistencia al aturdimiento (Una vez por acto).</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="255004">
+    <Name>Locura</Name>
+    <Desc>Al comienzo de la escena, gana uno de los siguientes efectos:
+- 2 Fuerza
+- 2 Prisa
+- 2 Dureza
+- 5 Frágil</Desc>
+  </PassiveDesc>
+  
+  <!-- 베이야드 (Bayard) -->
+  <PassiveDesc ID="256001">
+    <Name>Posición ofensiva</Name>
+    <Desc>Al comienzo de la escena, inflige 3 de Frágil a ti mismo y gana 1 de Fuerza.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="256002">
+    <Name>Mentalización</Name>
+    <Desc>Restaura 1 de Luz y roba 1 página al final de la escena si el personaje no utilizó ninguna página.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="256003">
+    <Name>Posición preparada</Name>
+    <Desc>Si el personaje sufrió 'Inmovilización' en la anterior escena, gana 1 de Fuerza, 2 de Protección y Protección al aturdimiento.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="256004">
+    <Name>Preparado para romper</Name>
+    <Desc>Cada 3 escenas, usa la página de combate 'Romper con precisión'.</Desc>
+  </PassiveDesc>
+
+
+  <PassiveDesc ID="240010">
+    <Name>Acrobático</Name>
+    <Desc>Daño de ataques de rango +1</Desc>
+  </PassiveDesc>
+   
+</PassiveDescRoot>

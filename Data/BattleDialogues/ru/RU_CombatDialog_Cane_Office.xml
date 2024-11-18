@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Cane Office</GroupName>
+  <Character ID="Nemo">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Ha Ha Ha! Ellos no parecen presas fáciles, para nada.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bueno bueno, es un placer conocerte. ¡Supongo que nos estaremos viendo bastante a menudo!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡No te preocupes! Para nosotros no existe ninguna razón para perder.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Estos tipos eran más torpes de lo que esperaba.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡Esta valiosa información es un robo por un precio tan bajo! Espero que no te moleste que no visitemos más a menudo!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Qué es lo que ese loco planea hacer… con un lugar como este…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¡Está bien! Yo aún estoy perfectamente bien.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡Oh querido, debiste haber sido más cuidadoso para no ser lastimado!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡Es tu propia responsabilidad vigilar que no te hagas daño!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Eres remarcablemente lento, mis ojos nunca podrían perderte la pista incluso si lo intentara!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Poner nuestras manos en los secretos de una Singularidad… será solo cuestión de tiempo!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Eso fue simple! ¡Levántense y ataquen solo un poco más!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Martina">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Prez… No te pongas muy molesto…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">… Debería haber leído el contrato con más cuidado…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No es muy diferente de nuestro trabajo normal… No entren en pánico…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Así que existe información sobre W Corp… en este libro…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Eso es un alivio…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Así… es como muero…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Descansa bien… Lo siento, no pude recibir ese golpe por ti…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Así que nos volvemos libros si morimos…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Esto no está yendo a nuestro favor… Debo evaluar la situación con cuidado…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Para nuestra meta… Tengo que hacer esto…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Casi lo conseguimos… Vamos a animarnos…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Hay montañas de trabajo por hacer después de esto…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Bada">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Nuestro Presidente tiene la razón; seremos capaces de resolver esto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Por favor controla tu temperamento y mira adelante con calma.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Solo tenemos que conseguir los libros. No debería haber ningún problema.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Están bien? Es crucial vigilar tu propia condición.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">He guardado los libros. Regresemos ahora.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Tengo que… volver.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Mis condolencias. Espero que descanses en paz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Es culpa de mi incompetencia que no pudiera prevenir esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Tenemos que centrarnos para mantenernos con vida…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Gente insignificante… Esto no fue difícil.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Podría acabar con ellos rápidamente.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Parece que casi hemos acabado.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

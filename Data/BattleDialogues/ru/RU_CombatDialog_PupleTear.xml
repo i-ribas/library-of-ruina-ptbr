@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>PupleTear</GroupName>
+  <Character ID="PupleTear">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bien, entonces… ¿Debería probar sus habilidades?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Me pregunto que tan grande se ha vuelto la Biblioteca.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Ya que tenemos tiempo, vamos a calentar lentamente.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esperaba un poco más, pero supongo que aún no estaban en ese punto…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Eso fue divertido. Peeeero… aún no están donde quiero.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Bien… Están creciendo fuertes, lenta pero continuamente.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¿Aún no se han dado cuenta, no es así?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Mmm, eso está por debajo de mis expectativas.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Has hecho un excelente trabajo aguantando por tanto tiempo. Supongo que no está mal.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Deberían prepararse mejor la próxima vez que nos veamos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Eres bastante bueno. Ha pasado un tiempo desde que sentía tanta presión en una pelea.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_5">Oh, y sonabas con tanta confianza… ¿es esto lo mejor que puedes hacer?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="PupleTear_MeetBinah">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bueno… No es una sorpresa que estés aquí.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Te he visto un par de veces antes, así que……</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Incluso con un ser como ese, no hubo diferencia.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Haha… Esto es interesante…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Pensé que las cosas serían diferentes esta vez.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="PupleTear_MeetGebura">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Realmente no puedo considerarte como el mismo ser que era Kali, verdad?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Vamos a ver si recuerdas mis enseñanzas… Demuéstrame cuanto has crecido</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Kali. Tus alumnos fueron difíciles de derrotar.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Lo recuerdas bien…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Me figuraba que tu fuerza no sería la misma que antes…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="PupleTear_MeetRoland">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Mmm, quédate quieto y no digas ni una palabra.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Ya veo, lo estás haciendo bien.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Eso fue lo mejor que podías hacer?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…Me has mostrado que enviarte aquí valió la pena.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Vamos, ahora… Te has vuelto muy suave.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Binah_MeetPupleTear">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Correcto. También te conozco.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Como esperaba… No puedo evitar sentirme asombrada.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Su destreza era simplemente demasiado para que la aguantaras.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Está bien. Descansa.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Aguantaste una cantidad de tiempo impresionante.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Gebura_MeetPupleTear">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… No me molestaré diciendo cosas inútiles.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Ella es fuerte. Y algo sobre ella se parece a mí…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿El resto de ustedes puede aguantar más, verdad?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Un Color no es demasiado diferente.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No sean impacientes. Solo se equivocarán más de esa forma.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Roland_MeetPupleTear">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Haha.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Si viniste a verme porque estabas preocupada, entonces fue un esfuerzo inútil.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… No se desanimen.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Sigamos avanzando.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

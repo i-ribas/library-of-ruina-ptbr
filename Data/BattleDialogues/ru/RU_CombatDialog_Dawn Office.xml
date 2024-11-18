@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Dawn Office</GroupName>
+  <Character ID="Salvador">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No esperes salir impune.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Esos tipos parecen tener cuerpos bastante frágiles.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">El cuerpo de un hombre viejo tiene tanta experiencia como cantidad de años.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Respeto mucho tu coraje.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Debió haber sido un mal día para estos tipos.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Gracias por tus servicios, Yuna. Puedes descansar en paz—nuestra Oficina estará bien.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">No tengo ninguna atadura con la vida, sin embargo… Estoy muy preocupado sobre este joven.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Oh querido… Philip. Creo que deberías guardar tus fuerzas y retirarte.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">… Sentir tanta tristeza en esta edad.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Supongo que aún me queda mucho por hacer…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No hay necesidad de que todos compartamos el mismo destino.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Tienes que estar agotado, tus ataques se vuelven más predecibles mientras más avanza el tiempo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">La Victoria está en mi mano.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Uno puede predecir la siguiente acción del oponente al observar sus movimientos.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Yuna">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Pueden parecer objetivos sencillos, pero son una Plaga Urbana… Tengan cuidado.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No hay necesidad de exagerar, Philip. Puedes quedarte atrás y apoyarnos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Vamos a golpear primero antes de que los oponentes comiencen a atacar.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esto termino sin problemas. Philip hizo un muy buen trabajo, aunque se asustó.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Cuidaré de Philip y de la Oficina por ti… Descansa en paz, viejo.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Espero que lo pueda hacer bien por su cuenta…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">… Mirar por el tiempo exacto y escapar. La situación no se ve bien.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Lucharé hasta el final, incluso si todo está en nuestra contra…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Estaré bien, no te preocupes por nosotros y solo corre.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Es la culpa de mi ineptitud.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No eras muy malo, pero no pudiste demostrar tus habilidades.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Pronosticar lo que puede pasar después puede hacer o deshacer la batalla.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eso no tiene ninguna oportunidad contra mí.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Philip">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Terminaré siendo una molestia para los demás si no lo intento…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No puedo esconderme detrás de mis superiores todo el tiempo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Con mis habilidades… Supongo que al menos puedo frenarlos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hemos sufrido algo de daño… Pero supongo que el resultado es lo que más importa.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">…… Cuál es el punto de ganar ahora.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Lo siento… No soy tan fuerte. No puedo aguantar más de esto…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Soy demasiado cobarde para hacer algo…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No… Esto no puede ser… No…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No hay forma de que pueda aguantar una situación como esta…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No hubiera venido si hubiera sabido que iba a ser tan peligroso…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Estoy contento de ser de alguna ayuda.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Golpear sin dudar es la respuesta correcta en situaciones como esta, ¿verdad…?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Nada cambiará si no me muevo.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

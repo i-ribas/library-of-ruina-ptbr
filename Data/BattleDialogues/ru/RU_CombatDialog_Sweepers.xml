@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Sweepers</GroupName>
+  <Character ID="Anton">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Debemos… comenzar… la… limpieza…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Marchamos… adelante… sin parar…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Parece… que hay otro… camino… a este lujoso lugar…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Ahora… toda la familia… podrá… cenar sin… preocuparse…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Espero… que nuestros vecinos… sigan… fuertes…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tenemos que… hacer nuestro… trabajo pronto… Aún hay… muchos…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sin importar… quien caiga… avanzamos…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Estoy… bien…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No puedo… comerlo… Se volvió un libro…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ha pasado un tiempo… desde que limpiamos… fuera del horario normal…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Solo necesitamos… limpiar… lo que está adelante…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Valerie">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Queridos vecinos, han rellenado sus tanques de combustible?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Con la familia, podemos superar cualquier dificultad.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Por el bien de nuestros niños, tenemos que conseguir esos objetos llamados libros de este lugar.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Vamos a entregar todos los libros que cayeron aquí. Madre se alegrará.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Queridos vecinos… por favor… sigan con cuidado…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Por el bien de nuestra familia y nuestro pueblo, no podemos parar.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Tenemos que limpiar todo adelante.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… Un vecino ha muerto.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Solo cenaremos como siempre.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ellos no se derriten. No parece que sean personas.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Todos. Solo nos queda un poco de trabajo por hacer.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Lyla">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Es tranquilizador estar con nuestra familia y vecinos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Resolvamos esto por nuestra cuenta, así Madre no se enojará.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Limpiemos rápidamente y marquemos. Tenemos que prepararnos para la limpieza de la noche.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Este libro será de mucha ayuda para nuestros vecinos limpiando el Nido L.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Espero que todos puedan terminar su trabajo… a salvo…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No presten atención a sus alrededores mientras limpian.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Los vecinos y familiares que quedan no tienen que preocuparse.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No hay tiempo de evaluar la situación. La limpieza debe continuar.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ellos se volvieron libros antes de que pudiéramos derretirlos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Estoy bien. No he sufrido demasiado daño hasta ahora.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Aún queda mucho por limpiar.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="sweepers">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Todo por Madre y nuestra familia…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Veo menos cosas que limpiar comparado a las calles.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Nuestro trabajo es limpiar.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">El poder de la familia no es algo malo… Es algo bueno…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Tenemos que tomar esos libros?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Regresemos. Tenemos que prepararnos para la noche.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Lo siento… Queridos vecinos…</BattleDialog>
+      <BattleDialog ID="DEATH_1">No pude terminar de limpiar…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Tengo una familia que nos espera…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Aún podemos limpiarlos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Está bien. Aún tenemos combustible.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Tenemos que seguir avanzando.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Se volvieron libros antes de que pudiera derretirlos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Estoy bien.  No he sufrido tanto daño hasta ahora.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Aún queda demasiado por limpiar.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

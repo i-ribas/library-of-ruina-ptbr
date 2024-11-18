@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Brotherhood of Iron</GroupName>
+  <Character ID="Mo">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">S-si esto va bien, ¿quizás podríamos cambiar a un cuerpo mejor, verdad?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡D-dinero, dinero, dinero! D-debe ser genial ser rico.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡M-monstruos, l-los cortaré en pedacitos!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">F-finalmente tendremos cuerpos nuevos, más elegantes y duros.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">E-el trabajo duro ha dado su fruto, a-amisto. V-volvamos y descansemos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">C-cuál fuel el punto de trabajar duro, de r-remplazar nuestro cuerpo por maquinaria…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Q-quizás debería haber gastado más tiempo disfrutando la vida…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">E-ellos son débiles, como esperaba.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">E-es una lástima que no pueda disfrutar destrozándolos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">N-no quiero tener que romperme</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">E-estúpidos cuerpos mecánicos… D-debería ser más fuerte que esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">G-gracias por quedarte conmigo hasta el final…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Arnold">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">E-este lugar es curioso y también muy grande…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿N-no piensas que nuestros cuerpos metálicos son más fuertes que uno de suave carne?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">M-mi cuerpo rechina un montón, pero es muy duro.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">E-es tiempo de finalmente decir adiós a este sonido rechinante.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">S-si conseguimos suficiente dinero para gastar… ¿C-cómo suenan unas pequeñas vacaciones?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">E-es bastante triste morir como un montón de chatarra y no en mi cuerpo humano…</BattleDialog>
+      <BattleDialog ID="DEATH_1">E-está frío, m-me siento tan solo.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">N-no fallo mi objetivo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">S-supongo que todo tiene un precio.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">M-mi cuerpo podría ser chatarra de mala calidad, pero es más útil que un cuerpo blando como el tuyo.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… H-ha sido un honor trabajar contigo. Espero que puedas descansar.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">E-ellos eran viejos amigos míos, p-pero no es tiempo de ponerse triste por sus muertes.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Consta">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡E-estoy recargado y listo para empezar!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Q-quizás me gustaría tener unos cupones para comida más que unos libros…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">M-mi cuerpo es más duro que el tuyo, ¿no lo ves?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡¿R-realmente ganamos?! ¡C-colega, de verdad…!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡V-vamos a un restaurante a celebrar la victoria!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">D-debería haber comido un montón de cosas deliciosas… S-si hubiera sabido que iba a morir aquí…</BattleDialog>
+      <BattleDialog ID="DEATH_1">T- trabajé como un perro solo para morir aquí. E-es injusto.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡H-haha! Son tan débiles como pensé.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿P-parece que este equipo barato tenía suficiente poder, e-eh?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">L-lo tenemos en la bolsa~</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… N-no puedo creerlo. E-el simplemente explotó como “boom” y……</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">… N-no seas tan insensible, d-dame un momento.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

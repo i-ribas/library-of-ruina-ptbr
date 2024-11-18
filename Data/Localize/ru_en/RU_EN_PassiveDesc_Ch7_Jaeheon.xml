@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1307011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307012">
+    <Name>El titiritero</Name>
+    <Desc>Da 'Cuerdas de títeres' a sus marionetas en las primeras cuatro escenas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307013">
+    <Name>Cuerdas rotas</Name>
+    <Desc>Si una marioneta no tiene Cuerdas de títeres o está muerta, no usará páginas para controla dicha marioneta.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307014">
+    <Name>Títere protector</Name>
+    <Desc>Al comienzo de la escena, gana Protección y Protección al aturdimiento por la cantidad de marionetas con vida más el número de marionetas que han muerto mientras tenían 'Cuerdas de títeres'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307001">
+    <Name>Carne manipulada</Name>
+    <Desc>No gana un Dado de Velocidad por el bonus de nivel de emoción. Si es derrotado mientras tiene 'Cuerdas de títeres', revivirá después de 2 escenas con la mitad del HP Máximo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307021">
+    <Name>Gigigigigig</Name>
+    <Desc>Si el personaje tiene 'Cuerdas de títeres', haz +2 de Daño de aturdimiento adicional con ataques.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307031">
+    <Name>Creeeeak…</Name>
+    <Desc>Si el personaje tiene 'Cuerdas de títeres', gana 1 de Prisa al comienzo de la escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307041">
+    <Name>Ghghgh. Ghgh.</Name>
+    <Desc>Si el personaje tiene 'Cuerdas de títeres', gana 1 de Fuerza al comienzo de la escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307051">
+    <Name>Ghghghghghghghgh…</Name>
+    <Desc>Si el personaje tiene 'Cuerdas de títeres', gana 1 de Fuerza, Dureza y Prisa al comienzo de la escena.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="Jaeheon_PuppetThread">
+      <Name>Cuerdas de Títeres</Name>
+      <Desc>Dado de Velocidad +1. Al morir, revive en 2 Escenas. El personaje recibirá 8 de Daño cuando una Acumulación de este estado se pierda.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Jaeheon_Mark">
+      <Name>Marca Roja</Name>
+      <Desc>Dura una Escena. Apuntado por la Marioneta Angelica y el Dado de Velocidad extra añadido por 'Cuerdas de Títeres'.</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>

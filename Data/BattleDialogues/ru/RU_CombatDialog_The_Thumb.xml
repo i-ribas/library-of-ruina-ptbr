@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Thumb</GroupName>
+  <Character ID="Thumb_WithBoss">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Thumb_NoBoss">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Suficiente charla. ¿Qué más se necesita decir?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No hay necesidad de parar. Vamos directo al grano.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Cierra tu boca, o terminarás siendo descortés, intencionalmente o no.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Sus rangos son mayores que los nuestros… Así que mantén tus modales.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Solo necesitamos hacer nuestro trabajo…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">El trabajo ha terminado, así que regresemos y reportemos esto.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Estoy sintiendo dolor… No fue una batalla fácil.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Con este libro… Seré capaz de superarlos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Fueron oponentes astutos…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">La información escrita aquí puede ser útil.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Maldición. Así es como termina.</BattleDialog>
+      <BattleDialog ID="DEATH_1">…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Puse mi vida en riesgo bajo condiciones justas… No debería enojarme por morir…</BattleDialog>
+      <BattleDialog ID="DEATH_3">… He hecho mi parte del trabajo.</BattleDialog>
+      <BattleDialog ID="DEATH_4">A quien puedo culpar… Simplemente me faltaba habilidad.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sin importar lo mala que sea la situación, debemos hacer nuestro trabajo sin quejarnos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No hay necesidad de compadecerse de una persona que pagó sus deudas.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Mi propia seguridad es todo en lo que debo preocuparme.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No se vería bien si no aceptaras tu destino con gracia.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Aún no hay problemas.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Mi cuerpo ya está doliendo…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sería mejor para ambos el terminar esto rápidamente…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Al final, este es el trabajo que ambos tenemos que hacer.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Ir fácil contra un oponente sin ninguna buena razón no es un comportamiento respetuoso.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">No está mal mostrar compromiso cuando das tus respetos.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Kalo">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Puede que estemos en el territorio enemigo, pero estamos tratando con una Estrella de la Ciudad… Cuiden sus modales.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Declinar no era una opción en su oferta. Consideren esto un honor.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Que bueno es mostrar respeto mutuo entre nosotros.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Una recompensa sin ningún hilo atándola.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Recuerden ser corteses hasta el último momento.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Era una situación inevitable.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No culparé a nadie por el resultado de esta batalla.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No se agiten por cosas triviales.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hemos hecho un trato en el que ninguna de las partes está perdiendo mucho.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Simplemente estamos haciendo nuestro trabajo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No debemos dudar cuando vemos el camino hacia la victoria.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Katriel">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Denis">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Comencemos… Antes que nuestros superiores tengan que intervenir…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No hay necesidad de apresurarnos…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Por lo menos no fueron bruscos como otros…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Una recompensa justa… No está mal…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… No hay nada más que decir.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Asegúrate que no tienes ningún arrepentimiento que te siga a la tumba…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Necesito centrarme en resolver las tareas a la mano primero…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Aún no es tan peligroso…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hiciste una oferta injusta… Así que no te enojes…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Mis saludos finales para ti…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Sinceramente espero que hayas dado lo mejor de ti…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Boris">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Me estaría sintiendo muy bien si no fuera por ese Mensajero insignificante.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Usar tácticas clandestinas sería una falta de respeto a esta batalla…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">No hubiéramos comenzado esto en primer lugar si no tuviera nada que ganar.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Parece que hemos conseguido toda la información que necesitamos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No puedo permitirme desorientarme… hasta el último momento…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Supongo que es un precio justo que tenemos que pagar por atrevernos a aceptar la oferta.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Ambos lados están recibiendo lo que fue prometido en el trato.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Un tributo silencioso es el mejor tipo de respeto que puedo ofrecer.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Fuiste fiero, pero debiste ejercer esa fuerza con moderación.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Luchar con toda tu fuerza es como demuestras que no menosprecias a tu oponente.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

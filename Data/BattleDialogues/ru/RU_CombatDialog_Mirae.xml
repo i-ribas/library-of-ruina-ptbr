@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Mirae</GroupName>
+  <Character ID="Named">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Las cosas se han complicado. ¿Deberíamos comenzar?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Cosas raras han estado sucediendo estos días… Es una molestia.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Vamos a ver… ¿No habrá ningún problema?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Eso fue suficiente información. ¿Deberíamos regresar?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Oh querido… Desafortunadamente, no pienso que podamos cumplir las condiciones.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Este es el final, ¿eh?…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Es un caso particularmente complicado en el que nos hemos metido…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Está bien por ahora. Mantengan la concentración.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Tengo que mantenerme a salvo primero.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Lo siento~ Es solo como nuestro trabajo funciona.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Puedo recolectar otros tipos de información también… No está mal.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Haha. Me he vuelto viejo, pero aún no estoy condenado…</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="Mirae">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Esto tomó un giro molesto…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Nuestro trabajo suele ser lo mismo…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿Supongo que no habrá ningún gran problema?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">¿Señora Irina? Pienso que debemos ser cuidadosos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Tienes razón… Escuche que recientemente se volvió una Estrella de la Ciudad.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">He grabado todo lo que necesitábamos. Es hora de volver.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Este es un lugar muy raro… ¿Me pregunto si es una Singularidad?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Hemos tenido un montón de casos locos últimamente…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Al menos este caso ha terminado.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¿Cuál… es el propósito de este lugar?…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Siempre pensé que estaba… listo para esto…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Les advertí de que esta solicitud podía ser demasiado…</BattleDialog>
+      <BattleDialog ID="DEATH_3">A la mierda… Cuidar de uno mismo…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Estoy cansado de este negocio…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Definitivamente necesitamos refuerzos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Nuestro cliente no estaba mintiendo después de todo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… ¿Esto en un problema muy serio, no es así?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Quizás deberíamos regresar y reorganizarnos…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">No pienso que podamos resolver esto por nuestra cuenta.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Terminemos con el resto a toda prisa.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Parece que casi hemos acabado.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No puedo decir que eran unos debiluchos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Hay mucho que notar sobre esto…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Vacilar por un solo segundo es una sentencia de muerte.</BattleDialog>
+    </Type>
+  </Character>
+  
+  
+</BattleDialogRoot>

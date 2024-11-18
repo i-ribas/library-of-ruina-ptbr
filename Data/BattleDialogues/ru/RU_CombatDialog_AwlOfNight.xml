@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>AwlOfNight</GroupName>
+
+  <Character ID="Named">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Están listos? Estamos aquí porque queremos vivir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Deja de quejarte y se agradecido de que tenemos otro minuto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Si nos ocupamos de esto… Por lo menos no seremos eliminados.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Regresemos. Será mejor que acabemos con esto rápido.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Cuantos nos quedan? ¿Pueden seguir de pie?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No hubiera importado… Donde morimos…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Todo es culpa de ese maldito fanático…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Sigue luchando hasta tus últimos momentos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Esto es todo lo que podías hacer?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Mantente alerta si no quieres morir.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">… Terminemos con el resto rápidamente.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Lo que más importa ahora es sobrevivir. Céntrense.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… Ellos están usando todo tipo de técnicas.</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="AwlOfNight">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No estoy seguro de si fue una buena idea venir aquí…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Dudo que esto haga alguna diferencia que no sea donde morimos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Por qué tenemos que trabajar para ese tipo…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Nos puso a todos en serios problemas.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Si encontramos información valiosa, quizás podríamos negociar…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">He acabado de empacar aquí.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Tardar no nos hará ningún bien, regresemos tan pronto como podamos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">¿Esta información… será suficientemente buena para negociar?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Espero que ellos nos perdonen…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">No existe ningún lugar donde podamos ir…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Por qué tenemos que sufrir por su culpa…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Estos locos… Cómo tienen tanto poder…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Cualquier elección era una apuesta perdida…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Quizás debí haber intentado… escapar…</BattleDialog>
+      <BattleDialog ID="DEATH_4">… Supongo que tengo que aceptar esta perdida.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">En que problema nos hemos metido.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Deberíamos solo correr y reducir nuestras perdidas?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡Mierda, esto va de mal en peor!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Tenemos que presionar de alguna manera…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Esto se pone peor de lo que pensaba.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Debemos apresurarnos en acabar con esto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Si no somos lo suficientemente rápido… ellos…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Cómo terminamos haciendo esto…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Es muy temprano para bajar la guardia.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Perforar el punto exacto… para acabar con esto.</BattleDialog>
+    </Type>
+  </Character>
+  
+</BattleDialogRoot>

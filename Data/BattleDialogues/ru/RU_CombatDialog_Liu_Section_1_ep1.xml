@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>ep1</GroupName>
+  <Character ID="Chun">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Vamos a comenzar con calma.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No dejaremos que nuestros enemigos nos dominen.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Necesitamos fortalecernos primero que nada contra un enemigo inquebrantable.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Como dijo nuestra directora, no nos sobreesforcemos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Ganar un centenar de batallas tiene poco sentido cuando tuviste que luchar un centenar de veces.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Una batalla astuta y prolongada no es algo bueno para tener.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Directora. Creo que no puedo seguir más.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Podría ser una peligrosa idea el avanzar más esta batalla.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡Debemos presionar. No nos rendiremos!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… Supongo que no deberíamos subestimar la postura del enemigo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Como un fiero tigre agazapado en la hierba… Incluso si todos morimos. Confío en que la directora lo logrará.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Debes golpear cuando el enemigo menos lo espera…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Uno no necesita dejarle al enemigo saber cuando estar en guardia.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Una defensa sólida es sobre defenderse cuando el enemigo no puede atacar.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">No hubiéramos venido aquí si hubiéramos esperado morir aquí.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Liu_Fixer_Sec1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Mis ojos deben mirar hacia adelante mientras avanzamos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No expondremos la espalda a nuestro enemigo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Para volverme un dragón en el campo de batalla, honorable e indomable!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Sin importar lo que hagas, debes mantener un cuerpo y mente sanos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Seguramente podemos con esto de la manera usual.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">¡No estoy asustado. En marcha!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Nadie puede dominar a Liu.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">¡Debemos ser rápidos cuando vamos a la ofensiva!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">¿Debemos avanzar inmediatamente, Sr. Chun?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+	  <BattleDialog ID="BATTLE_VICTORY_0">Es difícil creer que unos novatos llegaran hasta este grado…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">A pesar de todo, pudimos completar la misión… Regresemos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">No es una buena idea volverse confiado al ganar.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">No me apiadaré de mis oponentes.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Un buen triunfo. Tomemos los libros que nos pidieron y regresemos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Odiaría arrastrar a los demás…</BattleDialog>
+      <BattleDialog ID="DEATH_1">No quiero rendirme en este punto…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Mierda… un solo error resultó en esto…</BattleDialog>
+      <BattleDialog ID="DEATH_3">El vacilar solo puede terminar siendo un obstáculo…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Parece… que he llegado a mí límite.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No podemos permitir que nuestros sentimientos nos detengan.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">En tiempos como este, no podemos permitirnos colapsar.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Aún es difícil mantener la calma cuando alguien muere.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">¡La ofensiva debe continuar! No vacilaremos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">No podemos retirarnos ahora, a pesar del riesgo.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Golpeamos cuando el enemigo no puede defenderse.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Espero que el resto del combate termine de mil maravillas.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Invitar gente aquí a pelear teniendo una mente tan débil fue tu error.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">No dejaré que pase ningún segundo en vano o dejaré escapar a ningún enemigo en mi presencia.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">En momentos como este, tu arma es en lo único que puedes confiar.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_5">Ataques tan débiles no podrán conmigo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Xiao">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Tomemos el control de las vidas enemigas!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">La clave para prevenir la victoria del enemigo está siempre en ti.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Si sientes que estás en peligro, no te preocupes por mí y retírate.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Los aprecio inmensamente por seguirme hasta aquí.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Incluso pensando que ganamos, no se siente como una victoria; es efímero como un sueño, transitorio como una sombra proyectada por una burbuja.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">!!!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Quiero que los supervivientes aseguren su propia seguridad antes que nada.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡Arriba el ánimo! Esto aún no ha terminado…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No debo ser quien ceda… es hora de avanzar.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Corto y rápido es como se ejerce la fuerza!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">El impulso de un vigor salvaje hará que las rocas más pesadas se muevan.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No nos arrastraremos. ¡Concéntrense!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Miris">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Tu fortaleza no se mantendrá por mucho tiempo!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Debemos intentar no entrar en ninguna situación desventajosa.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Debo terminar esto en un instante con el daño mínimo!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Es un alivio. … Tiempo de tomar los libros y salir de este lugar.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡Maldición… Podría volverse realmente peligroso… Directora!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… El fuego comienza de las cenizas carbonizadas.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡Aún no pierdan la esperanza, la batalla está lejos de acabar!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Debe haber alguna forma… de invertir los papeles de esta batalla.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">¡Directora! ¡Danos la siguiente orden…!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡No existe nada que no podamos conseguir bajo el comando de nuestra Directora!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡¡El triunfo se acerca!!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">El enemigo está confuso. ¡Debemos aprovechar esta oportunidad!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">¡Debemos golpearlos incluso más duro!</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

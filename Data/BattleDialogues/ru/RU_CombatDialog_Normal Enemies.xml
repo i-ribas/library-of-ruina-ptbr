@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Normal Enemies</GroupName>
+  <Character ID="Stray_Dogs">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Quién reunió a toda esta gente aquí?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Son órdenes del jefe, no tenemos otra elección más que hacerlo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bien, tiempo de calentar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">No se pongan quisquillosos y solo tráiganlos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Estamos aquí para encontrar los libros que el jefe nos dijo. ¿Entienden?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Así que este montón de papel es por lo que estábamos peleando?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Solo quiero ir a dormir un poco.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Esto fue demasiado simple. Es casi lamentable…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Hah, Me pregunto como lograrse estar de pie con piernas como esas.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Eso no fue divertido, espero que nunca nos veamos de nuevo.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡Aaahh…! Me siento mal…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Maldita sea… Así no es como quería morir.</BattleDialog>
+      <BattleDialog ID="DEATH_2">¡Tú pedazo de… No te pongas engreído…!</BattleDialog>
+      <BattleDialog ID="DEATH_3">¡Ese tipo de ataques son trampa! ¡Maldición… Maldita sea!</BattleDialog>
+      <BattleDialog ID="DEATH_4">Quizás yo era el gran idiota gordo…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¡Si mueren aquí, el jefe nos va a regañar de nuevo!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡Tienen que ser más cuidadosos! Maldita sea, las cosas se volverán más difíciles ahora.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… Bien, mientras yo no sea el que muera.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Olvídalo, podemos ganar sin ese perdedor…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Se siente un poco amargo verlos morir de esa forma.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Debiluchos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Esto es aburrido, simplemente cayeron al suelo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eso es lo que pasa cuando un debilucho como tú piensa que puede con nosotros.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">¿Cómo, ya estás yendo a la cama?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">¡Haha! ¡Deberían haber visto la cara de ese chico!</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="lulu_friend1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Déjenmelo a mí~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Esos son los poderosos nerds de los que estabas hablando, eh?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿Quieres probar mi martillo?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Aaaaah! ¡Eso fue agotador, pero posible!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡Bien, esos tontos fueron muy fáciles de manejar!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">¿Se supone que ahora tomamos esas cosas, verdad?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¿Estoy muriendo… de verdad…?</BattleDialog>
+      <BattleDialog ID="DEATH_1">Qué demonios… Esto es tan loco…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Esto apesta… ¡No puedo morir de esa forma!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Debo intentarlo más… Yo debería…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Cómo podemos… salir de esta situación…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No quiero terminar muerto así…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Bien, también vamos a acabar con los demás!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Yahoo! ¿Cómo es eso?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Es tan fácil acabar contigo!</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="lulu_friend2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Se ven tan limpios y delgados. Es como si buscara en un libro ejemplos de “Aburrido”.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡Te apuñalaré ahora mismo!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Estoy encantado de ayudar, camarada!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Me pregunto si podemos tomar otros libros.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Facilito, compañero~ ¡No tuvieron oportunidad contra mí!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Para ser justo, eso estuvo demasiado cerca… ¡Phew!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Lo siento, no pude ayudarte hasta el final…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Yo… ¿Por qué me molesté en venir aquí?</BattleDialog>
+      <BattleDialog ID="DEATH_2">Pensé que yo era bastante bueno…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Eso… hizo las cosas más aterradoras.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No voy a mirarlos… No lo haré…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">…Pensé que podríamos ganar esto juntos.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Esos imbéciles son más duros de lo que pensaba!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Eso fue un poco lamentable.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Lo estoy sintiendo! ¡Podemos ganar esto ahora!</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Yun_Fixer2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Ir primero debería ser una ventaja para nosotros, verdad?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Podría no tener un nombre, pero al menos tengo el coraje para estar aquí~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Por lo menos debería ser más divertido que buscar por un gato perdido.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿No hubieran durado un minuto si alguien fuerte viniera aquí, eh?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Wow, ¿realmente perdieron contra nosotros?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Aún tienen un largo camino que recorrer~</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…Me dijeron que no viniera. Debería haber escuchado…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Quería escalar más alto que esto.</BattleDialog>
+      <BattleDialog ID="DEATH_2">No es justo… Estoy tan enojado. No puedo aguantarlo.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Estás… bromeando, verdad, ¿Estás… de verdad muerto?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No sabía que este lugar podría dar tanto miedo…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Deberíamos escapar ahora?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Hmph, eso fue solo un empujón!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Encontré una apertura~ ¡Espero que no te moleste!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Bien… Ese fue un golpe de suerte!</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Yun_Fixer1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Nhh… Hablé demasiado, pero esta podría ser una mala idea…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Hombre, ¿son todos los bibliotecarios así de grandes…?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Se ven más fuertes de lo que esperaba… Pero aun así, ¿podemos vencerlos, verdad?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Y pensaron que no podíamos hacer algo tan simple como esto. Se preocuparon demasiado.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡Estaba nervioso por nada… Fue demasiado fácil!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">¡Con libros como estos… seguramente tendremos un gran pago!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Por qué… Por qué… tengo que morir así…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Supongo que no pude ascender después de todo.</BattleDialog>
+      <BattleDialog ID="DEATH_2">No tengo la fuerza o voluntad para abrir mis ojos nunca más.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Las cosas no se ven bien para nosotros…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… ¿Acabas de ver eso? Se acaban… de volver libros…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Nunca me di cuenta de lo fácil que una persona puede morir… aún no puedo creerlo.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¿Cómo se supone que mantendrán esos valiosos libros suyos? ¡Hahah!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡No pudieron siquiera conmigo!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No estamos haciendo esto por diversión, sabes.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Yun_Office">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Viene o no el Operador? Oh, mierda…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Vamos a comprar algo más de tiempo… Estoy muy asustado para pelear con ellos de frente.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿Por cuanto tiempo tenemos que luchar con ellos…?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">No soy el indicado para tomar la iniciativa…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Él dijo que vendría a ayudarnos pronto… Así que sigamos con vida hasta entonces…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Terminamos antes que el Operador llegara. ¡Eso fue muy fácil!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Solo tenemos que tomar las cosas e irnos, verdad?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">¡Siento lástima por los tontos que se volvieron libros aquí!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">¿N-no me digas que hay más fuertes enemigos delante…?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">¿Podemos volver ahora?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…Pensé que podría hacerlo… esta vez.</BattleDialog>
+      <BattleDialog ID="DEATH_1">No quiero morir… quiero vivir…</BattleDialog>
+      <BattleDialog ID="DEATH_2">¿Me atraparon? … Soy patético.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No pienso que tengamos tiempo de dudar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Deberías por lo menos tener ingenio si eras tan frágil…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Acabo de perder a mi preciado compañero… ¿Qué haré ahora?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Sin resentimientos. Lo lamento.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">… Bien, ¿cómo nos ocuparemos del siguiente?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Sabes, podríamos ser capaces de ganar si seguimos a este ritmo…</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Zwei_Members">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Somos Zwei, “Tu Escudo”. Comenzando la operación.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Puedo aguantar esto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Intenta romper mi guardia si puedes.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Nunca retrocederé…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Este tipo de atmósfera… nunca deja de angustiarme.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hemos completado la misión. Tomemos los libros y volvamos rápidamente a la base.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">No fue una misión difícil.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Buen trabajo, chicos. ¿Creo que esto es suficiente, verdad?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Asumo que tendremos que organizar un montón de cosas cuando volvamos a la base…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">La misión ha sido completada con éxito.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No me arrastré hasta lo alto solo para enfrentar un final tan inútil…</BattleDialog>
+      <BattleDialog ID="DEATH_1">No quiero morir, quiero escapar…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Yo… mantendré mi dignidad hasta el final.</BattleDialog>
+      <BattleDialog ID="DEATH_3">Quizás yo no era… bueno para esta tarea.</BattleDialog>
+      <BattleDialog ID="DEATH_4">No pude completar la misión. … Lo siento.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ahora tenemos que centrarnos en la misión.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Un minuto de silencio por los caídos. Lo hicieron bien.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Uno de nosotros… ha caído. El resto debemos continuar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No tenemos el tiempo para ponernos tristes, pero……</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Tenemos que seguir con la batalla…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No hay necesidad de que me perdones ni nada.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Que descanses en paz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Deberías haber tenido un poco más de cuidado.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Solo estaba llevando cumpliendo mi misión.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Parece que he hecho mi parte del trabajo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Zwei_Member_Gray">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Somos Zwei, “Tu Escudo”. Para proteger, comenzamos la operación.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Esto es un poco desconcertante… Pero estoy bien.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Defender no es lo mismo que evadir.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hemos completado la misión. Tomemos los libros y volvamos rápidamente a la base.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">No fue una misión difícil.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Buen trabajo, chicos. ¿Creo que esto es suficiente, verdad?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Asumo que tendremos que organizar un montón de cosas cuando volvamos a la base…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">La misión ha sido completada con éxito.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No me arrastré hasta lo alto solo para enfrentar un final tan inútil…</BattleDialog>
+      <BattleDialog ID="DEATH_1">No quiero morir, quiero escapar…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Yo… mantendré mi dignidad hasta el final.</BattleDialog>
+      <BattleDialog ID="DEATH_3">Quizás yo no era… bueno para esta tarea.</BattleDialog>
+      <BattleDialog ID="DEATH_4">No pude completar la misión. … Lo siento.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ahora tenemos que centrarnos en la misión.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Un minuto de silencio por los caídos. Lo hicieron bien.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Uno de nosotros… ha caído. El resto debemos continuar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No tenemos el tiempo para ponernos tristes, pero……</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Tenemos que seguir con la batalla…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No hay necesidad de que me perdones ni nada.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Que descanses en paz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Deberías haber tenido un poco más de cuidado.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Solo estaba llevando cumpliendo mi misión.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Parece que he hecho mi parte del trabajo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Zwei_Member_Yellow">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Somos Zwei, “Tu Escudo”. ¡Estamos en movimiento!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡Podemos con ellos, gente! Vengan ahora.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">La Biblioteca es un lugar muy curioso.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hemos completado la misión. Tomemos los libros y volvamos rápidamente a la base.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">No fue una misión difícil.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Buen trabajo, chicos. ¿Creo que esto es suficiente, verdad?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Asumo que tendremos que organizar un montón de cosas cuando volvamos a la base…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">La misión ha sido completada con éxito.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No me arrastré hasta lo alto solo para enfrentar un final tan inútil…</BattleDialog>
+      <BattleDialog ID="DEATH_1">No quiero morir, quiero escapar…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Yo… mantendré mi dignidad hasta el final.</BattleDialog>
+      <BattleDialog ID="DEATH_3">Quizás yo no era… bueno para esta tarea.</BattleDialog>
+      <BattleDialog ID="DEATH_4">No pude completar la misión. … Lo siento.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ahora tenemos que centrarnos en la misión.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Un minuto de silencio por los caídos. Lo hicieron bien.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Uno de nosotros… ha caído. El resto debemos continuar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No tenemos el tiempo para ponernos tristes, pero……</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Tenemos que seguir con la batalla…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No hay necesidad de que me perdones ni nada.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Que descanses en paz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Deberías haber tenido un poco más de cuidado.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Solo estaba llevando cumpliendo mi misión.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Parece que he hecho mi parte del trabajo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Zwei_Member_Orange">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Somos Zwei, “Tu Escudo” … Comenzando el combate.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Hay unas cuantas cosas sospechosas sobre este lugar…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Estoy bien por ahora… Puedo resistir esto.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hemos completado la misión. Tomemos los libros y volvamos rápidamente a la base.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">No fue una misión difícil.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Buen trabajo, chicos. ¿Creo que esto es suficiente, verdad?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Asumo que tendremos que organizar un montón de cosas cuando volvamos a la base…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">La misión ha sido completada con éxito.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No me arrastré hasta lo alto solo para enfrentar un final tan inútil…</BattleDialog>
+      <BattleDialog ID="DEATH_1">No quiero morir, quiero escapar…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Yo… mantendré mi dignidad hasta el final.</BattleDialog>
+      <BattleDialog ID="DEATH_3">Quizás yo no era… bueno para esta tarea.</BattleDialog>
+      <BattleDialog ID="DEATH_4">No pude completar la misión. … Lo siento.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ahora tenemos que centrarnos en la misión.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Un minuto de silencio por los caídos. Lo hicieron bien.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Uno de nosotros… ha caído. El resto debemos continuar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No tenemos el tiempo para ponernos tristes, pero……</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Tenemos que seguir con la batalla…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No hay necesidad de que me perdones ni nada.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Que descanses en paz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Deberías haber tenido un poco más de cuidado.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Solo estaba llevando cumpliendo mi misión.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Parece que he hecho mi parte del trabajo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Hook_Office">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Te va a doler si te apuñalo… ¿Quieres intentarlo?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡Oooh, dan tanto miedo, casi dejé caer mi arma!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿Puedes seguir de pie? Estás temblando hasta los huesos, ¿no es así?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">¡Recibe un golpe, se sentirá bien. Para mí, por supuesto!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Cómo golpearé a ese tipo…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Oh, Vamos~ ¿Aún tenemos que enfrentar a los verdaderos enemigos, no? Esto no puede ser todo~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">No es realmente divertido aplastar libros…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">No seas ridículo. ¿No he ni comenzado y ya hemos acabado?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">¿Quizás romperé estanterías para ventilarme un poco?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">No hubiera venido si supiera que esto es todo lo que tenían que ofrecer.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡No puedo perder… en un lugar como este…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">¡Haha! Ha… Me dieron.</BattleDialog>
+      <BattleDialog ID="DEATH_2">Odio… que me lastimen. Maldita sea…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Ellos eran… fuertes.</BattleDialog>
+      <BattleDialog ID="DEATH_4">Es mi falta por ser tan descuidado. Pero, pero…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿Hm? ¿Alguien acaba de morir? ¡Qué pena!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sabía que morirías así algún día~</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Oh vamos. ¿Solo te tomo eso que te ganaran…? Impresionante, colega.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Ellos no tenían nada que ver conmigo, ¿así que porque molestarme?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Bien. ¡Un obstáculo menos en mi camino!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Haha! Debieron ver lo tembloroso que estaba este tipo ahora.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Quizás pueda dejarte darme uno o dos golpes como consuelo?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Deberías haber esquivado eso, colega~ Uf, no hay punto en lamentarse estando muerto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">¿Qué eres, un globo?… Solo te pinche un poquito…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Lamentable~ Esto es aburrido. ¿Tienen a alguien mejor?</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Pierre_freinds">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Oh, hombre… Ve fácil conmigo, porfa. No quiero que me lastimen.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Qué son esos? Mmm, parecen ingredientes, pero…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿No te preguntas qué saldrá si te corto con esto?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Todo lo que veo es una manada de cerditos asustados.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Si solo tuviera tres tazones para el desayuno esta mañana… Se me haría la boca agua.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Los ingredientes débiles suelen ser duros de masticar…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Aah, Quiero volver y disfrutar algo de carne caliente.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Toda esta batalla fue como unos ojos dulces… Quiero comer algunos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Se sienten diferente a los ingredientes que usualmente encontramos en los Barrios Bajos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Nada es mejor que tomar un gran mordisco de carne después de una batalla…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Uf… Nunca pensé… que yo podría ser la víctima…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Perdí contra tipos como ellos… Esto es vergonzoso.</BattleDialog>
+      <BattleDialog ID="DEATH_2">Pensar que me volvería un libro… Se siente tan asqueroso.</BattleDialog>
+      <BattleDialog ID="DEATH_3">¡Eh…! Supongo que aún tenía mucho por mejorar…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Es muy molesto que perdiera la oportunidad de rebanarlos…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ese tipo acaba de morir. Aunque no estoy triste.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Qué lástima. Podrías haber sido un buen ingrediente.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡No me importa si estás de mi lado, yo soy quien conseguirá la carne!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No puedo creer que te derrotaran con eso. Patético.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Los suaves no son sabrosos.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Carne u hombre, tiene que haber uno o más puntos débiles.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Debería golpear el punto vital de la carne, lo menos que quiero es que me golpee con sus patitas.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">La próxima vez que nos veamos, intenta ser una bolsa de carne más elegante.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Oh querido… Los ingredientes fueron muy blandos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Esperaba poder cortar un poco más… Qué lástima.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Staff_Fixer">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No hay nada de que preocuparse. Nuestros oponentes parecen débiles…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No puedo ni comprender como puedes disfrutar esta atmósfera intimidantee…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Ya que las cosas han llegado a esto. Espero te tengamos una batalla justa.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Te golpearé con una precisión milimétrica.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">No intentemos nada descuidado.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esa fue una buena batalla.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Me encanta saber que podemos ganar estos libros a través de un buen esfuerzo.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">La batalla ha terminado, pero deberíamos seguir en guardia.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Aunque hemos ganado, no fue una batalla decente.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">No fue una mala experiencia.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Solo puedo culpar a mi ineptitud… Lo siento.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Subestime completamente a los enemigos…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Parece que hice una evaluación incorrecta.</BattleDialog>
+      <BattleDialog ID="DEATH_3">Estoy avergonzado de mí mismo…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Yo era… un tonto ignorante de mi falta de habilidades.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿Podremos hacerlo por nuestra cuenta…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Estoy confuso…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Hay alguna solución… para una situación como esta?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Dios mío… ¿Quizás esta tarea era demasiado para nosotros…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Yo… lo siento.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡No deseo perder contra nadie…!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Aún no debemos relajarnos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Vamos a terminar victoriosos mientras sigamos a este ritmo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">No fue demasiado difícil.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Casi acabamos. Solo un pequeño empujón más.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Third_Rate_Fixer">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Uf, no tengo ganas de trabajar… Vamos a tomarlo con calma~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Tengo un montón de cosas que hacer después de esto… Terminemos rápido~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Depende de nosotros detener a estos chicos… Que molesto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Tenemos un poco de prisa~ Vamos a comenzar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Estoy más cansado de lo usual hoy… Bueno, trabajo es trabajo, así que lo haré.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Eso fue regular… No fue la peor batalla que he tenido, pero no fue nada especial tampoco.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Probablemente tendré otros trabajos como este cuando vuelva. Uf… Qué molestia.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Esto no es nada comparado a otras solicitudes~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Tiempo de tomar esos libros y marchar.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Haremos un buen uso de estos libros.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Esto es embarazoso… morir aquí de todos los lugares…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Debería haberle dicho adiós a mis colegas….</BattleDialog>
+      <BattleDialog ID="DEATH_2">Me he esforzado tanto abriéndome paso… Maldición…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Todo el trabajo que he hecho en mi vida fue en vano.</BattleDialog>
+      <BattleDialog ID="DEATH_4">Entonces así es como termina…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Uf… Hiciste un buen trabajo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">…Parece que las cosas se vuelven más peligrosas, ¿verdad?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No estoy sorprendido. Ni triste.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Derrotarlos viene primero…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">He visto esto tantas veces. Ya no siento nada.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Deberías haber retrocedido, colega. Ahora tendrán problemas…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Te di tiempo de correr y te quedaste quieto… Te lo merecías.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No fue muy sorprendente, fueron demasiado débiles.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Colega… Por qué tienes que ser tan duro… eso fue agotadorl~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">¿Cuántos nos quedan…? Whew… Que molesto.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="AX">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Esta hacha me da una dulce sensación cuando corto cosas con ella~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Qué es lo que vamos a extorsionar de estos niños.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Se ven como si a penas pudieran recibir mi hacha</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Vamos a aplastar a esos mocosos~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Huelo sangre, la atmósfera aquí no es tan mal~</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esto no se siente como una victoria.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Para estar seguro, ¿ustedes son los grandes chicos malos que ellos mencionaron, verdad?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Esa fue una victoria fácil, Tengo ganar de celebrar tarareando!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">¿No son un tipo de grupo de caridad dando libros… o algo así, verdad?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Me siento un poco mal por los colegas que se volvieron libros. Pero la vida sigue!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡Gah, Maldición… me equivoqué…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">Esto no puede ser… ¡Ellos están haciendo trampa…!</BattleDialog>
+      <BattleDialog ID="DEATH_2">No… No hay manera de que pudiera perder…</BattleDialog>
+      <BattleDialog ID="DEATH_3">¿Un niño como ese pudo conmigo? Esto tiene que ser un mal sueño…</BattleDialog>
+      <BattleDialog ID="DEATH_4">¡¡¡No puedo morir hasta aplastarlos a todos!!!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Esos bastardos… Van a pagar por esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">H-hermano… ¿Quién fue? ¡Estoy preguntando quién fue el responsable de esto!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Es taaaaan triste ver a un amigo mío morir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No es como si hubiera tomado el golpe por ti.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Si solo hubiera acabado con ese chico un poco más rápido…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¿Empiezas una pelea cuando eres tan débil? Esto es embarazoso.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Qué vas a proteger con un cuerpo tan delgado?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Un golpe fuerte es la mejor forma de enviarlos al otro barrio.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Realmente te destrozaron como si fueras un pedazo de papel, ¿eh?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Aplastar a estas moscas parece tan fácil.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Hook+Pierre_Hook">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ese tipo también tiene un buen equipo, ¿eh?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿No piensas que haríamos un gran equipo, colega?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Va a doler si los apuñalo… ¿Quieres intentarlo juntos?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">¿También te gusta apuñalar y aplastar a tus enemigos?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">¿Mmm? ¿Yo también puedo ser comida? ¡Interesante!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Woohoo, Trabajar con amigos que piensan como yo hizo esto muy sencillo, ¿eh?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Distrito 23, Ya veo…¡me gusta tu forma de pensar!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">No esperaba conocer a alguien que me agradara tanto además de mi orégano… ¡Que curioso!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">¿Quizás romperé estanterías para ventilar mis sentimientos? ¡Vamos juntos!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡No puedo… perder en un lugar como este…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">¡Haha! Ha… Me dieron.</BattleDialog>
+      <BattleDialog ID="DEATH_2">Odio… que me lastimen. Maldita sea…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Ellos eran… fuertes.</BattleDialog>
+      <BattleDialog ID="DEATH_4">Es mi falta por ser tan descuidado. Pero, pero…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Uf… ¡Pensé que eran unos buenos tipos, pero eran muy frágiles!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Tu aspecto solo era para alardear… Es una pena~</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Pensé que te veías muy duro, pero solo lo parecías.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Mientras más expectativas tengas, más grande será la caída~</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Si me preguntan, ese tipo no tenía nada que ver conmigo</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Nuestro trabajo en equipo fue perfecto! ¡Choca esos cinco!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Vamos a cortar cosas juntos! Aunque sean libros o cualquier cosa.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Separar carne, ¿eh?… ¡También quiero intentarlo!</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Hook+Pierre_Pierre">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Nos conocimos por coincidencia… ¿Pero podríamos ser buenos compañeros?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Terminemos esto rápido juntos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿También te gusta esto? Tienes un fascinante hobby.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Siento que podemos acabar con ellos limpiamente.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">¿Tú también hueles muy delicioso, sabes?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Dijiste que eras de la Oficina Hook… Un nombre muy bonito.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Fue una buena batalla. Estos chicos fueron muy buenos a pesar de lo jóvenes que son.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Aún no he tenido suficiente… ¿Quizás debería ir a otro lugar por nuevos ingredientes?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">No estaré satisfecho hasta rasgar a alguien. Cualquiera…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Uf… Nunca pensé… que yo podría ser la víctima…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Perdí contra tipos como ellos… Esto es vergonzoso.</BattleDialog>
+      <BattleDialog ID="DEATH_2">Pensar que me volvería un libro… Se siente tan asqueroso.</BattleDialog>
+      <BattleDialog ID="DEATH_3">¡Eh…! Supongo que aún tenía mucho por mejorar…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Es muy molesto que perdiera la oportunidad de rebanarlos…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ese acaba de morir. Una lástima, me gustaba un pocoe…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Oh… Estaba emocionado de ver una cara amigable después de tanto tiempo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Es desafortunado, pero muestra lo débil que eres al ser superado por tipos como ellos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No te preocupes. Los mataré a todos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Por lo menos esa arma parecía muy fuerte.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ha sido mucho tiempo desde que trabajaba con otros… Esto es… tan emocionante.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Quizás debería intentar usar un gran gancho como el que ellos están usando la próxima vez.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No pensé que podríamos trabajar tan bien juntos.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Fixers_Staff">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Tengo que trabajar con alguien tan maleducado?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Solo no te metas en mi camino.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Uf… Que tipo tan ignorante…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Este tipo es un fanfarrón. ¿Puedes luchar tan bien como dices?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">No pienso cooperar con este tipo a mi lado.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Nuestro trabajo en equipo fue tan horrible como pensé, debo decirlo.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Puedo encontrar y tomar lo que me pertenece por mi cuenta, así que no intervengas.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Hiciste un buen trabajo, pero espero no vernos nunca más.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Incluso al final, tú… Olvídalo. No nos veremos de nuevo.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Solo puedo culpar a mi ineptitud… Lo siento.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Subestime completamente a los enemigos…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Parece que hice una evaluación incorrecta.</BattleDialog>
+      <BattleDialog ID="DEATH_3">Estoy avergonzado de mí mismo…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Yo era… un tonto ignorante de mi falta de habilidadess.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Eras simplemente muy flojo, sabía que te pasaría eso.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Qué estás tú…? ¡Si te jactabas tanto, pero lo menos hubieras intentado ser útil!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Este es el motivo de que nunca debes ser descuidado…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Está bien. Puedo hacer esto… por mi cuenta, Estoy seguro…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Eso es lo que pasa cuando eres tan lento…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hubiéramos terminado en un pestañeo si este tipo no fuera tan perezoso.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Esto es lo más rápido que podemos hacerlo? ¿Cuál es tu excusa para ser tan lento?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Uf… Considerando la actitud de este tipo, Yo debería haberlo intentado más duro.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Fixers_Third">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Pensé que nuestros oponentes eran nerds… ¡Pero resulta que también hay en nuestro lado!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Hah, En serio. Soy mucho mejor que tú, colega, así que mantén los ojos en los enemigos y no en mí~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Estar a tu lado es como un palo en el culo, colega~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">¿Puedes hacer tu trabajo en otro lado? No estamos en sincronía.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Oh chico… Mi cabeza… ¿Solo sigamos con esto, vale?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Eso fue regular… No fue la peor batalla que he tenido, pero no fue nada especial tampoco.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bueno… Supongo que teníamos algo de química.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Nunca nos veamos otra vez, profe~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Fue gracias a mí que pudimos ganar~ No pareces haberlo notado.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Esto es embarazoso… De todos los lugares, tenía que morir aquí…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Debería haberle dicho adiós a mis colegas….</BattleDialog>
+      <BattleDialog ID="DEATH_2">Me he esforzado tanto abriéndome paso… Maldición…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Todo el trabajo que he hecho en mi vida fue en vano.</BattleDialog>
+      <BattleDialog ID="DEATH_4">Así es como acaba…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Eso es lo que pasa cuando te aferras tanto a los principios, colega~</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Eh, No me importa si alguien más muere.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Quién es el presumido ahora?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Puedo ocuparme de todos ellos, así que no te preocupes por mí~</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Uf… Hiciste un buen trabajo.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">El tipo a mi lado se queja tanto… Pero estoy haciendo un buen trabajo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Se necesita tener una actitud relajada el poder ser tan fuerte como yo~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No son trampas ni nada. Solo soy más listo que tú.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="AX+Dogs_AX">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No se quejen si no quieren esta hacha, cachorritos~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Va a doler si te corto con esto… ¿Quieres intentarlo?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Esto es todo~ sobre ayudarnos el uno al otro, colega. ¿Por qué me miras así?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">¿Estás por tu cuenta, vale? Nadie aquí quiere morir.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Supongo que estos Perros tenían buenas habilidades~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿No parecía que les agradáramos hasta el final?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Olvídalo. Solo toma tus cosas y vete.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Ganamos gracias a nuestra ayuda, así que cambien esa cara</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Gah, ¡Maldición… me equivoqué…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">¡Esto no puede ser… Ellos están haciendo trampa…!</BattleDialog>
+      <BattleDialog ID="DEATH_2">No… No hay manera de que pudiera perder…</BattleDialog>
+      <BattleDialog ID="DEATH_3">¿Un niño como ese pudo conmigo? Esto tiene que ser un mal sueño…</BattleDialog>
+      <BattleDialog ID="DEATH_4">¡¡¡No puedo morir hasta aplastarlos a todos!!!</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Esos bastardos… Van a pagar por esto.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">H-hermano… ¿Quién fue? ¡Estoy preguntando quién fue el responsable de esto!</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Es taaaaan triste ver a un amigo mío morir.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">No es como si hubiera tomado el golpe por ti.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Si solo hubiera acabado con ese chico un poco más rápido…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_5">¡No pensé que fueras a caer tan fácil, colega!</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_6">Hablando de gente patética. Solo te tomo eso morir~</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_7">Uf… Eso fue menos que inútil.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_8">¿Debería escapar? ¿O es demasiado tarde para hacerlo…?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_9">Ha, Ya veo~ Sabía que morirían así.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">A este ritmo acabaré con todos, cachorritos~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Mira eso! Soy mucho mejor en acabarlos que esos quejosos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Estoy haciendo todo el maldito trabajo~</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="AX+Dogs_Dogs">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Esos maniacos están en nuestro lado…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Escuche que aquí es donde los Perros están siendo cautivos…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bastardos astutos. Dependiendo de armas en lugar de usar tu cuerpo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Podemos ganar fácilmente con o sin esos trucos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">¿Saben donde están nuestros hermanos, no es así? ¡¡¡Respóndanme!!!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hunh, No valían para nada. ¡No se preocupen hermanos! Vengo a llevarlos de vuelta ahora.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Esta debería ser la última vez que tengamos ayuda de ustedes.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Qué es lo que está intentando una banda de debiluchos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Estos trucos no se terminarán hasta el final. Pura de ladrar por un segundo.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡Aaahh…! Me siento mal…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Maldita sea… Así no es como quería morir.</BattleDialog>
+      <BattleDialog ID="DEATH_2">¡Tu pedazo de… No te pongas engreído…!</BattleDialog>
+      <BattleDialog ID="DEATH_3">¡Ese tipo de ataques son trampa! ¡Maldición… Maldita sea!</BattleDialog>
+      <BattleDialog ID="DEATH_4">Quizás yo era el mayor idiota…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Uf… Ese pedazo de mierda inútil…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">¿Qué hacía ese debilucho aquí?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Parece que perro que ladra no muerde.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Los más débiles mueren primero.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Ese tipo era un obstáculo de todos modos.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_5">¡Si mueren aquí, el jefe nos va a regañar de nuevo!</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_6">¡Tienen que ser más cuidadosos! Maldita sea, las cosas se volverán más difíciles ahora.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_7">… Bien, mientras yo no sea el que muera.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_8">Olvídalo, podemos ganar sin ese perdedor…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_9">Se siente un poco amargo verlos morir de esa forma.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Prefiero apresurarme y acabar con ellos yo mismo que dejar a estos raritos hacerlo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Nunca confíes en nadie que hable como si fueran lo mejor.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Esos inútiles… Es como si estuviera haciendo todo el trabajo.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+</BattleDialogRoot>

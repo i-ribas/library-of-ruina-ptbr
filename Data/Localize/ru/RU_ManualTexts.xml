@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<text id="ui_manual_title_1">La invitación</text>
+	<text id="ui_manual_title_2">Recepción</text>
+	<text id="ui_manual_title_3">La Biblioteca</text>
+	<text id="ui_manuals_subtitle_1_1">Enviar invitaciones rojas</text>
+	<text id="ui_manuals_subtitle_1_2">Enviar invitaciones generales</text>
+
+	<text id="ui_manuals_subtitle_2_1">Prepararse para la recepción</text>
+	<text id="ui_manuals_subtitle_2_2">Fundamentos de combate</text>
+
+	<text id="ui_manuals_subtitle_2_3">Proceso de recepción</text>
+	<text id="ui_manuals_subtitle_2_4">Emociones y anormalidades</text>
+	<text id="ui_manuals_subtitle_2_5">Final de recepción</text>
+	<text id="ui_manuals_subtitle_2_6">Tipos de páginas</text>
+
+	<text id="ui_manuals_subtitle_3_1">Conseguir páginas</text>
+	<text id="ui_manuals_subtitle_3_2">Equipar bibliotecarios</text>
+	<text id="ui_manuals_subtitle_3_3">Mejorar la Biblioteca</text>
+	<text id="ui_manuals_subtitle_3_4">Examinar la historia</text>
+
+	<text id="ui_manuals_subsubtitle_1_1_1">Elegir invitados</text>
+	<text id="ui_manuals_subsubtitle_1_1_2">Elegir libros Ⅰ</text>
+	<text id="ui_manuals_subsubtitle_1_1_3">Elegir libros Ⅱ</text>
+	<text id="ui_manuals_subsubtitle_1_1_4">Enviar la invitación</text>
+	<text id="ui_manuals_subsubtitle_1_2_1">Enviar invitaciones generales</text>
+	<text id="ui_manuals_subsubtitle_2_2_1">¿Qué son las páginas de combate?</text>
+	<text id="ui_manuals_subsubtitle_2_3_1">Lanzar dado de velocidad</text>
+	<text id="ui_manuals_subsubtitle_2_3_2">Seleccionar páginas de combate</text>
+	<text id="ui_manuals_subsubtitle_2_3_3">Comenzar combate</text>
+	<text id="ui_manuals_subsubtitle_2_3_4">Lanzar dados</text>
+	<text id="ui_manuals_subsubtitle_2_3_5">Ataques de un solo-lado</text>
+	<text id="ui_manuals_subsubtitle_2_3_6">Choque Ⅰ</text>
+	<text id="ui_manuals_subsubtitle_2_3_7">Choque Ⅱ</text>
+	<text id="ui_manuals_subsubtitle_2_3_8">Aturdimiento</text>
+	<text id="ui_manuals_subsubtitle_2_3_9">Conseguir libros</text>
+	<text id="ui_manuals_subsubtitle_2_3_10">Resistencias</text>
+	<text id="ui_manuals_subsubtitle_2_4_1">Incrementar emociones Ⅰ</text>
+	<text id="ui_manuals_subsubtitle_2_4_2">Incrementar emociones Ⅱ</text>
+	<text id="ui_manuals_subsubtitle_2_4_3">Nivel de emoción del equipo</text>
+	<text id="ui_manuals_subsubtitle_2_4_4">Páginas de anormalidad</text>
+
+	<text id="ui_manuals_subsubtitle_2_5_1">Siguiente escena</text>
+	<text id="ui_manuals_subsubtitle_2_5_2">Sala de descanso</text>
+	<text id="ui_manuals_subsubtitle_2_5_3">El final</text>
+
+	<text id="ui_manuals_subsubtitle_2_6_1">Melee</text>
+	<text id="ui_manuals_subsubtitle_2_6_2">Rango</text>
+	<text id="ui_manuals_subsubtitle_2_6_3">Contraataque</text>
+	<text id="ui_manuals_subsubtitle_2_6_4">Ataque en masa</text>
+	<text id="ui_manuals_subsubtitle_2_6_5">Propiedades de los ataques en masa</text>
+	<text id="ui_manuals_subsubtitle_2_6_6">Ataque en masa - Individual</text>
+	<text id="ui_manuals_subsubtitle_2_6_7">Ataque en masa - Suma</text>
+
+	<!--추가-->
+	<text id="ui_manuals_subsubtitle_2_6_1_1">Icono de página de melee</text>
+	<text id="ui_manuals_subsubtitle_2_6_1_2">- La página de combate más común.
+- Cuando una página melee se enfrenta a una página de rango, su dado ofensivo no puede dar al de rango oponente inmediatamente, incluso si gana en el choque contra su dado ofensivo.
+Sin embargo, El dado ofensivo será guardado al ganar cada choque y será movido al final del dado esperando para ser reutilizado.</text>
+
+	<text id="ui_manuals_subsubtitle_2_6_2_1">Icono de página de rango</text>
+	<text id="ui_manuals_subsubtitle_2_6_2_2">- Páginas de combate menos comunes que realizan ataques a distancia.
+- Las páginas de rango *siempre* serán jugadas antes que las melee, sin importar la velocidad.
+- Incluso si el dado ofensivo de una página de rango pierde un choque contra un dado ofensivo de una página melee, el usuario de rango no recibirá daño inmediatamente.
+- Sin embargo, el dado melee del oponente será guardado y se moverá al final del dado para ser reutilizado.</text>
+
+	<text id="ui_manuals_subsubtitle_2_6_3_1">Icono de dado de contraataque</text>
+	<text id="ui_manuals_subsubtitle_2_6_3_2">Los dados de contraataque son amarillos.
+Estos dados se guardarán hasta que un enemigo intente un ataque de un solo-lado.
+Si un dado de contraataque gana un choque, este será reutilizado si aún le quedan dados a la página de combate del oponente.</text>
+	<text id="ui_manuals_subsubtitle_2_6_4_1">Icono de páginas de ataque en masa</text>
+	<text id="ui_manuals_subsubtitle_2_6_4_2">Este icono en la &#60;color=#ff5622ff&#62;‘Página de combate’&#60;/color&#62; indica que es una página de ataque en masa.
+- Cuando selecciones un objetivo de un ataque en masa,
+se seleccionará automáticamente un dado de velocidad contra cada enemigo.</text>
+
+	<text id="ui_manuals_subsubtitle_2_6_5_1">Los ataques en masa *siempre* serán jugados antes que las páginas melee y rango, sin importar la velocidad.
+El lanzamiento de un dado de ataque en masa es comparado con los lanzamientos de las páginas de combate del dado del oponente y los objetivos que tengan un lanzamiento menor comparado al ataque en masa recibirán el daño y su dado será destruido.</text>
+
+	<text id="ui_manuals_subsubtitle_2_6_6_1">Existen dos tipos diferentes de ataque en masa: &#60;color=#ff5622ff&#62;‘Individual’&#60;/color&#62; y &#60;color=#ff5622ff&#62;‘Suma’&#60;/color&#62;. Los ataques en masa &#60;color=#ff5622ff&#62;‘Individual’&#60;/color&#62; son comparados contra los lanzamientos de dado de cada dado de velocidad de los objetivos en secuencia (Sin contar dados de contraataque). Es decir, que el primer dado de la página de ataque en masa se enfrentará al primer dado de la página de combate del oponente, el segundo dado con el segundo y así consecutivamente.</text>
+	<text id="ui_manuals_subsubtitle_2_6_7_1">Los ataques en masa de &#60;color=#ff5622ff&#62;‘Suma’&#60;/color&#62; son comparados con la suma de todos los dados de la página de combate del dado de velocidad de los objetivos (Sin contar dados de contraataque). Es decir, que todos los dados de la página de combate se sumarán y se enfrentarán a la página de ataque en masa-Suma.</text>
+
+	<text id="ui_manuals_subsubtitle_3_1_1">Quemar libros Ⅰ</text>
+	<text id="ui_manuals_subsubtitle_3_1_2">Quemar libros Ⅱ</text>
+	<text id="ui_manuals_subsubtitle_3_1_3">Botín al quemar libros</text>
+	<text id="ui_manuals_subsubtitle_3_1_4">Tipos de página</text>
+	<text id="ui_manuals_subsubtitle_3_1_5">Grados de página</text>
+	<text id="ui_manuals_subsubtitle_3_2_1">Libraría interfaz</text>
+	<text id="ui_manuals_subsubtitle_3_2_2">Personajes interfaz</text>
+	<text id="ui_manuals_subsubtitle_3_2_3">Equipar páginas clave</text>
+	<text id="ui_manuals_subsubtitle_3_2_4">Equipar páginas de combate</text>
+	<text id="ui_manuals_subsubtitle_3_2_5">Equipar símbolos de batalla</text>
+	<text id="ui_manuals_subsubtitle_3_2_6">Customizar bibliotecario</text>
+	<text id="ui_manuals_subsubtitle_3_2_7">Transferir pasivas Ⅰ</text>
+	<text id="ui_manuals_subsubtitle_3_2_8">Transferir pasivas Ⅱ</text>
+	<text id="ui_manuals_subsubtitle_3_3_1">Subir realización del piso</text>
+	<text id="ui_manuals_subsubtitle_3_3_2">Batallas con anormalidades</text>
+	<text id="ui_manuals_subsubtitle_3_3_3">Subir grado de la Biblioteca</text>
+	<text id="ui_manuals_subsubtitle_3_3_4">Abrir nuevos pisos</text>
+	<text id="ui_manuals_subsubtitle_3_4_1">Escenas de jefe bibliotecario</text>
+	<text id="ui_manuals_subsubtitle_3_4_2">Mirar episodios de la historia principal</text>
+	<text id="ui_manuals_subsubtitle_3_4_3">Leer páginas y libros</text>
+
+	<!-- Invitation-related Manual Sections -->
+	<text id="ui_manuals_subsubtitle_1_1_1_1">Paso 1: Desde el menú de invitación, selecciona un invitado que te gustaría recibir seleccionando su logo.</text>
+	<text id="ui_manuals_subsubtitle_1_1_1_4">La recepción comienza al enviar una ‘Invitación’ a tus invitados.
+Paso 1: Desde el menú de invitación, selecciona un invitado que te gustaría invitar seleccionando su logo.</text>
+	<text id="ui_manuals_subsubtitle_1_1_2_1">Paso 2: Desde el menú ampliado, selecciona el icono del episodio que te gustaría iniciar.</text>
+	<text id="ui_manuals_subsubtitle_1_1_2_2">Paso 3: Una vez lo hayas seleccionado, se mostrará una lista con todos los libros requeridos para la invitación.
+Haz clic en la ranura de la lista.</text>
+	<text id="ui_manuals_subsubtitle_1_1_3_1">Paso 4: Elige los libros necesarios en los ‘Libros del día’.</text>
+	<text id="ui_manuals_subsubtitle_1_1_4_1">Paso 5: Presiona ‘Enviar invitación’ para preparar y enviar la invitación.</text>
+	<text id="ui_manuals_subsubtitle_1_1_4_2">Paso 6: Presiona el botón dorado para enviar la invitación.</text>
+	<text id="ui_manuals_subsubtitle_1_1_4_3">Los detalles de los invitados no estarán disponibles cuando los invitas por primera vez.
+
+Después de enfrentarlos una vez, podrás ver su información en esta lista.</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_1">Las invitaciones generales son mandadas a invitados sin importancia que no avanzarán la historia.
+Sin embargo, pueden tener recursos que te pueden hacer más fuerte.</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_2">Paso 1: Escoge *cualquier* libro en los ‘Libros del día’ al hacer clic en el espacio de ‘Registrar libro’.
+(Puede ser cualquier cantidad o grado.)
+Nota: Si pones una combinación de libros que sea la misma que el de una invitación roja, entonces invitará a los que coincidan en lugar de una invitación general.</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_3">Paso 2: Presiona ‘Enviar’ para enviar la invitación.</text>
+	<text id="ui_manuals_subsubtitle_1_2_1_4">En el caso de las invitaciones generales, el tipo de invitados que recibas dependerá del valor de los libros que registres.</text>
+
+
+	<text id="ui_manuals_subsubtitle_2_2_1_1">Las páginas de combate y sus dados son los elementos principales de la recepción.</text>
+	<text id="ui_manuals_subsubtitle_2_2_1_2">El texto describe la habilidad de la página, usualmente &#60;color=#ff5622ff&#62;se activa al usarla&#60;/color&#62;.</text>
+	<!--띄어쓰기 중요-->
+	<text id="ui_manuals_subsubtitle_2_2_1_3">En combate, existen &#60;color=#ff5622ff&#62;tres tipos de dados ofensivos&#60;/color&#62;, cada una corresponde a un diferente tipo de daño.
+
+Por ejemplo:
+Este icono representa el tipo de daño ‘Cortante’; cuando un dado ofensivo con este icono es jugado, se realizará daño de Tipo-Cortante.
+	
+De igual manera, jugar un dado ofensivo con el icono ‘Perforante’ realizará un daño de Tipo-Perforante.
+	
+Igualmente, jugar un dado ofensivo con el icono ‘Contundente’ realizará un daño de Tipo-Contundente.</text>
+
+	<text id="ui_manuals_subsubtitle_2_3_1_1">Cuando una nueva escena comienza, presiona la tecla de espacio para lanzar los dados de velocidad.
+(O puedes presionar el icono que está en el centro arriba del todo.)
+
+El número de páginas de combate que un personaje puede utilizar depende de &#60;color=#ff5622ff&#62;cuantos dados de velocidad tienes&#60;/color&#62;.
+
+Los personajes con mayor dado de velocidad pueden:
+- Actuar primero.
+- Redirigir los ataques enemigos con menor velocidad &#60;color=#ff5622ff&#62;para que les ataquen a ellos en su lugar&#60;/color&#62;.</text>
+  
+  <text id="ui_manuals_subsubtitle_2_3_1_1_pad">Cuando una nueva escena comienza, presiona [4] para lanzar los dados de velocidad.
+(O puedes presionar el icono que está en el centro arriba del todo.)
+
+El número de páginas de combate que un personaje puede utilizar depende de &#60;color=#ff5622ff&#62;cuantos dados de velocidad tienes&#60;/color&#62;.
+
+Los personajes que lanzan un número mayor de velocidad:
+- Actuar primero.
+- Redirigir los ataques enemigos con menor velocidad &#60;color=#ff5622ff&#62;para que les ataquen a ellos en su lugar&#60;/color&#62;.</text>
+  
+	<text id="ui_manuals_subsubtitle_2_3_2_1">#3. Haz clic en el dado del invitado al que quieres que tu bibliotecario utilice la página que seleccionaste.
+
+Mover el dado sobre el dado del enemigo mostrará que dado están planeando utilizar.</text>
+	<text id="ui_manuals_subsubtitle_2_3_2_2">#1. Haz clic en el dado de velocidad del bibliotecario.
+También puedes hacer clic derecho para cancelar la página que has escogido.</text>
+	<text id="ui_manuals_subsubtitle_2_3_2_3">#2. Selecciona una página de combate de tu mano.</text>
+	<text id="ui_manuals_subsubtitle_2_3_2_4" xsi:nil="true"/>
+	<text id="ui_manuals_subsubtitle_2_3_2_5">Cuando un bibliotecario utilizar una página, &#60;color=#ff5622ff&#62;‘Luz’ igual a su coste&#60;/color&#62; es usada.
+Se recupera 1 Luz al comienzo de cada escena.</text>
+	<text id="ui_manuals_subsubtitle_2_3_3_1">Al hacer clic a los botones de verificación de objetivos, te enseñará los objetivos de los bibliotecarios e invitados.
+(Desde la izquierda: Rojo - Objetivos de los invitados; Amarillo - Choques; Verde- Objetivos de los bibliotecarios.)</text>
+	<text id="ui_manuals_subsubtitle_2_3_3_2">Haz clic en el botón ‘Comenzar escena’
+o presiona la tecla de espacio para iniciar el combate.</text>
+  <text id="ui_manuals_subsubtitle_2_3_3_2_pad">Haz clic en el botón ‘Comenzar escena’
+o presiona [[4]] para iniciar el combate.</text>
+	<text id="ui_manuals_subsubtitle_2_3_3_3">Puedes hacer clic derecho en el dado iluminado &#60;color=#ff5622ff&#62;para cancelar la página que has escogigo&#60;/color&#62;.</text>
+  <text id="ui_manuals_subsubtitle_2_3_3_3_pad"></text>
+  <!--<text id="ui_manuals_subsubtitle_2_3_3_3_pad">[[2]]를 누르면 기존에 &#60;color=#ff5622ff&#62;선택한 책장을 취소&#60;/color&#62;할 수 있습니다.</text>-->
+	<text id="ui_manuals_subsubtitle_2_3_3_4">Haz clic aquí para Activar/Desactivar el Modo rápido Sí/No.
+Cuando el Modo rápido está en No, los dados se lanzarán manualmente.</text>
+	<text id="ui_manuals_subsubtitle_2_3_4_1">Cuando la fase de combate comienza, cada personaje se acercara a su objetivo.
+Su velocidad de movimiento dependerá de los lanzamientos de velocidad.
+
+Los personajes comenzarán sus acciones una vez alcancen a sus objetivos.</text>
+	<text id="ui_manuals_subsubtitle_2_3_4_2">Los personajes realizarán sus acciones utilizando los dados de sus páginas de combate.
+Dependiendo del tipo de dado, el personaje atacará o defenderá.
+
+El resultado de cada acción es determinado por el resultado de sus lanzamientos.</text>
+	<text id="ui_manuals_subsubtitle_2_3_4_3">Cuando un lanzamiento ha sido determinado, los personajes realizarán daño o bloquearán el ataque del oponente basándose en los lanzamientos.
+Si &#60;color=#ff5622ff&#62;el oponente no tiene un dado para responder&#60;/color&#62; la acción de otro, las cosas se desarrollarán diferente.</text>
+
+	<text id="ui_manuals_subsubtitle_2_3_7_1">Dado de bloqueo</text>
+	<text id="ui_manuals_subsubtitle_2_3_7_2">&lt;Gana un choque vs. dado ofensivo&gt;
+Bloquea el daño completamente.
+Realiza daño de aturdimiento igual a la diferencia en los valores.
+
+&lt;Perder un choque vs. dado ofensivo&gt;
+Reduce el daño por el lanzamiento obtenido.
+
+&lt;Gana un choque vs. dado defensivo&gt;
+Realiza daño de aturdimiento igual al lanzamiento obtenido.</text>
+	<text id="ui_manuals_subsubtitle_2_3_7_3">Dado de evasión</text>
+	<text id="ui_manuals_subsubtitle_2_3_7_4">&lt;Gana un choque vs. dado ofensivo&gt;
+Evitas todo el daño.
+El dado de evasión se mantiene.
+
+&lt;Empatar un choque vs. dado ofensivo&gt;
+Evitas todo el daño.
+El dado de evasión se pierde.
+
+&lt;Gana un choque vs. dado defensivo&gt;
+El personaje recupera resistencia al aturdimiento.</text>
+	<text id="ui_manuals_subsubtitle_2_3_8_1">Un personaje puede recibir e infligir dos tipos de daño:
+Daño &lt;físico&gt; y daño de &lt;aturdimiento&gt;.
+
+Los ataques de aturdimiento reducirán la resistencia al aturdimiento del objetivo (barra amarilla) al golpear.
+
+Cuando la resitencia al aturdimiento se vuelve 0, el personaje se vuelve ‘Aturdido’.
+(Esto es indicado por un dado de velocidad roto.)</text>
+	<text id="ui_manuals_subsubtitle_2_3_8_2">Un personaje &#60;color=#ff5622ff&#62;aturdido&#60;/color&#62;
+- Recibirá daño fatal de todos los tipos de ataques.
+- No puede actuar por la actual y siguiente escena.
+- No puede recuperar luz al comienzo de la siguiente escena.
+- No puede robar páginas al comienzo de la siguiente escena.
+
+Un personaje restaura 1 Luz al aturdir a un oponente.</text>
+	<text id="ui_manuals_subsubtitle_2_3_9_1">Recibir daño que reduce el HP a 0, indicado por la barra roja.
+
+Cuando el HP de un bibliotecario o un invitado se vuelve 0, ellos mueren.</text>
+	<text id="ui_manuals_subsubtitle_2_3_9_2">Los invitado que &#60;color=#ff5622ff&#62;encuentran su destino&#60;/color&#62; en la Biblioteca se convierten en &#60;color=#ff5622ff&#62;libros&#60;/color&#62;.
+
+Mientras más alto sea el ‘Nivel de emoción’ del invitado, más probable es que entreguen más libros o de mayor calidad al morir.
+
+Incluso si un bibliotecario muere en combate, revivirán cuando la recepción se termine.</text>
+	<text id="ui_manuals_subsubtitle_2_3_10_1">Resistencia al daño</text>
+	<text id="ui_manuals_subsubtitle_2_3_10_2">Resistencia al aturdimiento</text>
+	<text id="ui_manuals_subsubtitle_2_3_10_3">Fatal: Daño x2
+
+Débil: Daño x1.5
+
+Normal: Mismo daño
+
+Resistente: Daño x0.5
+
+Inefectivo:
+Daño x0.25</text>
+	<text id="ui_manuals_subsubtitle_2_3_10_4">Cada personaje (y páginas clave) tiene diferentes resistencias al daño y daño de aturdimiento para cada ataque.
+
+Puedes realizar un daño adicional si utilizas un tipo de daño a lo que son débiles, indicados por &#60;color=#ff5622ff&#62;"Fatal"&#60;/color&#62; o &#60;color=#ff5622ff&#62;"Débil"&#60;/color&#62;.
+Por el contrario, atacarlos con daños a los que son resistentes, indicados por &#60;color=#ff5622ff&#62;"Resistente"&#60;/color&#62; o &#60;color=#ff5622ff&#62;"Inefectivo"&#60;/color&#62; causará menos daño.
+
+Utiliza las resistencias a tu ventaja en las recepciones.</text>
+	<text id="ui_manuals_subsubtitle_2_4_1_1">Mientras el combate progresa, la tensión emocional de los bibliotecarios y los invitados incrementará.</text>
+	<text id="ui_manuals_subsubtitle_2_4_1_2">Punto de emoción positiva (Azul)
+- Al ganar un choque o tener ventajas en la batalla
+(Ej: Derrotar a un enemigo)
+
+Punto de emoción negativa (Rojo)
+- Al perder un choque o sufrir una desventaja en la batalla
+(Ej: Perder un aliado)</text>
+	<text id="ui_manuals_subsubtitle_2_4_1_3">Cuando la Barra de emoción se llena completamente, el nivel de emoción de personaje incrementará.
+
+Cuando el nivel de emoción incrementa, ellos:
+- Ganan ventajas, tales como incrementar la capacidad de luz máxima.
+- Restauran toda la luz.
+
+El nivel máximo de emoción de un bibliotecario depende del nivel de realización de su piso.</text>
+	<text id="ui_manuals_subsubtitle_2_4_2_1">Cuando el nivel de emoción de un personaje aumenta, la emoción general del equipo al que pertenecen también incrementará.
+
+Cuando el nivel de emoción del equipo incrementa, podrás elegir una página de anormalidad al comienzo de la siguiente escena.</text>
+	<text id="ui_manuals_subsubtitle_2_4_2_2">Existen dos tipos de páginas de anormalidad: Despertar (Azul) y Ruptura (Rojo).
+
+Las páginas de despertar usualmente consisten en efectos beneficiosos para el usuario.
+Las páginas de ruptura ofrecen efectos poderosos, pero vienen con inconvenientes.
+
+Cada piso ofrece distintas páginas de anormalidad para elegir y la probabilidad para poder elegir cada tipo de página depende de los puntos de emoción positivos y negativos que el equipo ha conseguido.</text>
+	<text id="ui_manuals_subsubtitle_2_5_1_1">Cuando todos los personajes han terminado sus acciones, la escena terminará y una nueva escena dará comienzo.
+
+Este ciclo continuará hasta que termine el acto, ya sea porque se termine o se corte la recepción.</text>
+	<text id="ui_manuals_subsubtitle_2_5_1_2">El acto se terminará cuando todos los invitados se hayan convertido en libros.</text>
+	<text id="ui_manuals_subsubtitle_2_5_1_3">Alternativamente, el acto se cortará cuando todos tus bibliotecarios mueran.</text>
+	<text id="ui_manuals_subsubtitle_2_5_2_1">Algunas recepciones consisten en múltiples actos en sucesión.
+
+En este caso, al final de un acto, regresarás a la fase de preparación de recepción y podrás prepararte para el siguiente acto.
+
+El HP y las páginas de anormalidad se mantendrán entre actos.
+Los efectos de Estado y la resistencia al aturdimiento serán reseteados.
+
+
+Si no hay pisos disponibles para recibir a los invitados cuando aún quedan actos, entonces la recepción terminará antes de tiempo.</text>
+	<text id="ui_manuals_subsubtitle_2_5_3_1">Si llegas a perder la recepción, entonces los invitados tomarán los libros del día.</text>
+	<text id="ui_manuals_subsubtitle_2_5_3_2">Los bibliotecarios que participaron en la recepción pueden conseguir los siguientes beneficios.</text>
+	<text id="ui_manuals_subsubtitle_2_5_3_3">
+- Ellos pueden obtener ‘Simbolos de batalla’ (cosméticos con pequeños bonus) si cumples ciertas condiciones.</text>
+	<text id="ui_manuals_subsubtitle_2_5_3_4">Puedes ver los libros que has conseguido aquí.</text>
+	<text id="ui_manuals_subsubtitle_2_5_3_5">Presiona este botón para volver a la Biblioteca y planear tu próximo movimiento.</text>
+	<text id="ui_manuals_subsubtitle_3_1_1_1">Puedes conseguir páginas (equipamientos y cartas) al quemar los libros que ganas en las recepciones.</text>
+	<text id="ui_manuals_subsubtitle_3_1_1_2">Paso 1: Presiona en la pestaña ‘Quemar libros’.</text>
+	<text id="ui_manuals_subsubtitle_3_1_2_1">Paso 3: Presiona el botón ‘Quemar libros’.</text>
+	<text id="ui_manuals_subsubtitle_3_1_2_2">Paso 2: Seleciona los libros a quemar de la lista.</text>
+	<text id="ui_manuals_subsubtitle_3_1_2_3">Cada libro tiene un grupo de páginas que puedes conseguir y cada página tiene una cantidad determinada de copias que puedes conseguir.
+
+La lista de recompensas se reseteará automáticamente cuando consigas todas las recompensas posibles. (Excepto las páginas clave)
+Alternativamente, puedes resetear manualmente las recompensas presionando el botón ‘Resetear recompensas’.</text>
+	<text id="ui_manuals_subsubtitle_3_1_3_1">Cuando quemas libros en un piso, verás una animación en el color de ese piso y podrás conseguir páginas aleatorias de ese libro.
+
+Quemar libros te dará diferentes páginas cada vez basadas en la probabilidad.</text>
+	<text id="ui_manuals_subsubtitle_3_1_4_1">Existen dos tipos de páginas que puedes conseguir de los libros: ‘Páginas clave’ y ‘Páginas de combate’.
+
+Las páginas clave representan el físico de un bibliotecario; sirven como Equipamiento.
+Las páginas de combate son las cartas que utilizan los bibliotecarios en combate.</text>
+	<text id="ui_manuals_subsubtitle_3_1_5_1">La rareza de las páginas va de &lt;Libro de bolsillo&gt;, &lt;Tapa dura&gt;, &lt;Edición limitada&gt;, a &lt;Objet d’art&gt;.
+
+Las páginas con mayor grado son más poderosas, pero son más raras de conseguir al quemar libros.
+Las páginas clave tienen un límite de cuantas puedes tener, dependiendo de su rareza.</text>
+	<text id="ui_manuals_subsubtitle_3_2_1_1">Grado actual de la Biblioteca.</text>
+	<text id="ui_manuals_subsubtitle_3_2_1_2">Te mueve a la pestaña seleccionada.</text>
+	<text id="ui_manuals_subsubtitle_3_2_1_3">Ve la información del piso.</text>
+	<text id="ui_manuals_subsubtitle_3_2_1_4">Revisa a tus bibliotecarios aquí.</text>
+	<text id="ui_manuals_subsubtitle_3_2_1_5">Lista de tareas pendientes del piso seleccionado.</text>
+	<text id="ui_manuals_subsubtitle_3_2_1_6">Lista de páginas de anormalidad del piso selecciona.</text>
+	<text id="ui_manuals_subsubtitle_3_2_2_1">Elige lo que quieras configurar aquí.</text>
+	<text id="ui_manuals_subsubtitle_3_2_2_2">Muestra la lista de bibliotecarios de este piso.</text>
+	<text id="ui_manuals_subsubtitle_3_2_2_3">Muestra la información del bibliotecario seleccionado.</text>
+	<text id="ui_manuals_subsubtitle_3_2_2_4">La página clave actual de tu bibliotecario seleccionado
+Puedes hacer clic aquí para cambiar la página clave.</text>
+	<text id="ui_manuals_subsubtitle_3_2_2_5">Lista de habilidades pasivas equipadas en la página clave
+Puedes hacer clic aquí para ajustar las habilidades pasivas.</text>
+	<text id="ui_manuals_subsubtitle_3_2_2_6">Lista de páginas de combate (Mazo) de la página clave actual
+Puedes hacer clic aquí para editar tu mazo.</text>
+	<text id="ui_manuals_subsubtitle_3_2_3_1">Puedes revisar la lista de tus páginas clave favoritas o que estén equipadas en otros bibliotecarios aquí.</text>
+	<text id="ui_manuals_subsubtitle_3_2_3_2">Al hacer clic en la página clave y seleccionar ‘Equipar’, puedes asignar la página clave al bibliotecario.</text>
+	<text id="ui_manuals_subsubtitle_3_2_3_3">Mira las páginas clave de un grado en particular.</text>
+	<text id="ui_manuals_subsubtitle_3_2_3_4">Puedes comparar la información de la página clave equipada y la página clave seleccionada.</text>
+	<text id="ui_manuals_subsubtitle_3_2_3_5">Desequipa la página clave actual.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_1">Remueve todas las páginas de combate del Mazo.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_2">Clic izquierdo en una página de combate para desequiparla.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_3">Los espacios vacíos se rellenarán con páginas de combate básicas aleatorias.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_4">Muestra las páginas que coinciden con los filtros seleccionados.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_5">Clic izquierdo para añadir una página de combate a un espacio vacío.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_6">Usualmente hay un límite a cuantas páginas puedes tener en un Mazo.</text>
+	<text id="ui_manuals_subsubtitle_3_2_4_7">Guarda o Carga tus mazos aquí.</text>
+	<text id="ui_manuals_subsubtitle_3_2_5_1">Haz clic aquí para desequipar un simbolo de batalla.</text>
+	<text id="ui_manuals_subsubtitle_3_2_5_2">Lista de símbolos de batalla que el bibliotecario ha ganado, con el equipado en la parte superior.</text>
+	<text id="ui_manuals_subsubtitle_3_2_5_3">Haz clic en otro simbolo para cambiarlos.</text>
+	<text id="ui_manuals_subsubtitle_3_2_5_4">Botón para customizar al bibliotecario.</text>
+	<text id="ui_manuals_subsubtitle_3_2_5_5">Puedes ver una lista de símbolos de batalla para esa parte en particular al hacer clic en esa ranura de simbolo.</text>
+	<text id="ui_manuals_subsubtitle_3_2_5_6">Puedes presionar el botón de un ojo al lado
+para configurar la visibilidad del simbolo de batalla.</text>
+	<text id="ui_manuals_subsubtitle_3_2_6_1">En este menú de customización, puedes editar el nombre de los bibliotecarios, título, apariencia, tamaño del cuerpo y diálogos.
+Disfruta creando a tus nuggets y recuerda guardar antes de dejar esta sección.</text>
+	<text id="ui_manuals_subsubtitle_3_2_6_2">Randomizar.</text>
+	<text id="ui_manuals_subsubtitle_3_2_6_3">Revertir.</text>
+	<text id="ui_manuals_subsubtitle_3_2_6_4">Empezar a configurar los aspectos seleccionados.</text>
+	<text id="ui_manuals_subsubtitle_3_2_6_5">Guarda los cambios actuales.</text>
+	<text id="ui_manuals_subsubtitle_3_2_6_6">Cierra sin guardar los cambios.</text>
+	<text id="ui_manuals_subsubtitle_3_2_7_1">Utilizando el menú de habilidades pasivas, puedes utilizar las habilidades pasivas de una página clave en otra.</text>
+	<text id="ui_manuals_subsubtitle_3_2_7_2">Simplemente haciendo clic en la lista de habilidades pasiva para abrir un nuevo menú.</text>
+	<text id="ui_manuals_subsubtitle_3_2_7_3">Puedes revisar la lista de páginas clave que posean habilidades pasivas de otras páginas clave, 
+y ver una lista de todas las páginas clave que están siendo utilizadas por otros.</text>
+	<text id="ui_manuals_subsubtitle_3_2_8_1">Paso 1: Haz Clic en la página clave para poder equiparla.</text>
+	<text id="ui_manuals_subsubtitle_3_2_8_2">Paso 2: De la lista de páginas clave equipadas, selecciona las pasivas que te gustarían utilizar.</text>
+	<text id="ui_manuals_subsubtitle_3_2_8_3">Cada habilidad pasiva tiene un costo y las páginas clave tienen un límite de costo que limita cuantas habilidades pasivas puedes equipar al mismo tiempo.
+No puedes equipar la misma habilidad pasiva más de una vez.</text>
+	<text id="ui_manuals_subsubtitle_3_3_1_1">Al completar las tareas de un nivel, puedes subir el nivel de realización de un piso.</text>
+	<text id="ui_manuals_subsubtitle_3_3_1_2">Una notificación en rojo (!) se mostrará en los pisos que puedes subir el nivel de Realización.</text>
+	<text id="ui_manuals_subsubtitle_3_3_1_3">Para subir el nivel de realización de un piso, necesitas completas una batalla contra una anormalidad del nivel actual.
+
+Clic en la notificación.
+Entonces pelea contra la anormalidad.</text>
+	<text id="ui_manuals_subsubtitle_3_3_2_1">En una pelea contra una anormalidad, necesitas suprimir a la anormalidad que estaba descansando en el libro.
+Estas son peleas únicas que requieren múltiples intentos y estrategias.
+
+Después de completar una pelea de anormalidad…
+- El nivel de realización del piso incrementará.
+- Nuevas páginas de anormalidad serán desbloqueadas.
+- Nuevos bibliotecarios podrían despertar (en ciertos niveles).
+- Se darán nuevas asignaciones.</text>
+	<text id="ui_manuals_subsubtitle_3_3_3_1">Subir el nivel de realización de cada piso incrementará el nivel de amenaza de la Biblioteca.
+Cuando el nivel de amenaza de la Biblioteca llega al máximo, esta subirá a un grado superior.</text>
+	<text id="ui_manuals_subsubtitle_3_3_3_2">El ‘Grado de la Biblioteca’ es el nivel de amenaza actual de ‘La Biblioteca’ que es percibido por la ciudad.
+
+Podrás invitar a más personas cuando el grado de la Biblioteca suba a un nivel más alto.
+También puede permitirte abrir pisos adicionales.</text>
+	<text id="ui_manuals_subsubtitle_3_3_4_1">Hay diez pisos en la Biblioteca en total.
+Sin embargo, como la Biblioteca está aún incompleta, los pisos permanecen inactivos, con sus bibliotecarios durmiendo dentro.</text>
+	<text id="ui_manuals_subsubtitle_3_3_4_2">Progresa en la historia o sube el grado de la Biblioteca para desbloquear pisos nuevos.
+
+Cuando un nuevo piso es desbloqueado, su jefe bibliotecario despertará y podrás usar ese piso para la recepción.</text>
+	<text id="ui_manuals_subsubtitle_3_4_1_1">En la estantería, puedes leer y revisar varios contenidos de la historia.
+Presiona alguna pestaña para cambiar la lista de historias que te gustaría ver.</text>
+	<text id="ui_manuals_subsubtitle_3_4_1_2">Vuelve a ver los episodios de las historias de tus jefes bibliotecarios.</text>
+	<text id="ui_manuals_subsubtitle_3_4_1_3">Vuelve a ver los episodios donde interactúan los jefes bibliotecarios.</text>
+	<text id="ui_manuals_subsubtitle_3_4_2_1">Haz clic en un grupo de invitados y luego clic en un episodio.</text>
+	<text id="ui_manuals_subsubtitle_3_4_2_2">Puedes ver segmentos de antes y después de las batallas.</text>
+	<text id="ui_manuals_subsubtitle_3_4_3_1">Selecciona el capítulo de la historia y el grupo de invitados.</text>
+	<text id="ui_manuals_subsubtitle_3_4_3_2">Selecciona la página de quien quieras leer su historia.</text>
+	<text id="ui_manuals_subsubtitle_3_4_3_3">Puedes leer la historia seleccionada aquí.</text>
+	<text id="ui_manuals_back">Regresar</text>
+
+	<!--Battle-->
+	<!--2_battlepage -> type1-->
+	<text id="ui_manuals_subsubtitle_2_2_2">Habilidades del dado</text>
+	<text id="ui_manuals_subsubtitle_2_2_2_1">La habilidad de un dado, escrita a su derecha, puede activarse &#60;color=#ff5622ff&#62;cuando el dado es jugado&#60;/color&#62; basado en sus condiciones.
+La mayoria de habilidades se activan cuando el dado &#60;color=#ff5622ff&#62;golpea&#60;/color&#62; al objetivo o el dado &#60;color=#ff5622ff&#62;gana un choque contra un dado del oponente&#60;/color&#62;.</text>
+
+	<!--2_battleapge -> type2-->
+	<text id="ui_manuals_subsubtitle_2_2_3">Luz</text>
+	<text id="ui_manuals_subsubtitle_2_2_3_1">Durante la batalla, usar &#60;color=#ff5622ff&#62;‘Páginas de combate’&#60;/color&#62; necesita un recurso llamado “Luz”.
+La cantidad de luz que un personaje tiene es indicado por el número de iconos amarillos encima de ellos.</text>
+
+	<!--2_emotion -> 에고-->
+	<text id="ui_manuals_subsubtitle_2_4_5">E.G.O</text>
+	<text id="ui_manuals_subsubtitle_2_4_5_1">
+    - Si el nivel de emoción general de un equipo alcanza el nivel 3, una página E.G.O puede ser escogida.
+    - Las páginas E.G.O seleccionada están ubicadas en una ‘Mano’ diferente que todos los bibliotecarios pueden tener acceso.
+    (Un botón especial aparecerá para facilitar la vista de la mano a la que todos pueden acceder)
+    - Una vez usada, la página E.G.O necesita ser recargada acumulando puntos de emoción antes de ser usada de nuevo.</text>
+
+	<text id="ui_manuals_subsubtitle_2_4_4_1">Cuando el nivel de emoción de un personaje aumenta, la emoción General del equipo al que pertenecen también incrementará.
+
+Cuando el nivel de emoción del equipo incrementa, podrás elegir una página de anormalidad al comienzo de la siguiente escena.</text>
+	<text id="ui_manuals_subsubtitle_2_3_3_5">Auto-seleccionar páginas de combate</text>
+
+	<text id="ui_manuals_subsubtitle_2_1_1">Prepararse para la recepción 1</text>
+	<text id="ui_manuals_subsubtitle_2_1_2">Prepararse para la recepción 2</text>
+
+	<text id="ui_manuals_subsubtitle_2_4_3_1">Existen dos tipos de páginas de anormalidad: &#60;color=#ff5622ff&#62;Despertar (Azul)&#60;/color&#62; y &#60;color=#ff5622ff&#62;Ruptura (Rojo)&#60;/color&#62;.
+
+Las páginas de despertar usualmente consisten en efectos beneficiosos para el usuario.
+Las páginas de ruptura ofrecen efectos poderosos, pero vienen con &#60;color=#ff5622ff&#62;inconvenientes.&#60;/color&#62;.
+
+Cada piso ofrece distintas páginas de anormalidad para elegir y la probabilidad para poder elegir cada tipo de página depende de los &#60;color=#ff5622ff&#62;puntos de emoción positivos y negativos&#60;/color&#62; que el equipo ha conseguido.</text>
+	<!-- Reception-related Manual Sections -->
+	<text id="ui_manuals_subsubtitle_2_1_2_1">Paso 1: Selecciona el piso a usar en la recepción.</text>
+	<text id="ui_manuals_subsubtitle_2_1_1_1">Puedes ver la información de los bibliotecarios al seleccionarlos.</text>
+	<text id="ui_manuals_subsubtitle_2_1_1_4">Puedes ver la información de los invitados al seleccionarlos.</text>
+	<text id="ui_manuals_subsubtitle_2_1_2_2">Paso 2: Comienza la recepción al presionar el botón ‘Comenzar el escenario’.</text>
+	<text id="ui_manuals_subsubtitle_2_1_2_3">Esto indica el número de pisos que se pueden utilizar en la recepción.
+Cuando no te queden más pisos significa que la recepción terminará.</text>
+	<text id="ui_manuals_subsubtitle_2_1_2_4">Número de batallas restantes</text>
+	<text id="ui_manuals_subsubtitle_2_1_1_2">Puedes cambiar las páginas claves de un bibliotecario al hacer clic aquí.</text>
+	<text id="ui_manuals_subsubtitle_2_1_2_5">Cancela la recepción y regresa a la Biblioteca sin perder ningún libro</text>
+	<text id="ui_manuals_subsubtitle_2_1_1_3">Puedes cambiar la lista de páginas de combate de un bibliotecario al hacer clic aquí</text>
+
+
+	<text id="ui_manuals_subsubtitle_2_3_5_1">Cuando solo uno de los personajes tiene un dado para jugar, se produce un &#60;color=#ff5622ff&#62;‘Ataque de un solo-lado’&#60;/color&#62;.
+Esto sucede cuando un personaje tiene de objetivo a otro que no lo está devolviendo.
+
+Solo los dados ofensivos son jugados en este caso. Los dados defensivos serán retenidos hasta que la escena termine o un enemigo intente un ataque de un solo-lado.</text>
+
+	<text id="ui_manuals_subsubtitle_2_3_6_1">Cuando ambos personajes tienen un dado para jugar, se produce un &#60;color=#ff5622ff&#62;‘Choque’&#60;/color&#62;.
+Esto usualmente sucede cuando ambos dados de velocidad se tienen de objetivo entre sí.
+(Retener dados defensivos o de contraataque también puede producir un choque)
+
+En un choque, el resultado de las acciones es determinado al comparar sus lanzamientos. El &#60;color=#ff5622ff&#62;Dado ofensivo&#60;/color&#62; solo puede hacer un daño igual a la tirada al ganar un choque. interacciones entre &#60;color=#ff5622ff&#62;Dados defensivos&#60;/color&#62; siguen las reglas de la siguiente página (Choque Ⅱ).</text>
+
+
+
+</localize>

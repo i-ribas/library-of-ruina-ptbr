@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="Pluto_Contracted_1">
+      <Name>Obligación de contrato: Libertad</Name>
+      <Desc>Al comienzo de la escena, el coste de todas las páginas de combate que su coste original sea 3 o menor se vuelve aleatorio. Si el personaje juega una página de combate que su coste sea {0}, pierde 25% del HP al final de la escena.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Pluto_Contracted_2">
+      <Name>Obligación de contrato: Amplificación</Name>
+      <Desc>Cuando juegas páginas de combate que su coste sea {0} (Determinado aleatoriamente entre 0 a 3 cada escena), sus dados ganan +3 de Poder. Otras páginas pierden 3 de Poder.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Pluto_Contracted_3">
+      <Name>Obligación de contrato: Rapidez</Name>
+      <Desc>Al comienzo de la escena, gana 3 de Prisa. Por cada ataque de un Solo-lado realizado en una escena, aplica 1 de Endeble y Desarmar a ti mismo la siguiente escena.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Pluto_Contracted_4">
+      <Name>Obligación de contrato: Poder</Name>
+      <Desc>Al comienzo de la escena, gana 2 de Fuerza. Si el personaje usa una página de combate que tiene 2 o más dados ofensivos que no sean de contraataque, te aturdes la siguiente escena.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Pluto_Contracted_5">
+      <Name>Obligación de contrato: Luz</Name>
+      <Desc>Al comienzo de la escena, recupera toda la luz. Al final de la escena, recibe Daño igual al 10% del HP máximo por cada punto de Luz restante.</Desc>
+    </BattleEffectText> 
+    <BattleEffectText ID="Pluto_Barrier">
+      <Name>Barrera Selladora</Name>
+      <Desc>No puede Actuar. Apuntable por los Bibliotecarios. Una vez aturdido, la barrera se disuelve.</Desc>
+    </BattleEffectText>   
+  </effectTextList>
+</BattleEffectTextRoot>

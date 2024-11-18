@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Blue Reverberation2 Gebura</GroupName>
+  <Character ID="G_T_Tanya">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bien… Déjame ver lo fuerte que la legendaria Niebla Roja realmente es.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Bueno… Ven aquí y trata de mantenernos a raya por tanto tiempo como puedas.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Comenzando a ver la manera correcta de usar la fuerza?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Me venciste de forma justa. No puedo quejarme de una buena demostración de fuerza.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Mantén tu lugar y agacha la cabeza, ¿vale?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Eh… Qué montón de debiluchos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¿Me estás intentando derrotar con esa fuerza tan insignificante?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Hablando de gente insignificante…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Vamos, dame esa emoción de destruir a alguien fuerte.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="G_T_Gebura">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Hagamos esto como solemos hacer.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Confío en que hagan un buen trabajo.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No podemos retirarnos cuando hemos llegado tan lejos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Mantengan la calma y esperen por una apertura.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No debemos dejar que su sacrificio sea en vano.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Mantengan los sentimientos innecesarios a raya.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Vamos a dejar que se hunda y pensar en lo valioso que fue este resultado.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="G_T_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Bien, Señora Gebura! ¿Debemos comenzar?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No dudaré… Aún no es el final.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Debo frenar mi enojo—y seguir adelante.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡Tenemos que confiar el uno en el otro ahora mismo!</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… ¡Te lo dije! Te dije que podría hacerlo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="G_T_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Sí, Más o menos. Estoy un poco nervioso.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Hice tanto como pude…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">El trabajo duro y la disciplina es lo que nos hizo lo que somos ahora…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… No entremos en pánico.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Debo mantenerme fuerte por un poco más… Casi lo logramos.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Ella se las arreglo para dar una buena pelea contra todos nosotros.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="G_T_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Tienes razón. … ¿Están todos listos?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Solo quería lograr algo… Lo siento.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Solo es una persona, pero ella no se anda con rodeos…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Tenemos que terminar el trabajo…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Aún no… hemos perdido. Estamos bien.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Que rara es…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="G_T_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No podemos depender en que la Señora Gebura se encargue de todo por nosotros.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Tengo que aguantar esto…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Aún puedo seguir…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Existe otra solución…? Tengo que pensar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… ¿Hay algo que realmente podamos hacer?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Pensar que ella tenía tanto poder…</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

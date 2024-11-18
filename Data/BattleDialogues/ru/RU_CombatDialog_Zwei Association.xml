@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Zwei Association</GroupName>
+  <Character ID="San">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No quiero perder a mis seres queridos otra vez.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Me armé de resolución esta vez, Me aseguraré de recuperar los libros de Mars y Lulu cueste lo que cueste…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Solo tengo que hacerlo como siempre…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Sobre Mars y Lulu… No quiero culparlos por sus muertes.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Tú tenías tus responsabilidades y yo cumplí la mía.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Lulu, Mars… Y Julia, Quienes confiaron en mí y me siguieron aquí… Lo siento.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Seamos cuidadosos. Podría terminar muerto también.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Por favor dame al menos un minuto para llorarle.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">La situación es peligrosa, no estoy seguro de si hay esperanza para nosotros.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Solo encontré el tiempo correcto para avanzar, eso es todo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Supongo… que no es momento para estar disculpándose.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Debería apartar mis sentimientos personales en momentos como este.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Mars y Lulu… ¿Eres tú quien los mato?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">… Es justo. Solo hiciste tu trabajo, así que yo haré el mío.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Julia… ¿Qué me queda ahora…?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Julia">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Actuaré con calma.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Espero que nada malo nos pase… Espero que todos podamos dejar este lugar a salvo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Esta batalla no se puede evitar, quiero ganar por el bien de todos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Estoy completamente lista para esto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Haremos lo que podamos… con todo nuestro esfuerzo.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Lo hicimos… ¿Hemos ganado, verdad? Podemos regresar a salvo.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bien, vamos a contarle a Isadora toda la aventura que tuvimos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">San… Lo siento. No pude ayudarte mucho.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Mis piernas están temblando… ¿Estamos en nuestro límite?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Tengo que recuperarme… por el bien de mi viejo colega.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… No dolerá estar triste por solo un poco.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Es algo que siempre pasa. No debo ponerme muy triste por esto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Puedo hacerlo si lo intento!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">TEsto es triste, pero supongo que no había elecciones…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">¡¡San!! No… Por favor, no me mueras así…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Walter">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No somos para nada como los que vinieron antes que nosotros. No será tan fácil.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Asegúrense de nunca bajar sus escudos. Y asegúrense de nunca dejar que los otros bajen sus escudos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No estamos peleando como una broma.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esto es lo que pasa cuando una miserable Leyenda Urbana se atreve a retar a la Asociación Zwei: una derrota evidente.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Era un final esperado. Haré un buen uso de los libros que nos han dado.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Quizás subestimé a mis oponentes…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Estaba seguro de que tendríamos éxito…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Esta es una ocurrencia común.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Que desafortunado. Pero alguien tiene que vivir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Que perdida de tiempo. No debiste ser un estorbo.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Así es como se hace; tomar a los oponentes uno por uno.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">No fue difícil de manejar.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¿Son un grupo desordenado de debiluchos, no es así?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Isadora">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Tú debes ser uno de los tipos que se llevo a San y Julia.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No parecen muy duros, pero han aniquilado al grupo anterior…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Nunca voy a perdonarlos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hemos ganado… San, Julia, Los he vengado.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">… Soy parcialmente responsable por sus muertes, así que diremos que estamos a mano con esto.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡Maldición… No he terminado con mi venganza…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">Por favor, solo denme otra oportunidad…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Debo hacer mi trabajo, sin importar si alguien muere o no.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Aún no estoy completamente acostumbrada a esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡Un hombre ha caído! Necesitamos… asistencia.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Director, he acabado con un enemigo en mi lado.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Piensa en esto como justicia por todas las personas que has matado.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Debiste haber bloqueado mejor mi ataque.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

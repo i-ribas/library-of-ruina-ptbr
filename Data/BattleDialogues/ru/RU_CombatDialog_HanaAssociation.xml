@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>HanaAssociation</GroupName>
+  <Character ID="Hana_Fixer_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Que lugar más extraño termine viendo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Es justo como los reportes describen. No se siente… como una Biblioteca después de todo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Estoy viendo uniformes familiares.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Es así como roban la fuerza de los invitados que vienen aquí…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">De todos modos… Esperaba que nos viéramos a menudo desde ahora en adelante, encantado de conocerte.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Ciertamente no eran unos debiluchos…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Con un poco de suerte estos libros serán de ayuda para aprender sobre la Biblioteca.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Tenemos un montón que informar una vez regresemos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Está nuestra Directora bien…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Parece que la situación ha sido manejada… Regresemos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Fui muy descuidado…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Es una consecuencia que no podemos controlar…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Lo sabía… No éramos lo suficientemente fuertes…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Al menos los retendré un poco…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Es desafortunado… Pero supongo que ir hora de irme.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Tengo que hacer lo que pueda.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Debería estar todo bien ahora… Estoy seguro.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… ¿Están todos bien?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Se acabará pronto… Aguanten chicos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">El daño no es fatal. Al menos por ahora…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Veo una apertura en tu defensa. Pareces un poco molesto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Solo quedan unos pocos más.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Nuestro lado no lo está teniendo fácil para tomar la iniciativa.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">¡No los perderé de vista!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Mantengan sus ojos en los alrededores.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Hana_Fixer_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Directora Mirinae, ¿deberíamos comenzar?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No te preocupes, madam. Terminaremos este trabajo y saldremos vivos de aquí.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Sí, madam. Te apoyaremos por este lado.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">De todos modos… Esperaba que nos viéramos a menudo desde ahora en adelante, encantado de conocerte.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Lo haremos como siempre.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Eran unos oponentes muy astutos…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Aun así, logramos manejarlos sin mucho problema.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">¿Están todos bien?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Solicitudes como esta nunca fallan en ponerme nervioso…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Pienso que estoy bien… Preocupense por ustedes.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No estoy… enojado.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Lo siento. No puedo……</BattleDialog>
+      <BattleDialog ID="DEATH_2">Como esperaba… no éramos los suficientes…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Fue descuidado… Debería haber prestado más atención…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Dejé mi guardia baja…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">El daño no es fatal. Al menos por ahora…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Tengo que hacer lo que pueda.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Debería estar todo bien ahora. Estoy seguro of it.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">… ¿Están todos bien?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Si no podemos retirarnos, entonces intentaré mantenerme firme hasta el final.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Veo una apertura en tu defensa. Pareces un poco molesto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Solo quedan unos pocos más.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Nuestro lado no lo está teniendo fácil para tomar la iniciativa.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">¡No los perderé de vista!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Mantengan sus ojos en los alrededores.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Hana_Mirinae">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Céntrense. No sabemos de lo que son capaces.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Intentemos mostrar algunos resultados.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Espero que puedas demostrar completamente tus habilidades.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">No esperaba que cayeras tan fácilmente.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Un deseo no se vuelve realidad sin arriesgar algo tuyo…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Mantengan la compostura.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Si las cosas no funcionan, eso significa que era todo lo lejos a lo que podíamos llegar.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No vinimos aquí sin un plan.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No tuve ni siquiera que predecir tus movimientos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">No pierdan la concentración hasta el final.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Parece que nos has subestimado.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Hana_Harold">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">La distancia es corta… Observemos el comportamiento de nuestros oponentes primero.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No debería ser tan diferente de otras Estrellas…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Directa Mirinae. ¿Estás preparada?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">No fue nada difícil…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">La Estrella ya se ha elevado demasiado alto en el cielo…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Está engullendo todo lo que se cruza en su camino… más fuerte de lo que pensaba…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No podemos retroceder…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">El resto de nosotros debemos tener más cuidado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">…Sí. Seremos derrotados a este ritmo.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Espero que esto funcione…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">… Estoy comenzando a ver la línea de meta.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Cada uno de ellos es fuerte. No puedo subestimarlos…</BattleDialog>
+    </Type>
+    <Type ID="ERROR" />
+  </Character>
+</BattleDialogRoot>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Hook Office</GroupName>
+  <Character ID="Naoki">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Veamos, ¿ustedes tampoco son humanos? ¿Quizás lo descubriré después de reventarlos a todos?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡Voy a partirlos a todos, así que prepárense!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Estén listos. Estoy segura de ganar.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Haha, fue taaaaan fácil! Casi no tuvimos que hacer nada.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Es nuestra oportunidad de ganar el favor del jefe. Hora de volvernos ricos~</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Que mierda… fuí muy descuidada. ¡Mierda, mierda, mierda, mierda!</BattleDialog>
+      <BattleDialog ID="DEATH_1">Estos tipos… son fuertes… ¡Maldición, pensé que podría lograrlos…!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No es muy placentero ver a un colega morir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Y presumías tanto de que eras el más fuerte. … Esto es lo que consigues.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Sabes lo lamentable que es ser una molestia hasta el final, verdad?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Quiero cortarte mucho más, pero… Ya eres un desastre, así que iré por el siguiente.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Cualquiera que se meta en mi camino está muerto, eso es todo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¿Cómo se siente recibir el filo de mi espada?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT" />
+  </Character>
+  <Character ID="McCullin">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Uf… Mi cuerpo duele un montón. Es una lástima no poder pelear en mi mejor condición.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Cuidado ahí. Va a doler si te golpea en un mal lugar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Tenemos que prepararnos para esto.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bueno, el dinero es una cosa, pero es un poco anticlimático que se volvieran libros después de morir.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Estaba esperando tener un poco de diversión con sus cuerpos, como apuñalarlos y colgarlos en el gancho. … Es un poco desafortunado.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡Aún… no se ha acabado… No puedo caer por tipos como ustedes, soy mejor que eso…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">¡Me dieron… Esto no puede estar pasando…!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Un final apropiado para un idiota temerario como tú.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Vengaré tu muerte.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Tuviste que haber sido más cuidadoso.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Por qué molestarse en aguantar si acabaras destrozado de todos modos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Qué? Venga, no puedes morir tan pronto, aún no comenzaba con la parte divertida.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Debiluchos, debiluchos por todos lados.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT" />
+  </Character>
+  <Character ID="Taein">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Acabemos con esto, vale? No tiene sentido esperar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Hombre, puedo esquivar todos sus ataques con mis manos en los bolsillos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿Por qué no nos dan los bienes antes de que acabemos con todos?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Eh? ¿Así que era así de fácil hacer una fortuna y enderezar mi vida?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Nunca le digan a nadie que son guardianes de tesoros ni nada. Honestamente me dan vergüenza.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No puedo creer que perdí contra estos estúpidos… Maldición…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Estaban prediciendo mis movimientos…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Esto es lo que consigues por estar de pie recibiendo todos los golpes con la cara.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Idiota. Te quedaste quieto y recibiste todo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Bueno, mierda… Supongo que nunca sabes realmente cómo irán las cosas, ¿eh?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hubiera partido tu cabeza en pedazos si no estuviéramos en este lugar tan raro.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Tsk, y acababa de conseguir un arma nueva… pero eres demasiado débil para probarla.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡¡¡Vamos, trata de aguantar un poco más para que pueda disfrutar esto!!!</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT" />
+  </Character>
+</BattleDialogRoot>

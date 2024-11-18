@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GiftTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GiftText ID="Librarian_Special_0">
+    <Prefix>Angela</Prefix>
+    <Postfix>Sirviente</Postfix>
+  </GiftText>
+  <GiftText ID="Librarian_Special_1">
+    <Prefix>Piso de Historia</Prefix>
+    <Postfix>Jefe bibliotecario</Postfix>
+  </GiftText>
+  <GiftText ID="Librarian_Special_2">
+    <Prefix>Piso de Tecnologia</Prefix>
+    <Postfix>Jefe bibliotecario</Postfix>
+  </GiftText>
+  <GiftText ID="Librarian_Special_3">
+    <Prefix>Piso de literatura</Prefix>
+    <Postfix>Jefe bibliotecario</Postfix>
+  </GiftText>
+  <GiftText ID="Librarian_Special_4">
+    <Prefix>Piso de arte</Prefix>
+    <Postfix>Jefe bibliotecario</Postfix>
+  </GiftText>
+  <GiftText ID="Librarian_New">
+    <Prefix>Biblioteca</Prefix>
+    <Postfix>Nuevo</Postfix>
+  </GiftText>
+  <GiftText ID="Librarian_0">
+    <Prefix>General</Prefix>
+    <Postfix>Bibliotecario</Postfix>
+    <AcquireCondition>Gana {0} batallas en el Piso General.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_1">
+    <Prefix>Historia</Prefix>
+    <Postfix>Bibliotecario</Postfix>
+    <AcquireCondition>Gana {0} batallas en el Piso de Historia.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_2">
+    <Prefix>Tecnologia</Prefix>
+    <Postfix>Bibliotecario</Postfix>
+    <AcquireCondition>Gana {0} batallas en el Piso de Tecnologia.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_3">
+    <Prefix>Literatura</Prefix>
+    <Postfix>Bibliotecario</Postfix>
+    <AcquireCondition>Gana {0} batallas en el Piso de Literatura.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_4">
+    <Prefix>Arte</Prefix>
+    <Postfix>Bibliotecario</Postfix>
+    <AcquireCondition>Gana {0} batallas en el Piso de Arte.</AcquireCondition>
+  </GiftText>
+ <GiftText ID="Librarian_Special_5">
+    <Desc></Desc>
+    <Prefix>Piso de Ciencias naturales</Prefix>
+    <Postfix>Jefe bibliotecario</Postfix>
+    <AcquireCondition></AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_Special_6">
+    <Desc></Desc>
+    <Prefix>Piso de Lenguaje</Prefix>
+    <Postfix>Jefe bibliotecario</Postfix>
+    <AcquireCondition></AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_Special_7">
+    <Desc></Desc>
+    <Prefix>Piso de Ciencias Sociales</Prefix>
+    <Postfix>Jefe bibliotecario</Postfix>
+    <AcquireCondition></AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_Special_8">
+    <Desc></Desc>
+    <Prefix>Piso de Filosofia</Prefix>
+    <Postfix>Jefe bibliotecario</Postfix>
+    <AcquireCondition></AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_Special_9">
+    <Desc></Desc>
+    <Prefix>Piso de Religión</Prefix>
+    <Postfix>Jefe bibliotecario</Postfix>
+    <AcquireCondition></AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_5">
+    <Desc></Desc>
+    <Prefix>Ciencias naturales</Prefix>
+    <Postfix>Bibliotecario</Postfix>
+    <AcquireCondition>Gana {0} batallas en el Piso de Ciencias Naturales.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_6">
+    <Desc></Desc>
+    <Prefix>Lenguaje</Prefix>
+    <Postfix>Bibliotecario</Postfix>
+    <AcquireCondition>Gana {0} batallas en el Piso de Lenguaje.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_7">
+    <Desc></Desc>
+    <Prefix>Ciencias Sociales</Prefix>
+    <Postfix>Bibliotecario</Postfix>
+    <AcquireCondition>Gana {0} batallas en el Piso de Ciencias Sociales.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_8">
+    <Desc></Desc>
+    <Prefix>Filosofia</Prefix>
+    <Postfix>Bibliotecario</Postfix>
+    <AcquireCondition>Gana {0} batallas en el Piso de Filosofia.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Librarian_9">
+    <Desc></Desc>
+    <Prefix>Religión</Prefix>
+    <Postfix>Bibliotecario</Postfix>
+    <AcquireCondition>Gana {0} batallas en el Piso de Religión.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Rat">
+    <Desc>HP +1</Desc>
+    <Prefix>Bigotitos</Prefix>
+    <Postfix>de rata</Postfix>
+    <AcquireCondition>Durante la pelea con las Ratas, derrota a Pete, Lenny y Mang-chi con un único personaje.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Pin">
+    <Desc>HP + 1, resistencia aturdimiento -1</Desc>
+    <Prefix>Novato</Prefix>
+    <Postfix>sin habilidad</Postfix>
+    <AcquireCondition>Recibe {0} golpes con la página clave de Finn equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Yun">
+    <Desc>1% Probabilidad de incrementar el Poder de los dados de evasión en +1</Desc>
+    <Prefix>Representante</Prefix>
+    <Postfix>Oficina de Yun</Postfix>
+    <AcquireCondition>Gana {0} batallas con la página clave de Yun equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Iron">
+    <Desc>HP -1, resistencia aturdimiento +1</Desc>
+    <Prefix>Hermano</Prefix>
+    <Postfix>acorazado</Postfix>
+    <AcquireCondition>Durante el encuentro con la Hermandad de hierro, gana Paralisis {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Hook">
+    <Desc>5% Probabilidad de incrementar el daño perforante en +1</Desc>
+    <Prefix>Gancho</Prefix>
+    <Postfix>oxidado</Postfix>
+    <AcquireCondition>Durante el encuentro con la Oficina Hook, inflige Sangrado {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Cooker">
+    <Desc>5% Probabilidad de incrementar el daño cortante en +1</Desc>
+    <Prefix>Sabor a</Prefix>
+    <Postfix>comida callejera</Postfix>
+    <AcquireCondition>Inflige Sangrado {0} veces usando la página de combate del Bistro de Pierre.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="StreetLamp">
+    <Desc>Resistencia aturdimiento +1</Desc>
+    <Prefix>Farola</Prefix>
+    <Postfix>de medianoche</Postfix>
+    <AcquireCondition>Durante el primer episodio del encuentro con la Oficina Streetlight, derrota a San, Lulu y Mars con un único personaje.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="RuruFriend">
+    <Desc>5% Probabilidad de incrementar el daño contundente en +1</Desc>
+    <Prefix>Amigo</Prefix>
+    <Postfix>de Lulu</Postfix>
+    <AcquireCondition>Se asesinado por Lulu {0} vez en el segundo episodio del encuentro con la Oficina Streetlight.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="LonelyBoy">
+    <Desc>2% Probabilidad de incrementar el Poder de los dados cortantes en +1</Desc>
+    <Prefix>Paria</Prefix>
+    <Postfix>solitario</Postfix>
+    <AcquireCondition>Derrota a Lulu {0} vez en el segundo episodio del encuentro con la Oficina Streetlight con la página clave de Mars equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="ZweiCrew">
+    <Desc>2% Probabilidad de incrementar el Poder de los dados de bloqueo en +1</Desc>
+    <Prefix>Miembro honorario</Prefix>
+    <Postfix>de Zwei</Postfix>
+    <AcquireCondition>En una batalla de nivel Leyenda Urbana, ten {0} o más de Dureza a la vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="YourShield">
+    <Desc>HP +1</Desc>
+    <Prefix>Tú</Prefix>
+    <Postfix>escudo</Postfix>
+    <AcquireCondition>En una sola batalla, recibe {0} o más golpes de Julia o Isadora.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Isadora">
+    <Desc>5% Probabilidad de incrementar el daño de aturdimiento cortante en +1</Desc>
+    <Prefix>Subordinado</Prefix>
+    <Postfix>sin preocupaciones</Postfix>
+    <AcquireCondition>Derrota a Walter {0} vz con la página clave de Isidora equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="AbandonedDog">
+    <Desc>2% Probabilidad de incrementar el Poder de los dados contundentes en +1</Desc>
+    <Prefix>Perro</Prefix>
+    <Postfix>callejero</Postfix>
+    <AcquireCondition>Remueve {0} dados en total usando la página de combate de los Perros callejeros.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="DogTrainer">
+    <Desc>5% Probabilidad de incrementar el daño contundente en +1</Desc>
+    <Prefix>Entrenador</Prefix>
+    <Postfix>valiente</Postfix>
+    <AcquireCondition>Durante el encuentro con los Perros callejeros, Haz {0} o más daño en un solo acto.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Drunk">
+    <Desc>2% Probabilidad de incrementar el Poder de los dados perforantes en +1</Desc>
+    <Prefix>Fixer</Prefix>
+    <Postfix>borracho</Postfix>
+    <AcquireCondition>Descarta {0} páginas usando páginas de la Oficina Molar.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Hangover">
+    <Desc>5% Probabilidad de incrementar el daño perforante en +1</Desc>
+    <Prefix>Ayudante</Prefix>
+    <Postfix>para la resaca</Postfix>
+    <AcquireCondition>Derrota a Olga {0} vez con las páginas claves de Mika o Rain equipadas.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BackStreet">
+    <Desc>HP +1, resistencia aturdimiento +1</Desc>
+    <Prefix>Buscador</Prefix>
+    <Postfix>de los callejones</Postfix>
+    <AcquireCondition>Completa una recepción de nivel Mito urbano {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Challenger">
+    <Desc>2% Probabilidad de incrementar el daño de aturdimiento de cada tipo en +1</Desc>
+    <Prefix>Desafiador</Prefix>
+    <Postfix>determinado</Postfix>
+    <AcquireCondition>Aturde enemigos {0} veces en una sola batalla.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BloodyFighter">
+    <Desc>HP +3</Desc>
+    <Prefix>Peleador</Prefix>
+    <Postfix>de sangre caliente</Postfix>
+    <AcquireCondition>Gana a batalla con {0}% o menos de HP.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Twinkle">
+    <Desc>Resistencia aturdimiento +2</Desc>
+    <Prefix>Analista</Prefix>
+    <Postfix>centelleante</Postfix>
+    <AcquireCondition>Ten {0} o más de efectos de estado aplicados al personaje a la vez (contando ambos, buffos y debuffos).</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Carnival">
+    <Desc>2% Probabilidad de incrementar el Poder de los dados de bloqueo en +1</Desc>
+    <Prefix>¿Es</Prefix>
+    <Postfix>fascinante?</Postfix>
+    <AcquireCondition>Crea {0} copias de Tela fascinante durante la batalla.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Fullstop">
+    <Desc>5% Probabilidad de incrementar el daño perforante en +1</Desc>
+    <Prefix>Parada para</Prefix>
+    <Postfix>vivir</Postfix>
+    <AcquireCondition>Derrota a {0} enemigos usando páginas de combate de rango.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Dawn">
+    <Desc>2% Probabilidad de incrementar el Poder de los dados cortantes en +1</Desc>
+    <Prefix>Amanecer</Prefix>
+    <Postfix>resplandeciente</Postfix>
+    <AcquireCondition>En un solo acto de una recepción de nivel Plaga urbana, inflige Quemadura {0} veces usando la página de combate de la Oficina Dawn.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Philip">
+    <Desc>HP +1</Desc>
+    <Prefix>Ego</Prefix>
+    <Postfix>imperfecto</Postfix>
+    <AcquireCondition>Sobrevive toda la recepción de la Oficina Wedge.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="OnePunch">
+    <Desc>5% Probabilidad de incrementar el daño contundente en +1</Desc>
+    <Prefix>Sorprendente</Prefix>
+    <Postfix>disparo único</Postfix>
+    <AcquireCondition>En un solo acto de una recepción de nivel Plaga urbana, reduce el Coste de 'Brazos de contención' a 1 sin la ayuda de otros efectos {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Gaze">
+    <Desc>5% Probabilidad de incrementar el daño cortante en +1</Desc>
+    <Prefix>Mirada</Prefix>
+    <Postfix>feroz</Postfix>
+    <AcquireCondition>En un solo acto de una recepción de nivel Plaga urbana, usa 'Oportunidad encontrada' contra un objetivo Paralizado {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Chaser">
+    <Desc>Resistencia aturdimiento +1</Desc>
+    <Prefix>Perseguidor</Prefix>
+    <Postfix>de muchos colores</Postfix>
+    <AcquireCondition>Derrota a {0} enemigos de grado Plaga urbana con la página clave de Dalloc equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Spark">
+    <Desc>5% Probabilidad de incrementar el daño contundente en +1</Desc>
+    <Prefix>Pzzt</Prefix>
+    <Postfix>Pzzt</Postfix>
+    <AcquireCondition>En un solo acto de una recepción de nivel Plaga urbana, inflige Paralisis {0} veces usando páginas de la Oficina Gaze.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Spear">
+    <Desc>5% Probabilidad de incrementar el daño perforante en +1</Desc>
+    <Prefix>Lanza</Prefix>
+    <Postfix>afilada</Postfix>
+    <AcquireCondition>Completa una recepción de nivel Plaga urbana usando páginas de combate que solo tengan dados Defensivos y perforantes.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="NewBody">
+    <Desc>HP +1</Desc>
+    <Prefix>Un nuevo</Prefix>
+    <Postfix>cuerpo</Postfix>
+    <AcquireCondition>Derrota a Pameli {0} vez con la página clave de Pamela equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Veteran">
+    <Desc>HP +2</Desc>
+    <Prefix>Veterano</Prefix>
+    <Postfix>implacable</Postfix>
+    <AcquireCondition>Completa una recepción de nivel Plaga urbana después de activar la pasiva 'Imparable' de la página clave de Oscar sin ningún otro aliado presente.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Pierce">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados perforantes en +1</Desc>
+    <Prefix>El que</Prefix>
+    <Postfix>perfora</Postfix>
+    <AcquireCondition>Haz daño mientras la pasiva de Oscar 'Imparable' está activa.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Wedge">
+    <Desc>Resistencia aturdimiento +2</Desc>
+    <Prefix>Cuña</Prefix>
+    <Postfix>puntiaguda</Postfix>
+    <AcquireCondition>Derrota a Philip en ambas recepciones de la Oficina Dawn y Oficina Wedge con la página clave de Oscar equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Cat">
+    <Desc>2% Probabilidad de incrementar el Poder de los dados contundentes en +1</Desc>
+    <Prefix>Gatito</Prefix>
+    <Postfix>miau miau</Postfix>
+    <AcquireCondition>En una recepción de nivel Plaga urbana, ten {0} Fuerza a la vez con la página clave de Meow equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Rabbit">
+    <Desc>2% Probabilidad de incrementar el Poder de los dados de evasión en +1</Desc>
+    <Prefix>¿Conejo</Prefix>
+    <Postfix>……?</Postfix>
+    <AcquireCondition>En un solo acto de una recepción de nivel Plaga urbana, inflige Endeble {0} veces con la página clave de MuMu equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Pig">
+    <Desc>Resistencia aturdimiento +1</Desc>
+    <Prefix>Cerdito</Prefix>
+    <Postfix>oink-oink</Postfix>
+    <AcquireCondition>En un solo acto de una recepción de nivel Plaga urbana, restaura {0} Luz con los efectos de las páginas de combate.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Stepan">
+    <Desc>5% Probabilidad de incrementar el daño de aturdimiento de rango en +1</Desc>
+    <Prefix>Polluelo</Prefix>
+    <Postfix>cobarde</Postfix>
+    <AcquireCondition>Usando páginas de rango de la Oficina Full-stop, pierde choques {0} veces contra páginas de combate melee. (Cuenta una vez por página)</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Cloud">
+    <Desc>5% Probabilidad de incrementar el daño cortante en +1 cuando atacas a un objetivo con 10+ de Sangrado</Desc>
+    <Prefix>Nube</Prefix>
+    <Postfix>oscura</Postfix>
+    <AcquireCondition>En una recepción de nivel Plaga urbana, usa la página de combate 'Entintar' con {0} páginas en la mano.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Blade">
+    <Desc>5% Probabilidad de incrementar el daño cortante en +1</Desc>
+    <Prefix>Espada</Prefix>
+    <Postfix>afilada</Postfix>
+    <AcquireCondition>En una recepción de nivel Plaga urbana, derrota {0} enemigos por Sangrado.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Kurokumo">
+    <Desc>5% Probabilidad de incrementar el daño de aturdimiento cortante en +1 cuando atacas a un objetivo con 10+ Sangrado</Desc>
+    <Prefix>Secuaz</Prefix>
+    <Postfix>de Kurokumo</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Plaga urbana, inflige {0} o más Sangrado a un solo objetivo.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Chain">
+    <Desc>5% Probabilidad de incrementar el daño en +1 mientras el personaje tiene 5+ Sangrado</Desc>
+    <Prefix>Cadenas</Prefix>
+    <Postfix>oxidadas</Postfix>
+    <AcquireCondition>inflige {0} o más Sangrado a ti mismo con la página clave de Jikan equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Gambler">
+    <Desc>4% Probabilidad de incrementar el daño de aturdimiento en +1 si el personaje ha descartado una pagina la última escena</Desc>
+    <Prefix>Apostador</Prefix>
+    <Postfix>de buena fe</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Plaga urbana, activa el efecto de la página de combate 'Sakura' {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Solidary">
+    <Desc>5% Probabilidad de incrementar el daño perforante en +1</Desc>
+    <Prefix>Taller</Prefix>
+    <Postfix>solidario</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Plaga urbana, gana {0} choques con la página clave de un Fixer afiliado al taller equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Family">
+    <Desc>HP +3</Desc>
+    <Prefix>Familia</Prefix>
+    <Postfix>preciosa</Postfix>
+    <AcquireCondition>Activa la habilidad pasiva 'Limpieza de Cadáveres' {0} veces en una sola recepción.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Cleaner">
+    <Desc>5% Probabilidad de incrementar el daño perforante en +2</Desc>
+    <Prefix>Sweeper</Prefix>
+    <Postfix>nocturnos</Postfix>
+    <AcquireCondition>Recicla el último dado de las página de combate 'Desechar basura' {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Vitality">
+    <Desc>Resistencia aturdimiento +3</Desc>
+    <Prefix>Vitalidad</Prefix>
+    <Postfix>persistente</Postfix>
+    <AcquireCondition>Activa 'Persistencia' {0} vez en una sola recepción.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Assassin">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados perforantes en +2 mientras el HP está en 25% o menos</Desc>
+    <Prefix>Asesino</Prefix>
+    <Postfix>letal</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Pesadilla urbana, derrota {0} enemigos mientras el HP del personaje está en 25% o menos.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Shi">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados contundentes en +2 mientras el HP está en 25% o menos</Desc>
+    <Prefix>Miembro</Prefix>
+    <Postfix>de la Asociación Shi</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Pesadilla urbana, Hazte daño ti mismo {0} veces con el efecto de las páginas de combate.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Tired">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados Defensivos en +2 mientras el HP está en 25% o menos</Desc>
+    <Prefix>Camarada</Prefix>
+    <Postfix>exhausto</Postfix>
+    <AcquireCondition>Gana {0} choques usando dados de evasión mientras el HP del personaje está en 25% o menos.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Blow">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados cortantes en +2 mientras el HP está en 25% o menos</Desc>
+    <Prefix>Huelguista</Prefix>
+    <Postfix>enfurecido</Postfix>
+    <AcquireCondition>Gana {0} choques contra páginas de combate de rango.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Death">
+    <Desc>4% Probabilidad de incrementar el daño y daño de aturdimiento en +4 mientras el HP está en 25% o menos</Desc>
+    <Prefix>Límite de</Prefix>
+    <Postfix>de la Muerte</Postfix>
+    <AcquireCondition>Gana {0} choques contra 'Límite de la muerte' usando la misma página de combate.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Circus">
+    <Desc>5% Probabilidad de incrementar el daño contundente en +1</Desc>
+    <Prefix>Miembro del</Prefix>
+    <Postfix>Circo</Postfix>
+    <AcquireCondition>Derrota a Noah {0} vez con la página clave de Emma equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Friend">
+    <Desc>10% Probabilidad de incrementar el daño en +1 mientras la habilidad pasiva de la página de Noah esta equipada a la página clave de este personaje</Desc>
+    <Prefix>Compañero</Prefix>
+    <Postfix>para toda la vida</Postfix>
+    <AcquireCondition>Derrota a Emma y Noah cuando estan juntos {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="NoahEye">
+    <Desc>5% Probabilidad de incrementar el daño de rango en +1</Desc>
+    <Prefix>Ojos</Prefix>
+    <Postfix>Perspicaces</Postfix>
+    <AcquireCondition>Derrota a Noah después de que Emma haya sido derrotada {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Puppet">
+    <Desc>5% Probabilidad de incrementar el daño contundente en +2</Desc>
+    <Prefix>Crujido</Prefix>
+    <Postfix>Gigigig</Postfix>
+    <AcquireCondition>Pierde choques contra la página de combate 'Crujir' {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Order">
+    <Desc>5% Probabilidad de incrementar el daño en +1 mientras Único</Desc>
+    <Prefix>Voluntad del</Prefix>
+    <Postfix>Precepto</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Pesadilla urbana, usa páginas de combate que incluyan dados incrementados por la habilidad pasiva 'Gracia del Precepto' {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="SmileFace">
+    <Desc>5% Probabilidad de incrementar el daño en +1 mientras este personaje tiene 10+ de Humo</Desc>
+    <Prefix>Cara</Prefix>
+    <Postfix>sonriente</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Pesadilla urbana, ten un choque donde el personaje y el oponente tienen {0} o más Humo.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Sadness">
+    <Desc>2% Probabilidad de incrementar el Poder del dado de rango en +1</Desc>
+    <Prefix>Dolor</Prefix>
+    <Postfix>inconsolable</Postfix>
+    <AcquireCondition>Sobrevive toda la recepción de los "Niños llorando".</AcquireCondition>
+  </GiftText>
+  <GiftText ID="OverCharge">
+    <Desc>Resistencia aturdimiento +2</Desc>
+    <Prefix>Carga</Prefix>
+    <Postfix>sobrecargada</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Pesadilla urbana, vuelvete Inmovilizado por el efecto de la página de combate 'Sobrecarga' {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="SpaceCut">
+    <Desc>5% Probabilidad de incrementar el Poder de dados ofensivos en +1 en escenas donde se ha gastado Carga</Desc>
+    <Prefix>Destripador</Prefix>
+    <Postfix>de espacio</Postfix>
+    <AcquireCondition>Falla la habilidad de la página de combate 'Rasgar espacio' con 10+ Carga {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Warp">
+    <Desc>5% Probabilidad de incrementar el daño en +1 en escenas donde se ha gastado Carga</Desc>
+    <Prefix>Agente de limpieza</Prefix>
+    <Postfix>de Corp. W</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Pesadilla urbana, roba {0} páginas con la página de combate 'Salto'.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Wanderer">
+    <Desc>5% Probabilidad de incrementar el daño cortante en +2</Desc>
+    <Prefix>Espadachín</Prefix>
+    <Postfix>errante</Postfix>
+    <AcquireCondition>En una sola recepción, usa la página de combate 'Para reclamar sus huesos' {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="InfoCollector">
+    <Desc>5% Probabilidad de incrementar el daño de aturdimiento en +1 cuando atacas a un objetivo débil a "Débil" o "Fatal"</Desc>
+    <Prefix>Recopilador</Prefix>
+    <Postfix>de inteligencia</Postfix>
+    <AcquireCondition>Cambia las resistencias al daño {0} veces con la habilidad pasiva 'Evaluación de información' de la página clave de Dante.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="MeatGear">
+    <Desc>5% Probabilidad de incrementar el daño en +1 cuando atacas a un objetivo con 10+ de Humo</Desc>
+    <Prefix>Equipo</Prefix>
+    <Postfix>de carne</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Estrella de la Ciudad, Haz {0} o más daño a un objetivo con 10+ de Humo en un solo ataque.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="ThumbBoss">
+    <Desc>5% Probabilidad de incrementar el daño en +4 si el personaje ha descartado una pagina la última escena</Desc>
+    <Prefix>El subjefe</Prefix>
+    <Postfix>del Pulgar</Postfix>
+    <AcquireCondition>Derrota a Boris, Denis, Katriel, y los soldados de El Pulgar {0} vez cada uno página clave de Kalo equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="RuleBreaker">
+    <Desc>5% Probabilidad de incrementar el daño de aturdimiento en +2 en un choque con un oponente con más HP</Desc>
+    <Prefix>Rompedor</Prefix>
+    <Postfix>de reglas</Postfix>
+    <AcquireCondition>Derrota a Kalo {0} vez con la página clave de Boris equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Punisher">
+    <Desc>5% Probabilidad de incrementar el daño en +2 mientras no eres afectado por la ganancia o pérdida de Poder</Desc>
+    <Prefix>Disciplinador del</Prefix>
+    <Postfix>puño de hierro</Postfix>
+    <AcquireCondition>Derrota a {0} enemigos usando la página de combate 'Disciplina' en una recepción de nivel Estrella de la Ciudad.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Obey">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados Defensivos en +1 si el personaje ha descartado una pagina la última escena</Desc>
+    <Prefix>Obediencia</Prefix>
+    <Postfix>absoluta</Postfix>
+    <AcquireCondition>En una recepción de nivel Estrella de la Ciudad, descarta páginas de combate {0} veces con el efecto de las páginas de El Pulgar.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Dokidoki">
+    <Desc>6% Probabilidad de incrementar el daño de aturdimiento en +3 mientras equipas la página clave de Xiao o Lowell y otro bibliotecario en el mismo piso tiene la otra página clave equipada</Desc>
+    <Prefix>Corazón</Prefix>
+    <Postfix>palpitante</Postfix>
+    <AcquireCondition>Con la página clave de Xiao o Lowell equipada, completa {0} recepción de nivel Estrella de la Ciudad junto a otro bibliotecario que tenga la otra página clave equipada. (Ambos personajes deben sobrevivir)</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Emotion">
+    <Desc>4% Probabilidad de incrementar el daño de aturdimiento en +1 cuando te enfrentas a un personaje con 15+ Quemadura</Desc>
+    <Prefix>Turbulencia</Prefix>
+    <Postfix>emocional</Postfix>
+    <AcquireCondition>Completa una recepción de nivel Estrella de la Ciudad con todos los aliados teniendo un nivel de emoción {0}.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Talent">
+    <Desc>4% Probabilidad de incrementar el daño en +1 cuando atacas a un personaje con 15+ Quemadura</Desc>
+    <Prefix>Un potencial</Prefix>
+    <Postfix>color</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Estrella de la Ciudad, inflige {0} o más acumulaciones de Quemadura.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Nemo">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados Defensivos en +1 mientras este personaje tiene 10+ Carga</Desc>
+    <Prefix>Asustado</Prefix>
+    <Postfix>¡Meado-y-Cagado!</Postfix>
+    <AcquireCondition>Destruye {0} dados usando la página de combate 'Rayo de energia' en una recepción de nivel Estrella de la Ciudad.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Brother">
+    <Desc>HP +2</Desc>
+    <Prefix>Gran</Prefix>
+    <Postfix>hermano</Postfix>
+    <AcquireCondition>Derrota a Bada {0} vez con la página clave de San equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Creepy">
+    <Desc>5% Probabilidad de incrementar el daño de aturdimiento en +1 en escenas donde se ha gastado Carga</Desc>
+    <Prefix>Sonrisa</Prefix>
+    <Postfix>extraña</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Estrella de la Ciudad, Haz {0} daño de aturdimiento con la página de combate 'Ataque Misterioso'.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Gloria">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados cortantes en +1 cuando estás en el estado 'Espada desbloqueada'</Desc>
+    <Prefix>Misión posible</Prefix>
+    <Postfix>~★</Postfix>
+    <AcquireCondition>Derrota a {0} objetivos a la vez usando la página de combate 'Erradicación' en una recepción de nivel Estrella de la Ciudad.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Liberation">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados contundentes en +1 cuando estás en el estado 'Espada desbloqueada'</Desc>
+    <Prefix>Espada</Prefix>
+    <Postfix>desblouqeada</Postfix>
+    <AcquireCondition>Usa la página de combate 'Desbloquear-Ⅲ' {0} vez en una recepción de nivel Estrella de la Ciudad.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Pressure">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados Defensivos en +1 cuando estás en el estado 'Espada desbloqueada'</Desc>
+    <Prefix>Precepto</Prefix>
+    <Postfix>opresivo</Postfix>
+    <AcquireCondition>Derrota a {0} enemigos usando la página de combate 'Decapitación' en una recepción de nivel Estrella de la Ciudad.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Index">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados perforantes en +1 cuando estás en el estado 'Espada desbloqueada'</Desc>
+    <Prefix>Proxy del</Prefix>
+    <Postfix>Índice</Postfix>
+    <AcquireCondition>Derrota a {0} enemigos usando la página de combate 'Castigo' en una recepción de nivel Estrella de la Ciudad.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="RedMist">
+    <Desc>6% Probabilidad de incrementar el daño en +1 durante la manifestación E.G.O usando la página clave de la Niebla Roja</Desc>
+    <Prefix>La Niebla</Prefix>
+    <Postfix>Roja</Postfix>
+    <AcquireCondition>Derrota a la Niebla Roja como Gebura. (Exclusivo de Gebura)</AcquireCondition>
+  </GiftText>
+  <GiftText ID="HugryRabbit">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados cortantes en +1 mientras el personaje tiene 20+ de Carga</Desc>
+    <Prefix>Conejo</Prefix>
+    <Postfix>muerto de hambre</Postfix>
+    <AcquireCondition>En cualquier recepción de la Corporación R, derrota {0} soldados del equipo Conejo mientras vistes un casco del tipo-1.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="FullRabbit">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados cortantes en +1 mientras el personaje tiene 20+ de Carga</Desc>
+    <Prefix>Bollo</Prefix>
+    <Postfix>relleno</Postfix>
+    <AcquireCondition>En cualquier recepción de la Corporación R, derrota {0} soldados del equipo Conejo mientras vistes un casco del tipo-2.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="RapidRabbit">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados cortantes en +1 mientras el personaje tiene 20+ de Carga</Desc>
+    <Prefix>Liebre</Prefix>
+    <Postfix>ágil</Postfix>
+    <AcquireCondition>En cualquier recepción de la Corporación R, derrota {0} soldados del equipo Conejo mientras vistes un casco del tipo-3.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="HeavyRhino">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados contundentes en +1 mientras el personaje tiene 20+ de Carga</Desc>
+    <Prefix>Ungulado</Prefix>
+    <Postfix>voluptuoso</Postfix>
+    <AcquireCondition>En cualquier recepción de la Corporación R, derrota {0} soldados del equipo Rino mientras vistes un casco del tipo-1.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="FuriousRhino">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados contundentes en +1 mientras el personaje tiene 20+ de Carga</Desc>
+    <Prefix>Rinoceronte</Prefix>
+    <Postfix>temerario</Postfix>
+    <AcquireCondition>En cualquier recepción de la Corporación R, derrota {0} soldados del equipo Rino mientras vistes un casco del tipo-2.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BraveRhino">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados contundentes en +1 mientras el personaje tiene 20+ de Carga</Desc>
+    <Prefix>Rinoceronte</Prefix>
+    <Postfix>audaz</Postfix>
+    <AcquireCondition>En cualquier recepción de la Corporación R, derrota {0} soldados del equipo Rino mientras vistes un casco del tipo-3.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="NervousReindeer">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados perforantes en +1 mientras el personaje tiene 20+ de Carga</Desc>
+    <Prefix>Reno</Prefix>
+    <Postfix>nervioso</Postfix>
+    <AcquireCondition>En cualquier recepción de la Corporación R, derrota {0} soldados del equipo Reno mientras vistes un casco del tipo-1.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="TiredReindeer">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados perforantes en +1 mientras el personaje tiene 20+ de Carga</Desc>
+    <Prefix>Reno</Prefix>
+    <Postfix>cansado</Postfix>
+    <AcquireCondition>En cualquier recepción de la Corporación R, derrota {0} soldados del equipo Reno mientras vistes un casco del tipo-2.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="DangerousReindeer">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados perforantes en +1 mientras el personaje tiene 20+ de Carga</Desc>
+    <Prefix>En peligro</Prefix>
+    <Postfix>de extinción</Postfix>
+    <AcquireCondition>En cualquier recepción de la Corporación R, derrota {0} soldados del equipo Reno mientras vistes un casco del tipo-3.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Commander">
+    <Desc>5% Probabilidad de reducir el daño en 1 mientras el personaje tiene 20+ de Carga</Desc>
+    <Prefix>Comandante</Prefix>
+    <Postfix>veterano</Postfix>
+    <AcquireCondition>Derrota a {0} objetivos marcados con la habilidad pasiva 'Toque final'.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Disposition">
+    <Desc>5% Probabilidad de incrementar el Poder del dado en +1 mientras el personaje tiene 20+ de Carga</Desc>
+    <Prefix>Disposición</Prefix>
+    <Postfix>de corazón frío</Postfix>
+    <AcquireCondition>Derrota a {0} enemigos usando la página de combate 'Desechar' en una recepción de nivel Estrella de la Ciudad.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="MentalCrash">
+    <Desc>6% Probabilidad de incrementar el daño de aturdimiento en +2 mientras el personaje tiene 20+ de Carga</Desc>
+    <Prefix>Mente</Prefix>
+    <Postfix>azotada</Postfix>
+    <AcquireCondition>Se golpeado por un lanzamiento maximo del dado de la página de combate 'Látigo mental' {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Crasher">
+    <Desc>HP +3</Desc>
+    <Prefix>La llave para la</Prefix>
+    <Postfix>victoria</Postfix>
+    <AcquireCondition>Derrota a {0} objetivos a la vez usando la página de combate 'Demoler suelo' en una recepción de nivel Estrella de la Ciudad.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Meet">
+    <Desc>6% Probabilidad de incrementar daño y daño de aturdimiento en +1 cuando la velocidad es 5 o mayor</Desc>
+    <Prefix>Reunión</Prefix>
+    <Postfix>amarga</Postfix>
+    <AcquireCondition>Derrota a Myo en la segunda recepción de R Corp. {0} vez con la página clave de la Niebla Roja o una habilidad pasiva de ella equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Berserk">
+    <Desc>4% Probabilidad de incrementar el Poder de dados ofensivos en +1 cuando un personaje tiene un dado con 5 o más de velocidad</Desc>
+    <Prefix>Capitán</Prefix>
+    <Postfix>salvaje</Postfix>
+    <AcquireCondition>Derrota enemigos con el último dado de la página de combate 'Cuchillos salvajes' {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BurnEmotion">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados cortantes en +1 cuando atacas a un objetivo con 20+ de Quemadura</Desc>
+    <Prefix>Emociones</Prefix>
+    <Postfix>alimentadas por la memoria</Postfix>
+    <AcquireCondition>Ten {0} acumulaciones de Quemadura durante la recepción de Xiao.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="IronRotus">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados perforantes en +1 cuando atacas a un objetivo con 20+ de Quemadura</Desc>
+    <Prefix>Loto</Prefix>
+    <Postfix>de hierro</Postfix>
+    <AcquireCondition>Completa la recepción de Xiao después de provocar a la página de combate 'Incremento inverso' {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Advice">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados contundentes en +1 cuando atacas a un objetivo con 20+ de Quemadura</Desc>
+    <Prefix>Consejo</Prefix>
+    <Postfix>sincero</Postfix>
+    <AcquireCondition>Derrota a la manifestación E.G.O de Xiao {0} vez con la página clave de Miris equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Chance">
+    <Desc>5% Probabilidad de incrementar el daño en +4 cuando 'Manipulador de probabilidades' se activa</Desc>
+    <Prefix>Manipulador</Prefix>
+    <Postfix>de probabilidades</Postfix>
+    <AcquireCondition>Activa la habilidad pasiva 'Manipulador de probabilidades' de la página clave de La Lágrima Púrpura {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="PuppleTear">
+    <Desc>5% Probabilidad de incrementar el daño y daño de aturdimiento en +2 mientras equipas la página clave de La Lágrima Púrpura</Desc>
+    <Prefix>La Lágrima</Prefix>
+    <Postfix>Púrpura</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Estrella de la Ciudad, utiliza todos los estados de la página clave de La Lágrima Púrpura.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Experience">
+    <Desc>Comenzando por la escena nº11 de un acto, 7% Probabilidad de incrementar el Poder del dado en +1</Desc>
+    <Prefix>Experiencia</Prefix>
+    <Postfix>añejada</Postfix>
+    <AcquireCondition>Derrota a Kalo, Nikolai, y La Lágrima Púrpura {0} vez cada uno.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="CityChild">
+    <Desc>Después de seleccionar una página de Anormalidad roja, 5% Probabilidad de incrementar el daño en +1 y daño de aturdimiento en +2</Desc>
+    <Prefix>Mensajero</Prefix>
+    <Postfix>de la Ciudad</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Estrella de la Ciudad, usa páginas de Precepto generadas por la habilidad pasiva 'El mensajero' {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="VeryStrong">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados cortantes en +1 cuando atacas a un personaje con 20+ Sangrado</Desc>
+    <Prefix>Grado-superior</Prefix>
+    <Postfix>muy fuerte</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Estrella de la Ciudad, inflige {0}+ Sangrado a un solo objetivo.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Night">
+    <Desc>5% Probabilidad de incrementar el daño perforante en +2, y daño de aturdimiento perforante en +1</Desc>
+    <Prefix>Punzón</Prefix>
+    <Postfix>nocturno</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Estrella de la Ciudad, destruye {0} dados de bloqueo con la habilidad pasiva de 'Grieta en la armadura'.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Future">
+    <Desc>5% Probabilidad de incrementar el daño de aturdimiento en +2 si el personaje ha descartado una pagina la última escena</Desc>
+    <Prefix>Seguros de vida</Prefix>
+    <Postfix>Mirae</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Estrella de la Ciudad, Activa la habilidad pasiva 'Formulario de póliza' de página clave de Irina {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Horus">
+    <Desc>4% Probabilidad de incrementar el Poder de los dados Defensivos en +1 mientras tienes Protección</Desc>
+    <Prefix>Ojo</Prefix>
+    <Postfix>de horus</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Estrella de la Ciudad, gana {0} o más Protección en una sola escena con la página clave de Udjat equipada.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="OnePoint">
+    <Desc>6% Probabilidad de incrementar el daño en +2 si el personaje fue Inmovilizado la última escena</Desc>
+    <Prefix>Punto</Prefix>
+    <Postfix>de ruptura</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Estrella de la Ciudad, gasta Resistencia aturdimiento igual a la Resistencia al aturdimiento Maxima del personaje con la página de combate 'Disparo Milimétrico'.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Steampunk">
+    <Desc>5% Probabilidad de incrementar el daño y daño de aturdimiento en +1 si el objetivo tiene 10+ de Humo</Desc>
+    <Prefix>Punk a</Prefix>
+    <Postfix>vapor</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Estrella de la Ciudad, Haz {0} o más daño a un objetivo con 10+ de Humo en un solo ataque.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Hana">
+    <Desc>5% Probabilidad de incrementar el daño y daño de aturdimiento en +1 si el personaje tiene Fuerza, Dureza, Protección o Protección al aturdimiento ganado por páginas de combate</Desc>
+    <Prefix>Director</Prefix>
+    <Postfix>Asociación Hana</Postfix>
+    <AcquireCondition>Durante un solo acto de una recepción de nivel Estrella de la Ciudad, Activa la habilidad pasiva 'Hana para todos' de la página clave de Mirinae {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="CryBaby">
+    <Desc>4% Probabilidad de incrementar el Poder de dados ofensivos en +1 cuando tienes Quemadura</Desc>
+    <Prefix>Los Niños</Prefix>
+    <Postfix>Llorando</Postfix>
+    <AcquireCondition>Derrota a Philip {0} vez con con las habilidades pasivas de las páginas claves de Salvador y Yuna equipadas.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="GearGod">
+    <Desc>5% Probabilidad de incrementar el daño y daño de aturdimiento en +2 si el objetivo tiene 10+ de Humo</Desc>
+    <Prefix>Lider</Prefix>
+    <Postfix>Iglesia de los engranajes</Postfix>
+    <AcquireCondition>Derrota a Eileen {0} vez con las páginas clave o pasivas equipadas de Liwei, Tamaki o Stephan.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Chef">
+    <Desc>5% Probabilidad de incrementar el daño en +3 cuando atacas a un objetivo con 20+ Sangrado</Desc>
+    <Prefix>El octavo</Prefix>
+    <Postfix>chef</Postfix>
+    <AcquireCondition>Derrota a Greta {0} vez con las página clave o pasivas equipadas de Pierre.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Bremen">
+    <Desc>6% Probabilidad de incrementar el daño de aturdimiento en +4 cuando te enfrentas a un objetivo con 2+ problemas de estado</Desc>
+    <Prefix>Los Músicos</Prefix>
+    <Postfix>Bremen</Postfix>
+    <AcquireCondition>Derrota a Bremen {0} vez con las páginas clave o pasivas equipadas de Meow, MuMu, o Oink.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="EightCircus">
+    <Desc>1% Probabilidad de incrementar el daño de aturdimiento en +20</Desc>
+    <Prefix>Director del circo</Prefix>
+    <Postfix>de las 8 en punto</Postfix>
+    <AcquireCondition>Derrota a Oswald {0} vez con la página clave o pasivas equipadas de Emma.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="WolfTime">
+    <Desc>Después de que la habilidad pasiva 'Coraje' se active, 8% Probabilidad de incrementar el daño en +4 por el resto de la recepción</Desc>
+    <Prefix>La hora</Prefix>
+    <Postfix>del lobo</Postfix>
+    <AcquireCondition>Derrota a Tanya {0} vez con las páginas clave o pasivas equipadas de Sayo, Yang, o Gin.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Puppeteer">
+    <Desc>5% Probabilidad de reducir el daño en 1 mientras haya un aliado con el estado 'Cuerdas de titiritero'</Desc>
+    <Prefix>El titiritero</Prefix>
+    <Postfix>de la Asamblea de Reverberación</Postfix>
+    <AcquireCondition>Derrota a Jae-heon {0} vez con la página clave o pasivas equipadas de una Marioneta.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BloodNight">
+    <Desc>5% Probabilidad de incrementar el daño en +2 si el personaje recupero HP la última escena</Desc>
+    <Prefix>Noche</Prefix>
+    <Postfix>Rojo-Sangre</Postfix>
+    <AcquireCondition>Derrota a Elena {0} vez con la página clave o pasivas equipadas de Tomerry.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Promise">
+    <Desc>5% Probabilidad de incrementar el daño en +4 mientras haya un aliado con el estado 'Obligación de Contrato'</Desc>
+    <Prefix>Promesa del</Prefix>
+    <Postfix>ayer</Postfix>
+    <AcquireCondition>Derrota a Pluto {0} vez con las páginas clave o pasivas equipadas de Nemo, Bada, o Martina.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BlueReverberation">
+    <Desc>10% Probabilidad de incrementar el daño y daño de aturdimiento en +2 cuando la habilidad pasiva 'Resonancia' se activa</Desc>
+    <Prefix>La Reverberación</Prefix>
+    <Postfix>Azul</Postfix>
+    <AcquireCondition>Derrota a Argalia {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="CryBaby2">
+    <Desc>4% Probabilidad de incrementar el Poder de dados ofensivos en +1 cuando atacas a un objetivo con 20+ de Quemadura</Desc>
+    <Prefix>Desesperación</Prefix>
+    <Postfix>abrasadora</Postfix>
+    <AcquireCondition>Derrota a Philip distorsionado {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="GearGod2">
+    <Desc>4% Probabilidad de incrementar el Poder de dados ofensivos en +1 mientras este personaje tiene 10+ de Humo</Desc>
+    <Prefix>Adoctrinador</Prefix>
+    <Postfix>vestido con engranajes</Postfix>
+    <AcquireCondition>Derrota a Eileen distorsionada {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Chef2">
+    <Desc>4% Probabilidad de incrementar el Poder de dados ofensivos en +1 cuando atacas a un objetivo con 20+ Sangrado</Desc>
+    <Prefix>El mejor cocinero del</Prefix>
+    <Postfix>mundo</Postfix>
+    <AcquireCondition>Derrota a Greta distorsionado {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Bremen2">
+    <Desc>5% Probabilidad de incrementar el Poder de dados ofensivos en +1 cuando atacas a un objetivo con 2+ problemas de estado</Desc>
+    <Prefix>Coro</Prefix>
+    <Postfix>en el clímax</Postfix>
+    <AcquireCondition>Derrota a Bremen distorsionado {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="EightCircus2">
+    <Desc>7% Probabilidad de incrementar el daño de aturdimiento en +7 if an Offensive dice rolls the max value</Desc>
+    <Prefix>CLÍMAX</Prefix>
+    <Postfix>~!!!</Postfix>
+    <AcquireCondition>Derrota a Oswald distorsionado {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="WolfTime2">
+    <Desc>Después de que la habilidad pasiva 'Coraje' se activé, 6% Probabilidad de incrementar el Poder de dados ofensivos en +1 por el resto de la recepción</Desc>
+    <Prefix>Pulverizador</Prefix>
+    <Postfix>negro azabache</Postfix>
+    <AcquireCondition>Derrota a Tanya distorsionado {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Puppeteer2">
+    <Desc>5% Probabilidad de incrementar el Poder de los dados Defensivos en +1 mientras haya un aliado con el estado 'Cuerdas de titiritero'</Desc>
+    <Prefix>Tensador</Prefix>
+    <Postfix>de cuerdas</Postfix>
+    <AcquireCondition>Derrota a Jae-heon distorsionado {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BloodNight2">
+    <Desc>4% Probabilidad de incrementar el Poder de dados ofensivos en +1 si el personaje recupero HP la última escena</Desc>
+    <Prefix>Demonio</Prefix>
+    <Postfix>de sangre</Postfix>
+    <AcquireCondition>Derrota a Elena distorsionada {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Promise2">
+    <Desc>5% Probabilidad de incrementar el Poder de dados ofensivos en +1 mientras haya un aliado con 'Obligación de contrato'</Desc>
+    <Prefix>Promesa</Prefix>
+    <Postfix>del ayer</Postfix>
+    <AcquireCondition>Derrota a Pluto distorsionado {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="BlueReverberation2">
+    <Desc>10% Probabilidad de incrementar el Poder del dado en +1 cuando la habilidad 'Resonancia' se activa</Desc>
+    <Prefix>La melodía</Prefix>
+    <Postfix>final</Postfix>
+    <AcquireCondition>Derrota a Argalia distorsionado {0} vez.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality1">
+    <Desc>Mientras poseas las páginas de Anormalidad de Niña chamuscada, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Las</Prefix>
+    <Postfix>cenizas</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Niña chamuscada {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality2">
+    <Desc>Mientras poseas las páginas de Anormalidad de Feliz osito de peluche, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Propietario</Prefix>
+    <Postfix>del osito</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Feliz osito de peluche {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality3">
+    <Desc>Mientras poseas las páginas de Anormalidad de el Festival de hadas, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Comida de emergencia</Prefix>
+    <Postfix>de las hadas</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de el Festival de hadas {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality4">
+    <Desc>Mientras poseas las páginas de Anormalidad de Reina abeja, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Sirviente leal</Prefix>
+    <Postfix>de la Reina</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Reina abeja {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality5">
+    <Desc>Mientras poseas las páginas de Anormalidad de Manzana de Blancanieves, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
+    <Prefix>Manzana</Prefix>
+    <Postfix>de blancanieves</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Manzana de Blancanieves {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality6">
+    <Desc>Mientras poseas las páginas de Anormalidad de Asesino abandonado, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Experimento</Prefix>
+    <Postfix>del asesino</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Asesino abandonado {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality7">
+    <Desc>Mientras poseas las páginas de Anormalidad de Pequeño ayudante, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>¡Te podemos ayudar</Prefix>
+    <Postfix>con todo!</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Pequeño ayudante {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality8">
+    <Desc>Mientras poseas las páginas de Anormalidad de la Maquina de canto, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>Adicto a la</Prefix>
+    <Postfix>música</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Maquina de canto {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality9">
+    <Desc>Mientras poseas las páginas de Anormalidad de el Funeral de las mariposas muertas, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>Condolencias</Prefix>
+    <Postfix>y descanso eterno</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de el Funeral de las mariposas muertas {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality10">
+    <Desc>Mientras poseas las páginas de Anormalidad de Der Freischütz, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
+    <Prefix>El que dispara</Prefix>
+    <Postfix>balas magicas</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Der Freischütz {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality11">
+    <Desc>Mientras poseas las páginas de Anormalidad de Mirada tímida, 4% Probabilidad de incrementar el Poder de los dados Defensivos en +1</Desc>
+    <Prefix>Expresión facial</Prefix>
+    <Postfix>timida</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Mirada tímida {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality12">
+    <Desc>Mientras poseas las páginas de Anormalidad de los Zapatos rojos, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Pisadas</Prefix>
+    <Postfix>carmesí</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de los Zapatos rojos {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality13">
+    <Desc>Mientras poseas las páginas de Anormalidad del Capullo de araña, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>Pequeño</Prefix>
+    <Postfix>capullo de araña</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Capullo de araña {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality14">
+    <Desc>Mientras poseas las páginas de Anormalidad de Laetitia, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Regalo de</Prefix>
+    <Postfix>¡Laetitia!</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Laetitia {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality15">
+    <Desc>Mientras poseas las páginas de Anormalidad del Sueño del Cisne negro, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Hermanos del</Prefix>
+    <Postfix>cisne negro</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Sueño del Cisne negro {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality16">
+    <Desc>Mientras poseas las páginas de Anormalidad de Fragmento del universo, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>Eco del</Prefix>
+    <Postfix>universo</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Fragmento del universo {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality17">
+    <Desc>Mientras poseas las páginas de Anormalidad del Niño de la galaxia, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>Mejor amigo</Prefix>
+    <Postfix>de la galaxia</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Niño de la galaxia {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality18">
+    <Desc>Mientras poseas las páginas de Anormalidad de Porccubus, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>Placer</Prefix>
+    <Postfix>inaguantable</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Porccubus {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality19">
+    <Desc>Mientras poseas las páginas de Anormalidad de Alriune, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>Aroma</Prefix>
+    <Postfix>floreciente</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Alriune {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality20">
+    <Desc>Mientras poseas las páginas de Anormalidad de la Orquesta silenciosa, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
+    <Prefix>La orquesta</Prefix>
+    <Postfix>silenciosa</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Orquesta silenciosa {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality21">
+    <Desc>Mientras poseas las páginas de Anormalidad de la Reina del odio, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Reina conducida por</Prefix>
+    <Postfix>el odio</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Reina del odio {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality22">
+    <Desc>Mientras poseas las páginas de Anormalidad de la Caballera de la desesperación, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Caballera montada por</Prefix>
+    <Postfix>la desesperación</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Caballera de la desesperación {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality23">
+    <Desc>Mientras poseas las páginas de Anormalidad de el Rey de la codicia, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Reina atada por</Prefix>
+    <Postfix>la codicia</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de el Rey de la codicia {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality24">
+    <Desc>Mientras poseas las páginas de Anormalidad de la Sirviente de la ira, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Sirviente rellena por</Prefix>
+    <Postfix>la ira</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Sirviente de la ira {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality25">
+    <Desc>Mientras poseas las páginas de Anormalidad del Bufón de Nihil, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
+    <Prefix>Bufón</Prefix>
+    <Postfix>Nihilista</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Bufón de Nihil {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality26">
+    <Desc>Mientras poseas las páginas de Anormalidad de la Mercenaria caperucita roja, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Mercenaria</Prefix>
+    <Postfix>caperucita roja</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Mercenaria caperucita roja {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality27">
+    <Desc>Mientras poseas las páginas de Anormalidad del Gran lobo, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Gran</Prefix>
+    <Postfix>lobo</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Gran lobo {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality28">
+    <Desc>Mientras poseas las páginas de Anormalidad de la Montaña de cuerpos sonrientes, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Montaña</Prefix>
+    <Postfix>de cuerpos</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Montaña de cuerpos sonrientes {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality29">
+    <Desc>Mientras poseas las páginas de Anormalidad de Nosferatu, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Recolección</Prefix>
+    <Postfix>de demonios de Sangre</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Nosferatu {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality30">
+    <Desc>Mientras poseas las páginas de Anormalidad de Nada ahí, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
+    <Prefix>¿Hola?</Prefix>
+    <Postfix>¡Adios!</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Nada ahí {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality31">
+    <Desc>Mientras poseas las páginas de Anormalidad del Espantapájaros buscando por sabiduría, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>Espantapájaros</Prefix>
+    <Postfix>sesudo</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Espantapájaros buscando por sabiduría {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality32">
+    <Desc>Mientras poseas las páginas de Anormalidad del Leñador de buen corazón, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Leñador</Prefix>
+    <Postfix>de buen corazón</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Leñador de buen corazón {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality33">
+    <Desc>Mientras poseas las páginas de Anormalidad del Camino a casa/Gato asustado, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>El Camino a</Prefix>
+    <Postfix>casa</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Camino a casa/Gato asustado {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality34">
+    <Desc>Mientras poseas las páginas de Anormalidad de Ozma, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>El olvidadizo</Prefix>
+    <Postfix>Ozma</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Ozma {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality35">
+    <Desc>Mientras poseas las páginas de Anormalidad del Adulto que dice mentiras, 4% Probabilidad de incrementar el Poder de los dados Defensivos en +1</Desc>
+    <Prefix>Trono</Prefix>
+    <Postfix>falso</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Adulto que dice mentiras {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality36">
+    <Desc>Mientras poseas las páginas de Anormalidad de Pájaro grande, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>Lámpara</Prefix>
+    <Postfix>vigilante</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Pájaro grande {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality37">
+    <Desc>Mientras poseas las páginas de Anormalidad de Ave castigador, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Pandilla</Prefix>
+    <Postfix>castigadora</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Ave castigador {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality38">
+    <Desc>Mientras poseas las páginas de Anormalidad de Ave del juicio, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Balanza del</Prefix>
+    <Postfix>juicio</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Ave del juicio {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality39">
+    <Desc>Mientras poseas las páginas de Anormalidad de Ave del apocalipsis, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
+    <Prefix>Ave del</Prefix>
+    <Postfix>apocalipsis</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Ave del apocalipsis {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality40">
+    <Desc>Mientras poseas las páginas de Anormalidad de Ave del apocalipsis, 4% Probabilidad de incrementar el Poder de los dados Defensivos en +1</Desc>
+    <Prefix>Guardían del</Prefix>
+    <Postfix>bosque oscuro</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Ave del apocalipsis {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality41">
+    <Desc>Mientras poseas las páginas de Anormalidad de Escarbando el paraíso, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Escarbando</Prefix>
+    <Postfix>el paraíso</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Escarbando el paraíso {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality42">
+    <Desc>Mientras poseas las páginas de Anormalidad de el Precio del silencio, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>El Precio del</Prefix>
+    <Postfix>silencio</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de el Precio del silencio {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality43">
+    <Desc>Mientras poseas las páginas de Anormalidad de la Estrella azul, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>Adorador</Prefix>
+    <Postfix>de la Estrella azul</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Estrella azul {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality44">
+    <Desc>Mientras poseas las páginas de Anormalidad de la NocheBlanca, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
+    <Prefix>Creyente</Prefix>
+    <Postfix>celoso</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la NocheBlanca {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality45">
+    <Desc>Mientras poseas las páginas de Anormalidad de la NocheBlanca, 4% Probabilidad de incrementar el Poder de los dados Defensivos en +1</Desc>
+    <Prefix>Apóstol</Prefix>
+    <Postfix>de la NocheBlanca</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la NocheBlanca {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality46">
+    <Desc>Mientras poseas las páginas de Anormalidad de Baño de sangre, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>Baño</Prefix>
+    <Postfix>empapado de sangre</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Baño de sangre {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality47">
+    <Desc>Mientras poseas las páginas de Anormalidad del Corazón de la aspiración, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Corazón de la</Prefix>
+    <Postfix>aspiración</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Corazón de la aspiración {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality48">
+    <Desc>Mientras poseas las páginas de Anormalidad de Pinocho, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Pinocho</Prefix>
+    <Postfix>nariz larga</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Pinocho {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality49">
+    <Desc>Mientras poseas las páginas de Anormalidad de la Reina de la nieve, 4% Probabilidad de incrementar el Poder de los dados Defensivos en +1</Desc>
+    <Prefix>Beso del</Prefix>
+    <Postfix>Invierno</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Reina de la nieve {0} veces.</AcquireCondition>
+  </GiftText>
+  <GiftText ID="Abnormality50">
+    <Desc>Mientras poseas las páginas de Anormalidad de Chica silenciosa, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
+    <Prefix>Chica sin</Prefix>
+    <Postfix>palabras</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Chica silenciosa {0} veces.</AcquireCondition>
+  </GiftText>
+</GiftTextRoot>

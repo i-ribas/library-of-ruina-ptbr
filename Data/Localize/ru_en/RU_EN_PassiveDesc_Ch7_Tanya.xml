@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- 타냐 -->
+  <PassiveDesc ID="1306011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Páginas en mano y el mazo; añade nuevas Páginas a la mano. Sus Costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1306012">
+    <Name>Hora del Lobo</Name>
+    <Desc>Al comienzo de la Escena, si no hay enemigos Apuntables, elimina los efectos 'No Apuntables' y da a los que tenían esos efectos 2 de Protección y Protección al Aturdimiento en su lugar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1306013">
+    <Name>Hora de la Segunda Ronda</Name>
+    <Desc>Cuando el HP baja a 1, recupera completamente el HP y la Resistencia al Aturdimiento, y elimina todos los problemas de estado. El HP no puede bajar a 0 antes de que esto ocurra. (Una vez por Acto)
+Después de eso, gana 2 de Fuerza y Dureza por el resto del Acto.</Desc>
+  </PassiveDesc>
+ 
+</PassiveDescRoot>

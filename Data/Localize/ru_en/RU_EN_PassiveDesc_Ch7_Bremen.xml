@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1304011">
+    <Name>¡Woof ruff! ¿Doodly-doo? ¡Heehaw~!</Name>
+    <Desc>En un ataque contundente exitoso, haz 1-2 de daño de aturdimiento adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304012">
+    <Name>Triarquía</Name>
+    <Desc>Los primeros tres dados de velocidad usan páginas de combate que pertenecen a cabezas especificas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304013">
+    <Name>Actuación incontrolable</Name>
+    <Desc>No puede ser aturdido. Comenzando con la segunda escena, realiza la siguiente acción cada 3 escenas: usa una página de ataque en masa, entonces cambia todas las resistencias a "Fatal" en la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304014">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304015">
+    <Name>Desde la cima</Name>
+    <Desc>Cada escena, una cabeza se vuelve activa. Cada cabeza usa diferentes páginas de combate.
+En algunas Eswcenas, usa páginas de combate especial que inflingen al objetivo con 'Etiquetado', un efecto de estado que permite ganar un copia de una página de combate después de ganar un Choque contra ella.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304016">
+    <Name>Cabeza destruida</Name>
+    <Desc>Cuando es aturdido, el dado de velocidad que pertenece a la cabeza activa actual se romperá, y el personaje se recuperará del aturdimiento la siguiente escena.
+Cuando todas las cabezas son destruidas, la batalla procede a la siguiente fase.</Desc>
+  </PassiveDesc>
+
+  <!--뒤틀림-->
+
+  <PassiveDesc ID="1404011">
+    <Name>Canción marcial del campo de batalla</Name>
+    <Desc>Mientras este persona está vivo, da a un aliado un estado positivo aleatorio. (Fuerza, Dureza, o Prisa) La cantidad dada es igual a la cantidad de Luz que este personaje tiene.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1404012">
+    <Name>Resolución de Beklemmt</Name>
+    <Desc>Pierde toda la Luz al ser aturdido.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1404013">
+    <Name>Erlöschend canto fúnebre de una tumba</Name>
+    <Desc>Al morir: todos los enemigos ganan 3 de Fuerza, Dureza y Prisa la siguiente escena.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>
+

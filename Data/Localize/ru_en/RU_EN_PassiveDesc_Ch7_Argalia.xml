@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <!-- 잔향 악단 공통 -->
+  <PassiveDesc ID="1300001">
+    <Name>Tejido Nuevo</Name>
+    <Desc>Recibe 1-2 menos de Daño y Daño de Aturdimiendo de los ataques.</Desc>
+  </PassiveDesc>
+  
+  <!-- 아르갈리아 -->
+  <PassiveDesc ID="1310011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las Páginas en la mano y el mazo; añade Páginas nuevas a la mano. Sus Costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1310012">
+    <Name>Resonar</Name>
+    <Desc>Usa 'Resonar', una Páginas de Combate que se vuelve más fuerte si la Velocidad de Argalia es igual a la Vibración del Objetivo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1310013">
+    <Name>Final Improvisado</Name>
+    <Desc>Cuando el HP desciende a 25, elimina todos los problemas de estado y recupera toda la Resistencia al Aturdimiento. Después de eso, usa la Página de Combate 'Final Improvisado'.
+El HP no baja de 25 hasta que esto suceda.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1310014">
+    <Name>Compromiso</Name>
+    <Desc>Inmune a la Inmovilización. El HP máximo y Resistencia al Aturdimiento del Oponente incrementa. 
+El número de Dados, Páginas robadas por Escena, y recuperación de Luz del Oponente incrementan en 2.
+
+Si no hay otros aliados presentes al final de la Escena, gana 3 Fuerza la siguiente Escena.</Desc>
+  </PassiveDesc>
+ 
+</PassiveDescRoot>

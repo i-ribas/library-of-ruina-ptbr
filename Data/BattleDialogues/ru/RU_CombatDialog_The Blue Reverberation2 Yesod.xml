@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Blue Reverberation2 Yesod</GroupName>
+  <Character ID="Y_E_Eileen">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Nos moveremos bajo la batuta de nuestro salvador.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Los engranajes están preparados para girar por él.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Fue la elección correcta seguirlo.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">El sonido de los Engranajes resuena maravillosamente por todo el piso.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Podemos girar de nuevo en cualquier momento.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Un hermoso engranaje hace un sacrificio.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Un engranaje se ha detenido.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Parece que este es el destino final para ese desafortunado engranaje.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Agradezco tu ayuda.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">No temas. El dolor es temporal.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Los engranajes tenían razón…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">No es demasiado tarde para que encuentres tu lugar como un engranaje.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Alabado sean… los engranajes…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Deberías haber cambiado de acuerdo al camino determinado…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Morir sin saber que tipo de engranaje eres… Que muerte más inútil…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Y_E_Church of Gears">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Dinos como rotar a partir de ahora…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Este es el momento… dónde debemos empezar a girar?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Por favor, muéstranos el camino…!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">¡¡Cuando los engranajes giran… la vida también cumple su ciclo!!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Los engranajes me guían…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡No más preocupaciones… Los engranajes tenían razón…!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Los engranajes giran lentamente buscando la felicidad…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Gracias por guiar a las ovejas perdidas hasta aquí…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Sabía que este era el camino… correcto… Los engranajes tenían razón…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">¡Gracias… gracias de nuevo…!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Por qué… me… trajiste aquí…</BattleDialog>
+      <BattleDialog ID="DEATH_1">¿Seguí tu guía… entonces por qué…?</BattleDialog>
+      <BattleDialog ID="DEATH_2">¿Soy un… engranaje inútil ahora?</BattleDialog>
+      <BattleDialog ID="DEATH_3">Aún puedo moverme…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Un engranado… ha dejado de girar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Eran piezas inútiles…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Esto tiene que ser… el ímpetu de los engranajes…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Incluso cuando este era el camino decidido…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Gracias por mostrarme el camino correcto…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Una sabía decisión…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Si solo siguieras a los engranajes…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Hemos llegado tan lejos gracias a la protección de los engranajes…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Es una lástima que no hayas conocido tu engranaje…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Y_E_Yesod">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Muy bien. Me esforzaré para cumplir mis responsabilidades.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Buen trabajo, chicos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No presté suficiente atención…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Gracias por tu servicio.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… La situación no parece muy favorable para nosotros.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No podemos permitirnos parar aún…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Esta muerte no será en vano.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Supongo que debería hacer esto con elegancia.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">La batalla aún no acaba.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Solo quedan unos pocos…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Ya me he acostumbrado a presenciar mueres.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">No podemos permitirnos bajar la guardia.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Solo hice lo que tenía que ser hecho.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Y_E_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Sr. Yesod, ¿ha terminado con su preparación?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Ganar no se siente tan bien.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Al menos lo intenté lo mejor que pude para aguantar.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No podemos detenernos aquí.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Cuanto más puedo luchar…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Solo intentaré centrarme en la batalla por ahora.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">… Así es como se van.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">… Peleaste bien.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Descansa en paz…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Dimos todo de nosotros.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Lo siento. No puedo evitar sentirme mal.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Y_E_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Sin importar quien son, tenemos que hacerlo…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Sí, mírame! ¡¡Lo hicimos!!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Pensé que podría hacerlo bien esta vez…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tengo que perseverar. Puedo hacerlo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No te perdonaré. No pienso detenerme.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡Tch, no es tan simple!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ese ruido finalmente ha parado…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">No me culpes, colega.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Liderado por engranajes, ¿eh?…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Solo lo hago lo mejor que puedo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Y_E_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Qué son esos objetos girando atrás de sus cabezas?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Se ha acabado.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Luché todo el tiempo que pude…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No hay tiempo de derramar lágrimas.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡Tenemos que seguir luchando! La batalla aún no acaba…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Tenemos que mantenernos fuertes.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Me has subestimado.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ya no tengo miedo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No tengo ningún sentimiento negativo por ti…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Espero que descanses en paz…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Y_E_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Qué es eso… es lo que la gente llama una Distorsión?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esa fue una dura pelea…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No puedo admitir la derrota…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¡No te dejes influir y mantén tus ojos en frente!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Estaría mintiendo si dijera que no tengo miedo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Compensaré tu perdida…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Considérate alguien desafortunado.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Todos esperábamos que esto pasará…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Hecho.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Sigamos concentrados por un poco más.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

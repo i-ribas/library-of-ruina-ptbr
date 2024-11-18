@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>RedMist</GroupName>
+  <Character ID="RedMist_MeetBinah">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Hay algo raro con esta atmosfera. ¿Qué pasa con ella?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Por qué me hablas como si me conocieras?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Definitivamente no era una debilucha.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Cuento contigo. Dame la fuerza para destruir a mis enemigos.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Comencemos de verdad. Los destruiré a todos…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">¿Fue eso… una Singularidad…? Baje mi guardia…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…… ¿Por qué está alguien con poderes como esos en un lugar como este?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="RedMist_MeetGebura">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… ¿Qué mierda estás intentando hacer ahí?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Cambiaste de forma para parecerte a mí a propósito?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Veamos si tienes el talento para estar a mi mismo nivel…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Pensé que se veía mucho como yo por un segundo. Pero solo era una imitación barata.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">La batalla real comienza ahora…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">No puedo detenerme aquí…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Maldición… Acabaré con todos…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Ella actuó justo como yo… Cómo es posible…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="RedMist_MeetRoland">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Así que estás son las “Pruebas” que este lugar me presenta?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Tengo que descubrir que tan fuerte es mi enemigo primero…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿Eres parte de una Oficina Fixer? ¿O de algún Sindicato?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Solo eran un grupo de tipos elegantes sin sustancia después de todo.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Bien… Veamos que tan duro eres.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">… Vamos a intentar y proteger lo que apreciamos aquí.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">¡…! Mierda, bajé mi guardia…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No puedo perder contra estos extraños…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Binah_MeetRedMist">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Sé consciente de tu propio ser.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Oh niña… Es refrescante conocerte de esta forma.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Tu voluntad de estar a mi lado es admirable, pero por favor ten cuidado.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Te desmoronarás.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Retrocede. No es el lugar para que intervengas.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Ya veo, fue demasiado peligroso para ti.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Entiendo. Resistir su poder fue una tarea demasiado ardua para ti.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">¿Aún no has acabado, verdad?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Que intrigante. Fuiste capaz de ejercer tal poder en el pasado…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Gebura_MeetRedMist">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Yo misma… del pasado, ¿eh?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">La única persona que conozco mejor que nadie, pero que menos conozco a la vez.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Incluso si tanto tiempo ha pasado, algunas cosas siguen igual. ¿Recuerdan como peleo, chicos?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esto no se sintió bien.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Lo sé. No era nada para subestimar.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No sean intimidados. Tenemos que creer en nosotros mismos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Perderemos en el momento que nuestro espíritu sea apagado. No se rindan.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Podemos hacerlo nosotros mismos.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Era esa armadura. Para protegerlos a todos…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Aún debe haber una manera de derrotarla. No se desanimen.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Roland_MeetRedMist">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">La Niebla Roja en su pasada gloria… Aún se siente poco real.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Realmente tenía una fuerza tremenda.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Supongo que no pude vencerla, ¿eh?…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Aún no es un gran problema.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Los que quedan mantengamos la calma.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… Mantengamos la calma.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Parece que ha acabado de calentar…</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

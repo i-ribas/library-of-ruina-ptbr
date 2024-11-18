@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Tomerry</GroupName>
+  <Character ID="Tomerry">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Mami nos dijo que nos daría un premio si le llevábamos libros. No puedo esperar!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Este lugar es más grande que nuestro hogar… Y estoy viendo un montón de gente diminuta como Mami…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Un niño bueno hace lo que le dicen sin quejarse!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Mami estará feliz si le llevo un montón de libros, ¿verdad?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡Pienso que Papi me felicitará también!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Me siento vacío. Es como si una parte de mí desapareciera. Estoy triste… siento como si fuese a llorar……</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Se ven más fuertes que los chicos malos que atacan nuestro hogar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Mis amigos… Están sufriendo mucho dolor… ¿Qué puedo hacer…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Ah… M-mami podría castigarme…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Hemos venido a traer paz con la gente de nuestro hogar!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Si mami me viera trabajando tan duro… Ella me felicitaría, ¿verdad? Hooray…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¿Te gusta jugar conmigo? ¡Yo también, es tan divertido!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Tomerry_Phase2">
+    <Type ID="START_BATTLE" />
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Estoy tan sola, es inaguantable estar sola… ¿Dónde vine?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Dónde estás. Estoy tan asustada… Vuelve a mi lado. Tommy… Tommy…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">………</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Si no entiendes el poder del amor… esto te ayudará a entenderlo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Es un castigo por hacerme daño.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… Por mi querida mami.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="LoveTownPeople">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">The gopearé y… golparé… y de nu…evo…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Vaos… a doblar…los… com…o un…a est…rela…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">N…iños… malos… necesi…tan castigo…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Por… todos… aníme…nse…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">No q…uiero qe me lasti…nen…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Se…ré de ayuda… para t…odos…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Mom…i no dijo… …</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">El am…or es… bueno…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Est…á bien… nust…ro amor… y rom…per todo…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">V…ams a conse…guir muc…os premios…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Qué ti…po de p…remios obtenemos est… vez… quie…o s…er taaan gran…de como Tomerry…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">N… p…odemos… perder…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Est…e es el p…der… del amor…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">No su…bestimen lo f…erte que es… el amor…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No q…uiero… morir…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Quier…o estar con la gente… que amo…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Me d…ier…on…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Estoy a…sustado… sal…nenme…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Lo… sien…to… No lo haré… d…e nuevo…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">M…e deja…n solo…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No quiierho…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Si pu…dieras ente…nder el amor con nosot……</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">P…or favor… no lastimes… a nuestr…a gente… porfa……</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">¿D… debe…ríamos… co…rrer…?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">L…es gan…aremos…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">E…está bien… nn.no… s…son muchos…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">L…o ca…stigué…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Po…demos ha…cerlo…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Pued…o luchar más……</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BossBirdTextRoot>
+  <param key="Escape" index="0">
+    Érase una vez, tres pájaros que vivían felices en su cálido Bosque.
+  </param>
+
+  <param key="BigBirdArrive" index="1">
+    Pájaro grande, con sus muchos ojos, decidió mirar el bosque por los intrusos.&#13;&#10; Los ojos de Pájaro grande pueden ver muy lejos, y ver cosas que nosotros no podemos.
+  </param>
+
+  <param key="LongBirdArrive" index="3">
+    Para mantener el bosque en paz, Pájaro largo peso los pecados de los que entraron en el bosque.&#13;&#10; La balanza del Pájaro largo es justa, y puede pesar cualquier y todos los tipos de pecados.
+  </param>
+
+  <param key="SmallBirdArrive" index="2">
+    Pájaro pequeño decidió castigar las malas acciones de las criaturas con su pico.
+  </param>
+
+  <param key="BossBirdAppear" index="4">
+    Entonces, en el medio de gritos caóticos, alguien grito:&#13;&#10;"¡Es una bestia!, ¡un monstruo aterrador vive en el Bosque!"
+  </param>
+
+  <param key="BigBirdBreak" index="5">
+    Los ojos de Pájaro grande que lo veían todo fueron cegados,
+  </param>
+
+  <param key="LongBirdBreak" index="7">
+    La cabeza de Pájaro largo que llegaba hasta los cosmos fue bajada,
+  </param>
+
+  <param key="SmallBirdBreak" index="6">
+    La boca de Pájaro pequeño que podía devorarlo todo fue cerrada,
+  </param>
+
+  <param key="Suppressed" index="8">
+    El Pájaro comenzó a deambular por el bosque, pero no había nada.&#13;&#10;No había criaturas, ni sol ni luna, y no había bestias. Todo lo que quedaba fue un Pájaro y el Bosque oscuro.
+  </param>
+</BossBirdTextRoot>
+
+

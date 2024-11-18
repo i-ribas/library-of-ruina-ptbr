@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1303011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1303012">
+    <Name>Duro-y-Listo</Name>
+    <Desc>El HP no baja del 30%. Si el HP baja a 40% o menos, procede a la siguiente fase.</Desc>
+  </PassiveDesc>
+  
+  <!--2페이즈에 나옴-->
+  <PassiveDesc ID="1303013">
+    <Name>Festín furioso</Name>
+    <Desc>Cuando la fase comienza, derrota a todas la Carne fresca y recupera HP basado en la cantidad que tenía la Carne. También gana 1 de Fuerza.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1303014">
+    <Name>Células regenerativas</Name>
+    <Desc>Al comienzo del acto, gana 20 de Resilencia. Cada 5 escenas, elimina todos los problemas de estado en si mismo y gana 10 de Resilencia.</Desc>
+  </PassiveDesc>
+   <PassiveDesc ID="1303015">
+    <Name>Piel de tiburon</Name>
+    <Desc>Gana 3 Protección cada escena. Recibe +3 de Daño adicional de ataques mientras tienes Sangrado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1303016">
+    <Name>Crueldad imparable</Name>
+    <Desc>No puede ser aturdido. Cuando la resistencia al aturdimiento baja a 0, pierde 100 de HP en su lugar y gana 1 de Fuerza la siguiente escena.</Desc>
+  </PassiveDesc>
+
+   <!--뒤틀림-->
+  <PassiveDesc ID="1403011">
+    <Name>Protección de tiburon</Name>
+    <Desc>Mientras está con vida, todos los otros aliados ganan 1 de Protección y Protección al aturdimiento.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1403012">
+    <Name>Garde Perdue</Name> <!-- Get it? Like Pain Perdu :) -->
+    <Desc>Al morir, todos los aliados reciben 5 de Frágil la siguiente escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1403013">
+    <Name>Añadir sal a la herida</Name>
+    <Desc>Si el objetivo tiene 5 o más de Sangrado, el primer Dado que este jugador use en un combate inflige 1 de Frágil al golpear.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1403014">
+    <Name>Regeneración de la piel</Name>
+    <Desc>Si el personaje no es golpeado por ningún ataque por una escena, recupera 10 de HP y gana 1 de Fuerza.</Desc>
+  </PassiveDesc>
+
+</PassiveDescRoot>

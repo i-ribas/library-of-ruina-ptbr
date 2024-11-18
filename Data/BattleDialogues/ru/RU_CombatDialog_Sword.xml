@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Sword</GroupName>
+  <Character ID="kimsatgat">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Enciendan las linternas y abran el camino.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Es como si un foso de agua hirviendo rodeara este lugar… Romperemos su defensa a toda costa.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Recuerden lo básico. Sostengan la espada sin dudar.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Los pasajeros de un barco se unen para rescatarse unos a otros cuando se hunde. Debemos ayudarnos unos a otros en tiempos de necesidad. Nos volveremos a ver.</BattleDialog>      <!-- 同舟相救 -->
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Un error entre mil pensamientos… Es mi error.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Los cuchillos se rompen y las flechas se gastan… Estamos perdiendo terreno.</BattleDialog>      <!-- 刀折矢盡 -->
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Veo una nube oscura cubriendo los cielos. Parece que lloverá pronto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Una luna menguante brilla sobre la azotea… Lo siento.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Con tantos pensamientos en la cabeza, un error está destinado a suceder.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Qué tonto de tu parte. La astucia en exceso puede ser veneno.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Un viejo corcel sabe bien a donde ir.</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="sword">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ya sea que haya agua hirviendo o fuego abrasador… No podemos darnos el lujo de esperar y ver.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Supongo que la muerte de cualquiera es un juego justo aquí.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Si te sientas como un pato, perderás la batalla.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Creo que lo lograremos sin problemas.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Esto será como todas las peleas de cuchillos que hemos tenido.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Informaré a las Cadenas Oxidadas sobre esto..</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Estamos en el mismo barco… Es justo que los ayudemos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Me siento más apático que de costumbre…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">La culpa es mía…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Vergonzoso… Perder una oportunidad como esta…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Al final, el filo de esta hoja… reclamó mi vida.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Nos metimos en un verdadero lío…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Primero debería pensar en mi propia vida.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Tu duro viaje llega a su fin aquí; Espero que puedas descansar en paz.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Debe haberse agotado después de luchar durante tanto tiempo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Toda esa cautela te hizo demasiado rígido para esquivar una espada.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Debiste hacerlo mejor contra el corte de esta espada.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

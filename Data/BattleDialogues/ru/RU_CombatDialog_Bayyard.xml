@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Bayyard</GroupName>
+  <Character ID="Named">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Esta debe ser la Biblioteca… Mantengan la guardia.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡Golpea rápido y sigue presionando!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Nadie puede detener el aliento del desierto!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡No me arrodillaré contra alguien más débil que yo!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡Hahaha! Diste un buen combate.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¿Quién los… liderará en el futuro…?</BattleDialog>
+      <BattleDialog ID="DEATH_1">Uno debe saber bien cuando inclinarse…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¡No dejen que los enemigos los superen!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">La clave es mantenerse firme en lugar de retroceder.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Con una fe inquebrantable, debemos continuar.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Haha! ¡Para todas esas historias que mi amigo me contó… Esto fue muy sencillo!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">No sean descuidados hasta el final. ¡¿Lo han entendido?!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡No puedes detenerme!</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="Bayyard">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Hay tantos de ellos!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡Iré primero y me ocuparé de esto!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">La Biblioteca… No parece como que vaya a ser un trabajo fácil, como su reputación sugiere.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Bueno, hemos acabado con trabajos similares antes…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Esto debería estar bien. ¡Sigamos avanzando!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bien. ¡Tiempo de regresar!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡Esto no fue suficiente para hacerme vacilar!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">¿Y si tomamos una cerveza a la vuelta?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Por cierto, ¿qué son estos libros que ganamos?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Los libros contienen información… Espero que sean útiles para nosotros.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Conocer mis debilidades… también es importante.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Mierda… No fui lo suficientemente capaz…</BattleDialog>
+      <BattleDialog ID="DEATH_2">No dejes que te moleste…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Morir de esta forma…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Lo hice lo mejor que pude… No tengo arrepentimientos.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¡No retrocederé!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Esto no se ve bien.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">La situación se volvió incómoda…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">… No puedo rendirme aquí.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Esto aún no ha acabado.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Haha! ¡Es muy emocionante!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Este es el trabajo más difícil que hemos tomado!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Ahora debemos presionar!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">¡Finalmente cayó uno!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">¡Puedo ver claramente la brecha en tu defensa!</BattleDialog>
+    </Type>
+  </Character>
+  
+</BattleDialogRoot>

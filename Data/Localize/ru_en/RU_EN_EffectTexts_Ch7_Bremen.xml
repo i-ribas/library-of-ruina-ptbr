@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="Bremen_Head_Donkey">
+      <Name>Hora de brillar de Heehaw</Name>
+      <Desc>La Página de Combate de Heehaw será jugada en el cuarto Dado de Velocidad. Cuando se Aturde, el primer Dado de Velocidad se rompe.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Bremen_Head_Dog">
+      <Name>Calentamiento de Woof</Name>
+      <Desc>La Página de Combate de Woof será jugada en el cuarto Dado de Velocidad. Cuando se Aturde, el segundo Dado de Velocidad se rompe.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Bremen_Head_Chicken">
+      <Name>Sesión Arrogante de Doodle-doo</Name>
+      <Desc>La Página de Combate de Doodle-doo será jugada en el cuarto Dado de Velocidad. Cuando se Aturde, el tercer Dado de Velocidad se rompe.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Bremen_Influenced">
+      <Name>Etiquetado</Name>
+      <Desc>Dura una Escena. Si el personaje con este estado gana un Choque contra un Dado en una Página de Combate mientras este efecto está activo, una copia de esa Página se añade a su mano. (Una vez por Página)</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Bremen_Vulnerable">
+      <Name>Vulnerabilidad Universal</Name>
+      <Desc>Todas las Resistencias cambian a "Fatal" por esta Escena.</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>

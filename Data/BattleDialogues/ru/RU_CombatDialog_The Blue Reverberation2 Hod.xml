@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Blue Reverberation2 Hod</GroupName>
+  <Character ID="H_G_Greta">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Hawhawhaw! Es hora de preparar los ingredientes?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡Tienen una selección fascinante aquí!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Me pregunto como les va a los otros!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Me alegro… He conocido un verdadero manjar aquí…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Oh, esto apesta… ¿Así que no puedo cocinarlos ahora mismo?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Chump! Podría devorarte de un solo bocado.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡No es el sabor más refrescante! Siendo honesta.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">¡Esto me está dando una gran cantidad de inspiración!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_G_Hod">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">He aprendido un montón de cosas mirándolos a todos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Mientras pueda ser de alguna ayuda.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Estoy bien… ¿Qué tal ustedes?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Tenemos que encontrar una buena manera de lidiar con esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">S-sí, Estoy bien. ¡No dudaré!</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">No quería romper tus sueños. Yo solo…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_G_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Señorita Hod. ¿Vas a estar bien?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Lo veía venir.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No… … Estaremos en una gran desventaja si no tenemos cuidado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Aún no nos pone contra las cuerdas.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Deberíamos leer sus movimientos…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Parece que logramos superar esta adversidad.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_G_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Tenemos que preocuparnos por nosotros mismos ahora.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Aún no he podido… ayudar mucho…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tenemos que mantener la calma… y seguir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Cuanta violencia</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Creo que… aún no es el peor de los escenarios……?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Afortunadamente, pudimos manejar esto…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_G_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Estoy preocupado por los otros pisos… ¿Estarán todos bien…?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Pienso… que hice tanto como… pude…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Lo siento. No hay nada que pueda hacer por ti ahora…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Si no tengo cuidado, entonces pronto… yo podría…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Las tornas aún no han cambiado…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Nos sobreesforzamos para poder detenerla…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_G_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Pero cuantas bocas tiene ella…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Mierda… No tuve cuidado…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tenemos que ser más cuidadosos y salir de su camino…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Esa chica tiburón… ¿No está siendo muy imprudente?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Ella realmente nos ve como comida para cazar…?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Sigh… Esa gran arma era muy amenazante.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

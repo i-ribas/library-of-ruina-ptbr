@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>SmilingFaces</GroupName>
+  <Character ID="Wang">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hoh hon. Vamo’ a ocuparno’ de la cosa que nuestro amigo azul pidió e irnos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Respiren profundo, amigos aquí~ Este humito no es na’ malo, así que no se agite amigo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Hohon, es mucho má’ brillante por dentro, mis ojito’ están festejando~</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Qué es esto? ¿Un montón de libro seguro que harán apaño, eh?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Eso fue mucho trabajo~ Tenemo’ un festín que acabar, ¿nos movemo’, aye?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Oogh, tEse amigo de ahí… me dio un buen golpe…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Aw tío, pobre amigo…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Es una lástima, una lástima… Pobre viejo compa compró la granja ante’ que lo divertido comenzara.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Te va a dole’ un poco, te aviso~ No te vaya a comporta’ como un bebé~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Deberia’ ser má’ cuidadoso, amigo~ tu’ amigos no pueden salva’ tu culo todo el tiempo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Huff… El humo picante me hace senti’ bien, ¿eh?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Mi">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Manténganse alerta, señorita’.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Parece muy divertio’, no es así~ ¿vamo’ a calentar un poco?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Huuuff… El humo está ma’ picante que lo usual. Hohon…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Que tipos má’ tonto’ eran~ Estaba comenzando a divertirme.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">A ver… un libro, dos libros… … Yup, la cantida’ exacta~</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Déjame ser, compa’… me equivoque y le’ deje atraparme.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Esto no es bueno… ¿Vamo’ a poder regresar, eh?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡No son aterradores! No podemo’ dejar que el miedo nos llegue antes que a ello’.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Caramba, eso es inteligente… pudo hacerme mucho daño.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿¿Huhnh, Pensé que hice mi trabajo… aún hay má’??</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Aye, yeah, ese e' el sitio. Se sintió como un buen golpe~</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Jin">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Aye, aye. Acabemo’ con esto y disfrutemo’ el resto de nuestro festín.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Aye, Estaba alistándome pa’ eso.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Por qué no va’ adelante y miras que pasa primero.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Hoh hoh hon. Quién pensaban que eran pa’ ir contra nosotro’.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bien bien. Dame tus libro’. tenemo’ que juntarlo’ y dárselo’ al amigo azul, ¿¿lo pillas??</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Déjame darle la última bocanada’ a esta pipa…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Aww, Mierda… No no’ atrevemo’ a declinar el pedido del amigo azul…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">La’ cosas se ven un poco peligros’, ¿¿esta’ bien??</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¿Asi no e’ como recibes a un intruso, no e’ así? No me hace’ ni cosquilla’~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Pensé que eran uno’ tipo’ muy agile’, pero ahora que lo’ miro de nuevo… solo veo a uno’ tontos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eso’ pobre’ amigos son un poco fracasado’.</BattleDialog>
+    </Type>
+  </Character>
+	<Character ID="SmilingFaces">
+		<Type ID="START_BATTLE">
+			<BattleDialog ID="START_BATTLE_0">¿Qué e’ eso? Por qué peleamo’ con estos amigo’.</BattleDialog>
+			<BattleDialog ID="START_BATTLE_1">¿Escuche que’ vamo’ a conseguir libros si lo’ matamo’? El amigo azul lo’ necesita pa’ algo.</BattleDialog>
+			<BattleDialog ID="START_BATTLE_2">Hoh hon. Se ha metio’ en la lectura, ¿eh?</BattleDialog>
+			<BattleDialog ID="START_BATTLE_3">Eso es raro. Te digo… no se puede evita’. Tenemo’ que estar listo’, eh.</BattleDialog>
+			<BattleDialog ID="START_BATTLE_4">Vamo’ lento~ Lo lamentaremo’ si no los vemo'.</BattleDialog>
+		</Type>
+		<Type ID="BATTLE_VICTORY">
+			<BattleDialog ID="BATTLE_VICTORY_0">¡Esto’ compañero’ son muy generosos por darno’ libros!</BattleDialog>
+			<BattleDialog ID="BATTLE_VICTORY_1">¡Vamo’ a largarno’. El amigo azul no’ está esperando!</BattleDialog>
+			<BattleDialog ID="BATTLE_VICTORY_2">Aw, ya estaba’ listo pa’ agarrar uno de eso’ libros.</BattleDialog>
+		</Type>
+		<Type ID="DEATH">
+			<BattleDialog ID="DEATH_0">Bueno tío, estos amigos no son bueno’ pa’ pasar por encima…</BattleDialog>
+			<BattleDialog ID="DEATH_1">Qué fumaron esos amigo’ pa’ ser tan duros… no vi eso venir…</BattleDialog>
+			<BattleDialog ID="DEATH_2">Es un gran problema… ¿Qué vamo’ a hacer ahora…?</BattleDialog>
+		</Type>
+		<Type ID="COLLEAGUE_DEATH">
+			<BattleDialog ID="COLLEAGUE_DEATH_0">Aún estamo’ supe’ bien, no se adelanten amigo’.</BattleDialog>
+			<BattleDialog ID="COLLEAGUE_DEATH_1">Mierda… eso da’ miedo. Las cosa’ no se ven bien pa’ mi…</BattleDialog>
+			<BattleDialog ID="COLLEAGUE_DEATH_2">¿¿Vamo’ a ir después que vimo’ como masacraron a nuestro pobre chico??</BattleDialog>
+		</Type>
+		<Type ID="KILLS_OPPONENT">
+			<BattleDialog ID="KILLS_OPPONENT_0">¿Whoho, Ese amigo desapareció en el aire? ¡Hoh hoh hon!</BattleDialog>
+			<BattleDialog ID="KILLS_OPPONENT_1">No se preocupen. No estaría sonriendo si no pudiera manejas a los amigo’ aquí.</BattleDialog>
+			<BattleDialog ID="KILLS_OPPONENT_2">Nada de que preocuparno’~</BattleDialog>
+		</Type>
+	</Character>
+</BattleDialogRoot>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703111">
+      <LocalizedName>Ocaso menguante</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703112">
+      <LocalizedName>Emociones en conflicto</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al ganar un choque] Inflige 1 de Quemadura a ambos personajes</Behaviour>
+      <Behaviour ID="1">[Al ganar un choque] Inflige 1 de Quemadura a ambos personajes</Behaviour>
+      <Behaviour ID="3">[Al ganar un choque] Inflige 1 de Quemadura a ambos personajes</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703113">
+      <LocalizedName>Estigma desesperado</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al golpear] Gana 3 Monedas de emoción negativa</Behaviour>
+      <Behaviour ID="1">[Al golpear] Gana 3 Monedas de emoción negativa</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703114">
+      <LocalizedName>Resolución abrasadora</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al golpear] Inflige 2 de Quemadura</Behaviour>
+      <Behaviour ID="1">[Al golpear] Inflige 1 de Quemadura</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703115">
+      <LocalizedName>Espíritu feroz</LocalizedName>
+      <Ability>[Comienzo del combate] Cuando infringes Quemadura la siguiente escena, inflige 2 acumulaciones adicionales; Gana 2 de Fuerza la siguiente escena</Ability>
+      <Behaviour ID="0">[Al ganar un choque] Inflige 1 de Quemadura a ambos personajes</Behaviour>
+      <Behaviour ID="1">[Al golpear] Inflige 1 Quemadura</Behaviour>
+      <Behaviour ID="2">[Al golpear] Inflige 1 Quemadura</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703116">
+      <LocalizedName>Coraje ardiente</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al golpear] Si el objetivo tiene 10 o más de Quemadura, inflige 1 de Quemadura a todos los personajes</Behaviour>
+      <Behaviour ID="1">[Al golpear] Si el objetivo tiene 10 o más de Quemadura, inflige 1 de Quemadura a todos los personajes</Behaviour>
+      <Behaviour ID="2">[Al golpear] Si el objetivo tiene 10 o más de Quemadura, inflige 1 de Quemadura a todos los personajes</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703117">
+      <LocalizedName>Contener</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[Al golpear] Inflige 2 de Endeble, Desarmar, y Atadura la siguiente escena</Behaviour>
+      <Behaviour ID="2">[Al ganar un choque] Inflige 1 de Quemadura a ambos personajes</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703118">
+      <LocalizedName>Herida de tristeza</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703119">
+      <LocalizedName>Golpe ardiente renacido</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al golpear] Inflige 5 de Quemadura</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703110">
+      <LocalizedName>Desesperación abrasadora</LocalizedName>
+      <Behaviour ID="1">[Al golpear] Inflige 3 de Quemadura</Behaviour>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="703121">
+      <LocalizedName>Murmullo</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1"></Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703122">
+      <LocalizedName>Golpe de ala</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[Al golpear] Inflige 1 de Endeble la siguiente escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703123">
+      <LocalizedName>Victimizar</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">Al golpear] Inflige 1 de Desarmar la siguiente escena</Behaviour>
+      <Behaviour ID="2">[Al golpear] Inflige 1 de Endeble la siguiente escena</Behaviour>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

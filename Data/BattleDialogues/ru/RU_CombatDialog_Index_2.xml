@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>2</GroupName>
+  <Character ID="Esther">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Mantén tus ojos cerrados. Evita las distracciones innecesarias.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Mantengan sus posiciones. Debemos estar listos para recibir sus ataques.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Actuamos como Proxies de la voluntad de los Preceptos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Quizás es hora de conocer a un nuevo Mensajero.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Los Preceptos nunca fallan en guiarnos por el camino correcto.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No puedo rechazar este resultado. Nunca nos dijo que saldríamos victoriosos…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Aquellos que viven una vida por un ser superior, deberían estar preparados para aceptar la muerte como uno de sus significados.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Es hora de actuar y cumplir el Precepto.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Incluso los picos más altos que alcanzan los cielos pueden romperse.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Recuerda. Un comportamiento negligente te llevará a la muerte.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Los que quedan continuarán cumpliendo el Precepto.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Sin excusas.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Estabas destinado a morir en este momento.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… El Precepto está casi completo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Hubert">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Solo los Preceptos saben quien vivirá y morirá aquí.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">… Cumplan el Precepto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No puedo ni imaginar lo hábiles que pueden ser.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Otro Precepto nos está esperando fuera.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">… Otro Precepto nos está esperando fuera.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… No tengo ninguna queja contra el curso establecido.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Quién podría estar en desacuerdo con el destino fijado por los Preceptos.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Esto debió haber estado destinado a pasar.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">No puedo ser distraído por lo que sucede en frente de mis ojos.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">No hay manera de cambiar el camino establecido.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Estamos cumpliendo nuestro deber.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Irrisorio. ¿Esto es todo lo que tu voluntad tenía para ofrecer?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Terminado con un solo corte…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… Esto es bastante complicado.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Gloria">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Qué chico tan malo es Yan~ ¡No puede simplemente enviarnos aquí e irse a otro lugar solo!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Otro día de cumplir los Preceptos~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Los Preceptos siempre nos llevan al lugar indicado~</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esto no fue difícil de completar~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Llevar los libros es parte del Precepto~?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Qué triste~ Pero qué puedo hacer…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Una lástima que tuviste que morir así~</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">¿El resto de nosotros terminaremos el Precepto de alguna forma, verdad~?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Mmm, ¿podría ser una prueba~?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Me pregunto cuando me llegará mi final~</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Aún no nos llevará por el camino incorrecto~</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Eres justo como la Ligre que nos saludó en la puerta~ Medio horneado como la mitad que eres.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sin resentimientos~ Es la voluntad de los Preceptos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Casi hemos completado este Precepto~</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Index(with Proxy)">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">…</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

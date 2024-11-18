@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1309011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1309012">
+    <Name>Promesa de ayer</Name>
+    <Desc>En la segunda escena, invoca 4 sombras que copian la apariencia, estadisticas, y páginas de combate de un asistente bibliotecario. Una vez que todas las sombras hayan sido derrotadas, procede a la siguiente fase.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1309013">
+    <Name>Barrera mágica</Name>
+    <Desc>Inmune a los problemas de estado. No recibe daño de desvíos. (Únicamente activo durante la primera fase)</Desc>
+  </PassiveDesc>
+  
+  <!--2페이즈에 나옴-->
+  <PassiveDesc ID="1309014">
+    <Name>Se está volviendo interesante</Name>
+    <Desc>La Resistencia al Aturdimiento cambia. Usa una página de ataque en masa cada 5 escenas. Recibe daño de Aturdimiento proporcional al número de veces que el dado en esa página falla en hacer daño a sus objetivos.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="1309021">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1309022">
+    <Name>Sombra</Name>
+    <Desc>Tiene el mismo HP, Resistencia al Aturdimiento, Resistencias, y Habilidades pasivas que el Bibliotecario copiado. Usa sus páginas de combate.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1309023">
+    <Name>¡¡¡SOY EL REAL!!!</Name>
+    <Desc>Usa una página de combate Poderosa cada 2 escena.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

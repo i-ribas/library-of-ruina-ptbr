@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>LibraryOfRuina</GroupName>
+  <Character ID="Roland">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Vamos con calma~ Lo mejor es no complicar las cosas demasiado.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Las cosas se ven bien hasta ahora.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Bien, bien. Mantén la calma y la caaaaabeza fría.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Chico, no hay derecho a ponerme tan nervioso…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Tiembla en los pozos eternos del miedo. … Khh, tenía ganar de decir una frase genial.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Cada uno tiene deberes que deben cumplir en nuestra posición.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Comencemos con calma, no hay punto en ponerse nervioso.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Lo haré lo mejor que pueda y tú harás lo mejor que puedas para cumplir tus propias responsabilidades.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">¡Bien, vamos a hacerlo!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">¿Mmm? Parece que puedo esquivar fácilmente tus ataques.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Oww, todos mis músculos se tensaron con la batalla! Me duelen los hombres……</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Parece que nuestro trabajo está hecho, así que volvamos y descansemos un rato.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Whew… Eso estuvo cerca… Sería una lástima si falláramos en manejar esto.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Si solo nuestra Directora pudiera reconocer todo mi trabajo duro~ … ¿Ella no escuchó eso, verdad?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Bien, eso fue fácil… ¡No fue un problema para mí!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¿Me han… arrinconado…? … Esto es muy vergonzoso.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Whoops, me pillaron con la guardia baja… Eso fue lamentable…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Sería muy desagradable morir sin haber hecho tanto…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No se puede evitar. Eso es eso y esto es esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">La vida de la Ciudad te hace insensible a este tipo de cosas.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No entren en pánico, chicos. Tienen que acostumbrarse a esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Bueno, no puedes esperar que otros cuiden de ti.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Pobre chico. Peleaste con todo lo que pudiste.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_1">No debería agitarme sin importar cuan tensa es la situación.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">No debería volverme impaciente y terminar esto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Whew, ese chico casi invierte los papeles. Mi corazón está como loco.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Whoa, compañero, ¿recuerdas el principio de “Deja tu corazón arder, pero mantén tu cabeza fría”? Mira, tu amigo y yo solo hacíamos nuestro trabajo.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Lo siento por tu amigo, colega. Pero él solo hacía su trabajo, ya sabes… ¿Estoy seguro de que lo entiendes como un compañero Fixer, verdad?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Malkuth">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Encantada de conocerte, espero que tengamos una pelea justa!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">La suerte estará de mi lado, estoy segura. ¡Prometo que triunfaremos!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No te pongas muy nervioso, solo hazlo como practicamos. ¡Estoy segura de que podemos ganar así!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">¡Estoy completamente preparada ahora! Esto ya no me asusta.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Tengo confianza sobre este trabajo. ¡Muy bien, aquí voy!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">¡Tengo un buen sentimiento de que podemos hacerlo!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Tengo confianza de que podemos hacerlo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">¡Todos, confíen en mí y sigan mi ejemplo!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">¡Si me muevo así y luego…… Whoawhoawhoa, wah…! …Phew… Casi me tropiezo…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Mantengámonos alertas y vamos por esto, ¿vale?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Ganamos, realmente ganamos! Lo hice. ¿Eso significa que puedo ser de ayuda para todos, verdad?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡Haré lo mejor que pueda con mis habilidades!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">No puedo decir que estoy completamente feliz, pero… ¡la victoria es lo que cuenta!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">¡Buen trabajo! Hemos terminado con esto.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">¡Recojamos los libros y regresemos!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Pensé que podría hacerlo, pero supongo que aún tengo un largo camino que recorrer.</BattleDialog>
+      <BattleDialog ID="DEATH_1">¿Quizás fui superada por el entusiasmo…?</BattleDialog>
+      <BattleDialog ID="DEATH_2">No, no quiero terminar así…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No te culpes a ti mismo. Estoy segura de que lo hiciste lo mejor que pudiste.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡No entren en pánico! Debemos mantenernos unidos en momentos como este.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Mantengan la cama. ¿Por qué no respiramos hondo? Uno, deeeeeeentro… y dos, Fueeeera….</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">¿Realmente estoy haciendo un buen trabajo…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Lucharé más duro por ti, así que puedes descansar en paz.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Whoa, ¿Acabas de ver eso…? ¡Lo hice!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Lo hice! Puedo hacer esto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Eso fue fácil. Nuestro oponente era muy débil!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">¡Ganar es solo cuestión de tiempo!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">¡Bien, esto está yendo bien! Aunque es demasiado pronto para alegrarse.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Yesod">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Simplemente tenemos que esforzarnos para cumplir nuestras responsabilidades.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Las acciones apresuradas solo te harán más daño que bien.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No quiero gastar más tiempo. Terminemos rápidamente.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Debemos retroceder un paso y hacer un buen juicio en situaciones como esta.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Asumiré que estás preparado para enfrentar cualquier resultado, al ver como has elegido venir aquí.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Si no hay una oportunidad para atacar, Entonces crearemos una.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Será más difícil apuntar por puntos débiles si sostienes tu arma tan descuidadamente.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Burlarse es innecesario en un combate.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Debemos pensar y actuar rápidamente.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Mientras tenemos que luchar con todo lo que podemos, no es recomendable empujarnos más allá del límite.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">La alegría de la victoria no se siente muy agradable.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Esto no es particularmente agradable, Sin embargo… Buen trabajo.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Después de que llevemos todos los libros, vamos a revisar nuestro desempeño y ver que podemos mejorar.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Buen trabajo. Arreglen sus ropas antes de volver a sus alojamientos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Limpiemos todo este desorden y regresemos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No hay necesidad de tener lástima por mí.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Por favor no entren en pánico; Quiero que se concentren en la batalla.</BattleDialog>
+      <BattleDialog ID="DEATH_2">Es mi culpa el encontrarme con este destino.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Esto era algo que deberíamos haber esperado que ocurriera.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Probablemente querías morir de una forma más significativa que esta.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Otro ha caído, pero debemos irnos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Debemos priorizar terminar con esta batalla primero.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">No quiero ser testigo de ninguna otra muerte.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Me disgusta como me estoy volviendo insensible a presenciar una muerte.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">… Supongo que debo aceptar esto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Deberías haber hecho un juicio más preciso.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">No estoy particularmente feliz de ser victorioso.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Cargar imprudentemente no es un método efectivo de ofensiva.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Netzach">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Sabes qué es lo que más necesito? … Retirarme y dormir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Ah~ Espero que vayan fácil contra alguien como yo…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Esta presión abrumadora y la atmosfera del campo de batalla… No soy un fan de esto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Solo quiero tomar una siesta. … Sé que no debería hacerlo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Supongo que debo al menos esforzarme un poco para ganar esto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">No soy el mayor fan de esta regla de que alguien tiene que ganar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Como termine haciendo cosas como esta…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Uf… Estoy muy cansado para esto. ¿Puedo descansar más si termino esto rápidamente?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Aún sigue siendo mi trabajo y todo… Así que al menos lo intento.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Estoy siendo serio sobre esto, si no te das cuenta…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Eso debería ser suficiente, verdad? Voy a descansar ahora…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Uf… No estoy muy feliz de ser el ganado, pero buen trabajo.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Oh si, los libros de ahí… Solo tomémoslos y los ordenamos más tarde.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Veo demasiadas cosas que limpiar…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Solo apilemos todos los libros en una esquina, y… pensemos que hacer más tarde.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Ah… Por qué el final es siempre tan inútil y vacío…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Sin contar los resultados, supongo que puedo dormir ahora…</BattleDialog>
+      <BattleDialog ID="DEATH_2">… Lo siento, no pude ayudar mucho.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Esto está comenzando a ponerse peligroso. Uf… Quiero irme.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Quizás no nos esforzamos lo suficiente.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Estoy seguro de que así no es como ellos quieren morir tampoco.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Ellos debieron haber peleado duro para vivir. Probablemente estaban más desesperados que yo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">… Solo quiero terminar esto rápidamente.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">… ¿Puedo decir que esto es un día completo de trabajo, verdad?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Estoy haciendo lo mejor que puedo aquí, a pesar de como me veo…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Quizás debiste intentar no bajar tu guardia.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Ellos tenían sus propias metas y nosotros aplastamos sus sueños.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">No me gusta que tengamos que seguir haciendo más de esto.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Hod">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Si nos armamos de valor y actuamos con calma, podemos ganar esto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Incluso ahora, tengo un mejor que mejorar… Aun así, recibiré a los invitados con sinceridad.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Estoy nerviosa, pero… ¡Lo haré lo mejor que pueda…!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">¡Bien, Aquí voy…! Quiero que tomes esta pelea seriamente.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Sé prudente y todo funcionará… Quizás…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">¡Los otros bibliotecarios están haciendo un gran trabajo! También tengo que estar a su nivel…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Bien, Debo mantener la calma y encontrar el punto débil del oponente, así que vamos a pensar…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Todo estará bien, puedo esquivar sus ataques… Puedo hacerlo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Con toda esta gente a mi lado, puedo reunir coraje de nuevo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Espero que no pase nada malo…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Gracias a dios pudimos terminar todo el trabajo con éxito.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Estoy contenta de que pudimos hacer todo esto juntos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Gracias por estar conmigo hasta el final. ¡Buen trabajo!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Intentaré mejorar más para nuestra próxima pelea juntos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">¡Ganamos…! Gracias por vuestro trabajo estelar.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_5">Estoy contenta de saber que ayude en esta batalla aunque sea un poco.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…No fui nada más que un problema hasta el final. Yo soy—Solo soy…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Mi cuerpo se siente entumecido, qué debo hacer…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Lo intenté tanto y aun así… Por qué siempre tiene que terminar así…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Estoy comenzando a estar insegura de que hacer ahora.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No pude ser de ayuda para los otros…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Debería haber hecho un mejor trabajo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No puedo dejar que los otros Bibliotecarios se agiten…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">No dejaré que tu muerte sea en vano…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No tuve otra elección para cumplir con mi papel.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Lo siento, probablemente no querías morir así…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Estoy segura de que mi oponente también hizo su mejor esfuerzo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Espero que podamos acabar esto sin ninguna baja…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">… Lo hiciste bien. Ahora descansa en paz.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Tiphereth">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Vamos a comenzar, así que abróchense el cinturón de seguridad.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Espero que no haya idiotas que se sienten alrededor como un pato en mi equipo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿Piensan que pueden con nosotros con movimientos tan lentos?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">No puedes hacer planes por siempre.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">¡No harás nada si solo te sientas y sigues diciendo que estás asustado!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">¡No seas un estirado y mantente recto! Puedes hacerlo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">¡Si la marea está de nuestro lado, empuja hacia delante!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">¿Si yo fallo aquí, quien limpiara este desorden?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">¡Ten fe en nosotros! No estás peleando solo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">¡No te vamos a dejar avanzar tan fácilmente!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Era obvio que ganaríamos. ¿Pensaste que no podríamos lograrlo?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡Bien, Sé que todos están agotados, pero! Vamos a descansar después de llevar los libros en orden.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Gracias a todos. Hicieron un muy buen trabajo esta vez.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Ves, las acciones dicen más que las palabras.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Esto es lo más lejos que vas a llevar con tus penosas habilidades.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Ellos ya… leyeron mis movimientos…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Esto terminará pasando factura a los chicos detrás de mí…</BattleDialog>
+      <BattleDialog ID="DEATH_2">… Lo siento. No fui de mucha ayuda aquí.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No es tiempo de estar desanimados. ¡Vamos a movernos!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Acabaron con uno de nosotros… No dejaré que sigan haciéndolo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Sin problema. … Yo aún puedo pelear.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No podemos dejar a nadie morir aquí… Necesitamos pensar como lograrlo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">No esperes que nos detengamos aquí… Estoy segura de que ganaré esto…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Uf… Apenas acabamos con uno, ¿quién es el siguiente?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bien, seremos capaces de terminar esto sin problemas si seguimos así.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eso fue descuidado. ¿Por qué vienes al campo de batalla si no eres un buen peleador?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">No quiero ser una molestia.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">¡Te tengo! Te dije que no te pusieras tan engreído.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Gebura">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Todos listos? Vamos a vencer a estos tipos hasta la sumisión.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">La cosa más importante de recordar es sentir el ritmo del oponente y seguirlo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No tengo tanta fuerza como antes… Aún no me acostumbro a esto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Solo los débiles corren antes de que las cosas comiencen.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">No dejes que la fuerza te suba a la cabeza. Terminarás completamente abierto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Estamos moldeados por el trabajo duro y la disciplina del pasado.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Vamos a trabajar juntos y hacer nuestro mejor intento.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">¿Sabes que esto no es un estúpido juego, verdad?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Cuidado con donde apuntas tu arma.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Terminamos todo esto fácilmente. Buen trabajo chicos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Rendimiento, experiencia y resultados… Nuestro lado es muy superior en todo.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Me estoy comenzando a acostumbrar a este nuevo cuerpo.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Ahora que la pelea ha acabado… Supongo que tomaré una siesta.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Incluso si ganamos, mantengan en mente que no deberíamos tomar el sacrificio de otros por sentado.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Soy una tonta… Antes yo no era tan débil.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Es molesto… Pero tendré que aceptarlo.</BattleDialog>
+      <BattleDialog ID="DEATH_2">Maldición. No esperaba retirarme de esta forma…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Incluso si los demás encuentran un desafortunado destino, no puedo parar aquí.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Mantengamos la cama. No debemos titubear por la muerte de un colega.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Guardemos nuestro dolor para cuando todo haya acabado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No quieren que sus sacrificios sean en vano, ¿verdad?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Los vengaremos, pero no antes de habernos calmado. Siempre hay que tener la cabeza fría.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Este cuerpo es más débil que los anteriores, pero no tengo problema manejándolo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Deberías haber sido más listo si conocías tu falta de habilidades.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¿Pensaste que podrías ganarme con solo eso? Ni en tus sueños.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">La ira solo hará que te equivoques.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Estar descentrado y actuar descuidadamente es una de las principales causas de muerte.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Chesed">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Si solo todos pudiéramos seguir un noble camino juntos~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Hagamos nuestro mejor esfuerzo para terminar esto, así todo estaremos seguros~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No estés tan deprimido~ Estoy seguro de que podemos hacerlo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">No es una buena idea trabajar demasiado~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Podemos perderlo todo si dudamos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Ajusta tu respiración y mantén la calma, ¿vale?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">No quiero que nadie muera aquí.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">A veces, tienes que ser audaz para ser capaz de proteger algo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Si no retroceden, entonces no tenemos otra elección que mantenernos firmas.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Si hubiera un significado para esta batalla…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Ves? Podemos hacerlo si lo intentamos, Buen trabajo~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Qué tal una fragante taza de café para todos~?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Estoy contento de que pudiéramos terminar esto~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Gracias por seguir hasta el final~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">¿Supongo que podemos tomar los libros ahora? Volvamos entonces~</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Supongo que esto es lo más lejos que puedo ir…</BattleDialog>
+      <BattleDialog ID="DEATH_1">¿Esto era… demasiado para mí?</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Cualquiera quisiera terminar este tipo de batalla con prisa.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Debemos intentarlo más duro para minimizar los daños…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No tengamos ninguna otra baja sin sentido.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No nos pongamos inquietos. Yo creo que podemos con esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Está bien. Lucharemos más duro en lugar de ese Bibliotecario.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Eso fue fácil~ Tomemos nuestro tiempo para acabar con esto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Yo hubiera sido el que deja el escenario si hubiera sido un poco más lento.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Es una gran lástima, todo ese poder y fuerza fue desperdiciado en peleas.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Es triste, pero odiaría que sufriéramos más daño.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Creo que me estoy acostumbrando a este trabajo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Hokma">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Mantente fiel a tus creencias y actúa acorde a ellas.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Lo que importa más que la fuerza… es la fe en nuestra victoria.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Creé en ti mismo. Deberíamos basar nuestras acciones en la premisa de que podemos manejar esto sin fallar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Puedes engañar a tus enemigos en la batalla, pero recuerda que debes mantener fiel a ti mismo siempre.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Comencemos entonces. Has llegado al punto de no retorno.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Mientras estemos encadenados a nuestras vidas, Debemos vivir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Todos los actos requieren la misma determinación para salir adelante.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Parece que ha terminado, pero comienza una vez más.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Sugiero que ganes compostura. Abrir tus ojos viene después.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Qué sentido le podría dar al trabajo que realizo solo porque no encuentro descanso.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">El exceso de confianza es tu mayor enemigo. Debemos mantenernos humildes.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">De verdad creías que había un beneficio claro que se podía obtener de esta batalla.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">¿No piensas que al final solo tendrás una triste perdida?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">… Parece que el trabajo ha sido terminado, vamos a organizar los libros ahora.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">No hay que detenerse ahora. Ya hemos dado el primer paso.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Para aceptar tal resultado, uno debe aprender a renunciar a ciertas cosas…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Al final, todo esto es un sin sentido.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Uno puede hacer preguntar interminables en cuanto a por qué esto debe llevarse tan lejos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Incluso si es imposible el moverse en este lugar, uno debe hacerlo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Uno no… toma fácilmente en consideración todas las posibilidades.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Depender solo en la fuerza bruta para salir adelante es posiblemente lo más imprudente que puedes hacer.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Todos nosotros solo estamos haciendo nuestro deber.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Descansa en paz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">El orgullo y la ambición sin límites traerán un final amargo…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">No puede existir una buena razón para tomar tu vida, no. Solo estoy con prisa de terminar el trabajo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Binah">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Vamos a comenzar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Incontables estrellas iluminan el cielo de nuevo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Tu voluntad de luchar a mi lado es admirable, pero no te sobre esfuerces.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Si te mueves con prisa, estás obligado a perder ciertas cosas.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Mantén la calma.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">No hay obstáculos que no se puedan superar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">Tu perspectiva es lo que decide muchas cosas.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">No me sentiría cómoda enviándote a una batalla mientras descanso.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Recuerda que tu salud viene primero.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Esta es una Ordalía que superar, para ellos y para nosotros.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Excelente.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Lo han hecho bien.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Me gustaría regresar y reposar ahora.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Estoy curiosa de las memorias que has tenido.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Deberíamos poner a los que han caído en el sueño donde pertenecen.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Debió haber sido demasiado para ti. Bien hecho aguantando hasta ahora.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Incluso si una carga que no puedes esquivar se cruza en tu camino, no debes colapsar.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Nadie te culpará.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Ya veo, era demasiado peligroso para ti.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Una estrella solo puede ser realmente vista en la oscuridad…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¿Piensas que podías esquivar esto?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Mientras más cerca estás de la muerte, más libre eres.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Tu aliento se desvanece.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Ahora, húndete en el silencio eterno.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Se acerca el final.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

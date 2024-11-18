@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Full-Stop Office</GroupName>
+  <Character ID="Liwei">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No se pongan muy nerviosos, seguiremos avanzando.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Cúbreme la espalda. Voy a avanzar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No fallaré… Te cazaré rápidamente.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Incluso si ganamos, quizás no nos deje irnos… No tengo idea de lo que quiere la Reverberación Azul.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Una victoria bien merecida. ¿Están todos bien?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Parece que yo era el débil…</BattleDialog>
+      <BattleDialog ID="DEATH_1">¡Aún no… No quiero que esto acabe!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… ¿Qué va a pasar ahora?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡Manténganse alerta! Esto no ha acabado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Esto es… donde tenemos que parar?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ellos son novatos. No tenemos ni que predecir.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Objetivo eliminado. Moviéndome al siguiente.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Los sentidos pueden hacer toda la diferencia.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Tamaki">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No se preocupen y céntrense en la batalla. Yo me ocuparé de ellos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Ya estamos aquí, ¿las cosas funcionarán de alguna forma, verdad?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Es bueno ser cuidadoso, pero no debes dudas cuando disparas.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Pensaban que podían detenernos con tan poco poder de fuego?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Una pistola como esta puede ser útil en la situación correcta.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡No sean ridículos! Aún no estoy acabada…</BattleDialog>
+      <BattleDialog ID="DEATH_1">No puedo aguantar más… Lo siento.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Esto apesta. No quería meternos en este problema.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Si solo hubiera apuntado con más cuidado…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No podemos dejar que nuestra formación se rompa…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Estamos progresando rápidamente. Mantengamos la concentración.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Eso fue un disparo limpio.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Solo puedes culparte a ti mismo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Stephan">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Aquí viene otra horrible batalla…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Para qué venimos a esta estúpida aventura?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Casi no tengo munición… No hay manera que podamos ganar.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esta fue una experiencia cercana a la muerte. Debería estar feliz de que ganamos…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿No vamos a ser recibidos por la Reverberación Azul cuando volvamos?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡No es justo… No vine aquí porque quisiera!</BattleDialog>
+      <BattleDialog ID="DEATH_1">¡Ese maldito cabrón Azul… es todo su culpa…!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No estoy seguro de si podremos aguantar más… ¿Están seguros de que deberíamos seguir con esto?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Mi mente está a punto de romperse. Vamos a dejarlo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Maldición… Déjenme salir de esta locura.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Deberías haber sido más cuidadoso.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Solo quedan unos pocos más, verdad…? Por favor, dime que sí…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No quiero seguir aquí.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

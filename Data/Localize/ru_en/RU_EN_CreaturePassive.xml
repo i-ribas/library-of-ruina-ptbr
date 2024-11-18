@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1001011">
+    <Name>Cicatrices</Name>
+    <Desc>Recibe 1-5 menos de daño de ataque cortantes.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1001012">
+    <Name>Sangre</Name>
+    <Desc>Pierde 3 de velocidad. Incrementa el resultado máximo de los dados de bloqueo en +3.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1002021">
+    <Name>Aspiración</Name>
+    <Desc>Pierde 4 de HP si el personaje no hizo ningún daño por una escena.</Desc>
+  </PassiveDesc>
+  <!-- 피노키오 : 거짓말쟁이 -->
+  <PassiveDesc ID="1003011">
+    <Name>Personificar</Name>
+    <Desc>Copia el mazo del jefe bibliotecario. La Luz es restaurada al máximo cada escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1003012">
+    <Name>Mentiras</Name>
+    <Desc>Juega una página que contiene una mentira cada 2~3 escenas que muestra información falsa.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1003014">
+    <Name>Nariz larga</Name>
+    <Desc>Cuando te enfrentas contra '¡Mentir es malo!' mientras mientes, todos los dados pierden 4 de Poder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1003015">
+    <Name>Fábula alegre</Name>
+    <Desc>Mientras mientes, todos los dados ganan +4 de Poder si el personaje no se enfrenta contra '¡Mentir es malo!'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1003016">
+    <Name>¿Por qué es malo?</Name>
+    <Desc>Después que la mentira ha sido descubierta, todos los Pinochos ganan 2 de Endeble y Desarmar la siguiente escena y todas las resistencias al daño de aturdimiento cambian a "Débil".</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1003018">
+    <Name>Lalala~</Name>
+    <Desc>Si la mentira no ha sido descubierta, todos los Pinochos ganan 4 de Fuerza y Dureza la siguiente escena.</Desc>
+  </PassiveDesc>
+  <!-- 피노키오 : 호기심쟁이 -->
+  <PassiveDesc ID="1003021">
+    <Name>Recibir después</Name>
+    <Desc>Copia el mazo del primer asistente bibliotecario.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1003023">
+    <Name>Una canción al revés</Name>
+    <Desc>Mientra este personaje está vivo, el coste de las páginas en las manos de todos los bibliotecarios es aleatorio cada escena. (Páginas de coste 4 excluidas)</Desc>
+  </PassiveDesc>
+  <!-- 피노키오 : 따라쟁이 -->
+  <PassiveDesc ID="1003031">
+    <Name>Timo</Name>
+    <Desc>Copia el mazo del segundo asistente bibliotecario.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1003033">
+    <Name>Una Canción para Todos</Name>
+    <Desc>Mientra este personaje está vivo, todos los Pinochos ganan 2 de Fuerza o 2 de Dureza al comienzo de cada escena.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="101011">
+    <Name>Llama moribunda</Name>
+    <Desc>Pierde 50% del HP máximo y se aturde cuando un aliado muere.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="101012">
+    <Name>Cenizas</Name>
+    <Desc>Pierde toda la Luz cuando queda aturdido.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="102011">
+    <Name>Afección</Name>
+    <Desc>Reduce el coste de 'Memorias nostalgicas' en 1 después de participar en un choque.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="201011">
+    <Name>Ira</Name>
+    <Desc>Haz el doble de daño de aturdimiento en ataques exitosos.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="201012">
+    <Name>Miedo</Name>
+    <Desc>Todos los dados pierden 4 de Poder cuando el personaje tiene un efecto de estado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="202011">
+    <Name>Reconocimiento de patrones repetitivos</Name>
+    <Desc>Restaura 1 de Luz después de hacer 10 o más daño en una sola escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="301011">
+    <Name>Expresión</Name>
+    <Desc>Los dados ganan diferentes cantidad de Poder dependiendo de la cara actual.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="302021">
+    <Name>Atraído</Name>
+    <Desc>Prioriza al objetivo con Sangrado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="401011">
+    <Name>Incomprensible</Name>
+    <Desc>Haz el doble de daño de aturdimiento.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="402011">
+    <Name>Token</Name>
+    <Desc>Restaura 20% de HP al comienzo de la escena. No se activa si el HP actual es 1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="402012">
+    <Name>No Me dejes</Name>
+    <Desc>El HP no disminuye de 1; se aturde al recibir daño letal. Después de 2 escenas, recupera HP igual al HP actual de otro aliado. Si todos los aliados tienen 1 HP al comienzo de la escena, muere.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="402013">
+    <Name>Lágrimas de despedida</Name>
+    <Desc>Al comienzo de la escena, si hay un aliado con 1 HP (Incluyendote a ti mismo), todos los personajes pierden 10% de su HP máximo.</Desc>
+  </PassiveDesc>
+
+  <!-- 요정 -->
+  <PassiveDesc ID="103011">
+    <Name>Saciedad momentánea</Name>
+    <Desc>Si un aliado con el estado Carne preparada tiene 1 de HP, consumela al comienzo de la escena y gana 10 de Frágil, Endeble, Desarmar por la duración de esa escena.</Desc>  
+  </PassiveDesc>
+  <!-- 요정 -->
+  <PassiveDesc ID="103012">
+    <Name>Voracidad</Name>
+    <Desc>Si el HP baja de 25% o menos, mata a todos los aliados y gana 30 de Fuerza al final de la escena si no hay más aliados presentes.</Desc>
+  </PassiveDesc>
+  <!-- 요정 -->
+  <PassiveDesc ID="103021">
+    <Name>Hambriento</Name>
+    <Desc>Al final de cada escena, pierde 6 de HP y gana 2 de Fuerza Si el HP es 50% o menos.</Desc>
+  </PassiveDesc>
+  <!-- 요정 -->
+  <PassiveDesc ID="103022">
+    <Name>Cuidado</Name>
+    <Desc>Al comienzo de cada escena, restaura 10 de HP. El HP no baja de 1 hasta que la Reina muere.</Desc>
+  </PassiveDesc>
+
+  <!-- 거미봉오리 -->
+  <PassiveDesc ID="303011">
+    <Name>Rastreo</Name>
+    <Desc>Apunta enemigos que han matado a un aliado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="303012">
+    <Name>Comienza la caza</Name>
+    <Desc>Se Actica y ataca enemigos por 2 escenas después que un aliado muere.</Desc>
+  </PassiveDesc>
+  <!-- 거미봉오리 -->
+  <PassiveDesc ID="303021">
+    <Name>¡Hora de comer!</Name>
+    <Desc>Apunta enemigo con el estado 'Capullo'.</Desc>
+  </PassiveDesc>
+
+  <!-- 포큐버스 -->
+  <PassiveDesc ID="403011">
+    <Name>Espinas que dan felicidad</Name>
+    <Desc>Al golpear, da al objetivo 2 monedas de emoción positiva.</Desc>
+  </PassiveDesc>
+  <!-- 포큐버스 -->
+  <PassiveDesc ID="403012">
+    <Name>Revoloteo</Name>
+    <Desc>No recibe daño de páginas de rango.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="403013">
+    <Name>Placer insoportable</Name>
+    <Desc>Al comienzo de cada escena, los personajes restauran 1 de Luz por cada página de 'Placer' en sus manos. Al golpear, si el objetivo tiene tres páginas de 'Placer', haz 20 de daño y agota esas páginas.</Desc>
+  </PassiveDesc>
+
+	<!-- 노래하는 기계 -->
+	<PassiveDesc ID="203011">
+		<Name>La máquina que canta</Name>
+		<Desc>No puede ser apuntado. No puede actuar. No recibe daño.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="203012">
+		<Name>Actuación</Name>
+		<Desc>En la escena después que '¡ANHELO esa melodía!' ha sido activado, toca música usando el personaje en la maquina. El personaje recibe daño igual a 30% de su HP máximo y es excluido de la batalla por esa escena. Mientras la música está tocando, todos los personajes ganan 5 de Fuerza y todas las resistencias al daño de aturdimiento cambian a 'Fatal'.</Desc>
+	</PassiveDesc>
+  <PassiveDesc ID="203021">
+    <Name>¡ANHELO esa melodía!</Name>
+    <Desc>Comenzando con la tercera escena: cada cuatro escena, gana un dado de velocidad adicional y usa un conjunto diferente de páginas de combate. Si estás aturdido mientras esto está activo, te introduces a la maquina al comienzo de la siguiente escena.</Desc>
+  </PassiveDesc>
+
+  <!-- 증오의 여왕 -->
+  <PassiveDesc ID="501011">
+    <Name>Cambio Adverso</Name>
+    <Desc>Cuando el medidor de histeria está lleno, transformate. El medidor de histeria incrementa al perder choques o ser atacado por enemigos marcados y disminuye al ganar choques o atacar a enemigos marcados. La pantalla se vuelve rosa de izquierda a derecha a medida que se llena el medidor.
+Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="501012">
+    <Name>En el nombre del odio</Name>
+    <Desc>Usa una página que deja un "Marca" en el objetivo cada 2 escenas. Todas las resistencias del personaje Marcado cambian a "Débil" y el personaje será apuntado principalmente por la Anormalidad.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="501013">
+    <Name>Esclavo arcano</Name>
+    <Desc>Usa una página de Ataque en masa que apunta a todos los bibliotecarios cada 4 escenas. Si la Anormalidad usa la página mientras está transformada, se aturde en la siguiente escena.</Desc>
+  </PassiveDesc>
+
+  <!-- 절망의 기사 본체-->
+  <PassiveDesc ID="502011">
+    <Name>Protección leal</Name>
+    <Desc>No puede ser apuntado. No puede actuar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="502012">
+    <Name>Pena</Name>
+    <Desc>Da Lágrimas a una espada aleatoria cada 3 escenas. Si el personaje es aturdido, se activa la escena siguiente.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="502013">
+    <Name>Desesperación</Name>
+    <Desc>Cuando una espada con lágrimas recibe daño letal, cae en Desesperación la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="502014">
+    <Name>Bendición de desesperación</Name>
+    <Desc>Cuando la Anormalidad cae en Desesperación, todas las espadas recuperan completamente el HP y resistencia al aturdimiento, y usan una página de combate especial.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="502015">
+    <Name>Un corazón roto</Name>
+    <Desc>Si todas las espadas atraviesan la Anormalidad en estado de Desesperación, te aturdes y pueden apuntarte la siguiente escena.</Desc>
+  </PassiveDesc>
+  <!-- 절망의 기사 칼 -->
+  <PassiveDesc ID="502021">
+    <Name>Lágrimas</Name>
+    <Desc>Gana un dado de velocidad, usa páginas especiales y cambia resistencias mientras estás bajo el efecto de Lágrimas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="502022">
+    <Name>Respiro</Name>
+    <Desc>Entra en un estado de suspensión al recibir daño letal. Revive después de 2 escenas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="502023">
+    <Name>Espada que atraviesa la desesperación</Name>
+    <Desc>Si esto falla en hacer daño a su objetivo mientras está en un estado de Desesperación, la espada atravesará a El Caballero de la desesperación, haciendole daño a ella.</Desc>
+  </PassiveDesc>
+
+  <!-- 여왕벌 -->
+  <PassiveDesc ID="104011">
+    <Name>Esporas</Name>
+    <Desc>Si el personaje fue atacado, inflige 1 de Esporas a todos los bibliotecarios al comienzo de la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="104012">
+    <Name>Natalismo</Name>
+    <Desc>Si hay 2 o menos abejas trabajadoras con vida al comienzo de la escena, inflige 2 de Esporas a todos los bibliotecarios.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="104013">
+    <Name>Metamorfosis</Name>
+    <Desc>Si un bibliotecario muere mientras está influenciado por Esporas, una abeja trabajadora aparecerá la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="104014">
+    <Name>Feromonas</Name>
+    <Desc>Usa páginas que incrementarán la Agresión y Lealtad de las abejas trabajadoras cada 3 escenas.</Desc>
+  </PassiveDesc>
+  <!-- 일벌-->
+  <PassiveDesc ID="104021">
+    <Name>Lealtad</Name>
+    <Desc>Apunta al último enemigo que atacó a la abeja Reina en la anterior escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="104022">
+    <Name>Abrazando la muerte</Name>
+    <Desc>Si el HP de la abeja Reina baja a 20% o menos, atacala.</Desc>
+  </PassiveDesc>
+
+  <!-- 붉은 두건의 용병 : 용병-->
+  <PassiveDesc ID="601011">
+    <Name>Final de la pesadilla</Name>
+    <Desc>La batalla se gana si la mercenaria acaba con el lobo; la batalla se pierde si la mercenaria muere antes que el lobo lo haga.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="601012">
+    <Name>Sin dudas</Name>
+    <Desc>Usa 'Ataque Sin dudas' cada 2-3 escenas, apuntando a todos los personajes.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="601013">
+    <Name>Rabia</Name>
+    <Desc>Cuando el medidor de rabia está lleno, entra en un estado de rabia. El medidor aumenta al recibir ataques del lobo y se reduce al hacerle daño al lobo. La pantalla se vuelve más roja a medida que se llena el medidor de rabia. Rabia: Dura 2 escenas. Gana +2 de Fuerza cada escena y usa páginas de Ataque en masa.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="601014">
+    <Name>Rabia desatada</Name>
+    <Desc>Si un bibliotecario acierta el golpe final al lobo, la Anormalidad entra en un estado de 'Rabia desatada' y gana adicionalmente HP máximo y resistencia al aturdimiento. Después de eso, recupera 50% del HP máximo y recupera completamente la resistencia al aturdimiento. Rabia desatada: Persiste permanentemente. Gana +5 de Fuerza y Prisa cada escena y usa páginas de Ataque en masa.</Desc>
+  </PassiveDesc>
+  <!-- 붉은 두건의 용병 : 늑대 -->
+  <PassiveDesc ID="601021">
+    <Name>Rugido de lobo</Name>
+    <Desc>Usa 'Aullido' cada 3~4 escenas, apuntando a todos los personajes.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="601022">
+    <Name>Aullidos en las pesadillas</Name>
+    <Desc>Cuando HP baja a 50% o menos, gana un dado de velocidad y usa Aullido cada escena.</Desc>
+  </PassiveDesc>
+
+  <!-- 허수아비 -->
+  <PassiveDesc ID="701011">
+    <Name>Recolecar información</Name>
+    <Desc>Cada 3 escenas, gana un dado de velocidad adicional y usa la página 'Cosechando sabiduría', que absorbe la página de combate del objetivo y recupera el HP del usuario al golpear. Si el objetivo no tiene páginas de combate para absorber, haz un daño adicional de (5~20) en su lugar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="701012">
+    <Name>Tranquilidad del sabio</Name>
+    <Desc>Si 'Cosechando sabiduría' se enfrenta contra 'Sabiduría', la Anormalidad recibe 20 de daño de aturdimiento al final de la batalla y gana 3 de Endeble y Atadura la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="701013">
+    <Name>Esfuerzo cerebral</Name>
+    <Desc>Después de absorber una página que no es 'Sabiduría' con 'Cosechando sabiduría', gana Fuerza y Dureza igual al número de páginas absorbidas y usa una de las páginas absorbidas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="701014">
+    <Name>Buscando cerebros</Name>
+    <Desc>Al comienzo de la escena, todos los bibliotecarios que no posean páginas se aturden.</Desc>
+  </PassiveDesc>
+
+  <!-- 나무꾼 -->
+  <PassiveDesc ID="702011">
+    <Name>Bosque denso</Name>
+    <Desc>Si un personaje tiene Corazón calido al comienzo de la escena, todos los bibliotecarios restauran la Luz al máximo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="702012">
+    <Name>No es suficiente</Name>
+    <Desc>Cada escena, apunta al personaje con más Luz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="702013">
+    <Name>Quiero un corazón</Name>
+    <Desc>Cuando estás atacando, todos los dados ganan Poder igual a la cantidad de Luz que el objetivo tenga.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="702014">
+    <Name>Corazón latiente</Name>
+    <Desc>Al derrotar a otro personaje, recupera 20% del HP máximo y gana 3 acumulaciones de Corazón calido.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="702015">
+    <Name>Pecho vacío</Name>
+    <Desc>Si un personaje no tiene Corazón calido al comienzo de la escena, se aturde.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="702021">
+    <Name>Corazón indeciso</Name>
+    <Desc>Al comienzo de la escena, si la cantidad de Corazones calidos es 0, el leñador sacrifica este personaje.</Desc>
+  </PassiveDesc>
+
+  <!-- 죽나장 -->
+  <PassiveDesc ID="204011">
+    <Name>Mano de salvación</Name>
+    <Desc>Apunta al enemigo con menos HP. Prioriza objetivos con dados Sellados.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="204012">
+    <Name>Tranquilidad</Name>
+    <Desc>Si todos los dados de velocidad del personaje están sellado por esta página de efecto de Anormalidad. Se aturde.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="204013">
+    <Name>Lamentación</Name>
+    <Desc>Si hay un enemigo aturdido al comienzo de la escena, usa una página de Ataque en masa.</Desc>
+  </PassiveDesc>
+  <!-- 죽나장 나비-->
+  <PassiveDesc ID="204021">
+    <Name>Revoloteo inútil</Name>
+    <Desc>Apunta al enemigo con menos HP; suprimido cuando el Funeral de las mariposas muertas es suprimido.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="602011">
+    <Name>El papel del lobo</Name>
+    <Desc>Cada 2 escenas, usa una página de combate que traga al personaje al golpear. El bibliotecario consumido es excluido de la batalla por la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="602012">
+    <Name>Hora de la Justicia Poética</Name>
+    <Desc>Después de tragar a un bibliotecario, todas las resistencias al daño de aturdimiento cambian a 'Fatal' por la siguiente escena. Si el lobo es aturdido en esa escena, expulsa al bibliotecario cautivo. El bibliotecario pierde 25% de su HP máximo al ser expulsado y se aturde.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="602013">
+    <Name>Destinado a ser un lobo Malo</Name>
+    <Desc>Si el lobo no es aturdido después de la escena que traga un bibliotecario, entonces el bibliotecario muere y el lobo se transforma a un estado Poderoso. El lobo también se transforma si su HP está en 50% o menos en el comienzo de la escena. El HP no baja de 30% antes de transformarse.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="602021">
+    <Name>Transformación</Name>
+    <Desc>Al transformarte, la resistencia al aturdimiento máxima incrementa y resistencia al aturdimiento se recupera completamente.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="602022">
+    <Name>En la oscuridad</Name>
+    <Desc>Después que la Anormalidad pierda 25% o más de el HP que tenía antes de Transformarse, gana el estado 'Acechador en la Sombra' por las siguientes 2 escenas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="602023">
+    <Name>Acechador en la sombra</Name>
+    <Desc>Mientras la Anormalidad tiene el estado 'Acechador en la Sombra', otros bibliotecarios que no sean el apuntado por la Anormalidad no pueden apuntarlo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="602024">
+    <Name>Cansancio</Name>
+    <Desc>Después que 'Acechador en la Sombra' termine, todas las resistencias al daño de aturdimiento cambian a 'Fatal' por una escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="503010">
+    <Name>Ámbar de oro</Name>
+    <Desc>No Actua. Si el HP llega a 0 antes de el final de la escena, despierta como una Chica Mágica. De no se asi, despierta como El Rey de la Codicia.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="503011">
+    <Name>Deseo palpitante</Name>
+    <Desc>Si el HP baja a 50% o menos, transformate en El Rey de la Codicia la siguiente escena. El HP no disminuye de 50% antes de transformarse.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="503012">
+    <Name>El camino del oro</Name>
+    <Desc>Cada 3 escenas, crea Felicidad brillante y no pueden apuntarte, pero no actuas. La siguiente escena, usa una página de combate especial contra todos los bibliotecarios.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="503013">
+    <Name>Narcisismo</Name>
+    <Desc>Si hay 3 o menos bibliotecarios consiguen negar el ataque de la página de combate especial, gana 3 de Fuerza y Prisa la siguiente escena. (Si dos o menos bibliotecarios están vivos, uno o ningún bibliotecario que niegue la página activará este efecto)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="503014">
+    <Name>Felicidad momentánea</Name>
+    <Desc>Si todos los bibliotecarios consiguen negar el ataque de la página de combate especial, la Anormalidad se aturde la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="503021">
+    <Name>El Rey de la codicia</Name>
+    <Desc>Usa páginas de combate diferentes. En un golpe exitoso, haz daño adicional igual a las acumulaciones de Sangrado en el objetivo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="503022">
+    <Name>El camino del Rey</Name>
+    <Desc>Cada 3 escenas, crea Felicidad brillante y no pueden apuntarte, pero no actuas. La siguiente escena, usa dos páginas de combate especiales contra un solo objetivo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="503023">
+    <Name>Voracidad</Name>
+    <Desc>Si un bibliotecario falla en negar cualquiera de los ataques de las páginas de combate especiales, haz 15 de daño a todos los bibliotecarios y recupera 25 de HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="503024">
+    <Name>Un momento de felicidad</Name>
+    <Desc>Si un bibliotecario niega con exito todos los ataques de la página de combate especial, la Anormalidad se aturde la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="503031">
+    <Name>Felicidad brillante</Name>
+    <Desc>Existe por una escena. Da una página de combate especial al bibliotecario que lo derrota.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="304011">
+    <Name>¡Te daré un regalo!</Name>
+    <Desc>Prioriza al objetivo con la menor cantidad de 'Regalos' en mano.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="304012">
+    <Name>¿Jugarás conmigo?</Name>
+    <Desc>Los dados de bloqueo pierden Poder por 4x el número de 'Regalos' en la mano del Oponente.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="304013">
+    <Name>Estar solo es triste</Name>
+    <Desc>Si todos los aliados han muerto, todas las resistencias cambian a 'Fatal'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="304021">
+    <Name>Re..ga..lo</Name>
+    <Desc>Prioriza al objetivo con la mayor cantidad de 'Regalos' en mano.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="304022">
+    <Name>¡BOOM!</Name>
+    <Desc>En la tercera escena, usa una página de combate Poderosa que hará una cantidad de daño significante y da tres copias de 'Regalo' a su objetivo antes de que causa que el usuario se autodestruya. El personaje muere luego de usar está página.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="304023">
+    <Name>Un regalo sorpresa</Name>
+    <Desc>Si este personaje muere, un 'Pequeño amiguito' aparecerá la siguiente escena. Si el personaje muere antes de que se pueda autodestruir usando una página de combate especial, el amigo aparecerá con 80% del HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="304031">
+    <Name>Re..ga..lo</Name>
+    <Desc>Prioriza al objetivo con la mayor cantidad de 'Regalos' en mano.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="304032">
+    <Name>¡Dame ese regalo!</Name>
+    <Desc>Los dados ofensivos ganan Poder igual al número de 'Regalos' en la mano del objetivo.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="404015">
+    <Name>Muñeca hecha en la tierra</Name>
+    <Desc>No recibe daño de Quemadura o Sangrado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="404012">
+    <Name>Fragancia floreciente</Name>
+    <Desc>Los ataques de este personaje solo hacen daño de aturdimiento a los bibliotecarios. Si un bibliotecario está aturdido, muere de forma instantánea y 'El que emerge de la tierra' aparecerá la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="404011">
+    <Name>Expiación</Name>
+    <Desc>La Anormalidad solo recibe daño del bibliotecario con el estado 'Corona de Laurel'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="404013">
+    <Name>Flor inmortal</Name>
+    <Desc>Comenzando en la escena 2, un Pétalo florecerá atras de la Anormalidad al comienzo de cada escena. Si se acumulan 3 Pétalos en el comienzo de la escena, remuevelos todos y usa una página de Ataque en masa.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="404014">
+    <Name>Lágrimas de pétalos</Name>
+    <Desc>Cuando queda aturdido, pierde 40 de HP y remueve todos los Pétalos al comienzo de la siguiente escena. En adición, todos los bibliotecarios recuperan 50% de su resistencia al aturdimiento máxima.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="404021">
+    <Name>A la tierra de donde vengo…</Name>
+    <Desc>Este personaje muere cuando queda aturdido.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="404023">
+    <Name>Muñeca hecha en la tierra</Name>
+    <Desc>No recibe daño de Quemadura o Sangrado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="404022">
+    <Name>Fragancia floreciente</Name>
+    <Desc>Los ataques de este personaje solo hacen daño de aturdimiento a los bibliotecarios. Si un bibliotecario está aturdido, muere de forma instantánea y 'El que emerge de la tierra' aparecerá la siguiente escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="801011">
+    <Name>Ojos vigilantes</Name>
+    <Desc>Los objetivos de Pajaro grande no pueden ser redirigidos por los bibliotecarios.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="801012">
+    <Name>Una lámpara que arde por siempre</Name>
+    <Desc>Usa 'Deslumbrar' en la primera escena y cada 3 escenas después, que inflige 'Encantado' en un bibliotecario. Cuando un bibliotecario está Encantado, una copia de 'Jaula' es añadida a la mano de de todos los bibliotecarios que no están Encantados.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="801021">
+    <Name>Ojos Cansados</Name>
+    <Desc>Da una página de combate especial que puede aturdir a Pajaro grande a los bibliotecarios que derroten este personaje.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="801022">
+    <Name>Seguidor</Name>
+    <Desc>No apunta a bibliotecarios que esten Encantados.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="901011">
+    <Name>Enfoque único</Name>
+    <Desc>Se activa si no hay Espinas despiertas. Usa una página de Ataque en masa en la misma escena que esto se active.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="901012">
+    <Name>Alas para un dios antiguo</Name>
+    <Desc>Mientras este personaje está activo, todos los bibliotecarios reciben 10 de Endeble al comienzo de la escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="901013">
+    <Name>En tu mirada</Name>
+    <Desc>Recibe el doble de daño de aturdimiento de reflejos.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="901014">
+    <Name>El conocimiento</Name>
+    <Desc>Si este personaje se mantiene activo por 3 escenas, una Espina del Paraíso aparecerá la siguiente escena y cada 3 escenas después de eso.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="901021">
+    <Name>No desvies la mirada</Name>
+    <Desc>Si un Biblitecario comienza un combate contra otro personaje, todos los otros bibliotecarios reciben daño igual a 40% de su HP máximo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="901022">
+    <Name>Conexión de hilos invisibles</Name>
+    <Desc>Después que comiences un combate con un bibliotecario, inflige Endeble la siguiente escena; la cantidad es igual al número de páginas de combate que el bibliotecario ha usado contra este personaje durante la batalla.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="901023">
+    <Name>En tu mirada</Name>
+    <Desc>Recibe el doble de daño de aturdimiento de reflejos.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1004011">
+    <Name>Viento cortante</Name>
+    <Desc>Al comienzo de la escena, todos los bibliotecarios pierden HP igual a 5% de su HP máximo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1004012">
+    <Name>Frialdad reservada</Name>
+    <Desc>No recibe daño de los ataques hasta que todas las Prisiones de hielo son destruidas. No recibe daño de Quemadura o Sangrado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1004013">
+    <Name>Columna de escarcha</Name>
+    <Desc>Gana dados de velocidad y Capacidad de Luz basado en el número de Prisiones de hielo destruidas. Si dos o más Prisiones de hielo han sido destruidas, una página de Ataque en masa melee es añadida al mazo de este personaje.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1004014">
+    <Name>Aquellos que conocen la crueldad del invierno y el aroma de las rosas</Name>
+    <Desc>Después que todas las Prisiones de hielo han sido destruidas, todos los bibliotecarios recuperan 50% de su HP máximo. La Reina de la nieve usará una página de Ataque en masa la misma escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1004021">
+    <Name>Kai y Gerda</Name>
+    <Desc>Si el HP de este personaje baja a 0, el bibliotecario encarcelado es liberado la siguiente escena.</Desc>
+  </PassiveDesc>
+  
+    <PassiveDesc ID="603011">
+    <Name>En busca de cuerpos</Name>
+    <Desc>Prioriza usar 'Devorar' en aliados. Recupera 30% del HP actual al derrotar a un aliado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="603012">
+    <Name>Cadáveres derretidos</Name>
+    <Desc>Cada vez que la Anormalidad pierde más que 25% del HP máximo (62/87/112), 'Cuerpos derretidos' aparecerán al comienzo de la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="603111">
+    <Name>Dividir</Name>
+    <Desc>Se divide cuando el HP baja a 0. Si todos los cuerpos son derrotados en 3 escenas, la batalla se gana. De no se asi, la Anormalidad revive como etapa 1. (Al revivir, recuperará HP por la Suma del HP restante que todos los Cuerpos derretidos tenían.)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="603112">
+    <Name>Masa creciente</Name>
+    <Desc>Transformate a la etapa 2 y recupera todo el HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="603211">
+    <Name>Divisible pero sumable</Name>
+    <Desc>Transformate de vuelta a la etapa 1 cuando el HP baja a 0. Transformate a la etapa 3 y recupera todo el HP.</Desc>
+  </PassiveDesc>  
+  <PassiveDesc ID="603212">
+    <Name>Risa aterradora</Name>
+    <Desc>Al comienzo de la escena, gana 1 de Fuerza. Usa 'Chirrido horrible' cada 2 escenas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="603311">
+    <Name>Divisón</Name>
+    <Desc>Transformate de vuelta a la etapa 2 cuando el HP baja a 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="603312">
+    <Name>Vómito podrido</Name>
+    <Desc>Al comienzo de la escena, gana 2 de Fuerza. Usa 'Vómito' cada 2 escenas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="603021">
+    <Name>Putrefacción</Name>
+    <Desc>Al recibir un ataque, haz 8 de daño al bibliotecario que te atacó e inflige 1 de Frágil al oponente.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="703021">
+    <Name>Vamos juntos…</Name>
+    <Desc>En la primera escena de la batalla, genera la 'Casa' y usa una página de Ataque en masa que aplica el estado 'Camino de ladrillos amarillos' a sus objetivos.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="703022">
+    <Name>¡Amigos! ¡Vamos a casa~!</Name>
+    <Desc>En la segunda escena, usa la página de combate '¡Amigos! ¡Vamos a Casa~!' apuntando la 'Casa' y a los bibliotecarios con 'Camino de ladrillos amarillos'. 
+Si la página de combate golpea la 'Casa', la batalla se pierde.
+El ataque en la 'Casa' es cancelado si todos los bibliotecarios con 'Camino de ladrillos amarillos' ganan el choque contra 'Amigos! Vamos a Casa~!'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="703023">
+    <Name>¡Tú… bruja malvada…!</Name>
+    <Desc>Después que el ataque de Anormalidad hacia la 'Casa' ha sido cancelado dos veces, usa un Ataque en masa ("¡Tú… Bruja Malvada!") La siguiente escena. Si cualquier bibliotecario es golpeado por el ataque, la 'Casa' aparecerá la siguiente escena y repitirá el comportamiento anterior.
+Si ningún bibliotecario es dañado por el ataque, la Anormalidad se aturde la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="703031">
+    <Name>Valiente</Name>
+    <Desc>Es inmune a todos los daños hasta que 'El Camino a Casa' muere.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="703032">
+    <Name>Cobarde</Name>
+    <Desc>Una vez 'El Camino a Casa' muere, todas las resistencias cambian a 'Fatal' y el HP máximo es reducido. El número de dados de velocidad y páginas de combate también cambian.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="504011">
+    <Name>Jugada de hoy</Name>
+    <Desc>Solo la Sirviente de la ira puede derrotar al Ermitaño. la batalla de Anormalidad termina cuando el Ermitaño es derrotado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="504012">
+    <Name>Rabia ciega</Name>
+    <Desc>Prioriza atacar al bastón del Ermitaño. Si no hay ningún bastón del Ermitaño presente, ataca al Ermitaño.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="504013">
+    <Name>¡Pecadores de otro mundo!</Name>
+    <Desc>Cuando uno o más bastones del Ermitaño están presentes, después de recibir 30 de daño en total, usa la página de Ataque en masa, '¡¡ENCARNACIONES DEL MAL!!' en la siguiente escena. El Contador de daño total es reseteado después de eso.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="504014">
+    <Name>Ira hirviendo</Name>
+    <Desc>Cuando la Anormalidad comienza a atacar al Ermitaño, usa la página de Ataque en masa, '¡¡ENCARNACIONES DEL MAL!!'. La página es usada cada 2 escenas después.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="504021">
+    <Name>El explotado</Name>
+    <Desc>El HP no baja de 30 por ataques de un bibliotecario. Si el HP del personaje está en 30 o menos al final de una escena, recupera 50% del HP máximo la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="504022">
+    <Name>Querido compañero</Name>
+    <Desc>Gana +5 de Poder cuando tienes un choque contra la Sirviente de la ira. No recibe daño de Quemadura, sangrado, o Erosión.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="504023">
+    <Name>Visitantes de otro mundo</Name>
+    <Desc>Mientras uno o más bastones del Ermitaño están presentes, usa una página de Ataque en masa cada 2 escenas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="504024">
+    <Name>Cuandos dos reinos se encuentran</Name>
+    <Desc>Cambia de comportamiento cuando todos los bastones del Ermitaño han sido derrotado. En la primera escena de el nuevo ciclo, ataca a la Sirviente de la ira.
+Después de atacar a la Sirviente de la ira de nuevo en la segunda escena, usa una página de Ataque en masa que Invoca más bastones del Ermitaño.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="504031">
+    <Name>Bastón del Ermitaño</Name>
+    <Desc>Ataca a la Sirviente de la ira.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="902011">
+    <Name>Tiempo fluyendo</Name>
+    <Desc>No puede ser apuntado. cada escena, el jugador tiene 30 segundos para seleccionar las páginas de combate antes que la Fase de combate comience. Al comienzo de la escena, da a otro aliado lo siguiente: 'Gana +3 de Poder en un choque' o 'Gana +3 de Poder en un ataque de un Solo-lado'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="902012">
+    <Name>Tiempo acumulado</Name>
+    <Desc>Al comienzo de la escena, aparece un 'Remanente de tiempo'. Si 4 Remanentes de tiempo están presentes, el con menos HP es remplazado y todos los bibliotecarios reciben daño igual a su HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="902013">
+    <Name>Tiempo imparable</Name>
+    <Desc>Si 12 Remanentes de tiempo son derrotados en 12 escenas, se aturde a siguiente escena. Si menos de 12 Remanentes de tiempo fueron derrotador por el final de la escena 12, usa una página de Ataque en masa en la escena 13.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="902014">
+    <Name>El precio del silencio</Name>
+    <Desc>Al comienzo de la escena, añade una copia de 'Silencio' a la mano de todos los bibliotecarios.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="902021">
+    <Name>Tu apuesta</Name>
+    <Desc>Copia el número del dado de velocidad, velocidad y resistencias del bibliotecario. Las páginas de combate jugadas por dicho bibliotecario esta escena se jugarán por este personaje la siguiente escena.</Desc>
+  </PassiveDesc>
+
+
+  <PassiveDesc ID="802011">
+    <Name>¡Fechorías no permitidas!</Name>
+    <Desc>Gana +50 de Poder cuando tienes un choque contra dados ofensivos.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="802012">
+    <Name>¡Castigo!</Name>
+    <Desc>Si la Anormalidad recibió daño esta escena, usa la página de combate '¡Castigo!' contra el personaje que lo atacó al último la siguiente escena. (No puede ser redirigido)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="802013">
+    <Name>Cadena de jaula</Name>
+    <Desc>Cuando '¡Castigo!' se enfrenta contra 'Cerradura del Guardián del Bosque', una cadena de la Jaula se rompe.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="802021">
+    <Name>Guardían del bosque</Name>
+    <Desc>Prioriza apuntar a personajes aturdidos. Los dados ofensivos de este personaje ganan +2 de Poder contra objetivos con menor velocidad.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="802022">
+    <Name>Candado robado</Name>
+    <Desc>Da una página de combate especial, 'Cerradura del Guardián del Bosque', al bibliotecario que derrota a este personaje.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="803011">
+    <Name>Balanza injusta</Name>
+    <Desc>Comenzando con la escena 1, todos los personajes excluyendo a Ave del juicio ganan 1 de Pecado al comienzo de la escena. El Pecado puede ser transferido a un aliado al atacarlos y dañarlos. (Una vez por página)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="803012">
+    <Name>El peso del pecado</Name>
+    <Desc>Todos los dados ganan Poder igual a la cantidad de Pecado que el objetivo tenga.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="803013">
+    <Name>Juicio</Name>
+    <Desc>Si un personaje tiene 5 o más de Pecado al comienzo de la escena, usa una página de combate especial 'Juicio' en ellos.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="803014">
+    <Name>Juicio incesante</Name>
+    <Desc>Si hay 3 o más personajes que tengan 3+ de Pecado al comienzo de la escena, usa una página de Ataque en masa: ‘Juicio incesante’.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="803015">
+    <Name>Fechorías desbordantes</Name>
+    <Desc>Después que usa 'Juicio' o 'Juicio incesante', pierde 25% de la resistencia al aturdimiento máxima.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="803021">
+    <Name>¡Estoy asustado!</Name>
+    <Desc>Si el ataque de este personaje golpea, transfiere 1 de Pecado a el objetivo. (Una vez por página)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="803022">
+    <Name>Chillido oenetrante</Name>
+    <Desc>Después de recibir un ataque, usa la página de combate 'Chillido penetrante' la siguiente escena.</Desc>
+  </PassiveDesc>
+	
+	
+  <PassiveDesc ID="604011">
+    <Name>Miedo al agua</Name>
+    <Desc>Si un personaje tiene menos que 5 de Sangre, gana Fuerza proporcional a la cantidad de Sangre faltante. (Hasta 3)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="604012">
+    <Name>Sed</Name>
+    <Desc>Si un personaje tiene 2 o menos Sangre, usa una página de combate especial. (Tiene 2 escenas de enfriamiento.)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="604013">
+    <Name>Banquete de sangre</Name>
+    <Desc>Si un personaje tiene 5 o más de Sangre, usa una página de Ataque en masa: 'Banquete de sangre'. (Tiene 3 escenas de enfriamiento.)
+Si el personaje no usó la página por las primeras 4 escenas de la batalla, Entonces se usará en la escena 5.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="604014">
+    <Name>Cambio de forma</Name>
+    <Desc>Si el HP baja a 50% o menos, cambia de forma la siguiente escena. El HP no disminuye de 50% antes que esto.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="604031">
+    <Name>Miedo al agua</Name>
+    <Desc>Si un personaje tiene menos que 5 de Sangre, gana Fuerza proporcional a la cantidad de Sangre faltante. (Hasta 3)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="604032">
+    <Name>Sangre fluyendo</Name>
+    <Desc>Al comienzo de la escena, pierde 1 de Sangre.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="604033">
+    <Name>Sed insoportable</Name>
+    <Desc>Si un personaje tiene 2 o menos de Sangre, usa una página de combate especial. (Tiene 2 escenas de enfriamiento.)</Desc>
+  </PassiveDesc>	
+  <PassiveDesc ID="604034">
+    <Name>Lujuria por la sangre</Name>
+    <Desc>Si un personaje tiene 0 de Sangre, usa una página de Ataque en masa: 'Lujuria por la sangre'. (Tiene 3 escenas de enfriamiento.)
+Si el personaje no utilizó la página en 3 escenas después Cambio de Forma, Entonces se usará en la escena 4.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="604021">
+    <Name>Miedo al agua</Name>
+    <Desc>Si un personaje tiene 1 o menos de Sangre, gana 2 de Fuerza.</Desc>
+  </PassiveDesc>
+  
+  <!-- 오즈마-->
+ <PassiveDesc ID="704011">
+   <Name>Revivir</Name>
+   <Desc>En la primera escena, usa páginas de combate que despiertan a todos los Jacks e inflige Olvido en un bibliotecario. Después de eso, sigue un patrón único de comportamiento que rota cada 4 escenas.</Desc>
+ </PassiveDesc>
+ <PassiveDesc ID="704012">
+  <Name>La Agonía del Privado</Name>
+  <Desc>Después que un bibliotecario con Olvido se recupera de ese estado, todas las resistencias de este personaje cambian a 'Fatal' al comienzo de la siguiente escena y usa una página de Ataque en masa. Repite el patrón después de eso.</Desc>
+ </PassiveDesc>
+  <PassiveDesc ID="704013">
+  <Name>La Pena del Privado</Name>
+  <Desc>Después que 2 ciclos han pasado, todas las resistencias al daño de aturdimiento de este personaje cambian a 'Fatal' al comienzo de la siguiente escena y usa una página de combate en Masa extremadamente Poderosa.</Desc>
+</PassiveDesc>
+  
+  <!--잭-->
+    <PassiveDesc ID="704021">
+    <Name>Poder robado</Name>
+    <Desc>Usa la página de combate de el bibliotecario con Olvido.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="704022">
+    <Name>¿Quién es el verdadero?</Name>
+    <Desc>Solo uno de los Jacks que despertaron es real; el resto son falsos.
+Cuando un bibliotecario con Olvido golpea al Jack real, este regresa una página de combate que fue robada de ellos.
+La pantalla parpadea cuando se golpea al Jack real.</Desc>
+  </PassiveDesc>
+   <PassiveDesc ID="704023">
+  <Name>Robar o ser robado</Name>
+  <Desc>Después que el bibliotecario con Olvido golpea al Jack real 9 veces, todos los Jack mueren.
+Si la condición no es completada en 3 escenas desde que Olvido ha sido aplicado, el bibliotecario con ese estado se convierte en una Calabaza la siguiente escena.
+Después de eso, el Jack real se transforma en 'Jack revivido' y usa de forma permanente la página clave y páginas de combate de el bibliotecario que tenía Olvido.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="704024">
+    <Name>Fragmento del sur</Name>
+    <Desc>Gana 2 de Fuerza cada escena</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="704025">
+    <Name>Fragmento del oeste</Name>
+    <Desc>Gana 2 de Dureza cada escena</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="704026">
+    <Name>Fragmento del norte</Name>
+    <Desc>Gana 1 de Prisa cada escena</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="704027">
+    <Name>Fragmento del este</Name>
+    <Desc>Gana un bonus que incrementa el daño de aturdimiento en 3 cada escena</Desc>
+  </PassiveDesc>
+  
+  <!--되살아난 잭-->
+  <PassiveDesc ID="704031">
+    <Name>¡Todo es mío!</Name>
+    <Desc>Usa la página clave y páginas de combate del bibliotecario que se convirtió en una Calabaza.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="704032">
+    <Name>Jack perfecto</Name>
+    <Desc>Gana 2 de Fuerza y Dureza, 1 de Prisa y un bonus que incrementa el daño de aturdimiento en 3 cada escena</Desc>
+  </PassiveDesc>
+  <!--기억을 잃은 호박-->
+  <PassiveDesc ID="704041">
+    <Name>Memorias perdidas</Name>
+    <Desc>Todas las páginas de combate cambian por unas únicas. Todas las estadisticas cambian. Otras habilidades pasivas de este personaje no tendrán efecto.</Desc>
+  </PassiveDesc>
+
+  <!--푸른별의 제단-->
+  <PassiveDesc ID="903011">
+    <Name>¿Sagrado?</Name>
+    <Desc>No puede ser apuntado. Immune a efectos de estado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="903012">
+    <Name>Sonido de una estrella</Name>
+    <Desc>Comenzando con la tercera escena, el santuario de la Estrella azul usa una página de Ataque en masa cada 3 escenas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="903013">
+    <Name>En el abrazo de una estrella</Name>
+    <Desc>Si un personaje es aturdido, matalo y pierde 10% del HP máximo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="903014">
+    <Name>El destello azul de esperanza</Name>
+    <Desc>Si un &lt;Adorador&gt; muere por el efecto de 'En el abrazo de una estrella', todos los bibliotecarios recuperan resistencia al aturdimiento y todos los Adoradores reciben daño de aturdimiento.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="903015">
+    <Name>El destello azul de desesperación</Name>
+    <Desc>Si un &lt;Bibliotecario&gt; muere por el efecto de 'En el abrazo de una estrella', todos los Adoradores recuperan resistencia al aturdimiento y todos los bibliotecarios reciben daño de aturdimiento.</Desc>
+  </PassiveDesc>
+
+  <!--푸른별의 신도-->
+  <PassiveDesc ID="903021">
+    <Name>¡¡Puedo oir el sonido de una strella!!</Name>
+    <Desc>Usa una página de combate especial en la escena cuando el santuario de la Estrella azul usa una página de Ataque en masa. Si la resistencia al aturdimiento del personaje es 40% o menos, en su lugar usa una página que causa al personaje autodestruirse.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="903022">
+    <Name>Martires</Name>
+    <Desc>Si hay menos que 4 Adoradores presentes al comienzo de la escena, un Adorador aparecerá.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

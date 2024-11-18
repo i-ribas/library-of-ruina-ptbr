@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <!-- 아르갈리아 뒤틀림-->
+  <PassiveDesc ID="1410011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1410012">
+    <Name>Il Direttore dell’Ensemble Riverbero</Name>
+    <Desc>Mientras Pluto o Elena están vivos, el HP no baja de 100. Gana un dado de velocidad por cada otro miembro de la Asamblea que ha muerto esta recepción.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1410013">
+    <Name>Emozioni Intensificantesi</Name>
+    <Desc>Cada 4 escenas, dale a todos los miembros de la Asamble de Reverberación 'Por la duración del acto, gana 1 Fuerza y Dureza cada escena'.
+Al final de la escena, el nivel de emoción de todos los personajes sube en 2.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1410014">
+    <Name>El Gran Final</Name>
+    <Desc>Si no hay otros miembros de la Asamblea de Reverberaciónp presentes, recupera toda la resistencia al aturdimiento, y usa un set diferente de páginas de combate.</Desc>
+  </PassiveDesc>
+
+  <!-- 엘레나 뒤틀림-->
+  <PassiveDesc ID="1408011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1408012">
+    <Name>Velocidad</Name>
+    <Desc>Dado de velocidad +1. Gana un dado de velocidad en la cuarta escena. Gana otro adicional si hay un enemigo con nivel de emoción 4 o mayor.
+No gana dados de velocidad adicional por el nivel de emoción.</Desc>
+  </PassiveDesc>
+  
+  <!-- 플루토 뒤틀림 -->
+  <PassiveDesc ID="1409011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1409012">
+    <Name>Irrazonable</Name>
+    <Desc>Cada escena, Usa una página de combate 'Contrato Injusto'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1409013">
+    <Name>Gran sombra</Name>
+    <Desc>Invoca una sombra la segunda escena. La sombra copia el mazo y la mano del jefe bibliotecario (Excluyendo páginas [Al jugar]). Si el jefe bibliotecario no está presente, otro Bibliotecario aleatorio será copiado en su lugar.</Desc>
+  </PassiveDesc>
+  
+  
+  <PassiveDesc ID="1409021">
+    <Name>Sin luz</Name>
+    <Desc>Si Pluto no está presente al final de la escena, muere.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1409022">
+    <Name>Sombra poderosa</Name>
+    <Desc>Poder de los dados +1. Usa páginas de combate de la sombra cada escena.</Desc>
+  </PassiveDesc>
+ 
+</PassiveDescRoot>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="Oswald_Daze">
+      <Name>Estupefacto</Name>
+      <Desc>Dura 2 Escenas. Incontrolable. Apunta aliados. Al perder un Choque, recibe Daño al Aturdimiento adicional igual al 5% de la Resistencia al Aturdimiento Máxima. Si el Objetivo está Aturdido, este estado es removido al final de la Escena, y el personaje se recupera del Aturdimiento la siguiente Escena.</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>

@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>r_corp_ep2</GroupName>
+  <Character ID="R_Corp_Rudolph_2_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ciervos, vamos a barrerlos rápidamente.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Ya hemos pasado por esto una vez, verdad?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esa fue una estrategia predecible. Una victoria rápida para nosotros.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No puedo dejar que nos arrinconen otra vez…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Estoy cerca de mí límite… Tengo que acabar esto rápido…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Todo es cuestión de destreza mental…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Supongo que fuiste muy descuidado. Pensando que esto sería lo mismo que la última vez.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ciervos. Estamos avanzando.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Apresurate! Estaremos en desventaja si la pelea se alarga mucho.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Reindeer_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Uf… Otra operación.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Con un poco de suerte los dominaremos esta vez…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No hay punto en ponerse ansioso. No tenemos elección.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Bien, tenemos que dar nuestro mejor intento para sobrevivir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Terminemos rápidamente.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Podría haber terminado mal si hubiera durado un minuto más.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿No estamos siendo destruidos, verdad…?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">No sé. Los superiores se ocuparán de esto.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">¿Deberíamos volver ahora, Sr. Rudolph?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Pensé que podría ganar esta vez…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Espero que los otros… se ocupen de esto…</BattleDialog>
+      <BattleDialog ID="DEATH_2">¿Esto es realmente lo último…?</BattleDialog>
+      <BattleDialog ID="DEATH_3">…No había forma que pudiéramos derrotar estos monstruos…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Hay que resistir… Tenemos que aguantar esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Esto se siente extrañamente familiar a la última vez…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Sé que no debería ponerme nervioso…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">¿Cómo… tienen tanto poder…?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Una buena arma es inútil en las manos equivocadas.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Aún no tengo problemas, así que continuaré por ahora.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… Se vuelve más difícil de aguantar. Debemos terminar rápido…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Parece que los otros están comenzando a cansarse de nuevo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Maxim_2_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Dejaremos este lugar estando vivos esta vez!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡Ahora mismo, arrasar es nuestra misión!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Guarda tus pensamientos para después de acabar con ellos!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Haha! ¡Eso es lo que consiguen por menospreciarnos!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿Cuántos de ellos quedan?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Son igual de complicados que la primera vez.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡Maldición! A ese lo pisotearon bastante.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Las técnicas no significan nada contra un poder abrumador!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Carga hacia adelante y el camino se abrirá!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Veté solo como el cuerno de un rinoceronte!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Rhinoceros_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Sé audaz y descarado! ¡Sé valiente!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡Sin importar quien sea el enemigo, los aplastaré bajo los pies del Rinoceronte!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡¿¿Quién quiere ser aplastado ahora??!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">¡Nada puede interponerse en el camino de un Rinoceronte!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">¿Comenzamos de inmediato, Capitán?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Hemos ganado!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Pensaste que podrías ganar una segunda vez? ¡Muy mal!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Eso debería salvarnos de la destrucción por un tiempo.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">¡Eran unos tipos muy divertidos!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡Esto no será suficiente para vencernos…!</BattleDialog>
+      <BattleDialog ID="DEATH_1">… Uf… ¡Necesito seguir de pie…!</BattleDialog>
+      <BattleDialog ID="DEATH_2">¡No caeré así de nuevo…!</BattleDialog>
+      <BattleDialog ID="DEATH_3">Mierda… Nada ha cambiado…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Eso podría haberme derribado si me hubiera golpeado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡Estoy acostumbrado a esto!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡Solo espero que eso no termine en la destrucción de toda la manada!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">¡No me importa! ¡Tengo trabajo que hacer!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Tienes un cuerpo demasiado frágil!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Tus ataques son inútiles!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Aún no he acabado contigo!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Te pusiste en mi camino… ¡Qué tonto! ¡Haha!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Myo_2_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Hippity hop~! ¡Conejos! ¡Trabajen duro si no quieren perder de nuevo!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Cómo se siente el vernos de nuevo?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Voy a masticarlos a cada uno de ustedes esta vez.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Gracias por el segundo plato, fue satisfactorio.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Phew~ Esto fue realmente agotador. ¿Deberíamos volver ahora?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Conejo caído.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Esos locos…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡Usa más potencia de fuego!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Aún hay un montón de pasto para pastar!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Pensaste que me matarías igual que la última vez? No en esta vida.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Pastemos al resto y regresemos!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Myo_Meet_Gebura_2_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Hola de nuevo. ¿Cómo se siente verme una vez más?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Cierto. El pasado está en el pasado.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Levanten las orejas de nuevo, Conejos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Lo haremos como siempre.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Otro Conejo ha regresado a los pastizales.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Estás trabajando para la Niebla Roja… Deberías ser más fuerte que eso.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">No he estado quieta todos estos años.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Te mostraré lo cruel que puede ser la venganza de un Conejo.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Gebura_Meet_Myo_2_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Qué esperabas que dijera. ¿Encantada de verte de nuevo?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">No había ninguna razón de que no pudiera ganar. … Regresemos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Maldita sea… … Pero tendré que aceptarlo.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ya lo hemos hecho una vez. Podemos hacerlo dos veces.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No entren en pánico. Aún no se ha acabado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No quieren que su sacrificio sea en vano, verdad?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No hay ninguna razón de que no podamos ganar. Mantengan la calma.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT" />
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… ¿¿Dónde piensas que vas??</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Rabbit_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Los roeremos hasta que no queden sobras!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Los Conejos han venido a pastar de nuevo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿Listos para una comida sabrosa?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">¡Las cosas serán diferentes esta vez! Los Conejos están hambriento.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡El poder de fuego es lo que gana batallas!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡Haha! ¡Los Conejos rieron al último!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">¿¿Qué… Ya se ha acabado el pasto??</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">¡Tiempo de regresar, Conejos!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Ahaha… Realmente vamos a morir…</BattleDialog>
+      <BattleDialog ID="DEATH_1">¿Piensas que los Conejos podemos manejar esto solos?</BattleDialog>
+      <BattleDialog ID="DEATH_2">Todos vamos a morir…</BattleDialog>
+      <BattleDialog ID="DEATH_3">La misión estaba condenada a fracasar…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Eres muy desafortunado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡Este lugar es una locura!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿No vamos a ser aplastados por una segunda vez, verdad?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Las cosas están comenzando a ponerse peligrosas, ¿eh?.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Un poco menos de pasto por pastar.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Esto es lo que pasa cuando nos ponemos serios!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Puedo ir por más! ¿Aumentamos la velocidad?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">¡Capitán! Parece que casi llegamos.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Nicolai_2_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Esta es nuestra última oportunidad. Céntrense.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No deberíamos tener otra derrota.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Sean serios si no quieren seguir muertos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Patéticos. No estaban preparados.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Es hora de que alguien ponga fin a esto…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Entiende que no podemos permitirnos distraernos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Manténganse alerta.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">La preparación está casi completa… Aguanten un poco.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">¡Mantente en guardia!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Novatos. ¿Esperaban que cayéramos en el mismo truco dos veces seguidas?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Atacaremos con toda nuestra fuerza!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Presionen!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Puedo ver claramente como entras en pánico.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Nicolai_Meet_Gebura_2_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Myo. No dejes que esto afecte tu moral.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Dices que ella fue una vez conocida como la Niebla Roja. No lo note la vez anterior.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Es hora de que alguien ponga fin a esto…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Entiende que no podemos permitirnos distraernos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Manténganse alerta.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">La preparación está casi completa… Aguanten un poco.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">¡Mantente en guardia!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Novatos. ¿Esperaban que cayéramos en el mismo truco dos veces seguidas?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Atacaremos con toda nuestra fuerza!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Presionen!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Puedo ver claramente como entras en pánico.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Rudolph_2_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Si fallamos esta vez… No habrá otra oportunidad.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Supongo que somos los únicos supervivientes.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Este es el final para mí.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No puedo dejar que nos arrinconen de nuevo…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Estoy cerca de mí límite… Tengo que acabar esto rápido…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Todo es cuestión de destreza mental…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Supongo que fuiste muy descuidado. Pensando que esto sería lo mismo que la última vez.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Estamos avanzando.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Apresurate! Estaremos en desventaja si la pelea se alarga mucho.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Rudolph_2_2_Meet_Gebura">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Incluso si es un conocido tuyo, no deberías desfallecer por eso.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">No esperaba conocer a un Color en un lugar como este…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Este es el final para mí.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No puedo dejar que nos arrinconen de nuevo…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Estoy cerca de mí límite… Tengo que acabar esto rápido…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Todo es cuestión de destreza mental…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Supongo que fuiste muy descuidado. Pensando que esto sería lo mismo que la última vez.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Estamos avanzando.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Apresurate! Estaremos en desventaja si la pelea se alarga mucho.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Maxim_2_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Vamos a arrasar hasta el final!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Bueno, al menos sobrevivimos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Saborear la derrota de nuevo…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Gracias por estar conmigo hasta el final.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Son igual de complicados que la primera vez.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡Maldición! A ese lo pisotearon bastante.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Las técnicas no significan nada contra un poder abrumador!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Carga hacia adelante y el camino se abrirá!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Veté solo como el cuerno de un rinoceronte!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Maxim_2_2_Meet_Gebura">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Es un honor enfrentar a la Niebla Roja en batalla!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Haha! ¿Quizás somos más fuertes de lo que imaginaba?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Saborear la derrota de nuevo…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Gracias por estar conmigo hasta el final.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Son igual de complicados que la primera vez.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡Maldición! A ese lo pisotearon bastante.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Las técnicas no significan nada contra un poder abrumador!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Carga hacia adelante y el camino se abrirá!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Veté solo como el cuerno de un rinoceronte!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Myo_2_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Uf… No soy una fan del pasto seco.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Gracias por el tercer plato, fue satisfactorio.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Phew~ Eso fue agotador. ¿Deberíamos volver ahora?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Khrf… Supongo que no volveré a pastar… otro pastizal.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Lo haremos como siempre.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Es una amarga despedida.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No retrocederé…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Esos bastardos enfermos…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">¡Usa más potencia de fuego!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Aún hay un montón de pasto para pastar!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Pensaste que me matarías igual que la última vez? No en esta vida.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Pastemos al resto y regresemos!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Myo_Meet_Gebura_2_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Esta es nuestra última batalla. Lo haré lo mejor que pueda.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Ambas dimos todo de nosotras.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Morir a manos de un héroe.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Lo haremos como siempre.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Es una amarga despedida.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No retrocederé…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Estás trabajando para la Niebla Roja… Deberías ser más fuerte que eso.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">No he estado quieta todos estos años.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Te mostraré lo cruel que puede ser la venganza de un Conejo.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Gracias.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Nicolai_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Esta es nuestra última oportunidad. Céntrense.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No puedo permitirme perder dos veces.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Sé serio si no quieres seguir muerto.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Patéticos. No estaban preparados.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Es hora de que alguien ponga fin a esto…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Entiende que no podemos permitirnos distraernos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… Manténganse alerta.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">La preparación está casi completa… Aguanten un poco.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">¡Mantente en guardia!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Novatos, ¿¿Pensaron usar el mismo truco dos veces seguidas??</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Atacaremos con toda nuestra fuerza!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Presionen!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Puedo ver claramente como entras en pánico.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="R_Corp_Nicolai_2_Meet_Gebura">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Myo. No dejes que esto afecte tu moral.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Regresemos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH" />
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT" />
+  </Character>
+  <Character ID="R_Corp_Gebura_Meet_Myo_2_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Podrías pelear contra todos a la vez, pero eso no cambiará nada.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">… Solo regresemos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Maldita sea… … Pero tendré que aceptarlo.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ya lo hemos hecho una vez. Podemos hacerlo dos veces.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No entren en pánico. Aún no se ha acabado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿No quieren que su sacrificio sea en vano, verdad?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No hay ninguna razón de que no podamos ganar. Mantengan la calma.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">… Esta será la última vez.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

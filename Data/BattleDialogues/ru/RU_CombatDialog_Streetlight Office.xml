@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Streetlight Office</GroupName>
+  <Character ID="San">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Chicos, como siempre, precedamos lentamente… y con calma.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No pensemos demasiado, podríamos comenzar a dudar si lo hacemos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No se sobre esfuercen demasiado, chicos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Buen trabajo! Sabía que podía contar con ustedes.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Lo hicimos sin problemas. Vamos donde Juli para celebrar.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Es mi culpa… No debí traer a mi equipo aquí con tan poca información…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ambos tenemos cosas en la que no podemos rendirnos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">… Este tipo de trabajo… realmente no encaja conmigo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Lo siento. Pero tuvimos que hacerlo. Tenemos cosas que debemos proteger…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Mars">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Mantengamos la cabeza fría y hagamos esto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Esta espada parece ridículamente grande, pero no tengo problemas empuñándola.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿Eh? Escuche que eran monstruos, pero parecen humanos normales.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">El valor de una espada depende de quien la empuñe.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Lo ves, jefe? Soy mucho más rápido que esa idiota con pelo de guisante.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Pienso que lo pude haber logrado si lo intentara más…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Quizás debí decirle a ella como me sentía.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Solo se están movimiento alrededor como idiotas, ¿no lo ven?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Demasiado fácil. Lulu es demasiado llorona al respecto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Muy lento. Pude ver todos tus movimientos.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Lulu">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Eh, muévete! ¡¿¡Por qué no dejas de mirarme como un idiota y peleas?!?!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡¡Vamos, vamos! Los golpearé a todos!!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Manténganse alerta. Podemos ganar esto mientras no bajemos la guardia.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Sí! ¿Lo viste, jefe? ¿Soy muuuuy confiable, no es así?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Los derroté con estilo, no como el Señorito de ahí~</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Eran más duros de lo que parecía… Las cosas no se ven bien, así que me retiro por ahora.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Hmhmm~ ¡Fue un juego de niños para mí!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bien, bien~ ¡Lulu se ocupará de cada uno de ustedes!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¿Alguna vez escuchaste la frase, “Los guisantes pequeños muerden más fuerte”? ¿No? … Bueno, lo escucharás ahora.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="LuluAgain">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡¡¡Vengan por mí, pedazos de mierda!!!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Están de pie tan descaradamente. Malditos bastardos…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Él no vino para morir de esa forma… Mierda, es todo tu culpa.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Te vengué, Mars. ¿Ahora estamos en paz por la tarta que compraste, verdad? ……</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Estúpido… Por qué dejaste que estos debiluchos te mataran…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡¡¡No puedo morir así… No puedo morir como todos!!!</BattleDialog>
+      <BattleDialog ID="DEATH_1">¡Tengo que… romper los cráneos de estos bastardos…!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Uno cayó. Tengo que mantenerme alerta.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">… No puedo permitirme preocuparme por otros.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Mars siguió luchando sabiendo que moriría así. No puedo perder contra sus agallas.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Es todo tu culpa. Mars no hubiera muerto si no fuera por ti!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Lo ves? ¡Soy mucho más fuerte que tipos como tú!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡¡¡No pienso detenerme!!!</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Sí, tú… voy a partir tu cráneo en la mitad.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">¡¡¡ARRRRRGH!!!! ¡¡¡Callate!!! Los golpearé hasta la muerte por mí misma…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Sí… Tú tienes que serlo. El líder de esos bastardos.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">¡¡¡CALLATE!!!</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

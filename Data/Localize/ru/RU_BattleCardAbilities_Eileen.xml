@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--에일린 1차-->
+  <BattleCardAbility ID="elieenalliespower2">
+    <Desc>[Al usar] Da 2 de Fuerza a los Adoradores de engranajes aliados la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="elieenallieshp10">
+    <Desc>[Al usar] Recupera 10 de HP a los Adoradores de engranajes aliados</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="elieenalliesquickness2">
+    <Desc>[Al usar] Da 2 Prisa a los Adoradores de engranajes aliados</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="eileen_Stun">
+    <Desc>[Al golpear] Inmoviliza al objetivo la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="eileen_Text">
+  </BattleCardAbility>
+
+  <!--에일린-->
+  <BattleCardAbility ID="smokeSelf1">
+    <Desc>[Al usar] Gana 1 Humo</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="smokeatkbyburnbuf">
+    <Desc>[Al golpear] Si el objetivo tiene Quemadura, inflige Humo igual a la mitad del Humo del objetivo</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="smoke2addatk">
+    <Desc>[Al usar] Si el objetivo tiene 5+ de Humo, el dado ofensivo de esta página gana "[Al golpear] Inflige 2 de Humo"</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="dmgupbysmokebuf">
+    <Desc>[Al golpear] Daño incrementado por 0.5 por cada Humo en el objetivo</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="strength2quickness2friendbytargetsmoke">
+    <Desc>[Al usar] Si el objetivo tiene 5+ de Humo, da 2 de Prisa y Fuerza a un aliado aleatorio la siguiente escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="smoke5atkandStun">
+    <Desc>[Al golpear] Inflige 5 de Humo, Inmoviliza al objetivo la siguiente escena</Desc>
+  </BattleCardAbility>
+ 
+</BattleCardAbilityDescRoot>

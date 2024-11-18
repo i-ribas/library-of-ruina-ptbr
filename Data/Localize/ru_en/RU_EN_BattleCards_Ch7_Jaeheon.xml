@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703701">
+      <LocalizedName>Orden de ataque</LocalizedName>
+      <Ability>[Comienzo del combate] Da 'Marca Roja' al bibliotecario con el HP más bajo la siguiente escena</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703702">
+      <LocalizedName>Ni lo sueñes</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al ganar un choque] Inflige 1 de Endeble esta escena</Behaviour>
+      <Behaviour ID="1">[Al ganar un choque] Inflige 1 de Desarmar esta escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703703">
+      <LocalizedName>Empujon</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703704">
+      <LocalizedName>Lisiado</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703705">
+      <LocalizedName>Cuerdas tirantes</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al perder un choque] La marioneta pierde 1 de Cuerdas de títeres la siguiente escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703706">
+      <LocalizedName>Cuerdas finas</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[Al perder un choque] La marioneta Ágil pierde 1 de Cuerdas de títeres la siguiente escena</Behaviour>     
+    </BattleCardDesc>
+    <BattleCardDesc ID="703707">
+      <LocalizedName>Cuerdas duraderas</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al perder un choque] La marioneta Pesada pierde 1 de Cuerdas de títeres la siguiente escena</Behaviour>     
+    </BattleCardDesc>
+    <BattleCardDesc ID="703708">
+      <LocalizedName>Cuerdas únicas</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[Al perder un choque] La marioneta Angelica pierde 1 de Cuerdas de títeres la siguiente escena</Behaviour>     
+    </BattleCardDesc>
+    <BattleCardDesc ID="703709">
+      <LocalizedName>Tensando las cuerdas</LocalizedName>
+      <Ability>[Al usar] Da 1 de Cuerdas de títeres a todas las marionetas la siguiente escena</Ability>
+      <Behaviour ID="0">[Al golpear] Inflige 1 de Atadura la siguiente escena</Behaviour>     
+      <Behaviour ID="1">[Al golpear] Inflige 1 de Atadura la siguiente escena</Behaviour>     
+    </BattleCardDesc>
+    <BattleCardDesc ID="703710">
+      <LocalizedName>Gigigig</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703711">
+      <LocalizedName>Crujir</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703712">
+      <LocalizedName>Maniquí</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703713">
+      <LocalizedName>Movimiento automatizado</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703714">
+      <LocalizedName>Barrera de marioneta</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703715">
+      <LocalizedName>Carne reprimida</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703716">
+      <LocalizedName>Gesto enérgico</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703717">
+      <LocalizedName>Grgh..</LocalizedName>
+      <Ability>[Al usar] Restaura 3 de Luz; Roba 1 página</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703718">
+      <LocalizedName>Gh..Gigi..Gig</LocalizedName>
+      <Ability>[Al usar] Restaura 1 de Luz; Roba 1 página</Ability>
+    </BattleCardDesc>
+     <BattleCardDesc ID="703719">
+      <LocalizedName>Uu…Ghghgh…</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al ganar un choque] Destruye el siguiente dado del oponente</Behaviour>     
+    </BattleCardDesc>
+    <BattleCardDesc ID="703720">
+      <LocalizedName>Títeres</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703721">
+      <LocalizedName>Títeres</LocalizedName>
+      <Ability>Si la velocidad es 5 o mayor, todos los dados en esta página ganan +1 de Poder</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703722">
+      <LocalizedName>Títeres</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703723">
+      <LocalizedName>Títeres</LocalizedName>
+      <Ability>Si la velocidad es 5 o mayor, todos los dados en esta página ganan +2 de Poder</Ability>
+      <Behaviour ID="0">[Al golpear] Haz 4 de daño de aturdimiento</Behaviour>     
+      <Behaviour ID="1">[Al golpear] Haz 4 de daño de aturdimiento</Behaviour>     
+      <Behaviour ID="2">[Al golpear] Haz 4 de daño de aturdimiento</Behaviour>     
+    </BattleCardDesc>
+
+  </cardDescList>
+</BattleCardDescRoot>

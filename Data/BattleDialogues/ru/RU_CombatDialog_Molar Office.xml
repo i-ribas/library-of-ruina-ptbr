@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Molar Office</GroupName>
+  <Character ID="Olga">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Urgh… Aún me siento nauseabunda.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Es la solicitud de una amiga, así que me animaré y acabaré con esto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No parecen muy fuertes para que yo intervenga, ¿eh?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Weh? ¿Eso fue todo? ¿Tan simple? Esto es un poco decepcionante…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Y yo que estaba emocionada de contarle a Myo sobre mis grandiosas aventuras aquí… esto no es suficiente…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… Supongo que fui demasiado profundo sin un buen plan de respaldo. Eso fue tonto de mi parte.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Si muero aquí, qué pasará con Rain y Mika…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Oi, ¿me acabas de ver matar a ese con estilo, verdad?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Mala mía, mala mía~ Te golpeé demasiado fuerte~ ¿Pero pudiste intentar esquivarlo, verdad?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¿Parece que tenemos una gran ventaja, no?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">No me siento segura dejando a esa muchacha sola…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">No se siente bien dejarlo solo… Bueno, lo que sea.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Bueh… Con ambos de mis compañeros muertos, no iba a llegar muy lejos de todos modos.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">No me presionaré a mí misma nunca más. Mika, Rain, gracias por su servicio.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">… Siempre te encantó actuar tan alto y poderoso, regañándome todo el tiempo, ¿y ahora me dejas atrás sola?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_5">¡Qué hará mi Oficina sin ti, qué voy a hacer yo sin ti!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Mika">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Es bastante intimidante estar en un lugar poco familiar…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Estoy bastante preocupada… Pero tengo que creer que todo funcionará.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">En que problemas nos hemos metido…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Parece que hemos completado nuestra misión. Un trabajo estelar, chicos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Vamos a llevar toda la información relevante para nosotros y dejar este lugar.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¿Dónde… me he equivocado…? No quiero que esto termine ahora…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Aún no puedo morir… aún no he podido ayudarles demasiado.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">… Tenemos que solucionar esto con urgencia.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">… Descansa en paz.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡La operación va sobre ruedas, sigamos así!</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Incluso si pudiera de alguna manera dejar este lugar en una pieza… Nadie podría darme la bienvenida como esos dos.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">¡Siempre te preocupaste tanto por nosotros, por qué no te preocupaste de cuidar tu propia vida!</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">… ¿Jefa? No se supone que duermas aquí. … Por favor despierta.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Rain">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Uf… Mika es tan confiable, pero simplemente no puedo confiar en ti, Hermana mayor.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Supongo que es hora de que Mika se encargue de esto, juzgando por como estás…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Es muy grande para una Biblioteca. Estoy viendo un montón de libros aquí…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Fue bastante desafiante, pero fue una buena experiencia.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">… Hay demasiadas cosas terroríficas aquí. Dejemos este lugar rápidamente.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡No… Esto no puede ser!! No hay esperanza aquí…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Todos vamos a morir… Y parece que ha llegado mi turno…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Esto es demasiado fácil.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Otro ha caído. Intenta alcanzar mi puntuación, Hermana Mayor~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Si hubiera sido un poco menos cuidadoso, yo sería el que estaría tirado en el suelo…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… Solo puedo culpar a mi incompetencia. Estaré con ustedes dos muy pronto.…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Te lo dije tantas veces, Hermana Mayor, eres tan descuidada…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Siempre actuabas tan serena y genial… No es genial morir por nosotros de esa forma.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

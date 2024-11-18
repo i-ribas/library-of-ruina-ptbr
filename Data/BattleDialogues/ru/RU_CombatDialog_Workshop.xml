@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Workshop</GroupName>
+  <Character ID="Named">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Listo para un experimento?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Nivel de presión… normal. Concentración de vapor… apropiada!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡He estado ansioso por un poco de acción… Esto debería bastar!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Wow~! ¡Esta nueva pieza será un gran éxito!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Hay tantas cosas que quiero saber. ¿Donde pondremos los libros?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Esto fue un completo fallo…</BattleDialog>
+      <BattleDialog ID="DEATH_1">No… Estaba a punto de… decir eureka…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¡El peligro solo lo hace más emocionante!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Supongo que no volverás a usar esto, eh? Tomaré prestadas esas partes por un rato!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡No te preocupes! Tengo la sensación de que nuestra próxima prueba será un gran suceso!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Nunca he visto ese tipo de tecnología antes! ¿Cómo hicieron eso?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Son chicos muy divertidos! ¿Pueden mostrarme más cosas nuevas?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bien. ¿No quedan muchos de ustedes, eh?</BattleDialog>
+    </Type>
+  </Character>
+
+  <Character ID="Workshop">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Sí, Estoy bien! Vamos a hacer esto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Aún no he usado esto en un campo de batalla… ¿debería estar bien, verdad?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Nuestros oponentes parecen lo suficientemente buenos!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Una vez confirmemos que esto no tiene problemas, podremos entregar esto de inmediato.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Vamos a ver… Me aseguré de llenar esto, ¿verdad?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¡Buen trabajo, chicos! ¿Deberíamos movernos ahora?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Resulto ser una buena práctica, no es así? ¡Pienso que podremos entregarlo cuando volvamos!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">¿Qué tipo de libros podemos conseguir aquí?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Espero que podamos conseguir bastante información…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Me gustaría leer sobre otros Sindicatos.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Oh no… ¿Hubo algún tipo de error en la asamblea…?</BattleDialog>
+      <BattleDialog ID="DEATH_1">No no puede ser… ¿Qué hicimos mal…?</BattleDialog>
+      <BattleDialog ID="DEATH_2">¡No… No puedo estar equivocado!</BattleDialog>
+      <BattleDialog ID="DEATH_3">… Esperaba que esto no fallara.</BattleDialog>
+      <BattleDialog ID="DEATH_4">No quiero morir de esta forma…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Déjame adivinar… ¿Fue demasiado pesada para moverla?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Pienso que esa parte necesita una pieza diferente…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Viste donde estaba el problema?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No pienso que el arma tuviera la culpa.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Vamos a centrarnos en acabar esto rápidamente~</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ustedes tienen muy buenas armas, pero no saben como empuñarlas para nada…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Esta será una buena referencia, ¿no es así?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡No puedo esperar para revelar sus secretos!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">¿Deberíamos acabar con el resto?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">¡Sabía que hice la elección correcta!</BattleDialog>
+    </Type>
+  </Character>
+  
+</BattleDialogRoot>

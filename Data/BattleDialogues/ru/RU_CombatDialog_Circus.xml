@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Circus</GroupName>
+  <Character ID="Ema">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Vamos a reunirnos para una actuación.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Incluso si no puedo ver, no tengo miedo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Hay enemigos siete pasos adelante.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">No te muevas descuidadamente, sé cuidadoso. Te diré la dirección.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">¿Me pregunto si la Señora Angela disfrutará nuestra actuación?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Esto debería permitir que nuestro jefe de pista le traiga felicidad a más gente.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">……</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Seremos capaces de lograrlo si manejamos las cosas paso por paso.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Pienso que nos estamos acostumbrando a esto más rápido de lo que pensaba.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_5">Tienes que mirar con cuidado y decirme, ¿vale? No puedo hacerlo solo.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_6">Está bien. Estoy contando en que Noah me diga donde ir.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_7">Cuantas personas están frente mío… Quién acaba de morir… No tengo idea.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_8">No puedo ver… Estoy asustado. Asustado…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_9">Sin un amigo para decirme el camino… ¿Cómo voy a dar otro paso…?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Espero que esto pueda hacer que nuestra actuación sea maravillosa…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Gracias por mirar nuestra actuación… hasta el final…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="Noah">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Vamos a reunirnos para una actuación.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Incluso si no puedo ver, no tengo miedo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Hay enemigos siete pasos adelante.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">No te muevas descuidadamente, sé cuidadoso. Te diré la dirección.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">… No puedo escuchar nada. Todo lo que veo es oscuridad.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

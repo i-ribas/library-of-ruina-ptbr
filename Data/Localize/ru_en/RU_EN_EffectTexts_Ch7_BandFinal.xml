@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+        
+    <!-- 엘레나 뒤틀림 -->
+    <BattleEffectText ID="ForbidRecovery">
+      <Name>Antirecuperación</Name>
+      <Desc>No puede recuperar HP o resistencia al aturdimiento por {0} escenas.</Desc>
+    </BattleEffectText>
+
+    <!-- 아르갈리아 뒤틀림 -->
+    <BattleEffectText ID="ArgaliaUpsurge">
+      <Name>Emozioni Intensificantesi</Name>
+      <Desc>Al comienzo de la Escena, gana {0} de Fuerza y Dureza.</Desc>
+    </BattleEffectText>
+
+    <!-- 플루토 뒤틀림 -->
+    <BattleEffectText ID="PlutoUnfairProtect">
+      <Name>Contrato injusto: Defensa</Name>
+      <Desc>Actualmente tiene 'Contraparte injusta: Defensa'</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="PlutoUnfairAtk">
+      <Name>Contrato injusto: Ofensa</Name>
+      <Desc>Actualmente tiene 'Contraparte injusta: Ofensa'</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="PlutoUnfairLight">
+      <Name>Contrato injusto: Luz</Name>
+      <Desc>Actualmente tiene 'Contraparte injusta: Luz'</Desc>
+    </BattleEffectText>
+
+    <BattleEffectText ID="onlypage_eileen_Keyword">
+      <Name>Página exclusiva de Eileen</Name>
+      <Desc>Solo puede ser usada en un mazo con la página clave de Eileen.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_oswald_Keyword">
+      <Name>Página exclusiva de Oswald</Name>
+      <Desc>Solo puede ser usada en un mazo con la página clave de Oswald.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_greta_Keyword">
+      <Name>Página exclusiva de Greta</Name>
+      <Desc>Solo puede ser usada en un mazo con la página clave de Greta.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_bremen_Keyword">
+      <Name>Página exclusiva de Bremen</Name>
+      <Desc>Solo puede ser usada en un mazo con la página clave de Bremen.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="onlypage_jaeheon_Keyword">
+      <Name>Página exclusiva de Jae-heon</Name>
+      <Desc>Solo puede ser usada en un mazo con la página clave de Jae-heon.</Desc>
+    </BattleEffectText>
+    
+  </effectTextList>  
+</BattleEffectTextRoot>

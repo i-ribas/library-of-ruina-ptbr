@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Blue Reverberation2 Chesed</GroupName>
+  <Character ID="C_J_Jae-heon">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Estás atado en este momento, pero cortaré todas esas cuerdas por ti.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">… Es hora de un pequeño teatro de marionetas.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Llegaremos a ese mundo por cualquier y todos los medios necesarios.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Al final… Las cuerdas no pudieron ser liberadas…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Que dolor. Eres bastante violento…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Estás dañando a mis marionetas.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Te duele seguirle el juego?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Esa marioneta es inútil ahora…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Es una lástima que no pueda hacer una marioneta contigo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿No quieres cortar tus cuerdas y conseguir la libertad?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… Marionetas. El final está cerca.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">No estuviste a la altura de tu reputación.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="C_J_Puppet">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Gigigigigig.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Grgrgr. Grgrg.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Gygygy… Gyg.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Grgrgrgrgrg. Grgr.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Gygygyg. Grgrg. Gig.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Gigigi…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Grgrgr. Grgrgrgr.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Gii ghghghghgh… Ghgh.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Gigigigigi. Gigigig…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Gigig… Ghghgh… Gii…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Gigigi… Gigig…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Grgrgr… Grgrgrgrgrg…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Gy… Gygygyg…</BattleDialog>
+      <BattleDialog ID="DEATH_3">Gigigigigig…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Grgrgrgrgrgrg…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Ghghghgh. Gygygygygy. Gh.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Grgrgr… Gigigi… Gigigigigig…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Gig… Gigigi… Gygygygy… Grgh.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Gigigigigi… Gig… Ghghghghg.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Ghghghgh. Gigi… Gigigigigi.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Gigigigi… Gig.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ghgh.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Gigigigigi. Ghghghghgh…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Ghghghghghgh… Gigi…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Gigi… Gig… Ghghgh… Gigigigigig.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="C_J_Chesed">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No se preocupen~ Pienso que lo mejor es no ponerse nervioso.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Un mundo libre donde todas las cuerdas se están sueltas, eso es…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Supongo que no fui lo suficientemente bueno para detenerlos…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No seamos impacientes. Pienso que aún podemos hacerlo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Estoy seguro de que este no es un sacrificio inútil.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">… Si no es por nosotros, nadie los mantendrá a raya.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Retrocede por un poco si estás agotado.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Parece que las cosas están yendo bien~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Supongo que no es tiempo para desacelerar…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Chicos. Llevemos esto a un nuevo nivel~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Parece que podremos terminar con esto pronto~</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="C_J_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Realmente… podemos hacerlo? Estoy un poco ansioso.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Parece que hemos acabado de alguna forma… verdad?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Estoy seguro de que los otros… podrán con…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿Cuando acabaremos con todo este dolor?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Un minuto de silencio.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Yo… estará todo bien. Podemos detenerlos.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Eso me tomo algo de esfuerzo, pero…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Terminemos con ellos rápidamente.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">He acabado con este, déjame darte una mano con los demás.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="C_J_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Se supone que tenemos que derrotarlos, verdad?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿D-de verdad se ha acabado?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Al menos… no me puse en el camino de mis aliados.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Necesitamos un poco de espacio para respirar.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Uno de nosotros debe mantenerse alertar.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Pienso que deberíamos centrarnos en la pelea por ahora.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">… ¡Lo he clavado!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Se ha roto completamente…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No dejaré que una marioneta acabe conmigo…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="C_J_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Solo el sonido ya me da escalofríos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Me pregunto si matamos al Titiritero se liberarán las marionetas?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Maldición… No puedo moverme…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿Cómo paso… esto?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Sr. Chesed… ¿Qué deberíamos hacer…?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Quizás esto fue una mala idea…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¿No es para nada duro, no es así?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">No se pueden mover una vez se cortan las cuerdas.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No puedo dejar que me suceda lo mismo…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="C_J_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">… Esas horribles marionetas han vuelto.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Whew… El maestro de las marionetas no era tan fuerte.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Con un poco de suerte… alguien se ocupará de esto…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Deberíamos contraatacar antes de que nos ataquen de nuevo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Asumiste tus responsabilidades, eso es todo lo que tengo que decir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Vor a tener que seguir adelante por ellos…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¿Estamos… cortando sus cuerdas?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Esas marionetas son muy desafortunadas ahora que lo pienso.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">… ¡Lo tengo! Estamos haciendo un buen progreso.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

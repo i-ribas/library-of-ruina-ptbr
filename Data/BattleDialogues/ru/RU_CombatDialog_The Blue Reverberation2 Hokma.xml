@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Blue Reverberation2 Hokma</GroupName>
+  <Character ID="H_P_Pluto">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Si estás listo… Deberíamos comenzar.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Sería mejor que no seas engañado por el mundo mostrado por la mano de alguien más.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Espero que no tengamos sentimientos negativos por el otro sobre esto.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Engañado… una vez más.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No deberías confiar en lo que ven tus ojos tan fácilmente.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Perdóname. No fue con malicia.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Solo estoy cumpliendo mis obligaciones.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">La meta parece estar cerca.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_P_Hokma">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Estoy seguro de que perseveraremos si lo intentamos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">… Tenemos que mantener nuestra fe hasta el final.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Puedes contar con el resto de los Bibliotecarios para encargarnos del resto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No te culpes y descansa.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No es aconsejable estar agitados. Mantengan la calma y recuperen el aliento.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Supongo que todos estamos caminando en un sendero sin retorno.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_P_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Tienes razón, Señor Hokma… ¿Existe una forma para manejar esto?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Quisiera decir que no estoy enojado… pero me conozco bien…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿Están los otros bien?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No se preocupen por mí. Conozco de lo que soy capaz.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Si nos rendimos, entonces es cuando realmente terminará todo…</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Estoy contento de que pudimos superar esto.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_P_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No pienso que podamos derrotarlo con un método convencional…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Lo siento, no pude ser de más ayuda…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tener fe en mí mismo… y seguir adelante.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Debemos revisar si estamos bien de vez en cuando.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">La situación… Tengo fe en que podemos cambiar las tornas.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">… ¿Se ha acabado de verdad esta vez, cierto?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_P_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Tenemos que creer en que podemos ganar…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Que truco… más tonto.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Casi estamos ahí… solo un poco más…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¡Por qué tuviste que actuar tan precipitadamente…!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Me están arrinconando… ¿Piensan que podemos lograrlo?</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Eso estuvo cerca… ¿Qué hubiera pasado si hubiéramos fallado al detenerlo?</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="H_P_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">La impaciencia nos lastimará… Estoy listo.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY" />
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Esto no es bueno… a este ritmo…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Deberíamos concentrarnos más.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Mostrando… mentiras, ¿eh?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Se está preparando… Con cuidado, chicos.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">No puedo estar seguro de cuanto de esto deberíamos creer.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>
