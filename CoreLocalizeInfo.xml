@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoreLocalizeList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CoreLocalize>
+    <Language>ptbr_en</Language>
+	<LanguageName>Português Brasileiro</LanguageName>
+	<SharedLanguage>ptbr</SharedLanguage>
+	<HeadFont>Resource/Fonts/FallbackFontHead</HeadFont>
+	<BodyFont>Resource/Fonts/FallbackFontBody</BodyFont>
+	<OptionFont>Resource/Fonts/FallbackNotoSans</OptionFont>
+	<HeadIsStory>true</HeadIsStory>
+	<DataPath>Data</DataPath>
+	<ResourcePath>Resource</ResourcePath>
+  </CoreLocalize>
+</CoreLocalizeList>
