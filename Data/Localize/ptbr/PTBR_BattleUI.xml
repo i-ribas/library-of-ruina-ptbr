@@ -5,7 +5,7 @@
   <text id="BattleUI_Victory_Floor">As cortinas do Ato {1} abaixam-se no {0}</text>
   <text id="BattleUI_Victory_Final">Abaixam-se as cortinas na Recepção{0}</text>
   <text id="BattleUI_Defeat_Floor">Ato {1} termina no {0}</text>
-  <text id="BattleUI_Defeat_Final">Recepção de {0} terminada</text>
+  <text id="BattleUI_Defeat_Final">Recepção de {0} fracassada</text>
   <text id="BattleUI_HideCard">Ocultar</text>
   <text id="BattleUI_ShowCard">Mostrar</text>
   <text id="BattleUI_GetBook">{0} Obtido</text>
