@@ -10,36 +10,38 @@
       <Ability />
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="1">
-      <LocalizedName>Evadir</LocalizedName>
+      <LocalizedName>Esquivar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="2">
-      <LocalizedName>Ataque ligero</LocalizedName>
+      <LocalizedName>Ataque Leve</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="3">
-      <LocalizedName>Defensa ligera</LocalizedName>
+      <LocalizedName>Defensa Leve</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="4">
-      <LocalizedName>Atacar y cubrir</LocalizedName>
+      <LocalizedName>Atacar e Cobrir</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="5">
-      <LocalizedName>Ataques centrados</LocalizedName>
+      <LocalizedName>Ataques Focados</LocalizedName>
       <Ability />
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="11">
-      <LocalizedName>Cosechar tripas</LocalizedName>
+      <LocalizedName>Coletar Tripas</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="12">
-      <LocalizedName>Guía de ratas para sobrevivir</LocalizedName>
+      <LocalizedName>Guía de Sobrevivência dos Ratos</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="13">
-      <LocalizedName>Golpe sucio</LocalizedName>
+      <LocalizedName>Golpe Baixo</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="14">
@@ -47,43 +49,44 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="15">
-      <LocalizedName>Atravesar el callejon</LocalizedName>
+      <LocalizedName>Impeto da Periferia</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="16">
-      <LocalizedName>Deslizarse lejos</LocalizedName>
+      <LocalizedName>Deslizo</LocalizedName>
       <Ability />
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="100001">
-      <LocalizedName>Atacar y esquivar</LocalizedName>
+      <LocalizedName>Atacar e Esquivar</LocalizedName>
       <!-- originally 'Parry' -->
     </BattleCardDesc>
     <BattleCardDesc ID="100002">
-      <LocalizedName>Empujar</LocalizedName>
+      <LocalizedName>Estocada</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="100003">
-      <LocalizedName>Golpe</LocalizedName>
+      <LocalizedName>Pancada</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="100004">
-      <LocalizedName>Ataque preventivo</LocalizedName>
+      <LocalizedName>Ataque Preventivo</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="100005">
       <LocalizedName>Rapidez</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="101001">
-      <LocalizedName>Cosechar tripas</LocalizedName>
+      <LocalizedName>Coletar Tripas</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="101002">
-      <LocalizedName>Guía de ratas para sobrevivir</LocalizedName>
+      <LocalizedName>Guía de Sobrevivência dos Ratos</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="101003">
-      <LocalizedName>Golpe sucio</LocalizedName>
+      <LocalizedName>Golpe Baixo</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="101004">
@@ -91,11 +94,11 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="101005">
-      <LocalizedName>Atravesar el callejon</LocalizedName>
+      <LocalizedName>Impeto da Periferia</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="101006">
-      <LocalizedName>Deslizarse lejos</LocalizedName>
+      <LocalizedName>Deslizo</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="102001">
@@ -103,158 +106,158 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="102002">
-      <LocalizedName>Eres muy lento</LocalizedName>
+      <LocalizedName>Você É Muito Lento</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="102003">
-      <LocalizedName>Desesperado</LocalizedName>
+      <LocalizedName>Desespero</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="102004">
-      <LocalizedName>Tiempo para un pequeño descanso</LocalizedName>
+      <LocalizedName>Hora de Um Pequeno Teste</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="102005">
-      <LocalizedName>Sintiendome bien</LocalizedName>
+      <LocalizedName>Me Sentindo Bem</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="102006">
-      <LocalizedName>Preparación</LocalizedName>
+      <LocalizedName>Preparação</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="103001">
-      <LocalizedName>¡G-golpe!</LocalizedName>
+      <LocalizedName> E-Exploda Tudo!</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="103002">
-      <LocalizedName>¡S-Solo vives una vez!</LocalizedName>
+      <LocalizedName>S-Só Se Vive Uma Vez!</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="103003">
-      <LocalizedName>¡C-cargado!</LocalizedName>
+      <LocalizedName>C-Carregado!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="103004">
-      <LocalizedName>R-resistir</LocalizedName>
+      <LocalizedName>R-Resista</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="103005">
-      <LocalizedName>P-potenciado</LocalizedName>
+      <LocalizedName>P-Potencializado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="103006">
-      <LocalizedName>¡C-cortar!</LocalizedName>
+      <LocalizedName>C-Cortar</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="104001">
-      <LocalizedName>Dominio</LocalizedName>
+      <LocalizedName>Dominar</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="104002">
-      <LocalizedName>Voy primero</LocalizedName>
+      <LocalizedName>Vou Primeiro</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="104003">
-      <LocalizedName>Defiéndete si puedes</LocalizedName>
+      <LocalizedName>Defenda-se Se Puder</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="104004">
-      <LocalizedName>Asalto</LocalizedName>
+      <LocalizedName>Fúria</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="104005">
-      <LocalizedName>Pista</LocalizedName>
+      <LocalizedName>Rastro</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="104006">
-      <LocalizedName>Mutilación</LocalizedName>
+      <LocalizedName>Mutilar</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="200001">
-      <LocalizedName>Machacar</LocalizedName>
+      <LocalizedName>Socar</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="200002">
-      <LocalizedName>Bloqueo múltiple</LocalizedName>
+      <LocalizedName>Bloqueio Múltiplo</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="200003">
-      <LocalizedName>Ataque múltiple</LocalizedName>
+      <LocalizedName>Múlti-Ataque</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="200004">
-      <LocalizedName>Ataque rápido</LocalizedName>
-      <Ability>[Al usar] gana 2 de prisa</Ability>
+      <LocalizedName>Ataque Rápido</LocalizedName>
+      <Ability>[Ao Usar] ganha 2 de velocidade</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="200005">
-      <LocalizedName>Ataque poderoso</LocalizedName>
+      <LocalizedName>Ataque Poderoso</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="201001">
-      <LocalizedName>Mantenlo fresco</LocalizedName>
+      <LocalizedName>Mantenha Fresco</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="201002">
-      <LocalizedName>Corta los ingredientes</LocalizedName>
+      <LocalizedName>Apare Os Ingredientes</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="201003">
-      <LocalizedName>Puedo cocinar todo</LocalizedName>
+      <LocalizedName>Posso Cozinhar Qualquer Coisa</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="201004">
-      <LocalizedName>Preparación para cocinar</LocalizedName>
+      <LocalizedName>Preparação Para Cozinhar</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="201005">
-      <LocalizedName>Caza de ingredientes</LocalizedName>
+      <LocalizedName>Caçada De Ingredientes</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="201006">
-      <LocalizedName>Crueldad</LocalizedName>
+      <LocalizedName>Crueldade</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="201007">
-      <LocalizedName>Apetito</LocalizedName>
+      <LocalizedName>Apetite</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202001">
-      <LocalizedName>Desviar</LocalizedName>
+      <LocalizedName>Defletir</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202002">
-      <LocalizedName>Mente preparada</LocalizedName>
+      <LocalizedName>Mente Preparada</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202003">
-      <LocalizedName>Encender fuego</LocalizedName>
+      <LocalizedName>Incendiar</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202004">
-      <LocalizedName>¡Prueba mi bate llameante!</LocalizedName>
+      <LocalizedName>Prove Meu Taco Flamejante</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202005">
-      <LocalizedName>Reunir información</LocalizedName>
+      <LocalizedName>Coletar informações</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202006">
-      <LocalizedName>Noche silenciosa</LocalizedName>
+      <LocalizedName>Noite Silenciosa</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="202007">
-      <LocalizedName>Asalto sin parar</LocalizedName>
+      <LocalizedName>Assalto Sem Parar</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202008">
-      <LocalizedName>Pasos de la flota</LocalizedName>
+      <LocalizedName>Passos Rápidos</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202009">
-      <LocalizedName>Reunir información</LocalizedName>
+      <LocalizedName>Coletar informações</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202010">
-      <LocalizedName>Prender fuego</LocalizedName>
+      <LocalizedName>Abrasar</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202011">
-      <LocalizedName>¡Comete mi bate llameante!</LocalizedName>
+      <LocalizedName>Coma Meu Taco Flamejante!</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202012">
@@ -262,47 +265,47 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="300001">
-      <LocalizedName>El resto</LocalizedName>
+      <LocalizedName>Distração</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="300002">
-      <LocalizedName>Deslizamiento afilado</LocalizedName>
+      <LocalizedName>Corte Afiado</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="300003">
-      <LocalizedName>Ataque por la espalda</LocalizedName>
+      <LocalizedName>Ataque Pelas Costas</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="300004">
-      <LocalizedName>Punto muerto</LocalizedName>
+      <LocalizedName>Impasse</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="300005">
-      <LocalizedName>Arranque</LocalizedName>
+      <LocalizedName>Ruptura</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="301001">
-      <LocalizedName>Manejar el trabajo</LocalizedName>
+      <LocalizedName>Fazendo o Trabalho</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="301002">
-      <LocalizedName>Noche silenciosa</LocalizedName>
+      <LocalizedName>Noite Silenciosa</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="301003">
-      <LocalizedName>Valla</LocalizedName>
+      <LocalizedName>Barreira</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="301004">
-      <LocalizedName>Tu escudo</LocalizedName>
+      <LocalizedName>Seu Escudo</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="301005">
-      <LocalizedName>Preparación de combate</LocalizedName>
+      <LocalizedName>Preparação De Combate</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="301006">
-      <LocalizedName>Espada remolino</LocalizedName>
+      <LocalizedName>Redemoinho de Lâmina</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="301007">
-      <LocalizedName>Guárdian</LocalizedName>
+      <LocalizedName>Guardião</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="301008">
       <LocalizedName>Suprimir</LocalizedName>
@@ -313,56 +316,56 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="301010">
-      <LocalizedName>Represalia</LocalizedName>
+      <LocalizedName>Represália</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="301011">
-      <LocalizedName>Ley y orden</LocalizedName>
+      <LocalizedName>Lei e Orden</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="302001">
-      <LocalizedName>Embestida feroz</LocalizedName>
+      <LocalizedName>Investida Feroz</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="302002">
-      <LocalizedName>¡Espera!</LocalizedName>
+      <LocalizedName>Espera!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="302003">
-      <LocalizedName>Apuesta</LocalizedName>
+      <LocalizedName>Aposta</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="302004">
-      <LocalizedName>Decisión atrevida</LocalizedName>
+      <LocalizedName>Decisão Ousada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="302005">
-      <LocalizedName>Mantén la calma</LocalizedName>
+      <LocalizedName>Mantenha a Calma</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="302006">
-      <LocalizedName>El arte de los pasos rápidos</LocalizedName>
+      <LocalizedName>A Arte de Passos Rápidos</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="302007">
-      <LocalizedName>Rodaja</LocalizedName>
+      <LocalizedName>Corte</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="303001">
-      <LocalizedName>¡Aguanta eso!</LocalizedName>
+      <LocalizedName>Aguenta Isso!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="303002">
-      <LocalizedName>Pelea</LocalizedName>
+      <LocalizedName>Briga</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="303003">
-      <LocalizedName>Acabaré contigo</LocalizedName>
+      <LocalizedName>Acabarei Com Você</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="303004">
-      <LocalizedName>Comenzando despacio</LocalizedName>
+      <LocalizedName>Pegando Leve</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="303005">
-      <LocalizedName>Golpe impactante</LocalizedName>
+      <LocalizedName>Golpe Impactante</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="303006">
-      <LocalizedName>Impacto destructivo</LocalizedName>
+      <LocalizedName>Impacto Destrutivo</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="303007">
@@ -370,130 +373,135 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="303008">
-      <LocalizedName>Aplastar</LocalizedName>
+      <LocalizedName>Esmagar</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="303009">
-      <LocalizedName>Entrar en calor</LocalizedName>
+      <LocalizedName>Relaxar</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="1100001">
       <LocalizedName>Aprender</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="401001">
-      <LocalizedName>Sastrería</LocalizedName>
+      <LocalizedName>Alfaiataria</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="401002">
-      <LocalizedName>Festín</LocalizedName>
+      <LocalizedName>Banquete</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="401003">
-      <LocalizedName>Serás una seda fina</LocalizedName>
+      <LocalizedName>Fará Uma Seda Fina</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="401004">
-      <LocalizedName>¿Serás delicioso?</LocalizedName>
+      <LocalizedName>Será Que É Gostoso?</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="401005">
-      <LocalizedName>Como las ordenes del Precepto</LocalizedName>
+      <LocalizedName>Como Ordena A Prescrição</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="401006">
-      <LocalizedName>Ataque bizarro</LocalizedName>
+      <LocalizedName>Ataque Bizarro</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="401007">
-      <LocalizedName>Tela fascinante</LocalizedName>
+      <LocalizedName>Tecido Fascinante</LocalizedName>
     </BattleCardDesc>
+
 
     <BattleCardDesc ID="402001">
-      <LocalizedName>En la diana</LocalizedName>
+      <LocalizedName>Mire no Alvo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="402002">
-      <LocalizedName>Regresar el fuego</LocalizedName>
+      <LocalizedName>Retornar Fogo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="402003">
-      <LocalizedName>Disparos indiscriminados</LocalizedName>
+      <LocalizedName>Disparos Indiscriminados</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="402004">
-      <LocalizedName>Odio el combate a cuerpo</LocalizedName>
+      <LocalizedName>Eu Odeio CQC</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="402005">
-      <LocalizedName>Ni un paso más</LocalizedName>
+      <LocalizedName>Nenhum Passo a Mais</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="402006">
-      <LocalizedName>Recibe el disparo</LocalizedName>
+      <LocalizedName>Dê o Tiro</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="402007">
-      <LocalizedName>Disparo a la cabeza</LocalizedName>
+      <LocalizedName>Disparo na Cabeça</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="402008">
-      <LocalizedName>Objetivo detectado</LocalizedName>
+      <LocalizedName>Objetivo Encontrado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="402009">
-      <LocalizedName>Full-Stop a la vida</LocalizedName>
+      <LocalizedName>Parada Cardíaca</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="402010">
-      <LocalizedName>Más allá de la sombra</LocalizedName>
+      <LocalizedName>Além das Sombras</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="403001">
-      <LocalizedName>Grieta del amanecer</LocalizedName>
+      <LocalizedName>Grito do Amanhecer</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="403002">
-      <LocalizedName>Destello del sol</LocalizedName>
+      <LocalizedName>Brilho do Nascer do Sol</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="403003">
-      <LocalizedName>Corte de mariposa</LocalizedName>
+      <LocalizedName>Corte Borboleta</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="403004">
       <LocalizedName>Expulsar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="403005">
-      <LocalizedName>Espada del atardecer</LocalizedName>
+      <LocalizedName>Espada Do Entardecer</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="403006">
-      <LocalizedName>Manejar solicitud</LocalizedName>
+      <LocalizedName>Lidar com a Solicitação<LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="403007">
       <LocalizedName>Estigmatizar</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- (Gaze office)-->
     <BattleCardDesc ID="404001">
       <LocalizedName>Observar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="404002">
-      <LocalizedName>Oportunidad encontrada</LocalizedName>
+      <LocalizedName>Oportunidade Encontrada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="404003">
-      <LocalizedName>Brazos de contención</LocalizedName>
+      <LocalizedName>Braços de Contenção</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="404004">
-      <LocalizedName>Eres un estorbo</LocalizedName>
+      <LocalizedName>Você é um Obstáculo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="404005">
       <LocalizedName>Zzzzzap</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="404006">
-      <LocalizedName>Descarga eléctrica</LocalizedName>
+      <LocalizedName>Descarga Eléctrica</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="404007">
-      <LocalizedName>Análisis estructural</LocalizedName>
+      <LocalizedName>Análise Estrutural</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="404008">
-      <LocalizedName>Mirada inevitable</LocalizedName>
+      <LocalizedName>Olhar Inevitável</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- tomerry -->
     <BattleCardDesc ID="405001">
-      <LocalizedName>Recuerdos vagos</LocalizedName>
+      <LocalizedName>Memórias Vagas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405002">
-      <LocalizedName>Tormenta de ira</LocalizedName>
+      <LocalizedName>Tormenta de Ira</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- tomerry enemy only -->
     <BattleCardDesc ID="405003">
@@ -503,174 +511,184 @@
       <LocalizedName>Ataque pesado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405005">
-      <LocalizedName>Carne puntiaguda</LocalizedName>
+      <LocalizedName>Avanço Puntiaguda</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405006">
-      <LocalizedName>Carga afilada</LocalizedName>
+      <LocalizedName>Avanço Afiado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405007">
-      <LocalizedName>Carga abultada</LocalizedName>
+      <LocalizedName>Avanço Pesada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405008">
-      <LocalizedName>Carga afilada</LocalizedName>
+      <LocalizedName>Avanço Pontiagudo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405009">
-      <LocalizedName>¿Los cuadrados se ven bien?</LocalizedName>
+      <LocalizedName>Os Quadrados Ficam Bonitos?</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405010">
-      <LocalizedName>¡Los triangulos suenan mejor!</LocalizedName>
+      <LocalizedName>Os Triângulos Parecem Melhor!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405011">
-      <LocalizedName>¡Vamos a jugar!</LocalizedName>
+      <LocalizedName>Vamos Brincar!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405012">
-      <LocalizedName>Love Town da la bienvenida a todos</LocalizedName>
+      <LocalizedName>A Cidade Do Amor Recebe Todos</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405013">
       <LocalizedName>Disturbio</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405014">
-      <LocalizedName>Látigo de amor</LocalizedName>
+      <LocalizedName>Laço de Amor</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- equal to 405001, 405002 -->
     <BattleCardDesc ID="405015">
-      <LocalizedName>Recuerdos vagos</LocalizedName>
+      <LocalizedName>Memórias Vagas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405016">
-      <LocalizedName>Tormenta de ira</LocalizedName>
+      <LocalizedName>Tormenta de Ira</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- Kurokumo clan -->
     <BattleCardDesc ID="406001">
       <LocalizedName>Entintar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="406002">
-      <LocalizedName>Hoja afilada</LocalizedName>
+      <LocalizedName>Lâmina Afiada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="406003">
-      <LocalizedName>Muro</LocalizedName>
+      <LocalizedName>Muro de Núvens</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="406004">
-      <LocalizedName>Corte claro</LocalizedName>
+      <LocalizedName>Corte para Cortar os Céus</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="406005">
-      <LocalizedName>Corte de disperación</LocalizedName>
+      <LocalizedName>Corte de Disperão</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="406006">
-      <LocalizedName>Niebla silenciosa</LocalizedName>
+      <LocalizedName>Neblina Silenciosa</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="406007">
-      <LocalizedName>Reglas de las callejuelas</LocalizedName>
+      <LocalizedName>Regras da Periferia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="406008">
-      <LocalizedName>Limpiar</LocalizedName>
+      <LocalizedName>Limpeza</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="406009">
-      <LocalizedName>Nube oscura</LocalizedName>
+      <LocalizedName>Núvem Escura</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- bremen -->
     <BattleCardDesc ID="407001">
-      <LocalizedName>Sonido pesado</LocalizedName>
+      <LocalizedName>Picos Pesados</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="407002">
-      <LocalizedName>Melodía inolvidable</LocalizedName>
+      <LocalizedName>Melodia Inesquecível</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="407003">
-      <LocalizedName>Ensayo</LocalizedName>
+      <LocalizedName>Ensaio Difícil</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="407004">
-      <LocalizedName>Santuario de la música</LocalizedName>
+      <LocalizedName>Santuário para Música</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="407005">
-      <LocalizedName>Rendimiento optimista</LocalizedName>
+      <LocalizedName>Performance Animada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="407006">
-      <LocalizedName>Sonido de tendones</LocalizedName>
+      <LocalizedName>Acorde de Tendões</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="407007">
-      <LocalizedName>Las notas rojas</LocalizedName>
+      <LocalizedName>As Notas Vermelhas</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- 쐐기 -->
     <BattleCardDesc ID="408001">
-      <LocalizedName>Atravesar</LocalizedName>
+      <LocalizedName>Transpassar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="408002">
-      <LocalizedName>Lanza de luz</LocalizedName>
+      <LocalizedName>Lança Faíscante</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="408003">
-      <LocalizedName>Colisión</LocalizedName>
+      <LocalizedName>Colisão</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="408004">
-      <LocalizedName>Barrido de lanza</LocalizedName>
+      <LocalizedName>Varredura de Lança</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="408005">
-      <LocalizedName>Apuñalamiento de alta-velocidad</LocalizedName>
+      <LocalizedName>Estocadas de Alta-Velocidad</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- philip only -->
     <BattleCardDesc ID="408006">
       <LocalizedName>Lamento</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="408007">
-      <LocalizedName>Golpe ardiente</LocalizedName>
+      <LocalizedName>Golpe Ardente</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="408008">
-      <LocalizedName>Espada abrasadora</LocalizedName>
+      <LocalizedName>Espada Cauterizante</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="408009">
-      <LocalizedName>Carga feroz</LocalizedName>
+      <LocalizedName>Avanço Feroz</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="408010">
-      <LocalizedName>Escudo de plumas</LocalizedName>
+      <LocalizedName>Escudo de Penas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="408011">
-      <LocalizedName>Atardecer triste</LocalizedName>
+      <LocalizedName>Entardecer Triste</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="408012">
-      <LocalizedName>Espada abrasadora</LocalizedName>
+      <LocalizedName>Espada Cauterizante</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="408013">
-      <LocalizedName>Escudo de plumas</LocalizedName>
+      <LocalizedName>Escudo de Penas</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- 녹슨 사슬파 -->
     <BattleCardDesc ID="409001">
-      <LocalizedName>¿Quieres probar esta cadena?</LocalizedName>
+      <LocalizedName>Quer um Gosto dessa Corrente?</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="409002">
-      <LocalizedName>Eres suave</LocalizedName>
+      <LocalizedName>Você é Fofo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="409003">
-      <LocalizedName>Esquiva frontal</LocalizedName>
+      <LocalizedName>Esquiva Frontal</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="409004">
-      <LocalizedName>Ataque de flanco</LocalizedName>
+      <LocalizedName>Flanquear</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="409005">
-      <LocalizedName>Aquí está mi oportunidad</LocalizedName>
+      <LocalizedName>Aqui Está Minha Chance</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="409006">
-      <LocalizedName>Cara-a-cara</LocalizedName>
+      <LocalizedName>Cara-a-Cara</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="409007">
-      <LocalizedName>Ahora muere</LocalizedName>
+      <LocalizedName>Agora Morra</LocalizedName>
     </BattleCardDesc>
+
+
 
 
     <!-- 공방 소속 해결사 -->
     <BattleCardDesc ID="410001">
-      <LocalizedName>Arreglar arma</LocalizedName>
+      <LocalizedName>Reparar Arma</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="410002">
-      <LocalizedName>Apuñalar y detonar</LocalizedName>
+      <LocalizedName>Apunhalar e Detonar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="410003">
-      <LocalizedName>Afilar</LocalizedName>
+      <LocalizedName>Afiar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="410004">
       <LocalizedName>Refinar</LocalizedName>
@@ -678,142 +696,149 @@
     
     <!-- shi -->
     <BattleCardDesc ID="501001">
-      <LocalizedName>Límite de la muerte</LocalizedName>
+      <LocalizedName>Limite Da Morte</LocalizedName>
       <!-- 사(죽을 사:死)의 경계 -->
     </BattleCardDesc>
     <BattleCardDesc ID="501002">
-      <LocalizedName>Borde extremo</LocalizedName>
+      <LocalizedName>Fronteira Extremo</LocalizedName>
       <!-- 극(극진할 극:極)검(剣) -->
     </BattleCardDesc>
     <BattleCardDesc ID="501003">
-      <LocalizedName>Ataque veloz</LocalizedName>
+      <LocalizedName>Ataque Cintilante</LocalizedName>
       <!-- 섬(번쩍일 섬:閃)격(칠 격:撃) -->
     </BattleCardDesc>
     <BattleCardDesc ID="501004">
-      <LocalizedName>Espada voladora</LocalizedName>
+      <LocalizedName>Espada Voadora</LocalizedName>
       <!-- 비(날 비:飛)검(剣) -->
     </BattleCardDesc>
     <BattleCardDesc ID="501005">
-      <LocalizedName>Batalla interminable</LocalizedName>
+      <LocalizedName>Batalha Interminavel</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="501006">
-      <LocalizedName>Lucha desesperada</LocalizedName>
+      <LocalizedName>Luta Desesperada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="501007">
-      <LocalizedName>Para superar la crisis</LocalizedName>
+      <LocalizedName>Para Superar a Crise</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- puppet -->
     <BattleCardDesc ID="502001">
-      <LocalizedName>Movimiento automatizado</LocalizedName>
+      <LocalizedName>Movimento Automatizado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="502002">
-      <LocalizedName>Maniquí</LocalizedName>
+      <LocalizedName>Manequins</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="502003">
-      <LocalizedName>Carne reprimida</LocalizedName>
+      <LocalizedName>Carne Reprimida</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="502004">
-      <LocalizedName>Gesto enérgico</LocalizedName>
+      <LocalizedName>Gesto Forçado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="502005">
       <LocalizedName>Gigigig</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="502006">
-      <LocalizedName>Crujir</LocalizedName>
+      <LocalizedName>Creak</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="502007">
-      <LocalizedName>Barrera de marioneta</LocalizedName>
+      <LocalizedName>Barreira de Marionetes</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- circus -->
     <BattleCardDesc ID="503001">
-      <LocalizedName>Uñas afiladas</LocalizedName>
+      <LocalizedName>Unhas Afiadas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="503002">
-      <LocalizedName>Circo de cuchillos</LocalizedName>
+      <LocalizedName>Facas do Circo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="503003">
-      <LocalizedName>Malabares</LocalizedName>
+      <LocalizedName>Malabarismo</LocalizedName>
       <!-- juggling -->
     </BattleCardDesc>
     <BattleCardDesc ID="503004">
-      <LocalizedName>Comodín</LocalizedName>
+      <LocalizedName>Coringa</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="503005">
-      <LocalizedName>Garras del león</LocalizedName>
+      <LocalizedName>Garras do Leão</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="503006">
-      <LocalizedName>Actuación del monociclo</LocalizedName>
+      <LocalizedName>Ato de Monociclo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="503007">
-      <LocalizedName>Carga pesada</LocalizedName>
+      <LocalizedName>Carga Pesada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="503008">
-      <LocalizedName>Que comience el espectáculo</LocalizedName>
+      <LocalizedName>Que Comece o Espetáculo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="503009">
-      <LocalizedName>Malabares</LocalizedName>
+      <LocalizedName>Malabarismo</LocalizedName>
       <!-- juggling -->
     </BattleCardDesc>
     <BattleCardDesc ID="503010">
-      <LocalizedName>Comodín</LocalizedName>
+      <LocalizedName>Coringa</LocalizedName>
     </BattleCardDesc>
 
+
     <!-- 성냥불 -->
+
 
     <BattleCardDesc ID="1100003">
       <LocalizedName>Fósforo</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- 청소부 -->
     <BattleCardDesc ID="504001">
       <LocalizedName>333… 1973</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="504002">
-      <LocalizedName>Desechar basura</LocalizedName>
+      <LocalizedName>Jogar o Lixo Fora</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="504003">
-      <LocalizedName>Limpieza de las callejuelas</LocalizedName>
+      <LocalizedName>Limpeza na Periferia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="504004">
-      <LocalizedName>Por la familia</LocalizedName>
+      <LocalizedName>Pela Família</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="504005">
-      <LocalizedName>Extraer combustible</LocalizedName>
+      <LocalizedName>Extrair Combustível</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="504006">
-      <LocalizedName>Noche en las callejuelas</LocalizedName>
+      <LocalizedName>Noite na Periferia</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="505001">
-      <LocalizedName>A donde el Precepto apunta</LocalizedName>
+      <LocalizedName>Para onde a Prescrição Aponta</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="505002">
-      <LocalizedName>Cumplir el Precepto</LocalizedName>
+      <LocalizedName>Cumprir a Prescrição</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="505003">
-      <LocalizedName>Ejecutar</LocalizedName>
+      <LocalizedName>Executar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="505004">
-      <LocalizedName>Voluntad del Precepto</LocalizedName>
+      <LocalizedName>Vontade da Prescrição</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="505005">
-      <LocalizedName>Fe</LocalizedName>
+      <LocalizedName>Fé</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="505006">
-      <LocalizedName>Persona acorralada</LocalizedName>
+      <LocalizedName>Sentidos Encurradalos</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="505007">
-      <LocalizedName>Espada de Prosélito</LocalizedName>
+      <LocalizedName>Espada do Prosélito</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- seven -->
     <BattleCardDesc ID="511001">
-      <LocalizedName>Engagement</LocalizedName> <!-- read in a french accent. -->
+      <LocalizedName>Engajar</LocalizedName> <!-- read in a french accent. -->
     </BattleCardDesc>
     <BattleCardDesc ID="511002">
-      <LocalizedName>Riposte</LocalizedName>
+      <LocalizedName>Ripostar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="511003">
       <LocalizedName>Flèche</LocalizedName>
@@ -825,60 +850,63 @@
       <LocalizedName>En garde</LocalizedName>
     </BattleCardDesc>
 
-    <!-- sword -->
+
+    <!-- Blade Lineage-->
     <BattleCardDesc ID="512001">
-      <LocalizedName>Desenvaina la espada</LocalizedName>
+      <LocalizedName>Sacar da Espada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="512002">
       <LocalizedName>Acupuntura</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="512003">
-      <LocalizedName>Ceder mi carne</LocalizedName>
+      <LocalizedName>Abstenho Minha Carne</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="512004">
-      <LocalizedName>Derribar</LocalizedName>
+      <LocalizedName>Derrubar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="512005">
-      <LocalizedName>Asesinar</LocalizedName>
+      <LocalizedName>Assassinar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="512006">
-      <LocalizedName>Para reclamar sus huesos</LocalizedName> <!-- follow-up from 512003 -->
+      <LocalizedName>Para Tomar Teus Ossos</LocalizedName> <!-- follow-up from 512003 -->
     </BattleCardDesc>
     <!-- 1급 해결사 -->
     <BattleCardDesc ID="513002">
       <LocalizedName>Mutilar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="513003">
-      <LocalizedName>Puñalada profunda</LocalizedName>
+      <LocalizedName>Apunhalada Profunda</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="513004">
-      <LocalizedName>Un momento critico</LocalizedName>
+      <LocalizedName>Um Momento Crítico</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="513005">
-      <LocalizedName>Derramando entrañas</LocalizedName>
+      <LocalizedName>Remover Entranhas</LocalizedName>
     </BattleCardDesc>
 
+    <!-- EGO -->
     <BattleCardDesc ID="910001">
-      <LocalizedName>Cuarta llama del fósforo</LocalizedName>
+      <LocalizedName>Quarta Chama do Fósforo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910002">
-      <LocalizedName>El olvidado</LocalizedName>
+      <LocalizedName>O Esquecido</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910003">
-      <LocalizedName>Aleteos</LocalizedName>
+      <LocalizedName>Bater De Asas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910004">
-      <LocalizedName>Avispón</LocalizedName>
+      <LocalizedName>Ferrão</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910005">
-      <LocalizedName>Tallo verde</LocalizedName>
+      <LocalizedName>Talho Verde/LocalizedName>
     </BattleCardDesc>
 
+    <!-- WARP -->
     <BattleCardDesc ID="506001">
-      <LocalizedName>Rasgar espacio</LocalizedName>
+      <LocalizedName>Rasgar o Espaço</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="506002">
-      <LocalizedName>Grieta dimensional</LocalizedName>
+      <LocalizedName>Fenda Dimensional</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="506003">
       <LocalizedName>Onda</LocalizedName>
@@ -893,184 +921,195 @@
       <LocalizedName>Salto</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="506007">
-      <LocalizedName>Ciclo de energía</LocalizedName>
+      <LocalizedName>Ciclo de Energía</LocalizedName>
     </BattleCardDesc>
 
+    <!-- Smiling Faces -->
     <BattleCardDesc ID="507001">
-      <LocalizedName>Fumada profunda</LocalizedName>
+      <LocalizedName>Tragada Profunda</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="507002">
-      <LocalizedName>Filete de carne</LocalizedName>
+      <LocalizedName>Filet de Carne</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="507003">
-      <LocalizedName>Inhalar humo</LocalizedName>
+      <LocalizedName>Inalar Fumaça</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="507004">
-      <LocalizedName>Rastro de humo</LocalizedName>
+      <LocalizedName>Rastro de Fumo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="507005">
-      <LocalizedName>Espada escondida</LocalizedName>
+      <LocalizedName>Espada Escondida</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="507006">
-      <LocalizedName>La pipa</LocalizedName>
+      <LocalizedName>Cachimbo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="507007">
-      <LocalizedName>Perdida de sentidos</LocalizedName>
+      <LocalizedName>Perda de Sentidos</LocalizedName>
     </BattleCardDesc>
 
+  <!-- EGO -->
     <BattleCardDesc ID="1100002">
       <LocalizedName>Aprender</LocalizedName>
-      <Ability>[Comienzo del choque] remplaza todos los dados con los de la página del oponente</Ability>
+      <Ability>[Começo do Embate] Troque todos os dados com os nas páginas do oponente</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="1100004">
       <LocalizedName>Fósforo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100005">
-      <LocalizedName>Solicitud</LocalizedName>
+      <LocalizedName>Solicitação</LocalizedName>
     </BattleCardDesc>
 
+    <!-- EGO -->
     <BattleCardDesc ID="910011">
-      <LocalizedName>Arrepentimiento</LocalizedName>
+      <LocalizedName>Arrependimento</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910012">
-      <LocalizedName>Grinder Mk. 5-2</LocalizedName>
+      <LocalizedName>Moedor Mk. 5-2</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910013">
-      <LocalizedName>Armonía</LocalizedName>
+      <LocalizedName>Harmonia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910014">
-      <LocalizedName>Lamento solemne</LocalizedName>
+      <LocalizedName>Lamento Solene</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910015">
-      <LocalizedName>Bala mágica</LocalizedName>
+      <LocalizedName>Bala Mágica</LocalizedName>
     </BattleCardDesc>
+
 
     <BattleCardDesc ID="508010">
-      <LocalizedName>Golpe ardiente</LocalizedName>
+      <LocalizedName>Golpe Ardente</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="508011">
-      <LocalizedName>Carga feroz</LocalizedName>
+      <LocalizedName>Avanço Feroz</LocalizedName>
     </BattleCardDesc>
 
+  <!-- Crying Children -->
     <BattleCardDesc ID="508001">
-      <LocalizedName>Dolor inconsolable</LocalizedName>
+      <LocalizedName>Aflição Inconsolável</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="508002">
-      <LocalizedName>Herida de tristeza</LocalizedName>
+      <LocalizedName>Ferida de Tristeza</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="508003">
-      <LocalizedName>Ilusión distorsionada</LocalizedName>
+      <LocalizedName>Ilusião Distorcida/LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="508004">
-      <LocalizedName>Ilusión pasada</LocalizedName>
+      <LocalizedName>Ilusões Passada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="508005">
-      <LocalizedName>Contener</LocalizedName>
+      <LocalizedName>Conter</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="508006">
-      <LocalizedName>Murmullo</LocalizedName>
+      <LocalizedName>Murmuro</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="508007">
-      <LocalizedName>Golpe de ala</LocalizedName>
+      <LocalizedName>Golpe de Asas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="508008">
       <LocalizedName>Victimizar</LocalizedName>
     </BattleCardDesc>
 
+  <!-- LIU -->
     <BattleCardDesc ID="601001">
-      <LocalizedName>Turbulencia de emociones</LocalizedName>
+      <LocalizedName>Turbulência Emocional</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601002">
-      <LocalizedName>Ardor interior</LocalizedName>
+      <LocalizedName>Ardor Interior</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601003">
-      <LocalizedName>Flujo de la espada</LocalizedName>
+      <LocalizedName>Fluxo da Espada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601004">
-      <LocalizedName>Defensa robusta</LocalizedName>
+      <LocalizedName>Defensa Robusta</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601005">
-      <LocalizedName>Espada rápida</LocalizedName>
-      <!-- 속도 + 검-->
+      <LocalizedName>Espada Rápida</LocalizedName>
+
+      <!-- 속도 + 검 LIU-->
     </BattleCardDesc>
     <BattleCardDesc ID="601006">
-      <LocalizedName>Acometida abajo</LocalizedName>
+      <LocalizedName>Encurralar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601007">
-      <LocalizedName>Asalto frontal</LocalizedName>
+      <LocalizedName>Assalto Frontal</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="601008">
-      <LocalizedName>Tormenta creciente</LocalizedName>
+      <LocalizedName>Tempestade Emergente</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601009">
       <LocalizedName>Tiěshānkào</LocalizedName>
       <!-- 鉄山靠 -->
     </BattleCardDesc>
     <BattleCardDesc ID="601010">
-      <LocalizedName>Patada de vendaval</LocalizedName>
+      <LocalizedName>Chute Vendaval</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601011">
-      <LocalizedName>Patada alta</LocalizedName>
+      <LocalizedName>Chute Alto</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601012">
-      <LocalizedName>Muro de hierro</LocalizedName>
+      <LocalizedName>Muralha de Ferro</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601013">
-      <LocalizedName>Guerra total</LocalizedName>
+      <LocalizedName>Guerra Total</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601014">
-      <LocalizedName>Tormenta furiosa: Daño</LocalizedName>
+      <LocalizedName>Tempestade Furosa: Dano</LocalizedName>
     </BattleCardDesc>
 
+  <!-- EGO -->
     <BattleCardDesc ID="910016">
-      <LocalizedName>Expresión de hoy</LocalizedName>
+      <LocalizedName>Expressão de Hoje</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910017">
-      <LocalizedName>Deseo sanguinario</LocalizedName>
+      <LocalizedName>Desejo Sanguinário</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910018">
-      <LocalizedName>Ojos rojos</LocalizedName>
+      <LocalizedName>Olhos Vermelhos</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910019">
       <LocalizedName>Laetitia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910020">
-      <LocalizedName>Cisne negro</LocalizedName>
+      <LocalizedName>Cisne Negro</LocalizedName>
     </BattleCardDesc>
+
 
     <BattleCardDesc ID="910117">
-      <LocalizedName>Pequeño regalo</LocalizedName>
+      <LocalizedName>Pequeno Presente</LocalizedName>
     </BattleCardDesc>
 
+  <!-- Thumb -->
     <BattleCardDesc ID="602001">
-      <LocalizedName>Recargar</LocalizedName>
+      <LocalizedName>Recarregar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602002">
-      <LocalizedName>Combate de bayoneta</LocalizedName>
+      <LocalizedName>Combate De Bayoneta</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602003">
-      <LocalizedName>Disparo de supresión</LocalizedName>
+      <LocalizedName>Disparo de Supressão</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602004">
-      <LocalizedName>Impacto de bala</LocalizedName>
+      <LocalizedName>Munição de Impacto</LocalizedName>
       <!-- not considered an 'Ammunition'-->
     </BattleCardDesc>
     <BattleCardDesc ID="602005">
-      <LocalizedName>Fuego sorpresa</LocalizedName>
+      <LocalizedName>Fogo Surpresa</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602006">
-      <LocalizedName>Fuego centrado</LocalizedName>
+      <LocalizedName>Fogo Concentrado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602007">
-      <LocalizedName>Guardia feroz</LocalizedName>
+      <LocalizedName>Guarda Férrea</LocalizedName>
       <!-- originally 'Guarding stance' -->
     </BattleCardDesc>
     <BattleCardDesc ID="602008">
-      <LocalizedName>Nudillos de acero</LocalizedName>
+      <LocalizedName>Punhos de Aço</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602009">
-      <LocalizedName>Resumen del juicio</LocalizedName>
+      <LocalizedName>Julgamento Resumido</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602010">
       <LocalizedName>Disciplina</LocalizedName>
@@ -1080,120 +1119,127 @@
       <LocalizedName>Le Regole</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602012">
-      <LocalizedName>Clase y respeto</LocalizedName>
+      <LocalizedName>Classe e Respeito</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- Ammunition pages -->
     <BattleCardDesc ID="602020">
-      <LocalizedName>Munición penetrante</LocalizedName>
+      <LocalizedName>Munição Perfurante</LocalizedName>
       <!-- 철갑(徹甲) -->
     </BattleCardDesc>
     <BattleCardDesc ID="602021">
-      <LocalizedName>Munición de escarcha</LocalizedName>
+      <LocalizedName>Munição Gélida</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="602022">
-      <LocalizedName>Munición de llama</LocalizedName>
+      <LocalizedName>Munição Incendiária</LocalizedName>
     </BattleCardDesc>
 
+<!-- Cane Office -->
     <BattleCardDesc ID="603001">
-      <LocalizedName>Rayo de energía</LocalizedName>
+      <LocalizedName>Raio de Energia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="603002">
-      <LocalizedName>Absorber impacto</LocalizedName>
+      <LocalizedName>Absorver Impacto</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="603003">
-      <LocalizedName>¡Una oportunidad de oro!</LocalizedName>
+      <LocalizedName>Uma Oportunidade de Ouro!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="603004">
-      <LocalizedName>Golpe de destrucción</LocalizedName>
+      <LocalizedName>Golpes Devastadores</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="603005">
-      <LocalizedName>¡Listo!</LocalizedName>
+      <LocalizedName>Se Preparem!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="603006">
-      <LocalizedName>Escudo de energía</LocalizedName>
+      <LocalizedName>Escudo de Energia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="603007">
-      <LocalizedName>Conversión de energia</LocalizedName>
+      <LocalizedName>Conversão de Energia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="603008">
-      <LocalizedName>Ataque misterioso</LocalizedName>
+      <LocalizedName>Ataque Estranho</LocalizedName>
     </BattleCardDesc>
 
+    <!-- Gears -->
     <BattleCardDesc ID="604001">
       <LocalizedName>Vapor</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="604002">
-      <LocalizedName>Orden de defensa</LocalizedName>
+      <LocalizedName>Ordem de Defensa</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="604003">
-      <LocalizedName>Carrera autónoma</LocalizedName>
+      <LocalizedName>Corrida Autônoma</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="604004">
-      <LocalizedName>Orden de asalto</LocalizedName>
+      <LocalizedName>Ordem de Assalto</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="604005">
-      <LocalizedName>Guiado por engranajes</LocalizedName>
+      <LocalizedName>Guiado pelas Engranagens</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="604021">
-      <LocalizedName>Sendero azul</LocalizedName>
+      <LocalizedName>Rastro Azul</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="604022">
       <LocalizedName>Preludio</LocalizedName>
       <!-- 전주 : 前奏 -->
     </BattleCardDesc>
     <BattleCardDesc ID="604023">
-      <LocalizedName>Espera</LocalizedName>
+      <LocalizedName>Esperar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="604024">
       <LocalizedName>Explorar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="604025">
-      <LocalizedName>Danza tempestuosa</LocalizedName>
+      <LocalizedName>Dança Tempestuosa</LocalizedName>
     </BattleCardDesc>
 
-    <!-- eGO -->
+
+ <!-- EGO -->
     <BattleCardDesc ID="910021">
-      <LocalizedName>Fragmentos de algún lugar</LocalizedName>
+      <LocalizedName>Fragmentos De Algum Lugar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910022">
-      <LocalizedName>Nuestra galaxia</LocalizedName>
+      <LocalizedName>Nossa Galáxia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910023">
-      <LocalizedName>Placer</LocalizedName>
+      <LocalizedName>Prazer</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910024">
-      <LocalizedName>Aroma débil</LocalizedName>
+      <LocalizedName>Aroma Fraco</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910025">
       <LocalizedName>Da Capo</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="1100006">
-      <LocalizedName>Actuación eterna</LocalizedName>
+      <LocalizedName>Performance Eterna</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="605001">
-      <LocalizedName>Erradicación</LocalizedName>
+      <LocalizedName>Erradicação</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="605002">
       <LocalizedName>Castigo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="605003">
-      <LocalizedName>Decapitación</LocalizedName>
+      <LocalizedName>Decapitação</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="605004">
-      <LocalizedName>Ataque solemne</LocalizedName>
+      <LocalizedName>Procuração Sombria</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="605005">
       <LocalizedName>Eliminar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="605006">
-      <LocalizedName>Cadenas de unión</LocalizedName>
+      <LocalizedName>Correntes de Amarração /LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="605007">
-      <LocalizedName>Cortadas múltiples</LocalizedName>
+      <LocalizedName>Corte Múltiplo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="605008">
       <LocalizedName>Desbloquear-Ⅰ</LocalizedName>
@@ -1205,83 +1251,89 @@
       <LocalizedName>Desbloquear-Ⅲ</LocalizedName>
     </BattleCardDesc>
 
-    <!-- enemy only -->
+
+<!-- enemy only -->
     <BattleCardDesc ID="605021">
-      <LocalizedName>Trayectoria pesada</LocalizedName>
+      <LocalizedName>Trajetória Pesada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="605022">
-      <LocalizedName>Trayectoria rápida</LocalizedName>
+      <LocalizedName>Trajetória Rápida</LocalizedName>
     </BattleCardDesc>
 
-    <!-- 환상체 카드용 -->
+
+<!-- 환상체 카드용 -->
     <BattleCardDesc ID="1100007">
-      <LocalizedName>Odio fútil</LocalizedName>
+      <LocalizedName>Odio Fútil</LocalizedName>
       <Ability>[Al usar] Agota esta página y restaura 1 de luz</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="1100008">
-      <LocalizedName>Desesperación desolada</LocalizedName>
+      <LocalizedName>Desespero Desamparado</LocalizedName>
       <Ability>[Al usar] Agota esta página y restaura 1 de luz</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="1100009">
-      <LocalizedName>Codicia infructuosa</LocalizedName>
+      <LocalizedName>Ganância Inútil</LocalizedName>
       <Ability>[Al usar] Agota esta página y restaura 1 de luz</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="1100010">
-      <LocalizedName>Ira frívola</LocalizedName>
+      <LocalizedName>Ira Frívola</LocalizedName>
       <Ability>[Al usar] Agota esta página y restaura 1 de luz</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="1100011">
-      <LocalizedName>Todo regresa al vacío</LocalizedName>
+      <LocalizedName>Tudo Volta para o Vazio</LocalizedName>
       <Ability>[Comienzo del combate] Agota todas las páginas de la mano. cada escena después de esto, gana fuerza y dureza igual al número de páginas agotadas de esta manera.</Ability>
     </BattleCardDesc>
 
 
+
+
     <BattleCardDesc ID="606001">
-      <LocalizedName>Tormenta furiosa: amor</LocalizedName>
+      <LocalizedName>Temstade Furiosa: Amor</LocalizedName>
       <!-- 샤오 카드.  애(愛) -->
     </BattleCardDesc>
     <BattleCardDesc ID="606002">
-      <LocalizedName>Puño del dragón llameante</LocalizedName>
+      <LocalizedName>Punho do Dragão Flamejante</LocalizedName>
       <!-- 염룡권(焰龍拳)-->
     </BattleCardDesc>
     <BattleCardDesc ID="606003">
-      <LocalizedName>Emociones fervientes</LocalizedName>
+      <LocalizedName>Emmoções Ferventes</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="606004">
-      <LocalizedName>Baile de llamas</LocalizedName>
+      <LocalizedName>Valsa Pírea</LocalizedName>
       <!--윤무(輪舞) -->
     </BattleCardDesc>
     <BattleCardDesc ID="606005">
-      <LocalizedName>Llama violenta</LocalizedName>
+      <LocalizedName>Chama Ciolenta</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="606006">
-      <LocalizedName>Puñalada a un punto</LocalizedName>
+      <LocalizedName>Facada de um Ponto</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="606007">
-      <LocalizedName>Destello ardiente</LocalizedName>
+      <LocalizedName>Clarão Ardente</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="606008">
-      <LocalizedName>Pasión interior</LocalizedName>
+      <LocalizedName>Paixão Interior</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="910026">
-      <LocalizedName>En el nombre del amor y odio</LocalizedName>
+      <LocalizedName>Em Nome do Amor e Ódio</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910027">
-      <LocalizedName>Espada afilada con lágrimas</LocalizedName>
+      <LocalizedName>Espada Afiada com Lágrimas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910028">
-      <LocalizedName>Carrera dorada</LocalizedName>
+      <LocalizedName>Corrida do Ouro</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910029">
-      <LocalizedName>Rabia ciega</LocalizedName>
+      <LocalizedName>Raiva Cega</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910030">
       <LocalizedName>Nihil</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="1100012 ">
-      <LocalizedName>Silencio</LocalizedName>
+      <LocalizedName>Silêncio</LocalizedName>
       <Ability>[Al jugar] recibe 15% del hP máximo como daño; todos los otros personajes pierden 5 de velocidad</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="1100013">
@@ -1289,140 +1341,146 @@
       <Ability>[Al jugar] recibe 10% del hP máximo como daño; gana 5 de velocidad</Ability>
     </BattleCardDesc>
 
+
     <!-- the red mist -->
     <BattleCardDesc ID="607001">
-      <LocalizedName>División mayor: Horizontal</LocalizedName>
+      <LocalizedName>Corte Maioral: Horizontal</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607002">
-      <LocalizedName>División mayor: Vertical</LocalizedName>
+      <LocalizedName>Corte Maioral: Vertical</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607003">
-      <LocalizedName>Corte vertical</LocalizedName>
+      <LocalizedName>Corte Íntegro</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607004">
-      <LocalizedName>Lanzas</LocalizedName>
+      <LocalizedName>Lança</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607005">
-      <LocalizedName>Corte horizontal</LocalizedName>
+      <LocalizedName>Corte Nivelado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607006">
-      <LocalizedName>Concentrar espíritu</LocalizedName>
+      <LocalizedName>Concentrar Espírito</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607007">
-      <LocalizedName>Arremeter</LocalizedName>
+      <LocalizedName>Arrancada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607008">
       <LocalizedName>Manifestar E.G.O</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607021">
-      <LocalizedName>División mayor: Horizontal</LocalizedName>
+      <LocalizedName>Corte Maior: Horizontal</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607022">
-      <LocalizedName>División mayor: Vertical</LocalizedName>
+      <LocalizedName>Corte Maior: Vertical</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- binah -->
     <BattleCardDesc ID="607201">
-      <LocalizedName>Candado degradado</LocalizedName>
+      <LocalizedName>Cadeado Degradado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607202">
-      <LocalizedName>Hada degradada</LocalizedName>
+      <LocalizedName>Fada Degradado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607203">
-      <LocalizedName>Onda de choque degradada</LocalizedName>
+      <LocalizedName>Onda de Choque Degradada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607204">
-      <LocalizedName>Pilar degradado</LocalizedName>
+      <LocalizedName>Pilar Degradado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="607205">
-      <LocalizedName>Cadena degradada</LocalizedName>
+      <LocalizedName>Corrente Degradado</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="608001">
-      <LocalizedName>Cuchillos salvajes</LocalizedName>
+      <LocalizedName>Facas Carniceiras</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608002">
-      <LocalizedName>Aplastar mente</LocalizedName>
+      <LocalizedName>Destruição Mental</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608003">
-      <LocalizedName>Demoler suelo</LocalizedName>
+      <LocalizedName>Dvisor de Solo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608004">
-      <LocalizedName>Desechar</LocalizedName>
+      <LocalizedName>Disposição</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608005">
-      <LocalizedName>Látigo mental</LocalizedName>
+      <LocalizedName>Chicote Mental</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608006">
-      <LocalizedName>Embestida de rino</LocalizedName>
+      <LocalizedName>Investida de Rinoceronte</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608007">
-      <LocalizedName>Fuego concentrado</LocalizedName>
+      <LocalizedName>Fogo Concentrado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608008">
-      <LocalizedName>Disparo milimétrico</LocalizedName>
+      <LocalizedName>Disparo Milimétrico</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608009">
-      <LocalizedName>Comando de batalla</LocalizedName>
+      <LocalizedName>Comando de Batalla</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608010">
-      <LocalizedName>Golpe de energía</LocalizedName>
+      <LocalizedName>Pancada de Energia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608011">
-      <LocalizedName>Impacto pesado</LocalizedName>
+      <LocalizedName>Impacto Parrudo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608012">
-      <LocalizedName>Cortes rápidos</LocalizedName>
+      <LocalizedName>Lacerações Rápidas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608013">
-      <LocalizedName>Supresión rápida</LocalizedName>
+      <LocalizedName>Supressão Rápida</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608014">
-      <LocalizedName>Pastar la hierba</LocalizedName>
+      <LocalizedName>Mato Pra Pastar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608015">
-      <LocalizedName>Concentración</LocalizedName>
+      <LocalizedName>Concentração</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608016">
-      <LocalizedName>Clon</LocalizedName>
+      <LocalizedName>Clone</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="608017">
-      <LocalizedName>Modo salvaje</LocalizedName>
+      <LocalizedName>Modo Selvagem</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- E.G.O -->
     <BattleCardDesc ID="910031">
-      <LocalizedName>Cicatriz carmesí</LocalizedName>
+      <LocalizedName>Cicatriz Carmesin</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910032">
-      <LocalizedName>Cicatriz de cobalto</LocalizedName>
+      <LocalizedName>Cicatriz de Cobalto</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910033">
-      <LocalizedName>Sonrisa</LocalizedName>
+      <LocalizedName>Sorriso</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910034">
-      <LocalizedName>Sediento</LocalizedName>
+      <LocalizedName>Dipsia </LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910035">
-      <LocalizedName>Mimetismo</LocalizedName>
+      <LocalizedName>Mímica</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- 마탄 -->
     <BattleCardDesc ID="920001">
-      <LocalizedName>Desincronizar</LocalizedName>
+      <LocalizedName>Dessincronizar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920002">
-      <LocalizedName>Ráfaga de balas</LocalizedName>
+      <LocalizedName>Enchente de Balas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920003">
-      <LocalizedName>Bala mágica</LocalizedName>
+      <LocalizedName>Cartucho Mágica</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920004">
-      <LocalizedName>Bala silenciosa</LocalizedName>
+      <LocalizedName>Cartucho Silenciosa</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920005">
-      <LocalizedName>Bala inevitable</LocalizedName>
+      <LocalizedName>Cartucho Inevitável</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- 붉은 두건의 용병 -->
     <BattleCardDesc ID="920101">
@@ -1441,89 +1499,95 @@
       <LocalizedName>Caparazón hueco</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="609001">
-      <LocalizedName>Técnica de espada serpiente</LocalizedName>
+      <LocalizedName>Técnica da Espada de Serpente</LocalizedName>
       <!-- 사(巳 : snake)검술-->
     </BattleCardDesc>
     <BattleCardDesc ID="609002">
-      <LocalizedName>Espada violeta</LocalizedName>
+      <LocalizedName>Lâmina Violeta</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609003">
-      <LocalizedName>Hendidura de serpiente</LocalizedName>
+      <LocalizedName>Corte de Serpente</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609004">
-      <LocalizedName>Presa de la serpiente</LocalizedName>
+      <LocalizedName>Presa da Serpente</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609005">
-      <LocalizedName>Laceración</LocalizedName>
+      <LocalizedName>Laceração</LocalizedName>
       <!-- 열상(裂傷) -->
     </BattleCardDesc>
     <BattleCardDesc ID="609006">
-      <LocalizedName>Colmillos venenosos</LocalizedName>
+      <LocalizedName>Presas Venenosas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609007">
-      <LocalizedName>Derribo</LocalizedName>
+      <LocalizedName>Derrubada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609008">
-      <LocalizedName>Impacto de la serpiente</LocalizedName>
+      <LocalizedName>Impacto da Serpente Maior</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609009">
       <LocalizedName>Duelo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609010">
-      <LocalizedName>Barrera serpentina</LocalizedName>
+      <LocalizedName>Barrera Serpentina</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609011">
-      <LocalizedName>Bloqueo</LocalizedName>
+      <LocalizedName>Aparar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609012">
-      <LocalizedName>Identificar punto débil</LocalizedName>
+      <LocalizedName>Identificar Ponto Fraco</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609013">
-      <LocalizedName>Tormenta de espejismo</LocalizedName>
+      <LocalizedName>Testade de Miragem</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="609020">
-      <LocalizedName>Postura cortante</LocalizedName>
+      <LocalizedName>Postura Cortante</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609021">
-      <LocalizedName>Postura penetrante</LocalizedName>
+      <LocalizedName>Postura Pergurante</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609022">
-      <LocalizedName>Postura contundente</LocalizedName>
+      <LocalizedName>Postura Contundente</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609023">
-      <LocalizedName>Postura de bloqueo</LocalizedName>
+      <LocalizedName>Postura de Guarda</LocalizedName>
     </BattleCardDesc>
+
+
 
 
     <!-- chesed ego -->
     <BattleCardDesc ID="910036">
-      <LocalizedName>Cosecha</LocalizedName>
+      <LocalizedName>Colheita</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910037">
-      <LocalizedName>Talar</LocalizedName>
+      <LocalizedName>Lenhar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910038">
-      <LocalizedName>Instinto de búsqueda</LocalizedName>
+      <LocalizedName>Instinto Caseiro</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910039">
-      <LocalizedName>Recuerdos desvanecidos</LocalizedName>
+      <LocalizedName>Memórias Póstumas/LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910040">
       <LocalizedName>Trono falso</LocalizedName>
     </BattleCardDesc>
 
+
     <!-- chesed special card-->
     <BattleCardDesc ID="1100014">
-      <LocalizedName>Olvido</LocalizedName>
+      <LocalizedName>Oblivio</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100015">
       <LocalizedName>Esmeralda</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100016">
-      <LocalizedName>Truco de magia</LocalizedName>
+      <LocalizedName>Truque de Magica</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- 샤오 -->
     <BattleCardDesc ID="610001">
@@ -1552,6 +1616,7 @@
       <!-- Also possibly suān ní -->
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="610008">
       <LocalizedName>Chī Wěn</LocalizedName>
       <!-- 螭吻 -->
@@ -1561,19 +1626,21 @@
       <!-- 饕餮 -->
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="610010">
-      <LocalizedName>Corte dragón ardiente</LocalizedName>
+      <LocalizedName>Coorte do Dragão Flamejante</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="610011">
-      <LocalizedName>Asalto coordinado</LocalizedName>
+      <LocalizedName>Assalto Coordenado</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="610012">
-      <LocalizedName>Incremento inverso</LocalizedName>
+      <LocalizedName>Escama Reversa</LocalizedName>
       <!-- 逆鱗 -->
     </BattleCardDesc>
     <BattleCardDesc ID="610013">
-      <LocalizedName>Incremento inverso</LocalizedName>
+      <LocalizedName>Escama Reversa</LocalizedName>
     </BattleCardDesc>
+
 
     <BattleCardDesc ID="610021">
       <LocalizedName>Yá Zì</LocalizedName>
@@ -1584,9 +1651,10 @@
       <!-- 饕餮 -->
     </BattleCardDesc>
 
+
     <!-- binah ego -->
     <BattleCardDesc ID="910041">
-      <LocalizedName>Lámpara</LocalizedName>
+      <LocalizedName>Lâmpada</LocalizedName>
       <!-- big bird -->
     </BattleCardDesc>
     <BattleCardDesc ID="910042">
@@ -1594,7 +1662,7 @@
       <!-- long bird -->
     </BattleCardDesc>
     <BattleCardDesc ID="910043">
-      <LocalizedName>Pico</LocalizedName>
+      <LocalizedName>Bico</LocalizedName>
       <!-- small bird -->
     </BattleCardDesc>
     <BattleCardDesc ID="910044">
@@ -1602,130 +1670,136 @@
       <!-- boss bird 1 -->
     </BattleCardDesc>
     <BattleCardDesc ID="910045">
-      <LocalizedName>Apocalipsis</LocalizedName>
+      <LocalizedName>Apocalipse</LocalizedName>
       <!-- boss bird 2 -->
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="1100017">
-      <LocalizedName>Pico pequeño</LocalizedName>
+      <LocalizedName>Biquinho</LocalizedName>
     </BattleCardDesc>
   
     <!-- yan only card -->
     <BattleCardDesc ID="611001">
-      <LocalizedName>Hoja distorsionada</LocalizedName>
+      <LocalizedName>Lâmina Distorcida</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611002">
-      <LocalizedName>Marca siniestra</LocalizedName>
+      <LocalizedName>Marca Sinistra</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611003">
-      <LocalizedName>Bloqueo</LocalizedName>
+      <LocalizedName>Trava</LocalizedName>
     </BattleCardDesc>
     <!-- yan player card -->
     <BattleCardDesc ID="611004">
-      <LocalizedName>Poder siniestro</LocalizedName>
+      <LocalizedName>Poder Sinistro</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611005">
-      <LocalizedName>Espada de voluntad</LocalizedName>
+      <LocalizedName>Espada de Vontade</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611006">
-      <LocalizedName>Fe ciega</LocalizedName>
+      <LocalizedName>Fé cega</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611007">
-      <LocalizedName>La voluntad de la Ciudad</LocalizedName>
+      <LocalizedName>A Vontade da Cidade</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- enemy only -->
     <BattleCardDesc ID="611008">
-      <LocalizedName>Hoja distorsionada</LocalizedName>
+      <LocalizedName>Lâmina Distorcida</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- yan hand card -->
     <BattleCardDesc ID="611021">
-      <LocalizedName>Puño gigante</LocalizedName>
+      <LocalizedName>Punho Gigante</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611022">
       <LocalizedName>Comprimir</LocalizedName> <!-- name changed from 'Huge palm' -->
     </BattleCardDesc>
     <BattleCardDesc ID="611023">
-      <LocalizedName>Ráfaga de puños</LocalizedName>
+      <LocalizedName>Enchurrada de Socos</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611024">
       <LocalizedName>Vigilia</LocalizedName> <!-- 경계(警戒) -->
     </BattleCardDesc>
+
 
     <!-- yan enemy buf card -->
     <BattleCardDesc ID="611031">
       <LocalizedName>Ataque</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611032">
-      <LocalizedName>Protección</LocalizedName>
+      <LocalizedName>Proteger</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611033">
       <LocalizedName>Vigilia</LocalizedName> <!-- 경계(警戒) -->
     </BattleCardDesc>
     <BattleCardDesc ID="611034">
-      <LocalizedName>Reparación</LocalizedName>
+      <LocalizedName>Reparar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611035">
       <LocalizedName>Resistir</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611036">
-      <LocalizedName>Reparar todo</LocalizedName>
+      <LocalizedName>Reparar Todos</LocalizedName>
     </BattleCardDesc>
   
     <!-- yan passive card -->
     <BattleCardDesc ID="611041">
-      <LocalizedName>Precepto-Ⅰ</LocalizedName>
+      <LocalizedName>Prescrição-Ⅰ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611042">
-      <LocalizedName>Precepto-Ⅱ</LocalizedName>
+      <LocalizedName>Prescrição-Ⅱ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611043">
-      <LocalizedName>Precepto-Ⅲ</LocalizedName>
+      <LocalizedName>Prescrição-Ⅲ</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611044">
-      <LocalizedName>Precepto-Ⅳ</LocalizedName>
+      <LocalizedName>Prescrição-Ⅳ</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="1100018">
-      <LocalizedName>Martir</LocalizedName>
+      <LocalizedName>Mártir</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100019">
-      <LocalizedName>Bautismo</LocalizedName>
+      <LocalizedName>Batismo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100020">
-      <LocalizedName>Bautismo sincero</LocalizedName>
+      <LocalizedName>Batismo Sincero</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- hokma ego -->
     <BattleCardDesc ID="910046">
       <LocalizedName>Paraíso</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910047">
-      <LocalizedName>Silencio muerto</LocalizedName>
+      <LocalizedName>Silêncio Morto</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910048">
-      <LocalizedName>Sonido de una estrella</LocalizedName>
+      <LocalizedName>Som de uma Estrela</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910049">
       <LocalizedName>Penitencia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910050">
-      <LocalizedName>Paraíso perdido</LocalizedName>
+      <LocalizedName>Paraíso Perdido</LocalizedName>
     </BattleCardDesc>
     
   <!-- white night card-->
     <BattleCardDesc ID="920201">
-      <LocalizedName>N0 tem4s</LocalizedName>
+      <LocalizedName>Não Temas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920202">
-      <LocalizedName>Bendición</LocalizedName>
+      <LocalizedName>Bênção</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920203">
-      <LocalizedName>Soy el salvador</LocalizedName>
+      <LocalizedName>Sou Vosso Salvador</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920204">
-      <LocalizedName>Conozcan m1 poder</LocalizedName>
+      <LocalizedName>Contemple Meu Poder</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920205">
       <LocalizedName>Bautismo</LocalizedName>
@@ -1733,135 +1807,141 @@
     
   <!-- 사도 -->
     <BattleCardDesc ID="920301">
-      <LocalizedName>Tú eres su hijo</LocalizedName>
+      <LocalizedName>Tu És Filho Dele</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920302">
-      <LocalizedName>Tú eres el Rey</LocalizedName>
+      <LocalizedName>Tu És o Rei</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920303">
-      <LocalizedName>¿Quieres que mandemos fuego?</LocalizedName>
+      <LocalizedName>Queres Que Digamos Que Desça Fogo do Céu?</LocalizedName>
     </BattleCardDesc>
+
 
     <BattleCardDesc ID="920401">
-      <LocalizedName>Te seguiré</LocalizedName>
+      <LocalizedName>Eu Vos Seguireis</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920402">
-      <LocalizedName>Hágase tu voluntad</LocalizedName>
+      <LocalizedName>Seja Feita a Vossa Vontade</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920403">
-      <LocalizedName>Te guardará de todo mal</LocalizedName>
+      <LocalizedName>Te Guardarei de Todo Mal</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="920501">
-      <LocalizedName>Mantienes mi lámpara encendida</LocalizedName>
+      <LocalizedName>Ascenderás a Minha Candeia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920502">
-      <LocalizedName>Tus palabras vienen a mi</LocalizedName>
+      <LocalizedName>Vieram Sobre Mim Suas Palavras</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920503">
-      <LocalizedName>Danos descanso</LocalizedName>
+      <LocalizedName>Dainos Descanso</LocalizedName>
     </BattleCardDesc>
     
     <BattleCardDesc ID="920601">
-      <LocalizedName>Porque Él es santo</LocalizedName>
+      <LocalizedName>Pois Ele É Santo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920602">
-      <LocalizedName>Hágase la voluntad del señor</LocalizedName>
+      <LocalizedName>Seja Feita Vossa Vontade</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920603">
-      <LocalizedName>Seré devoto a Él</LocalizedName>
+      <LocalizedName>A Ti Entrego Minha Vida</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920604">
-      <LocalizedName>La luz me guiará</LocalizedName>
+      <LocalizedName>A Tua Luz Me Guiará</LocalizedName>
     </BattleCardDesc>
+
 
 
     <BattleCardDesc ID="701001">
-      <LocalizedName>Formación de trigrama</LocalizedName>
+      <LocalizedName>Formação de Verdadeiros Trigrama</LocalizedName>
       <!-- 眞 卦(괘 of '팔괘') -->
     </BattleCardDesc>
     <BattleCardDesc ID="701002">
-      <LocalizedName>Impugnatio ultima</LocalizedName>
+      <LocalizedName>Impugnatio Ultima</LocalizedName>
       <!-- latin-ed to sound a lil cooler -->
     </BattleCardDesc>
     <BattleCardDesc ID="701003">
-      <LocalizedName>Reencuentro</LocalizedName>
+      <LocalizedName>Reencontro de Gume Duplo</LocalizedName>
       <!-- it is '합' of '합 승리' or '합 패배' -->
     </BattleCardDesc>
     <BattleCardDesc ID="701004">
-      <LocalizedName>Impacto de hexagrama</LocalizedName>
+      <LocalizedName>Impacto Divinitório</LocalizedName>
       <!-- 卦擊 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701005">
-      <LocalizedName>Patada de hexagrama</LocalizedName>
+      <LocalizedName>Chute de Augúrio</LocalizedName>
       <!-- 卦脚 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701006">
-      <LocalizedName>Lanza celestial</LocalizedName>
+      <LocalizedName>Lança Celestial</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="701007">
-      <LocalizedName>Velocidad divina</LocalizedName>
+      <LocalizedName>Passo Divino</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="701008">
-      <LocalizedName>Golpe implacable</LocalizedName>
+      <LocalizedName>Golpe Implacável</LocalizedName>
       <!-- 强擊 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701009">
-      <LocalizedName>Imagen residual</LocalizedName>
+      <LocalizedName>Imagen Residual</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="701010">
-      <LocalizedName>Confrontación</LocalizedName>
+      <LocalizedName>Confronto</LocalizedName>
       <!-- 對峙 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701011">
       <LocalizedName>Marcha</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="701012">
-      <LocalizedName>Determinación</LocalizedName>
+      <LocalizedName>Preparo</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="701021">
-      <LocalizedName>Geon de cuatro trigramas</LocalizedName>
+      <LocalizedName>Geon de Quatro Trigramas</LocalizedName>
       <!-- 乾. arbitrarily put "Four trigrams -" in front of the names for the part of the audience that will not be familiar with the whole thing. -->
     </BattleCardDesc>
     <BattleCardDesc ID="701022">
-      <LocalizedName>Gon de cuatro trigramas</LocalizedName>
+      <LocalizedName>Gon de Quatro Trigramas</LocalizedName>
       <!-- 坤 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701023">
-      <LocalizedName>Gam de cuatro trigramas</LocalizedName>
+      <LocalizedName>Gam de Quatro Trigramas</LocalizedName>
       <!-- 坎 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701024">
-      <LocalizedName>Ri de cuatro trigramas</LocalizedName>
+      <LocalizedName>Ri de Quatro Trigramas</LocalizedName>
       <!-- 離 -->
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="702001">
-      <LocalizedName>Taller Allas</LocalizedName>
+      <LocalizedName>Oficinas Allas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702002">
-      <LocalizedName>Industria Wheels</LocalizedName>
+      <LocalizedName>Industrias Wheels</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702003">
-      <LocalizedName>Taller Zelkova</LocalizedName>
+      <LocalizedName>Oficinas Zelkova</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702004">
-      <LocalizedName>Taller Old boys</LocalizedName>
+      <LocalizedName>Oficinas Old Boys</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702005">
-      <LocalizedName>Taller Mook</LocalizedName>
+      <LocalizedName>Oficinas Mook</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702006">
-      <LocalizedName>Taller Ranga</LocalizedName>
+      <LocalizedName>Oficinas Ranga</LocalizedName>
       <!-- pronounced rang-ah, not to be confused with a corruption of the word orangutan. -->
     </BattleCardDesc>
     <BattleCardDesc ID="702007">
-      <LocalizedName>Crystal Atelier</LocalizedName>
+      <LocalizedName>Crystal Ateliê</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702008">
-      <LocalizedName>Lógicas Atelier</LocalizedName>
+      <LocalizedName>Lógisticas Ateliê</LocalizedName>
     </BattleCardDesc>
+
 
     <BattleCardDesc ID="702009">
       <LocalizedName>Durandal</LocalizedName>
@@ -1869,6 +1949,8 @@
     <BattleCardDesc ID="702010">
       <LocalizedName>Furioso</LocalizedName>
     </BattleCardDesc>
+
+
 
 
     <BattleCardDesc ID="704001">
@@ -1916,6 +1998,7 @@
       <LocalizedName>Danza tempestuosa</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="704015">
       <LocalizedName>Garras carmesí</LocalizedName>
     </BattleCardDesc>
@@ -1929,9 +2012,11 @@
       <LocalizedName>Canto de gallo</LocalizedName>
     </BattleCardDesc>
 
+
     <BattleCardDesc ID="704101">
       <LocalizedName>Cuerdas de marioneta</LocalizedName>
     </BattleCardDesc>
+
 
     <BattleCardDesc ID="704102">
       <LocalizedName>Contrato sin firmar: Libertad</LocalizedName>
@@ -1948,6 +2033,7 @@
     <BattleCardDesc ID="704106">
       <LocalizedName>Contrato sin firmar: Luz</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- 검은침묵 2페이즈 카드 -->
     <BattleCardDesc ID="702101">
@@ -1978,6 +2064,7 @@
       <LocalizedName>Tentáculos punzantes</LocalizedName>
     </BattleCardDesc>
 
+
     <!--필립 1차-->
     <BattleCardDesc ID="707101">
       <LocalizedName>Coraje distorcionado</LocalizedName>
@@ -1994,6 +2081,7 @@
     <BattleCardDesc ID="707105">
       <LocalizedName>Desesperación abrasadora</LocalizedName>
     </BattleCardDesc>
+
 
           <!-- the black silence, phase 3-->
     <BattleCardDesc ID="705201">
@@ -2047,6 +2135,7 @@
     <BattleCardDesc ID="705218">
       <LocalizedName>Vigilancia</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- the black silence, phase 4-->
     <BattleCardDesc ID="702301">
@@ -2104,6 +2193,7 @@
       <LocalizedName>Vacío</LocalizedName>
     </BattleCardDesc>
 
+
 <!-- 뒤틀린 오스왈드-->
     <BattleCardDesc ID="707501">
       <LocalizedName>¿Comenzamos el espectáculo~?</LocalizedName>
@@ -2135,6 +2225,7 @@
     <BattleCardDesc ID="707510">
       <LocalizedName>¡¡¡TROMPETAS!!!</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- 뒤틀린 재헌-->
     <BattleCardDesc ID="707701">
@@ -2177,6 +2268,7 @@
       <LocalizedName>Hilos rojos</LocalizedName>
     </BattleCardDesc>
 
+
     <!-- 뒤틀린 타냐-->
     <BattleCardDesc ID="707604">
       <LocalizedName>Intimidar</LocalizedName>
@@ -2200,6 +2292,7 @@
       <LocalizedName>Asalto negro azabache</LocalizedName>
     </BattleCardDesc>
 
+
     <!-- claw -->
     <BattleCardDesc ID="706001">
       <LocalizedName>Trayectoria</LocalizedName>
@@ -2220,6 +2313,7 @@
       <LocalizedName>Suero K</LocalizedName>
     </BattleCardDesc>
 
+
     <!-- head -->
     <BattleCardDesc ID="706011">
       <LocalizedName>Línea delgada</LocalizedName>
@@ -2236,6 +2330,7 @@
     <BattleCardDesc ID="706015">
       <LocalizedName>Jaula</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- binah upgrade -->
     <BattleCardDesc ID="706201">
@@ -2254,6 +2349,7 @@
       <LocalizedName>Cadena</LocalizedName>
     </BattleCardDesc>
 
+
     <!-- keter ego -->
     <BattleCardDesc ID="910006">
       <LocalizedName>Muñecas cortadas</LocalizedName>
@@ -2270,6 +2366,7 @@
     <BattleCardDesc ID="910010">
       <LocalizedName>Remordimiento</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- new may 16th file adjustment thing -->
     <!-- 밤의 송곳 (Night awls) -->
@@ -2292,6 +2389,7 @@
       <LocalizedName>Estilete</LocalizedName>
     </BattleCardDesc>
 
+
     <!-- 정사무소 해결사 (Jeong's office) -->
     <BattleCardDesc ID="411101">
       <LocalizedName>Día y noche</LocalizedName>
@@ -2308,6 +2406,7 @@
     <BattleCardDesc ID="411105">
       <LocalizedName>Sakura</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- 우제트 (Udjat) -->
     <BattleCardDesc ID="613001">
@@ -2329,6 +2428,7 @@
       <LocalizedName>El udjat</LocalizedName>
     </BattleCardDesc>
 
+
     <!-- 미래생명 (Mirae life insurance) -->
     <BattleCardDesc ID="614001">
       <LocalizedName>Intercambio</LocalizedName>
@@ -2349,6 +2449,7 @@
       <LocalizedName>Seguro de vida</LocalizedName>
     </BattleCardDesc>
 
+
     <!-- 공방소속 (Leaflet Workshop) -->
     <BattleCardDesc ID="615001">
       <LocalizedName>Prueba</LocalizedName>
@@ -2368,6 +2469,7 @@
     <BattleCardDesc ID="615006">
       <LocalizedName>Inhalar humo</LocalizedName>
     </BattleCardDesc>
+
 
     <!-- 베이야드 (Bayard) -->
     <BattleCardDesc ID="616001">
@@ -2394,6 +2496,9 @@
 
 
 
+
+
+
     <BattleCardDesc ID="1100023">
       <LocalizedName>Coraje liquido</LocalizedName>
     </BattleCardDesc>
@@ -2411,5 +2516,9 @@
     </BattleCardDesc>
 
 
+
+
   </cardDescList>
 </BattleCardDescRoot>
+
+
