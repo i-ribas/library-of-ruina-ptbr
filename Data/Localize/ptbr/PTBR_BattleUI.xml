@@ -1,46 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <text id="BattleUI_StartBattle_Act">Escena {0}</text>
-  <text id="BattleUI_StartBattle_WaveInfo">Acto {0}</text>
-  <text id="BattleUI_Victory_Floor">El telón del acto {1} se cierra en el {0}</text>
-  <text id="BattleUI_Victory_Final">Baja el telón de la recepción
-  "{0}"</text>
-  <text id="BattleUI_Defeat_Floor">Acto {1} termina en {0} </text>
-  <text id="BattleUI_Defeat_Final">Recepción de {0} terminada</text>
+  <text id="BattleUI_StartBattle_Act">Cena {0}</text>
+  <text id="BattleUI_StartBattle_WaveInfo">Ato {0}</text>
+  <text id="BattleUI_Victory_Floor">As cortinas do Ato {1} abaixam-se no {0}</text>
+  <text id="BattleUI_Victory_Final">Abaixam-se as cortinas na Recepção{0}</text>
+  <text id="BattleUI_Defeat_Floor">Ato {1} termina no {0}</text>
+  <text id="BattleUI_Defeat_Final">Recepção de {0} terminada</text>
   <text id="BattleUI_HideCard">Ocultar</text>
   <text id="BattleUI_ShowCard">Mostrar</text>
-  <text id="BattleUI_GetBook">{0} Obtenido</text>
-  <text id="BattleUI_Abnormality">Anormalidad</text>
+  <text id="BattleUI_GetBook">{0} Obtido</text>
+  <text id="BattleUI_Abnormality">Anormalidade</text>
   <text id="BattleUI_Light">Luz</text>
-  <text id="BattleUI_Ability">Efecto</text>
-  <text id="BattleUI_Passive">Habilidad pasiva</text>
-  <text id="BattleUI_SelectAbnormality">Selecciona página de anormalidad</text>
-  <text id="BattleUI_Get_Emotion_Positive">Emoción positiva acumulada</text>
-  <text id="BattleUI_Get_Emotion_Negative">Emoción negativa acumulada</text>
-  <text id="BattleUI_Quick_Mode">Modo rápido</text>
-  <text id="BattleUI_MaxValue">¡Daño máximo!</text>
-  <text id="BattleUI_Breaked">¡Aturdido!</text>
-  <text id="BattleUI_SpeedDiceBonus">Bonus de velocidad</text>
-  <text id="BattleUI_Deflect">¡Desviado!</text>
+  <text id="BattleUI_Ability">Efeito</text>
+  <text id="BattleUI_Passive">Habilidade Passiva</text>
+  <text id="BattleUI_SelectAbnormality">Selecione uma Página de Anormalidade</text>
+  <text id="BattleUI_Get_Emotion_Positive">Emoção Positiva Acumulada</text>
+  <text id="BattleUI_Get_Emotion_Negative">Emoção Negativa Acumulada</text>
+  <text id="BattleUI_Quick_Mode">Modo Rápido</text>
+  <text id="BattleUI_MaxValue">Dano Máximo!</text>
+  <text id="BattleUI_Breaked">Atordoado!</text>
+  <text id="BattleUI_SpeedDiceBonus">Bônus de Velocidade</text>
+  <text id="BattleUI_Deflect">Defletido!</text>
   <text id="BattleUI_StartBattle_CreatureInfo">{0}</text>
-  <text id="BattleUI_Victory_Creature">Supresión de {0} completada</text>
-  <text id="BattleUI_Defeat_Creature">Supresión de {0} fallada</text>
+  <text id="BattleUI_Victory_Creature">Supressão de {0} completada</text>
+  <text id="BattleUI_Defeat_Creature">Supressão de {0} fracassada</text>
 
-  <text id="BattleUI_EmotionLevel">Nivel de emoción</text>
+  <text id="BattleUI_EmotionLevel">Nível de Emoção</text>
 
-  <text id="BattleUI_Selectegocard">Selecciona página E.G.O.</text>
+  <text id="BattleUI_Selectegocard">Selecione uma Página E.G.O.</text>
 
-  <text id="BattleUI_DiceTypeBonus">Poder de ventaja de tipo +{0}</text>
+  <text id="BattleUI_DiceTypeBonus">Poder de vantagem do tipo +{0}</text>
 
-  <text id="BattleUI_EmotionLevel_AddMaxPlayPoint">Luz máxima +1</text>
-  <text id="BattleUI_EmotionLevel_AddSpeedDice">Dado de velocidad +1</text>
-  <text id="BattleUI_EmotionLevel_AddDrawNum">Después de jugar dos o más páginas de combate esta escena, roba una página adicional la siguiente escena</text>
+  <text id="BattleUI_EmotionLevel_AddMaxPlayPoint">Luz Máxima +1</text>
+  <text id="BattleUI_EmotionLevel_AddSpeedDice">Dado de Velocidade +1</text>
+  <text id="BattleUI_EmotionLevel_AddDrawNum">Após jogar duas ou mais Páginas de Combate em uma Cena, compre mais uma página na próxima Cena</text>
 
 
   <text id="BattleUI_Book_DropProb">{0}: {1}%</text>
-  <text id="BattleUI_Book_DropNum">{0} copias</text>
+  <text id="BattleUI_Book_DropNum">{0} cópias</text>
 
-  <text id="BattleUI_Speed_Max">Velocidad máxima</text>
+  <text id="BattleUI_Speed_Max">Velocidade Máxima</text>
 
-  <text id="BattleUI_debuf">Problema de estado</text>
+  <text id="BattleUI_debuf">Status Negativo</text>
 </localize>
