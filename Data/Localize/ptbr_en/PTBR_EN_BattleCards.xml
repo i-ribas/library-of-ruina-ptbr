@@ -460,7 +460,7 @@
       <LocalizedName>Espada Do Entardecer</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="403006">
-      <LocalizedName>Lidar com a Solicitação<LocalizedName>
+      <LocalizedName>Lidar com a Solicitação</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="403007">
       <LocalizedName>Estigmatizar</LocalizedName>
@@ -898,7 +898,7 @@
       <LocalizedName>Ferrão</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910005">
-      <LocalizedName>Talho Verde/LocalizedName>
+      <LocalizedName>Talho Verde</LocalizedName>
     </BattleCardDesc>
 
     <!-- WARP -->
@@ -992,7 +992,7 @@
       <LocalizedName>Ferida de Tristeza</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="508003">
-      <LocalizedName>Ilusião Distorcida/LocalizedName>
+      <LocalizedName>Ilusião Distorcida</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="508004">
       <LocalizedName>Ilusões Passada</LocalizedName>
@@ -1236,7 +1236,7 @@
       <LocalizedName>Eliminar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="605006">
-      <LocalizedName>Correntes de Amarração /LocalizedName>
+      <LocalizedName>Correntes de Amarração</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="605007">
       <LocalizedName>Corte Múltiplo</LocalizedName>
@@ -1570,22 +1570,22 @@
       <LocalizedName>Instinto Caseiro</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910039">
-      <LocalizedName>Memórias Póstumas/LocalizedName>
+      <LocalizedName>Memórias Póstumas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910040">
-      <LocalizedName>Trono falso</LocalizedName>
+      <LocalizedName>Trono Falso</LocalizedName>
     </BattleCardDesc>
 
 
     <!-- chesed special card-->
     <BattleCardDesc ID="1100014">
-      <LocalizedName>Oblivio</LocalizedName>
+      <LocalizedName>Oblívio</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100015">
       <LocalizedName>Esmeralda</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100016">
-      <LocalizedName>Truque de Magica</LocalizedName>
+      <LocalizedName>Truque de Mágica</LocalizedName>
     </BattleCardDesc>
 
 
@@ -1628,7 +1628,7 @@
 
 
     <BattleCardDesc ID="610010">
-      <LocalizedName>Coorte do Dragão Flamejante</LocalizedName>
+      <LocalizedName>Corte do Dragão Flamejante</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="610011">
       <LocalizedName>Assalto Coordenado</LocalizedName>
@@ -1782,7 +1782,7 @@
       <LocalizedName>Som de uma Estrela</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910049">
-      <LocalizedName>Penitencia</LocalizedName>
+      <LocalizedName>Penitência</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910050">
       <LocalizedName>Paraíso Perdido</LocalizedName>
