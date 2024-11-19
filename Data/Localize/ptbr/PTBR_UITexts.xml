@@ -27,7 +27,7 @@
 	<text id="ui_maintitle_citystate_5">Pesadelo Urbano</text>
 	<text id="ui_ability_hp">HP</text>
 	<text id="ui_ability_break">resistência de atordoamento</text>
-	<text id="ui_ability_emotionlevel">nível de emoção máx.</text>
+	<text id="ui_ability_emotionlevel">Nível de emoção máximo.</text>
 	<text id="ui_ability_speeddice">Dado velocidade</text>
 	<text id="ui_ability_passive">Habilidades passivas</text>
 	<text id="ui_controlbutton_main">Biblioteca</text>
@@ -60,7 +60,7 @@
 	<text id="ui_card_title_battleshelf">Páginas de combate</text>
 	<text id="ui_cardfilter_cost">Сusto</text>
 	<text id="ui_cardfilter_dicenumber">Número do dado</text>
-	<text id="ui_gift_title_battlesymbol">acessórios de batalha</text>
+	<text id="ui_gift_title_battlesymbol">Acessórios de batalha</text>
 	<text id="ui_gift_eye">Olho</text>
 	<text id="ui_gift_nose">Nariz</text>
 	<text id="ui_gift_cheek">Bochecha</text>
@@ -138,20 +138,20 @@
 	<text id="ui_battlesetting_possiblefloor">Andar disponíveis:</text>
 	<text id="ui_battlesetting_normaldata">informação de Livros</text>
 	<text id="ui_battlesetting_deckinfo">Páginas de combate.</text>
-	<text id="ui_battlesetting_giftinfo">acessórios de combate</text>
+	<text id="ui_battlesetting_giftinfo">Acessórios de combate</text>
 	<text id="ui_characterlist_enemy_waveshelf">Ato {0}</text>
 	<text id="ui_battleresult_maintitle">Fechar a cortina</text>
 	<text id="ui_battleresult_subtitlereturn">Prosseguir</text>
-	<text id="ui_battleresult_getgift">acessórios de batalha ganho</text>
-	<text id="ui_battleresult_osegift">acessórios de batalha perdido</text>
+	<text id="ui_battleresult_getgift">Acessórios de batalha ganho</text>
+	<text id="ui_battleresult_osegift">Acessórios de batalha perdido</text>
 	<text id="ui_battleresult_title_rewardbook">Livros ganhos</text>
 	<text id="ui_battleresult_osebook">Livro perdido</text>
 	<text id="ui_battleresult_empty">Nenhum</text>
 	<text id="ui_battleresult_emptybookname">Nenhum livro selecionado</text>
 	<text id="ui_battleresult_returnrewadlist">Voltar</text>
-	<text id="ui_popup_levelup_floor">{0} realização subiu de nível!</text>
+	<text id="ui_popup_levelup_floor">a realização {0} subiu de nível!</text>
 	<text id="ui_popup_opensephirah_questalarm">Uma nova tarefa surgiu</text>
-	<text id="ui_popup_opensephirah_title">Aberto {0}</text>
+	<text id="ui_popup_opensephirah_title">Foi aberto o {0}</text>
 	<text id="ui_popup_librarygradeup_title">Grau da Biblioteca</text>
 	<text id="ui_popup_gacha_confirm">Confirmar</text>
 	<text id="ui_option_title">Opções</text>
@@ -228,10 +228,10 @@
 	<text id="ui_customize_appearance_eye">Olho</text>
 	<text id="ui_customize_appearance_brow">Sobrancelha</text>
 	<text id="ui_customize_appearance_mouth">Boca</text>
-	<text id="ui_library_abilitycontent_0">Pode selecionar o {0} durante a recepção.</text>
-	<text id="ui_library_abilitycontent_1">{0} Assistente de bibliotecário foi despertado.</text>
+	<text id="ui_library_abilitycontent_0">Pode selecionar o {0} durante uma recepção.</text>
+	<text id="ui_library_abilitycontent_1">{0} Bibliotecário Assistente foi despertado.</text>
 	<text id="ui_library_abilitycontent_2">Agora pode Customizar o nome e Aparência dos bibliotecários.</text>
-	<text id="ui_library_abilitycontent_3">Agora pode acessar as novas páginas de anormalidade.</text>
+	<text id="ui_library_abilitycontent_3">Agora pode acessar as novas páginas da anormalidade.</text>
 	<text id="ui_library_abilitycontent_4">Agora pode customizar o título e os diálogos dos bibliotecários.</text>
 	<text id="ui_library_abilitycontent_5">Agora pode configurar os acessórios de batalha.</text>
 	<text id="ui_library_abilitycontent_6">???</text>
@@ -266,7 +266,7 @@ Aguarde pacientemente pela próxima atualização para ver mais.</text>
 	<text id="ui_popup_manualalarm_2">Também pode acessar o manual através do botão &lt;Manual&gt; no menu de ESC.</text>
 	<text id="ui_popup_customizealarm_returnsave_1">Tem a certeza de sair do menu de Personalização {0} sem salvar as alterações?</text>
 	<text id="ui_popup_customizealarm_returnsave_2">Tem a certeza de sair do menu de de Customização do bibliotecário sem salvar as alterações?</text>
-	<text id="ui_popup_customizealarm_savecomplete">as alterações foram salvas.</text>
+	<text id="ui_popup_customizealarm_savecomplete">As alterações foram salvas.</text>
 	<text id="ui_tooltip_gifit_3">Mostrar acessórios de combate em {0}</text>
 	<text id="ui_tooltip_gifit_4">Esconder acessórios de combate em {0}</text>
 	<text id="ui_tooltip_invitation_6">{0} é requisitado.</text>
@@ -355,7 +355,7 @@ A estante de combate foi resetada.</text>
 	<text id="ui_decklock_slot">Não é capaz de editar</text>
 	<text id="ui_decklock_level">A página necessita chegar ao nível {0}, antes que possa ser modificado.</text>
 	<text id="creaturebookshelf_needselectunit">Por favor, Selecione um bibliotecário.</text>
-	<text id="ui_popup_creature_battle_start">Irá entrar ao livre de "{0}"?</text>
+	<text id="ui_popup_creature_battle_start">Irá entrar ao livro de "{0}"?</text>
 	<text id="ui_abnormalityshelf">Página de Anormalidade</text>
 	<text id="ui_getabnormalitycard">Página de Anormalidade adquirida</text>
 	<text id="ui_passivesuccession_currentpassive">Passivas Atuais</text>
@@ -404,7 +404,7 @@ A Habilidade original do espaço irá se perder.</text>
 	<text id="ui_ability_energy">Recuperação de luz</text>
 	<text id="ui_ability_drawcard">Tirar páginas</text>
 	<text id="ui_customize_hairstyle">Estilo de penteado</text>
-	<text id="ui_customize_facestyle">Cara &amp; Expressão</text>
+	<text id="ui_customize_facestyle">Face &amp; Expressão</text>
 	<text id="ui_customize_previewappearance">Visão prévia</text>
 	<text id="ui_dialog_auto">Auto</text>
 	<text id="ui_newtooltip_battle_1">HP atual</text>
@@ -417,9 +417,9 @@ A Habilidade original do espaço irá se perder.</text>
 	<text id="ui_newtooltip_battle_8">Páginas em mão</text>
 	<text id="ui_newtooltip_battle_9">HP Atual</text>
 	<text id="ui_newtooltip_battle_10">Moedas de emoção atual</text>
-	<text id="ui_newtooltip_battle_11">nível de emoção atual</text>
+	<text id="ui_newtooltip_battle_11">Nível de emoção atual</text>
 	<text id="ui_newtooltip_battle_12">Botão para iniciar combate</text>
-	<text id="ui_newtooltip_battle_13">nível de emoção da equipe</text>
+	<text id="ui_newtooltip_battle_13">Nível de emoção da equipe</text>
 	<text id="ui_newtooltip_battle_14">Ativar modo rápido Sim/Não
 Quando o modo rápido está em "Não", o dado irá ser lançado manualmente.</text>
 	<text id="ui_newtooltip_battle_15">Mostrar o objetivo dos Convidados</text>
@@ -541,18 +541,18 @@ Deseja sobrescrever con un baralho novo?</text>
   <text id="ui_cannotbemodifiedequippage">A página não pode ser editada</text>
 
   <!--20201110-->
-  <text id="ui_completetoapply">Completado</text>
+  <text id="ui_completetoapply">Salvar</text>
   
   <!--20201112-->
   <text id="ui_color_h">Matriz</text>
   <text id="ui_color_s">Saturação</text>
   <text id="ui_color_v">Brilho</text>
-  <text id="ui_resultemotionlevelrewardtitle">nível de emoção bonus</text>
+  <text id="ui_resultemotionlevelrewardtitle">Nível de emoção bonus</text>
   <text id ="ui_resultgetbookincreasepertitle">{0} Incremento de ratio</text>
   <!--20201113-->
   <text id="ui_selectgendertype">Tipo de corpo</text>
   <!--20201113-->
-  <text id="ui_resultemptygift">acessórios de batalha não obtidos</text>
+  <text id="ui_resultemptygift">Acessórios de batalha não obtidos</text>
   <!--20201116-->
   <text id="ui_genderappearance_a">Opção A</text>
   <text id="ui_genderappearance_b">Opção B</text>
@@ -575,7 +575,7 @@ Deseja sobrescrever con un baralho novo?</text>
   <text id ="ui_menu">Menu</text>
 
   <!--202011227-->
-  <text id ="ui_customcoretype_melee">Página corpo-a-corpo personalizada</text>
+  <text id ="ui_customcoretype_melee">Página chave personalizada</text>
   <text id ="ui_customcoretype_hybrid">Página hibrida personalizada</text>
   <text id ="ui_customcoretype_range">Página a distância personalizada</text>
 
