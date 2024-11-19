@@ -119,7 +119,7 @@
 	<text id="ui_invitation_titlecontent">O Convite</text>
 	<text id="ui_invitation_context">Querido Convidado: \n Seja muito bem-vindo ao entrar na Biblioteca.\nOs livros da Biblioteca podem te recompensar\n sabedoria, riqueza, honra e todo poder que\nbusca, sem mais delongas, uma provação te espera.\nSe não puder sobreviver esta provação,\n então você mesmo será convertido a um livro.</text>
 	<text id="ui_invitation_from">- Angela</text>
-	<text id="ui_invitation_todaybook">Livros do día</text>
+	<text id="ui_invitation_todaybook">Livros do dia</text>
 	<text id="ui_invitation_bookname_emptyslot">Registrar Livro</text>
 	<text id="ui_invitation_disabled">Desabilitado</text>
 	<text id="ui_invitation_receiver">Destinatário</text>
@@ -270,7 +270,7 @@ Aguarde pacientemente pela próxima atualização para ver mais.</text>
 	<text id="ui_tooltip_gifit_3">Mostrar acessórios de combate em {0}</text>
 	<text id="ui_tooltip_gifit_4">Esconder acessórios de combate em {0}</text>
 	<text id="ui_tooltip_invitation_6">{0} é requisitado.</text>
-	<text id="ui_tooltip_invitation_7">Retira {0} do Livro do día.</text>
+	<text id="ui_tooltip_invitation_7">Retira {0} do Livro do dia.</text>
 	<text id="ui_tooltip_invitation_8">Botão Esquerdo: Enviar convite, Botão Direito: Cancelar</text>
 	<text id="ui_cardfilter_shelflimit">limite de páginas</text>
 	<text id="ui_invitation_button_back">Voltar Biblioteca</text>
