@@ -992,7 +992,7 @@
       <LocalizedName>Ferida de Tristeza</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="508003">
-      <LocalizedName>Ilusião Distorcida</LocalizedName>
+      <LocalizedName>Ilusão Distorcida</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="508004">
       <LocalizedName>Ilusões Passada</LocalizedName>
@@ -1263,7 +1263,7 @@
 
 <!-- 환상체 카드용 -->
     <BattleCardDesc ID="1100007">
-      <LocalizedName>Odio Fútil</LocalizedName>
+      <LocalizedName>Ódio Fútil</LocalizedName>
       <Ability>[Al usar] Agota esta página y restaura 1 de luz</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="1100008">
@@ -1287,7 +1287,7 @@
 
 
     <BattleCardDesc ID="606001">
-      <LocalizedName>Temstade Furiosa: Amor</LocalizedName>
+      <LocalizedName>Tempestade Furiosa: Amor</LocalizedName>
       <!-- 샤오 카드.  애(愛) -->
     </BattleCardDesc>
     <BattleCardDesc ID="606002">
@@ -1295,14 +1295,14 @@
       <!-- 염룡권(焰龍拳)-->
     </BattleCardDesc>
     <BattleCardDesc ID="606003">
-      <LocalizedName>Emmoções Ferventes</LocalizedName>
+      <LocalizedName>Emoções Ferventes</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="606004">
       <LocalizedName>Valsa Pírea</LocalizedName>
       <!--윤무(輪舞) -->
     </BattleCardDesc>
     <BattleCardDesc ID="606005">
-      <LocalizedName>Chama Ciolenta</LocalizedName>
+      <LocalizedName>Chama Violenta</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="606006">
       <LocalizedName>Facada de um Ponto</LocalizedName>
@@ -1484,7 +1484,7 @@
 
     <!-- 붉은 두건의 용병 -->
     <BattleCardDesc ID="920101">
-      <LocalizedName>Desincronizar</LocalizedName>
+      <LocalizedName>Dessincronizar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920102">
       <LocalizedName>Golpear sin vacilar</LocalizedName>
@@ -1530,7 +1530,7 @@
       <LocalizedName>Duelo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609010">
-      <LocalizedName>Barrera Serpentina</LocalizedName>
+      <LocalizedName>Barreira Serpentina</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609011">
       <LocalizedName>Aparar</LocalizedName>
@@ -1539,7 +1539,7 @@
       <LocalizedName>Identificar Ponto Fraco</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="609013">
-      <LocalizedName>Testade de Miragem</LocalizedName>
+      <LocalizedName>Tempestade de Miragem</LocalizedName>
     </BattleCardDesc>
 
 
@@ -1802,7 +1802,7 @@
       <LocalizedName>Contemple Meu Poder</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920205">
-      <LocalizedName>Bautismo</LocalizedName>
+      <LocalizedName>Batismo</LocalizedName>
     </BattleCardDesc>
     
   <!-- 사도 -->
@@ -1829,7 +1829,7 @@
 
 
     <BattleCardDesc ID="920501">
-      <LocalizedName>Ascenderás a Minha Candeia</LocalizedName>
+      <LocalizedName>Acenderás a Minha Candeia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920502">
       <LocalizedName>Vieram Sobre Mim Suas Palavras</LocalizedName>
