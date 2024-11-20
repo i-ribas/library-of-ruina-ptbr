@@ -8,7 +8,7 @@
       <LocalizedName>Assolo</LocalizedName> <!-- 獨奏 -->
     </BattleCardDesc>
     <BattleCardDesc ID="703003">
-      <LocalizedName>Disonância</LocalizedName>
+      <LocalizedName>Dissonância</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703004">
       <LocalizedName>Corte de Foice</LocalizedName>
@@ -30,7 +30,7 @@
     </BattleCardDesc>
 
     <BattleCardDesc ID="703031">
-      <LocalizedName>Resonar</LocalizedName>
+      <LocalizedName>Ressoar</LocalizedName>
     </BattleCardDesc>
   </cardDescList>
 </BattleCardDescRoot>

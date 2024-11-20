@@ -183,7 +183,7 @@
     </BattleCardDesc>
     <BattleCardDesc ID="200004">
       <LocalizedName>Ataque Rápido</LocalizedName>
-      <Ability>[Ao Usar] ganha 2 de velocidade</Ability>
+      <Ability>[Ao Usar] Ganha 2 de Velocidade</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="200005">
       <LocalizedName>Ataque Poderoso</LocalizedName>
@@ -234,7 +234,7 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202005">
-      <LocalizedName>Coletar informações</LocalizedName>
+      <LocalizedName>Coletar Informações</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202006">
@@ -249,7 +249,7 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202009">
-      <LocalizedName>Coletar informações</LocalizedName>
+      <LocalizedName>Coletar Informações</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202010">
@@ -261,7 +261,7 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="202012">
-      <LocalizedName>Mente preparada</LocalizedName>
+      <LocalizedName>Mente Preparada</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="300001">
@@ -320,7 +320,7 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="301011">
-      <LocalizedName>Lei e Orden</LocalizedName>
+      <LocalizedName>Lei e Ordem</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="302001">
@@ -532,7 +532,7 @@
       <LocalizedName>Vamos Brincar!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405012">
-      <LocalizedName>A Cidade Do Amor Recebe Todos</LocalizedName>
+      <LocalizedName>A Cidade do Amor Recebe Todos</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="405013">
       <LocalizedName>Disturbio</LocalizedName>
@@ -1056,7 +1056,7 @@
       <LocalizedName>Guerra Total</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601014">
-      <LocalizedName>Tempestade Furosa: Dano</LocalizedName>
+      <LocalizedName>Tempestade Furiosa: Ferir</LocalizedName>
     </BattleCardDesc>
 
   <!-- EGO -->
@@ -1457,7 +1457,7 @@
       <LocalizedName>Sorriso</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910034">
-      <LocalizedName>Dipsia </LocalizedName>
+      <LocalizedName>Dipsia</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910035">
       <LocalizedName>Mímica</LocalizedName>
@@ -1697,7 +1697,7 @@
       <LocalizedName>Espada de Vontade</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611006">
-      <LocalizedName>Fé cega</LocalizedName>
+      <LocalizedName>Fé Cega</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611007">
       <LocalizedName>A Vontade da Cidade</LocalizedName>
@@ -1721,7 +1721,7 @@
       <LocalizedName>Enchurrada de Socos</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611024">
-      <LocalizedName>Vigilia</LocalizedName> <!-- 경계(警戒) -->
+      <LocalizedName>Vigília</LocalizedName> <!-- 경계(警戒) -->
     </BattleCardDesc>
 
 
@@ -1733,7 +1733,7 @@
       <LocalizedName>Proteger</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="611033">
-      <LocalizedName>Vigilia</LocalizedName> <!-- 경계(警戒) -->
+      <LocalizedName>Vigília</LocalizedName> <!-- 경계(警戒) -->
     </BattleCardDesc>
     <BattleCardDesc ID="611034">
       <LocalizedName>Reparar</LocalizedName>
@@ -1884,7 +1884,7 @@
       <!-- 强擊 -->
     </BattleCardDesc>
     <BattleCardDesc ID="701009">
-      <LocalizedName>Imagen Residual</LocalizedName>
+      <LocalizedName>Imagem Residual</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="701010">
       <LocalizedName>Confronto</LocalizedName>
@@ -1966,7 +1966,7 @@
       <LocalizedName>Contrato Suspeito</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704005">
-      <LocalizedName>Vamos Nos Divertiro~</LocalizedName>
+      <LocalizedName>Vamos Nos Divertir~</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704006">
       <LocalizedName>Ghghgh</LocalizedName>
@@ -1992,7 +1992,7 @@
       <LocalizedName>Largo</LocalizedName> <!-- largo -->
     </BattleCardDesc>
     <BattleCardDesc ID="704013">
-      <LocalizedName>Foice Resoante</LocalizedName>
+      <LocalizedName>Foice Ressoante</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704014">
       <LocalizedName>Danza Tempestuosa</LocalizedName>
@@ -2019,19 +2019,19 @@
 
 
     <BattleCardDesc ID="704102">
-      <LocalizedName>Contrato Não Assiando: Libertade</LocalizedName>
+      <LocalizedName>Contrato Não Assinado: Libertade</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704103">
-      <LocalizedName>Contrato Não Assiando: Amplificação</LocalizedName>
+      <LocalizedName>Contrato Não Assinado: Amplificação</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704104">
-      <LocalizedName>Contrato Não Assiando: Celeridade</LocalizedName>
+      <LocalizedName>Contrato Não Assinado: Celeridade</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704105">
-      <LocalizedName>Contrato Não Assiando: Poder</LocalizedName>
+      <LocalizedName>Contrato Não Assinado: Poder</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="704106">
-      <LocalizedName>Contrato Não Assiando: Luz</LocalizedName>
+      <LocalizedName>Contrato Não Assinado: Luz</LocalizedName>
     </BattleCardDesc>
 
 
@@ -2148,7 +2148,7 @@
       <LocalizedName>Memória - Associação Zwei</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702304">
-      <LocalizedName>Memória - Love Town</LocalizedName>
+      <LocalizedName>Memória - Cidade do Amor</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702305">
       <LocalizedName>Memória - Associação Liu</LocalizedName>
@@ -2160,7 +2160,7 @@
       <LocalizedName>Memória - Associação Hana</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702308">
-      <LocalizedName>Memória - A Fissura Púrpura</LocalizedName>
+      <LocalizedName>Memória - A Lágrima Púrpura</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="702309">
       <LocalizedName>Memória - A Reverberação Azul</LocalizedName>
@@ -2205,7 +2205,7 @@
       <LocalizedName>¡Pow~! ¡Kablammo!!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707504">
-      <LocalizedName>Pontos para uma Surpresa!?♥️</LocalizedName>
+      <LocalizedName>Prontos para uma Surpresa!?♥️</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707505">
       <LocalizedName>Pensa Rápido~!♣️</LocalizedName>
@@ -2223,7 +2223,7 @@
       <LocalizedName>CLÍMAX!!!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707510">
-      <LocalizedName>¡¡¡FANFARRA!!!</LocalizedName>
+      <LocalizedName>FANFARRA!!!</LocalizedName>
     </BattleCardDesc>
 
 
@@ -2283,7 +2283,7 @@
       <LocalizedName>Chutes e Pisões</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707603">
-      <LocalizedName>Sobrevelocidad</LocalizedName>
+      <LocalizedName>Sobrevelocidade</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707612">
       <LocalizedName>Apagão</LocalizedName>
@@ -2307,7 +2307,7 @@
       <LocalizedName>Sérum W</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706005">
-      <LocalizedName>Cóctel de Tri-Sérum</LocalizedName>
+      <LocalizedName>Coquetel de Tri-Sérum</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="706006">
       <LocalizedName>Sérum K</LocalizedName>
@@ -2352,19 +2352,19 @@
 
     <!-- keter ego -->
     <BattleCardDesc ID="910006">
-      <LocalizedName>Muñecas cortadas</LocalizedName>
+      <LocalizedName>Cortador de Pulso</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910007">
-      <LocalizedName>Aspiración</LocalizedName>
+      <LocalizedName>Aspiração</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910008">
-      <LocalizedName>Marioneta</LocalizedName>
+      <LocalizedName>Marionete</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910009">
-      <LocalizedName>Astilla de hielo</LocalizedName>
+      <LocalizedName>Lasca de Gelo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910010">
-      <LocalizedName>Remordimiento</LocalizedName>
+      <LocalizedName>Remorso</LocalizedName>
     </BattleCardDesc>
 
 
@@ -2437,7 +2437,7 @@
       <LocalizedName>Cobertura do Seguro</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="614003">
-      <LocalizedName>Troca Equivalente/LocalizedName>
+      <LocalizedName>Troca Equivalente</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="614004">
       <LocalizedName>Compensação à Todos</LocalizedName>
@@ -2500,19 +2500,19 @@
 
 
     <BattleCardDesc ID="1100023">
-      <LocalizedName>Coraje liquido</LocalizedName>
+      <LocalizedName>Coragem Líquida</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100024">
-      <LocalizedName>Saco de aserrín</LocalizedName>
+      <LocalizedName>Saco de Seda com Serradura</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100025">
-      <LocalizedName>Corazón de plomo</LocalizedName>
+      <LocalizedName>Coração de Chumbo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100026">
-      <LocalizedName>Casa que no puede ser alcanzada</LocalizedName>
+      <LocalizedName>Casa que Não Pode ser Alcançada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100027">
-      <LocalizedName>Transformación</LocalizedName>
+      <LocalizedName>Transformação</LocalizedName>
     </BattleCardDesc>
 
 
