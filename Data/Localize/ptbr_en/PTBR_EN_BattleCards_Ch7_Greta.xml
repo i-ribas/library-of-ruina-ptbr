@@ -2,7 +2,7 @@
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <cardDescList>
     <BattleCardDesc ID="703311">
-      <LocalizedName>Bater e Dobre</LocalizedName>
+      <LocalizedName>Bata e Dobre</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al ganar un choque] Inflige 1 de Sangrado la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al ganar un choque] Inflige 1 de Sangrado la siguiente escena</Behaviour>
