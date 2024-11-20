@@ -2,23 +2,23 @@
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <cardDescList>
     <BattleCardDesc ID="703601">
-      <LocalizedName>Puñetazos</LocalizedName>
+      <LocalizedName>Porradaria</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703602">
-      <LocalizedName>Patadas y Pisotones</LocalizedName>
+      <LocalizedName>Chutes e Pisões</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703603">
-      <LocalizedName>Super Velocidad</LocalizedName>
+      <LocalizedName>Sobrevelocidade</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703604">
       <LocalizedName>Intimidar</LocalizedName>
     </BattleCardDesc>
     
     <BattleCardDesc ID="703611">
-      <LocalizedName>Embestida de Lobo</LocalizedName>
+      <LocalizedName>Massacre Lupino</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703612"> 
-      <LocalizedName>Paliza</LocalizedName> <!-- 毆打 -->
+      <LocalizedName>Apagão</LocalizedName> <!-- 毆打 -->
     </BattleCardDesc>
   </cardDescList>
 </BattleCardDescRoot>

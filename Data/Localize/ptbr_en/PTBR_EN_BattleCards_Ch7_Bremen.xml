@@ -2,66 +2,66 @@
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <cardDescList>
     <BattleCardDesc ID="703411">
-      <LocalizedName>¡¡Rarf RARF RARF!!</LocalizedName>
+      <LocalizedName>Rarf RARF RARF!!</LocalizedName>
       <Ability>[Comienzo del combate] Inflige 2 de Endeble esta escena</Ability>
       <Behaviour ID="2">[Al ganar un choque] Inflige 1 de Endeble a un enemigo aleatorio la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703412">
-      <LocalizedName>¡Barkruff! ¡¡¡BARK~!!!</LocalizedName>
+      <LocalizedName>Barkruff! BARK~!!!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige 2 de Atadura y Desarmar la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 2 de Atadura y Desarmar la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703413">
-      <LocalizedName>¡¡¡BAWKBAWKBAWK!!!</LocalizedName>
+      <LocalizedName>BAWKBAWKBAWK!!!</LocalizedName>
       <Ability>[Puede apuntar aliados;][Comienzo del combate] Si el objetivo es un aliado, da 2 de Fuerza esta escena</Ability>
       <Behaviour ID="0">[Al ganar un choque] Da 1 de Fuerza a un aliado aleatorio la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703414">
-      <LocalizedName>¡¡¡¡Cockadoodledoo~!!!!</LocalizedName>
+      <LocalizedName>Cockadoodledoo~!!!!</LocalizedName>
       <Ability>[Comienzo del combate] Da 1 de Fuerza a todos los aliados</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703415">
-      <LocalizedName>¡¡¡NEIIIGHHIHIHH!!!</LocalizedName>
+      <LocalizedName>NEIIIGHHIHIHH!!!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Da 'Etiquetado' la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703416">
-      <LocalizedName>¡¡¡Neiiigh~!!!</LocalizedName>
+      <LocalizedName>Neiiigh~!!!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige 1 de Parálisis la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 1 de Parálisis la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703421">
-      <LocalizedName>Potente sonido de tendones</LocalizedName>
+      <LocalizedName>Acorde de Tendões Poderosos</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703422">
-      <LocalizedName>Melodía eterna</LocalizedName>
+      <LocalizedName>Melodia Perpétua</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703423">
-      <LocalizedName>Santuario de música oscura</LocalizedName>
+      <LocalizedName>Santuário Negro da Música</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703424">
-      <LocalizedName>Tempo explosivo</LocalizedName>
+      <LocalizedName>Tempo Explosivo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703425">
-      <LocalizedName>Trío</LocalizedName>
+      <LocalizedName>Trio</LocalizedName>
       <Ability>[Comienzo del combate] Da 2 de Fuerza, Dureza, Prisa y Protección a un aliado aleatorio; Inflige 2 de Endeble, Desarmar, Atadura y Frágil al objetivo</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703426">
-      <LocalizedName>Coro en el clímax</LocalizedName>
+      <LocalizedName>Coro ao Clímax</LocalizedName>
       <Ability>[Comienzo del combate] Inflige 10 de Frágil y 5 de Parálisis para apuntar manualmente al objetivo la siguiente escena</Ability>
     </BattleCardDesc>
 
     <!--브레멘 2차-->
     <BattleCardDesc ID="707401">
-      <LocalizedName>Ruido amenazante</LocalizedName>
+      <LocalizedName>Barulho Ameaçador</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707402">
-      <LocalizedName>Concierto</LocalizedName>
+      <LocalizedName>Concerto</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707403">
-      <LocalizedName>Tonada fantasiosa</LocalizedName>
+      <LocalizedName>Tom Fantasioso</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707404">
       <LocalizedName>Terapia Musical</LocalizedName>

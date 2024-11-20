@@ -2,44 +2,44 @@
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <cardDescList>
     <BattleCardDesc ID="703701">
-      <LocalizedName>Orden de ataque</LocalizedName>
+      <LocalizedName>Ataques Manipulados</LocalizedName>
       <Ability>[Comienzo del combate] Da 'Marca Roja' al bibliotecario con el HP más bajo la siguiente escena</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703702">
-      <LocalizedName>Ni lo sueñes</LocalizedName>
+      <LocalizedName>Sem Chance</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al ganar un choque] Inflige 1 de Endeble esta escena</Behaviour>
       <Behaviour ID="1">[Al ganar un choque] Inflige 1 de Desarmar esta escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703703">
-      <LocalizedName>Empujon</LocalizedName>
+      <LocalizedName>Empurrar</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703704">
-      <LocalizedName>Lisiado</LocalizedName>
+      <LocalizedName>Aleijar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703705">
-      <LocalizedName>Cuerdas tirantes</LocalizedName>
+      <LocalizedName>Puxar Cordas</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al perder un choque] La marioneta pierde 1 de Cuerdas de títeres la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703706">
-      <LocalizedName>Cuerdas finas</LocalizedName>
+      <LocalizedName>Cordas Finas</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="1">[Al perder un choque] La marioneta Ágil pierde 1 de Cuerdas de títeres la siguiente escena</Behaviour>     
     </BattleCardDesc>
     <BattleCardDesc ID="703707">
-      <LocalizedName>Cuerdas duraderas</LocalizedName>
+      <LocalizedName>Cordas Duráveis</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al perder un choque] La marioneta Pesada pierde 1 de Cuerdas de títeres la siguiente escena</Behaviour>     
     </BattleCardDesc>
     <BattleCardDesc ID="703708">
-      <LocalizedName>Cuerdas únicas</LocalizedName>
+      <LocalizedName>Cordas Únicas</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="1">[Al perder un choque] La marioneta Angelica pierde 1 de Cuerdas de títeres la siguiente escena</Behaviour>     
     </BattleCardDesc>
     <BattleCardDesc ID="703709">
-      <LocalizedName>Tensando las cuerdas</LocalizedName>
+      <LocalizedName>Tensionar as Cordas</LocalizedName>
       <Ability>[Al usar] Da 1 de Cuerdas de títeres a todas las marionetas la siguiente escena</Ability>
       <Behaviour ID="0">[Al golpear] Inflige 1 de Atadura la siguiente escena</Behaviour>     
       <Behaviour ID="1">[Al golpear] Inflige 1 de Atadura la siguiente escena</Behaviour>     
@@ -49,27 +49,27 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="703711">
-      <LocalizedName>Crujir</LocalizedName>
+      <LocalizedName>Creak</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="703712">
-      <LocalizedName>Maniquí</LocalizedName>
+      <LocalizedName>Manequin</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="703713">
-      <LocalizedName>Movimiento automatizado</LocalizedName>
+      <LocalizedName>Movimento Automatizado</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="703714">
-      <LocalizedName>Barrera de marioneta</LocalizedName>
+      <LocalizedName>Barreira de Marionete</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="703715">
-      <LocalizedName>Carne reprimida</LocalizedName>
+      <LocalizedName>Carne Reprimida</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="703716">
-      <LocalizedName>Gesto enérgico</LocalizedName>
+      <LocalizedName>Gesto Forçado</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="703717">
@@ -86,18 +86,18 @@
       <Behaviour ID="0">[Al ganar un choque] Destruye el siguiente dado del oponente</Behaviour>     
     </BattleCardDesc>
     <BattleCardDesc ID="703720">
-      <LocalizedName>Títeres</LocalizedName>
+      <LocalizedName>Teatro de Marionetes</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="703721">
-      <LocalizedName>Títeres</LocalizedName>
+      <LocalizedName>Teatro de Marionetes</LocalizedName>
       <Ability>Si la velocidad es 5 o mayor, todos los dados en esta página ganan +1 de Poder</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703722">
-      <LocalizedName>Títeres</LocalizedName>
+      <LocalizedName>Teatro de Marionetes</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703723">
-      <LocalizedName>Títeres</LocalizedName>
+      <LocalizedName>Teatro de Marionetes</LocalizedName>
       <Ability>Si la velocidad es 5 o mayor, todos los dados en esta página ganan +2 de Poder</Ability>
       <Behaviour ID="0">[Al golpear] Haz 4 de daño de aturdimiento</Behaviour>     
       <Behaviour ID="1">[Al golpear] Haz 4 de daño de aturdimiento</Behaviour>     

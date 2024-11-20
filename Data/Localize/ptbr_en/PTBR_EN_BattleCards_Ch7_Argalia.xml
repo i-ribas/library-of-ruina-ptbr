@@ -2,31 +2,31 @@
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <cardDescList>
     <BattleCardDesc ID="703001">
-      <LocalizedName>Preludio</LocalizedName>
+      <LocalizedName>Prelúdio</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703002">
       <LocalizedName>Assolo</LocalizedName> <!-- 獨奏 -->
     </BattleCardDesc>
     <BattleCardDesc ID="703003">
-      <LocalizedName>Disonancia</LocalizedName>
+      <LocalizedName>Disonância</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703004">
-      <LocalizedName>Corte de Guadaña</LocalizedName>
+      <LocalizedName>Corte de Foice</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703005">
-      <LocalizedName>Melodía Desquiciada</LocalizedName>
+      <LocalizedName>Melodía Desvairada</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="703011">
-      <LocalizedName>Ataque Continuo</LocalizedName>
+      <LocalizedName>Sequência Relâmpago</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703012">
-      <LocalizedName>Sendero Azul</LocalizedName>
+      <LocalizedName>Rastros de Azul</LocalizedName>
     </BattleCardDesc>
 
     
     <BattleCardDesc ID="703021">
-      <LocalizedName>Final Improvisado</LocalizedName>
+      <LocalizedName>Impromptu Final</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="703031">

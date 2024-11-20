@@ -2,55 +2,55 @@
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <cardDescList>
     <BattleCardDesc ID="703501">
-      <LocalizedName>Vamos a divertirnos~</LocalizedName>
+      <LocalizedName>Vamos Nos Divertir~</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703502">
-      <LocalizedName>¡¿Listos para una sorpresa?!&lt;color="red"&gt;♥&lt;/color&gt;</LocalizedName>
+      <LocalizedName>Pronto pra Surpresa?!&lt;color="red"&gt;♥&lt;/color&gt;</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al ganar un choque] Recupera 5 de HP</Behaviour>
       <Behaviour ID="1">[Al ganar un choque] Recupera 5 de HP</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703503">
-      <LocalizedName>¡Pow~! ¡Kablammo!!♣</LocalizedName>
+      <LocalizedName>Pow~! Kablammo!!♣</LocalizedName>
       <Ability>[Buen trabajo~] Si el último dado en esta página pierde un choque, el oponente gana 1 de Prisa y Dureza la siguiente escena</Ability>
       <Behaviour ID="0">[Al ganar un choque] El último dado gana +1 de Poder</Behaviour>
       <Behaviour ID="1">[Al ganar un choque] El último dado gana +1 de Poder</Behaviour>
       <Behaviour ID="2">[Al golpear] Sella un dado de velocidad del objetivo la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703504">
-      <LocalizedName>¡Aquí, atrapa~!♣</LocalizedName>
+      <LocalizedName>Pensa Rápido~!♣</LocalizedName>
       <Ability>[Bien hecho~] Si el primer dado en esta página pierde en un choque, el oponente gana 1 de Fuerza la siguiente escena</Ability>
       <Behaviour ID="0">[Al golpear] Destruye todos los dados de la página del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703505">
-      <LocalizedName>¿Saltamos encima?◆</LocalizedName>
+      <LocalizedName>Que tal uma Pirueta?◆</LocalizedName>
       <Ability>[Gran trabajo~] Si todos los dados en esta página pierden en un choque, el oponente restaura 2 de Luz</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703506">
-      <LocalizedName>¿Te necesitamos, sabes~?</LocalizedName>
+      <LocalizedName>Precisamos de Você, Sabia~?</LocalizedName>
       <Ability>[Cuando nos encontremos~] Aturde al objetivo; El objetivo está Estupefacto la siguiente escena</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703507">
-      <LocalizedName>¡¡¡CLÍMAX!!!</LocalizedName>
+      <LocalizedName>CLÍMAX!!!</LocalizedName>
       <Ability>[TODOS USTEDES;][UNA VEZ COMIENCE] Inflige uno de estos estados al objetivo: 2 de Frágil, 2 de Desarmar, 2 de Frágil, 2 de Protección, 2 de Fuerza o 2 de Dureza</Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="703511">
-      <LocalizedName>Lanzamiento casual</LocalizedName>
+      <LocalizedName>Jogada Casual</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703512">
-      <LocalizedName>Corte en X</LocalizedName>
+      <LocalizedName>Corte em X</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703513">
-      <LocalizedName>Guillotina</LocalizedName>
+      <LocalizedName>Guilhotina</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Destruye el siguiente dado del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703514">
-      <LocalizedName>Lluvia de cuchillas</LocalizedName>
+      <LocalizedName>Barragem de Facas</LocalizedName>
       <Ability>Si el último dado falla en hacer Daño, inflige a ti mismo 2 de Endeble la siguiente escena</Ability>
       <Behaviour ID="0">[Al ganar un choque] El siguiente dado gana +1 de Poder; inflige 1 de Sangrado la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al ganar un choque] El siguiente dado gana +1 de Poder; inflige 1 de Sangrado la siguiente escena</Behaviour>
@@ -59,29 +59,29 @@
     </BattleCardDesc>
     
     <BattleCardDesc ID="703521">
-      <LocalizedName>Aria de animo</LocalizedName>
+      <LocalizedName>Ária de Encorajamento</LocalizedName>
       <Ability>[Al usar] Recupera 8 de HP para el aliado con menos HP</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703522">
-      <LocalizedName>Aria de auspicio</LocalizedName>
+      <LocalizedName>Ária de Auspicio</LocalizedName>
       <Ability>[Al usar] Da 2 de Protección al aliado con menos HP</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703523">
-      <LocalizedName>Aria de coraje</LocalizedName>
+      <LocalizedName>Ária de Coragem</LocalizedName>
       <Ability>[Al usar] Da 1 de Fuerza al aliado con menos HP</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703524">
-      <LocalizedName>Lanzamiento horrendo</LocalizedName>
+      <LocalizedName>Agudo Horrendo</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Haz 8 de Daño de aturdimiento</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703525">
-      <LocalizedName>Terror resonante</LocalizedName>
+      <LocalizedName>Terror Resoante</LocalizedName>
       <Behaviour ID="0">[Al golpear] Haz 4 de Daño de aturdimiento</Behaviour>
       <Behaviour ID="1">[Al golpear] Haz 4 de Daño de aturdimiento</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703526">
-      <LocalizedName>Lanzamiento horrendo</LocalizedName>
+      <LocalizedName>Agudo Horrendo</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Haz 8 de Daño de aturdimiento</Behaviour>
     </BattleCardDesc>

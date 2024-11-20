@@ -2,45 +2,45 @@
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <cardDescList>
     <BattleCardDesc ID="703201">
-      <LocalizedName>Engranaje de Pensamiento: Acelerar</LocalizedName>
+      <LocalizedName>Engrenagem de Pensamento: Acelerar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703202">
-      <LocalizedName>Engranaje de Pensamiento: Predicar</LocalizedName>
+      <LocalizedName>Engrenagem de Pensamento: Pregar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703203">
-      <LocalizedName>Engranaje de Pensamiento: Propagar</LocalizedName>
+      <LocalizedName>Engrenagem de Pensamento: Propagar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703204">
-      <LocalizedName>Engranaje de Carne: Mejora</LocalizedName>
+      <LocalizedName>Engrenagem de Carne: Aprimorar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703205">
-      <LocalizedName>Engranaje de Carne: Inspirar</LocalizedName>
+      <LocalizedName>Engrenagem de Carne: Inspirar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703206">
-      <LocalizedName>Engranaje de Carne: Aceleración</LocalizedName>
+      <LocalizedName>Engrenagem de Carne: Dar Partida</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703207">
-      <LocalizedName>Engranaje de Pensamiento: Lavar Cerebro</LocalizedName>
+      <LocalizedName>Engrenagem de Pensamento: Lavagem Cerebral</LocalizedName>
     </BattleCardDesc>
 
     <!--뒤틀림-->
     <BattleCardDesc ID="707201">
-      <LocalizedName>Engranaje de Pensamiento: Predecir</LocalizedName>
+      <LocalizedName>Engrenagem de Pensamento: Previsão</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707202">
-      <LocalizedName>Engranaje de Pensamiento: Combustión</LocalizedName>
+      <LocalizedName>Engrenagem de Pensamento: Combustão</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707203">
-      <LocalizedName>Engranaje de Pensamiento: Rebosar Oxido</LocalizedName>
+      <LocalizedName>Engrenagem de Pensamento: Sobrecarga Oxidante</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707204">
-      <LocalizedName>Engranaje de Carne: Ciclo de Humo</LocalizedName>
+      <LocalizedName>Engrenagem de Carne: Ciclo de Fumaça</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707205">
-      <LocalizedName>Engranaje de Carne: Imbuir</LocalizedName>
+      <LocalizedName>Engrenagem de Carne: Imbuir</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707206">
-      <LocalizedName>Engranaje de Pensamiento: Adviento</LocalizedName>
+      <LocalizedName>Engrenagem de Pensamento: Advento</LocalizedName>
     </BattleCardDesc>
   </cardDescList>
 </BattleCardDescRoot>

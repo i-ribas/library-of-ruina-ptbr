@@ -3,19 +3,19 @@
   <cardDescList>
     <!-- elena -->
     <BattleCardDesc ID="703801">
-      <LocalizedName>Uñas Sanguinarias</LocalizedName>
+      <LocalizedName>Unhas Sanguíneas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703802">
-      <LocalizedName>Sifón</LocalizedName> <!-- has '[При Попадании] Персонаж восстанавливает x ОЗ' ability -->
+      <LocalizedName>Sifão</LocalizedName> <!-- has '[При Попадании] Персонаж восстанавливает x ОЗ' ability -->
     </BattleCardDesc>
     <BattleCardDesc ID="703803">
-      <LocalizedName>Circulación</LocalizedName>
+      <LocalizedName>Circulação</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703804">
-      <LocalizedName>Inyectar</LocalizedName>
+      <LocalizedName>Injetar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703805">
-      <LocalizedName>Derramamiento de Sangre</LocalizedName>
+      <LocalizedName>Maré de Sangue</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703806">
       <LocalizedName>Sacar</LocalizedName>
@@ -24,13 +24,13 @@
     
     <!-- 주홍십자 -->
     <BattleCardDesc ID="703811">
-      <LocalizedName>Hoja Cruzada</LocalizedName>
+      <LocalizedName>Lâmina de Cruz</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703812">
       <LocalizedName>Onda de Choque</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703813">
-      <LocalizedName>Arma Caliente</LocalizedName>
+      <LocalizedName>Arma Quente</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703814">
       <LocalizedName>Ataque Desenfrenado</LocalizedName>
@@ -39,10 +39,10 @@
       <LocalizedName>Obstruir</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703816">
-      <LocalizedName>Perseguidora</LocalizedName>
+      <LocalizedName>Perseguir</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="703817">
-      <LocalizedName>Descructora</LocalizedName>
+      <LocalizedName>Descruidora</LocalizedName>
     </BattleCardDesc>
     
   </cardDescList>

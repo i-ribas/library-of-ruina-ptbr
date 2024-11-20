@@ -2,35 +2,35 @@
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <cardDescList>
     <BattleCardDesc ID="703901">
-      <LocalizedName>Contrato de libertad</LocalizedName>
+      <LocalizedName>Contrato de Libertade</LocalizedName>
       <Ability>[Comienzo del combate] Añade una copia de 'Contraparte - Libertad' a la mano del objetivo (Libertad: costes Aleatorios; necesita usar páginas con un coste especifico)</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703902">
-      <LocalizedName>Contrato de amplificación</LocalizedName>
+      <LocalizedName>Contrato de Amplificação</LocalizedName>
       <Ability>[Comienzo del combate] Añade una copia de 'Contraparte - Amplificación' a la mano del objetivo (Amplificación: páginas de un cierto coste ganan Poder; otras pierden Poder)</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703903">
-      <LocalizedName>Contrato de rapidez</LocalizedName>
+      <LocalizedName>Contrato de Celeridade</LocalizedName>
       <Ability>[Comienzo del combate] Añade una copia de 'Contraparte - Rapidez' a la mano del objetivo (Rapidez: Gana Prisa; necesita participar en Choques)</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703904">
-      <LocalizedName>Contrato de poder</LocalizedName>
+      <LocalizedName>Contrato de Poder</LocalizedName>
       <Ability>[Comienzo del combate] Añade una copia de 'Contraparte - Poder' a la mano del objetivo (Poder: Gana Poder; necesita usa páginas con un dado Ofensivo)</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703905">
-      <LocalizedName>Contrato de luz</LocalizedName>
+      <LocalizedName>Contrato de Luz</LocalizedName>
       <Ability>[Comienzo del combate] Añade una copia de 'Contraparte - Luz' a la mano del objetivo (Luz: Restaura completamente la Luz; necesita usarla toda)</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703906">
-      <LocalizedName>Contraparte - Libertad</LocalizedName>
+      <LocalizedName>Contraparte - Libertade</LocalizedName>
       <Ability>[Permanece en mano] Mientras esta página está en la mano, gana el efecto 'Obligación de contrato: Libertad'</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703907">
-      <LocalizedName>Contraparte - Amplificación</LocalizedName>
+      <LocalizedName>Contraparte - Amplificação</LocalizedName>
       <Ability>[Permanece en mano] Mientras esta página está en la mano, gana el efecto 'Obligación de contrato: Amplificación'</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703908">
-      <LocalizedName>Contraparte - Rapidez</LocalizedName>
+      <LocalizedName>Contraparte - Celeridade</LocalizedName>
       <Ability>[Permanece en mano] Mientras esta página está en la mano, gana el efecto 'Obligación de contrato: Rapidez'</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703909">
@@ -42,62 +42,62 @@
       <Ability>[Permanece en mano] Mientras esta página está en la mano, gana el efecto 'Obligación de contrato: Luz'</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703911">
-      <LocalizedName>Magia: Desviación</LocalizedName>
+      <LocalizedName>Magia: Refletir</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703912">
-      <LocalizedName>Magia: Misil</LocalizedName>
+      <LocalizedName>Magia: Missil</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703913">
-      <LocalizedName>Magia: Embestida</LocalizedName>
+      <LocalizedName>Magia: Massacre</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703914">
-      <LocalizedName>Magia: Salvaguardia</LocalizedName>
+      <LocalizedName>Magia: Salvaguarda</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703915">
-      <LocalizedName>Maleficio: Sello</LocalizedName>
+      <LocalizedName>Maldição: Selar</LocalizedName>
       <Ability>[Al usar] Atrapa al objetivo en una barrera la siguiente escena</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703916">
-      <LocalizedName>Maleficio: Llamada</LocalizedName>
+      <LocalizedName>Maldição: Chamada</LocalizedName>
       <Ability>[Comienzo del combate] Invoca una sombra del bibliotecario atrapado en la barrera la siguiente escena</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703917">
-      <LocalizedName>Maleficio: Intercambio</LocalizedName>
+      <LocalizedName>Maldição: Troca</LocalizedName>
       <Ability>Al final de la escena, cambia el HP del bibliotecario atrapado en la barrera con el de la sombra</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703918">
-      <LocalizedName>Brazos crecientes de descanso</LocalizedName>
+      <LocalizedName>Dilúvio do Silêncio Braquial</LocalizedName>
       <Ability>Al final de la escena, recibe daño de aturdimiento igual a 5x el número de veces que cada dado fallo en hacer daño</Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="703921">
-      <LocalizedName>Imagen de sombra</LocalizedName>
+      <LocalizedName>Imagem Sombria</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="1">[Al perder un choque] Este personaje usará la página contra la que se enfrentó la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703922">
-      <LocalizedName>¡¡¡SOY EL REAL!!!</LocalizedName>
+      <LocalizedName>EU SOU O VERDADEIRO!!!</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703923">
-      <LocalizedName>Sombras</LocalizedName>
+      <LocalizedName>Pasto Sombrio</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703924">
-      <LocalizedName>Ataque de sombra</LocalizedName>
+      <LocalizedName>Ataque Sombrio</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703925">
-      <LocalizedName>Imagen de sombra</LocalizedName>
+      <LocalizedName>Imagen Sombria</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al perder un choque] Este personaje usará la página contra la que se enfrentó la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703926">
-      <LocalizedName>Imagen de sombra</LocalizedName>
+      <LocalizedName>Imagem Sombria</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="2">[Al perder un choque] Este personaje usará la página contra la que se enfrentó la siguiente escena</Behaviour>
     </BattleCardDesc>

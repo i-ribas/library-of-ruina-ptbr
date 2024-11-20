@@ -3,136 +3,139 @@
   <cardDescList>
     <!-- 아갈 뒤틀림 -->
     <BattleCardDesc ID="707001">
-      <LocalizedName>Resonancia controlada</LocalizedName>
+      <LocalizedName>Resonância Controlada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707002">
-      <LocalizedName>Hoz oscilante</LocalizedName>
+      <LocalizedName>Foice Oscilante</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707003">
-      <LocalizedName>Corte</LocalizedName>
+      <LocalizedName>Cortar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707004">
-      <LocalizedName>Corte de guadaña</LocalizedName>
+      <LocalizedName>Talho de Foice</LocalizedName>
     </BattleCardDesc>
     
     <BattleCardDesc ID="707011">
       <LocalizedName>Crescendo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707012">
-      <LocalizedName>Gran final</LocalizedName>
+      <LocalizedName>Grand Finale</LocalizedName>
     </BattleCardDesc>
 
     <!-- 엘레나 뒤틀림 -->
     <BattleCardDesc ID="707801">
-      <LocalizedName>Sed insaciable</LocalizedName>
+      <LocalizedName>Sede Insaciável</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707802">
-      <LocalizedName>Regurgitación</LocalizedName>
+      <LocalizedName>Regurgitar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707803">
-      <LocalizedName>Uñas sanguinarias</LocalizedName>
+      <LocalizedName>Unhas Sanguíneas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707804">
       <LocalizedName>Absorber</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707805">
-      <LocalizedName>Derramamiento de sangre</LocalizedName>
+      <LocalizedName>Maré de Sangue</LocalizedName>
     </BattleCardDesc>
 
     <!-- 플루토 뒤틀림 -->
     <BattleCardDesc ID="707901">
-      <LocalizedName>Contrato injusto: Defensa</LocalizedName>
+      <LocalizedName>Contrato Injusto: Defesa</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707902">
-      <LocalizedName>Contrato injusto: Ofensa</LocalizedName>
+      <LocalizedName>Contrato Injusto: Ataque</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707903">
-      <LocalizedName>Contrato injusto: Luz</LocalizedName>
+      <LocalizedName>Contrato Injusto: Luz</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707904">
       <LocalizedName>Magia: Impacto</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707905">
-      <LocalizedName>Magia: Lanza</LocalizedName>
+      <LocalizedName>Magia: Lança</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707906">
-      <LocalizedName>Brazos crecientes de descanso</LocalizedName>
+      <LocalizedName>Dilúvio do Silêncio Braquial</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707911">
-      <LocalizedName>Contraparte injusta: Defensa</LocalizedName>
+      <LocalizedName>Contraparte Injusta: Defensa</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707912">
-      <LocalizedName>Contraparte injusta: Ofensa</LocalizedName>
+      <LocalizedName>Contraparte Injusta: Ataque</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707913">
-      <LocalizedName>Contraparte injusta: Luz</LocalizedName>
+      <LocalizedName>Contraparte Injusta: Luz</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707914">
-      <LocalizedName>Grilletes</LocalizedName>
+      <LocalizedName>Grilhões</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707921">
-      <LocalizedName>Ataque de sombra</LocalizedName>
+      <LocalizedName>Ataque Sombria</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="707922">
-      <LocalizedName>Asalto de sombra</LocalizedName>
+      <LocalizedName>Assalto das Sombras</LocalizedName>
     </BattleCardDesc>
 
     <!-- 보상 -->
     <BattleCardDesc ID="705002">
-      <LocalizedName>Vínculo: Reforzar</LocalizedName>
+      <LocalizedName>Vínculo: Reforçar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705003">
-      <LocalizedName>Vínculo: Coordinación</LocalizedName>
+      <LocalizedName>Vínculo: Coordinação</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705004">
-      <LocalizedName>Vínculo: Guardián</LocalizedName>
+      <LocalizedName>Vínculo: Guardião</LocalizedName>
     </BattleCardDesc>
 
+    <BattleCardDesc ID="705010">
+      <LocalizedName>Resonância Controlada</LocalizedName>
+    </BattleCardDesc>
     <BattleCardDesc ID="705011">
       <LocalizedName>Crescendo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705012">
-      <LocalizedName>Gran final</LocalizedName>
+      <LocalizedName>Grand Finale</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705013">
-      <LocalizedName>Brazos crecientes de descanso</LocalizedName> <!-- equal to 703918 -->
+      <LocalizedName>Dilúvio do Silêncio Braquial</LocalizedName> <!-- equal to 703918 -->
     </BattleCardDesc>
     <BattleCardDesc ID="705014">
-      <LocalizedName>Sed insaciable</LocalizedName>
+      <LocalizedName>Sede Insaciavel</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705015">
-      <LocalizedName>Cuerdas tirantes</LocalizedName> <!-- equal to 703709 -->
+      <LocalizedName>Cordas Tensas</LocalizedName> <!-- equal to 703709 -->
     </BattleCardDesc>
     <BattleCardDesc ID="705016">
-      <LocalizedName>Asalto negro azabache</LocalizedName> <!-- equal to 707607 -->
+      <LocalizedName>Apagão Pulverizante</LocalizedName> <!-- equal to 707607 -->
     </BattleCardDesc>
     <BattleCardDesc ID="705017">
-      <LocalizedName>¡¡¡¡CLÍMAX~!!!!</LocalizedName>
+      <LocalizedName>CLÍMAX~!!!!</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705018">
-      <LocalizedName>Montaje de aparejos</LocalizedName> <!-- equal to 707305 -->
+      <LocalizedName>Cair de Boca</LocalizedName> <!-- equal to 707305 -->
     </BattleCardDesc>
     <BattleCardDesc ID="705019">
-      <LocalizedName>Coro en el clímax</LocalizedName> <!-- equal to 703426 -->
+      <LocalizedName>Coro ao Clímax</LocalizedName> <!-- equal to 703426 -->
     </BattleCardDesc>
     <BattleCardDesc ID="705020">
-      <LocalizedName>Engranaje de pensamiento: Adoctrinar</LocalizedName>
+      <LocalizedName>Engrenagem de Pensamento: Doutrinar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705021">
-      <LocalizedName>Llamas de desesperación</LocalizedName>
+      <LocalizedName>Chamas de Desespero</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705022">
-      <LocalizedName>Desesperación abrasadora</LocalizedName> <!-- equal to 703110, 707105 -->
+      <LocalizedName>Desespero Escaldante</LocalizedName> <!-- equal to 703110, 707105 -->
     </BattleCardDesc>
 
     <BattleCardDesc ID="705031">
-      <LocalizedName>Prueba de sabor</LocalizedName>
+      <LocalizedName>Prove</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705032">
-      <LocalizedName>Ataque de sombra</LocalizedName>
+      <LocalizedName>Ataque Sombrio</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="705033">
-      <LocalizedName>Ceremonia de apertura</LocalizedName>
+      <LocalizedName>Ceremonia de Abertura</LocalizedName>
     </BattleCardDesc>
   </cardDescList>
 </BattleCardDescRoot>
