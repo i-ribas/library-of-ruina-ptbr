@@ -355,7 +355,7 @@ A estante de combate foi resetada.</text>
 	<text id="ui_decklock_slot">Não é capaz de editar</text>
 	<text id="ui_decklock_level">A página necessita chegar ao nível {0}, antes que possa ser modificado.</text>
 	<text id="creaturebookshelf_needselectunit">Por favor, selecione um Bibliotecário.</text>
-	<text id="ui_popup_creature_battle_start">Irá entrar ao livro de "{0}"?</text>
+	<text id="ui_popup_creature_battle_start">Você deseja entrar no livro de {0}?</text>
 	<text id="ui_abnormalityshelf">Página de Anormalidade</text>
 	<text id="ui_getabnormalitycard">Página de Anormalidade adquirida</text>
 	<text id="ui_passivesuccession_currentpassive">Passivas Atuais</text>
@@ -434,7 +434,7 @@ Quando o Modo Rápido está em "Não", dados serão lançados manualmente.</text
   <text id ="ui_popup_openuncomplete_floor">{0} realização fracassada</text>
   <text id="ui_library_abilitycontent_17">Agora pode usar Páginas E.G.O.</text>
   <text id="ui_library_abilitycontent_18">O Nível de Emoção foi aumentado até o nível {0}.</text>
-  <text id="ui_popup_creature_bossbattle_start">Está preparado para ver o episódio final da história de {0}?</text>
+  <text id="ui_popup_creature_bossbattle_start">Você está preparado para ver o episódio final da história do {0}?</text>
   <text id="ui_getegocard">Página E.G.O. obtida</text>
   <text id="ui_egocard">Página E.G.O.</text>
 
@@ -730,7 +730,7 @@ Tem certeza de que quer fazer isso?</text>
   <!--20210524-->
   <text id="ui_alarm_dropbookensurereset">Resetar as Recompensas?
 (Páginas Chave não podem ser reabastecidas além do limite)</text>
-  <text id="ui_battle_return_to_title_creature">Irá perder está batalha e retornará a tela de título.</text>
+  <text id="ui_battle_return_to_title_creature">Você perderá esta batalha e retornará ao menu principal.</text>
   <text id="ui_controller_switchcamp">Selecionar Lados</text>
   <text id="ui_controller_movebattlecam">Ajustar Câmera</text>
   <text id="ui_controller_resetbattlecam">Resetar Câmera</text>
