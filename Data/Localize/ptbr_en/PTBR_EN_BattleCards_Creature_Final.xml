@@ -96,7 +96,7 @@
     <BattleCardDesc ID="9901406">
       <LocalizedName>Adquirir nutrientes</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="0">[Al golpear] La reina abeja recupera 10 de HP</Behaviour>
+      <Behaviour ID="0">[Al golpear] La Abelha Rainha recupera 10 de HP</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901407">
       <LocalizedName>Guardaespaldas</LocalizedName>
@@ -837,11 +837,11 @@
     </BattleCardDesc>
     <BattleCardDesc ID="9905322">
       <LocalizedName>Fragmento de dicha</LocalizedName>
-      <Ability>Ganada al destruir 'Felicidad brillante'; Solo puede ser utilizada esta escena.</Ability>
+      <Ability>Ganada al destruir 'Beatitude Brilhante'; Solo puede ser utilizada esta escena.</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9905323">
       <LocalizedName>Fragmento de dicha</LocalizedName>
-      <Ability>Ganada al destruir 'Felicidad brillante'; Solo puede ser utilizada esta escena.</Ability>
+      <Ability>Ganada al destruir 'Beatitude Brilhante'; Solo puede ser utilizada esta escena.</Ability>
     </BattleCardDesc>
 
     <!-- 분노의 시종-->
@@ -974,7 +974,7 @@ Si cualquier aliado es golpeado, haz 10 de daño a todos los bibliotecarios y re
     </BattleCardDesc>
     <BattleCardDesc ID="9905536">
       <LocalizedName>Fragmento de dicha</LocalizedName>
-      <Ability>Ganada al destruir 'Felicidad brillante'; Solo puede ser utilizada esta escena.</Ability>
+      <Ability>Ganada al destruir 'Beatitude Brilhante'; Solo puede ser utilizada esta escena.</Ability>
     </BattleCardDesc>
     <!-- 광대 - 분노 -->
     <BattleCardDesc ID="9905541">
@@ -1594,23 +1594,23 @@ Si cualquier aliado es golpeado, haz 10 de daño a todos los bibliotecarios y re
     </BattleCardDesc>
 
     <BattleCardDesc ID="9907501">
-      <LocalizedName>Espantapájaros Buscando por Sabiduría</LocalizedName>
-      <Ability>[Al jugar;][Agotar] Gana el estado 'Espantapájaros Buscando por Sabiduría'
+      <LocalizedName>Espantalho em Busca de Sabedoria</LocalizedName>
+      <Ability>[Al jugar;][Agotar] Gana el estado 'Espantalho em Busca de Sabedoria'
 No se puede utilizar si este bibliotecario ya tiene este estado o posee el efecto de otra página</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9907502">
-      <LocalizedName>Leñador de buen Corazón</LocalizedName>
-      <Ability>[Al jugar;][Agotar] Gana el estado 'Leñador de buen Corazón'
+      <LocalizedName>Lenhador de Coração Caloroso</LocalizedName>
+      <Ability>[Al jugar;][Agotar] Gana el estado 'Lenhador de Coração Caloroso'
 No se puede utilizar si este bibliotecario ya tiene este estado o posee el efecto de otra página</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9907503">
-      <LocalizedName>Gato Miedoso</LocalizedName>
-      <Ability>[Al jugar;][Agotar] Gana el estado 'Gato Miedoso'
+      <LocalizedName>Gato Medroso</LocalizedName>
+      <Ability>[Al jugar;][Agotar] Gana el estado 'Gato Medroso'
 No se puede utilizar si este bibliotecario ya tiene este estado o posee el efecto de otra página</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9907504">
-      <LocalizedName>El Camino a Casa</LocalizedName>
-      <Ability>[Al jugar;][Agotar] Gana el estado 'El Camino a Casa'
+      <LocalizedName>O Caminho para Casa</LocalizedName>
+      <Ability>[Al jugar;][Agotar] Gana el estado 'O Caminho para Casa'
 No se puede utilizar si este bibliotecario ya tiene este estado o posee el efecto de otra página</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9907505">
@@ -1625,15 +1625,15 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
     </BattleCardDesc>
     <BattleCardDesc ID="9907622">
       <LocalizedName>¡Encuentra Tu Calor!</LocalizedName>
-      <Ability>[Al golpear] Restaura el estado del objetivo 'Leñador de buen Corazón' a su forma verdadera</Ability>
+      <Ability>[Al golpear] Restaura el estado del objetivo 'Lenhador de Coração Caloroso' a su forma verdadera</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9907623">
       <LocalizedName>¡Aquí Gatito Gatito!</LocalizedName>
-      <Ability>[Al golpear] Restaura el estado del objetivo 'Gato Miedoso' a su forma verdadera</Ability>
+      <Ability>[Al golpear] Restaura el estado del objetivo 'Gato Medroso' a su forma verdadera</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9907624">
       <LocalizedName>¡Vuelve a Tu Camino!</LocalizedName>
-      <Ability>[Al golpear] Restaura el estado del objetivo 'El Camino a Casa' a su forma verdadera</Ability>
+      <Ability>[Al golpear] Restaura el estado del objetivo 'O Caminho para Casa' a su forma verdadera</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9907625">
       <LocalizedName>¡No Eres Tú!</LocalizedName>

@@ -2,7 +2,7 @@
 <AbnormalityCardsRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Sephirah SephirahType="Malkuth">
     <AbnormalityCard ID="ScorchedGirl_Walk">
-      <Abnormality>Niña chamuscada</Abnormality>
+      <Abnormality>Garota Queimada</Abnormality>
       <CardName>Pisadas</CardName>
       <AbilityDesc>[Todos los aliados]
 Cuando el HP de un bibliotecario es 20% o menos, haz 30% del HP máximo del objetivo como daño (Máx. 36) e inflige 1-3 de Quemadura al acercarte a ellos, entonces muere.</AbilityDesc>      
@@ -12,12 +12,12 @@ Cuando el HP de un bibliotecario es 20% o menos, haz 30% del HP máximo del obje
         <Dialogue ID="2">Es muy triste morir solo… ¿Tú también conoces este sentimiento, verdad?</Dialogue>
         <Dialogue ID="3">Espérame. Iré contigo, tú que serás reducido a cenizas…</Dialogue>
         <Dialogue ID="4">Paso por paso… Quémate hasta carbonizarte.</Dialogue>
-        <Dialogue ID="5">¿Hay algo que pueda hacer, yo, una Niña chamuscada?</Dialogue>
+        <Dialogue ID="5">¿Hay algo que pueda hacer, yo, una Garota Queimada?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="ScorchedGirl_Atk">
-      <Abnormality>Niña chamuscada</Abnormality>
+      <Abnormality>Garota Queimada</Abnormality>
       <CardName>Cenizas</CardName>
       <AbilityDesc>[Solo un aliado]
 Al ser golpeado, inflige 1-3 de Quemadura al atacante y tienes una probabilidad del 40% de conseguir este bonus la siguiente escena: ‘Los dados ofensivos infligen 1 de Quemadura al golpear’ (No se acumula).</AbilityDesc>
@@ -32,7 +32,7 @@ Al ser golpeado, inflige 1-3 de Quemadura al atacante y tienes una probabilidad 
     </AbnormalityCard>
     
     <AbnormalityCard ID="ScorchedGirl_Ashes">
-      <Abnormality>Niña chamuscada</Abnormality>
+      <Abnormality>Garota Queimada</Abnormality>
       <CardName>Fósforo</CardName>
       <AbilityDesc>[Solo un aliado]
 Las primeras dos páginas de combate que use el bibliotecario luego de seleccionar esta página de Anormalidad ganan el estado 'Fósforo' (Excluyendo páginas [Al jugar]). Cuando un bibliotecario usa una página con 'Fósforo', gana 1 de 'Brasas'.
@@ -48,7 +48,7 @@ Las páginas con 'Fósforo' se vuelven más fuertes basadas en la cantidad de 'B
     </AbnormalityCard>
     
     <AbnormalityCard ID="HappyTeddyBear_Hug">
-      <Abnormality>Feliz osito de peluche</Abnormality>
+      <Abnormality>Ursinho de Pelúcia Feliz</Abnormality>
       <CardName>Memorias nostálgicas</CardName>
       <AbilityDesc>[Solo un aliado]
 Al ganar un choque, haz daño de aturdimiento adicional igual al valor del dado con una probabilidad del 20%.
@@ -64,7 +64,7 @@ Enfrentarte muchas veces al mismo objetivo incrementará la probabilidad.</Abili
     </AbnormalityCard>
     
     <AbnormalityCard ID="HappyTeddyBear_Memory">
-      <Abnormality>Feliz osito de peluche</Abnormality>
+      <Abnormality>Ursinho de Pelúcia Feliz</Abnormality>
       <CardName>Memorias felices</CardName>
       <AbilityDesc>[Solo un aliado]
 La página de combate con el coste más alto es escogida de la mano (Excluyendo páginas [Al jugar]). Usar páginas con el mismo nombre disminuirá el coste de cada copia de esa página que poseas actualmente en 1.</AbilityDesc>
@@ -79,7 +79,7 @@ La página de combate con el coste más alto es escogida de la mano (Excluyendo 
     </AbnormalityCard>
     
     <AbnormalityCard ID="HappyTeddyBear_Lonely">
-      <Abnormality>Feliz osito de peluche</Abnormality>
+      <Abnormality>Ursinho de Pelúcia Feliz</Abnormality>
       <CardName>Muestra de afecto</CardName>
       <AbilityDesc>[Solo un aliado]
 Todos los dados ganan 1-2 de Poder en un choque.
@@ -142,7 +142,7 @@ El bibliotecario recupera tanto HP como los otros perdieron con este efecto y ga
     </AbnormalityCard>
     
     <AbnormalityCard ID="QueenBee_Funga">
-      <Abnormality>Reina abeja</Abnormality>
+      <Abnormality>Abelha Rainha</Abnormality>
       <CardName>Esporas</CardName>
       <AbilityDesc>[Solo un aliado]
 Al ser golpeado, inflige 1-3 de Quemadura y 1-3 de Sangrado al atacante la siguiente escena.</AbilityDesc>
@@ -156,8 +156,8 @@ Al ser golpeado, inflige 1-3 de Quemadura y 1-3 de Sangrado al atacante la sigui
     </AbnormalityCard>
     
     <AbnormalityCard ID="QueenBee_Bee">
-      <Abnormality>Reina abeja</Abnormality>
-      <CardName>Abeja trabajadora</CardName>
+      <Abnormality>Abelha Rainha</Abnormality>
+      <CardName>Abelha-Operária</CardName>
       <AbilityDesc>[Solo un aliado]
 El enemigo que haga la mayor cantidad de daño al bibliotecario seleccionado es Marcado. Los otros Aliado hacen 2-4 de daño adicional al enemigo Marcado con sus ataques.</AbilityDesc>
       <FlaborText>Ellos solo muestran dos formas de comportamiento: Entregar nutrientes a la Reina y proliferar.</FlaborText>
@@ -170,7 +170,7 @@ El enemigo que haga la mayor cantidad de daño al bibliotecario seleccionado es 
     </AbnormalityCard>
     
     <AbnormalityCard ID="QueenBee_Loyalty">
-      <Abnormality>Reina abeja</Abnormality>
+      <Abnormality>Abelha Rainha</Abnormality>
       <CardName>Lealtad</CardName>
       <AbilityDesc>[Solo un aliado]
 Al comienzo de una escena, todos los aliados ganan Fuerza basado en la cantidad de daño que el bibliotecario seleccionado reciba en la escena anterior.
@@ -231,7 +231,7 @@ Al comienzo de esta escena, todos los enemigos recibirán daño inversamente pro
   
   <Sephirah SephirahType="Yesod">
     <AbnormalityCard ID="ForsakenMurderer_Tie">
-      <Abnormality>Asesino olvidado</Abnormality>
+      <Abnormality>Assassino Abandonado</Abnormality>
       <CardName>Ira encadenada</CardName>
 		<AbilityDesc>[Solo un aliado]
 Los dados contundentes ganan 1-3 de Poder. La velocidad es fijada en 1.</AbilityDesc>
@@ -246,7 +246,7 @@ Los dados contundentes ganan 1-3 de Poder. La velocidad es fijada en 1.</Ability
     </AbnormalityCard>
     
     <AbnormalityCard ID="ForsakenMurderer_Metal">
-      <Abnormality>Asesino olvidado</Abnormality>
+      <Abnormality>Assassino Abandonado</Abnormality>
       <CardName>Timbre metálico</CardName>
 		<AbilityDesc>[Solo un aliado]
 Cuando realices un ataque Condundente con éxito, inflige 1 de Atadura y Parálisis la siguiente escena. (Excluye ataques en masa)</AbilityDesc>
@@ -261,7 +261,7 @@ Cuando realices un ataque Condundente con éxito, inflige 1 de Atadura y Paráli
     </AbnormalityCard>
     
     <AbnormalityCard ID="ForsakenMurderer_Violence">
-      <Abnormality>Asesino olvidado</Abnormality>
+      <Abnormality>Assassino Abandonado</Abnormality>
       <CardName>Violencia</CardName>
       <AbilityDesc>[Solo un aliado]
 Reduce el resultado minimo de todos los dados en 1 y sube en resultado máximo en 3.</AbilityDesc>
@@ -275,7 +275,7 @@ Reduce el resultado minimo de todos los dados en 1 y sube en resultado máximo e
     </AbnormalityCard>
     
     <AbnormalityCard ID="LittleHelper_Rest">
-      <Abnormality>Pequeño Ayudante</Abnormality>
+      <Abnormality>Auxiliar Geral</Abnormality>
       <CardName>Recargar</CardName>
       <AbilityDesc>[Solo un aliado]
 Si el bibliotecario tiene la Luz máxima al comienzo de la escena, gana 1-2 de Prisa y haz +2-7 de daño con tus ataques por esta escena.</AbilityDesc>
@@ -289,7 +289,7 @@ Si el bibliotecario tiene la Luz máxima al comienzo de la escena, gana 1-2 de P
     </AbnormalityCard>
     
     <AbnormalityCard ID="LittleHelper_Pattern">
-      <Abnormality>Pequeño Ayudante</Abnormality>
+      <Abnormality>Auxiliar Geral</Abnormality>
       <CardName>Reconocer patrones</CardName>
 		<AbilityDesc>[Solo un aliado]
 Cada tres choques ganados, restaura 1 de Luz y gana 1-2 de Prisa la siguiente escena.</AbilityDesc>
@@ -304,7 +304,7 @@ Cada tres choques ganados, restaura 1 de Luz y gana 1-2 de Prisa la siguiente es
     </AbnormalityCard>
     
     <AbnormalityCard ID="LittleHelper_Clean">
-      <Abnormality>Pequeño Ayudante</Abnormality>
+      <Abnormality>Auxiliar Geral</Abnormality>
       <CardName>Limpiar</CardName>
       <AbilityDesc>[Solo un aliado]
 Los dados ofensivos ganan Poder contra enemigos con menor velocidad (+1 de Poder por cada punto de diferencia, hasta 3).</AbilityDesc>
@@ -319,7 +319,7 @@ Los dados ofensivos ganan Poder contra enemigos con menor velocidad (+1 de Poder
     </AbnormalityCard>
     
 	  <AbnormalityCard ID="SingingMachine_Music">
-		  <Abnormality>Máquina de cantar</Abnormality>
+		  <Abnormality>Máquina Cantora</Abnormality>
 		  <CardName>Música</CardName>
 		  <AbilityDesc>[Todos los personajes]
 Todos los personajes hacen +4-8 de daño con sus ataques esta recepción. También sufren +4-8 de daño de aturdimiento al recibir un golpe.
@@ -335,7 +335,7 @@ Cuando un aliado derrota a un enemigo, ellos recuperan 15 de HP y resistencia al
 	  </AbnormalityCard>
     
 	  <AbnormalityCard ID="SingingMachine_Rhythm">
-		  <Abnormality>Máquina de cantar</Abnormality>
+		  <Abnormality>Máquina Cantora</Abnormality>
 		  <CardName>Ritmo</CardName>
 		  <AbilityDesc>[Solo un aliado]
 Por la duración de la batalla, gana 1 de Ritmo al comienzo de cada escena. Siempre que un personaje con 'Ritmo' realiza con éxito un ataque, otro personaje aleatorio gana 1 de Ritmo con una probabilidad del 25% la siguiente escena.
@@ -351,7 +351,7 @@ Por la duración de la batalla, gana 1 de Ritmo al comienzo de cada escena. Siem
 	  </AbnormalityCard>
     
     <AbnormalityCard ID="SingingMachine_Atk">
-      <Abnormality>Máquina de cantar</Abnormality>
+      <Abnormality>Máquina Cantora</Abnormality>
       <CardName>Adicción músical</CardName>
       <AbilityDesc>[Solo un aliado]
 Los dados ofensivos ganan 1-3 de Poder.
@@ -367,7 +367,7 @@ Los dados defensivos sacan un 1.</AbilityDesc>
     </AbnormalityCard>
     
         <AbnormalityCard ID="Butterfly_White">
-      <Abnormality>Funeral de las mariposas muertas</Abnormality>
+      <Abnormality>O Funeral das Borboletas Mortas</Abnormality>
       <CardName>Descanso eterno</CardName>
       <AbilityDesc>[Solo un aliado]
 Haz +2-7 de daño y +2-5 de daño de aturdimiento contra el enemigo con menos HP actualmente.</AbilityDesc>
@@ -381,7 +381,7 @@ Haz +2-7 de daño y +2-5 de daño de aturdimiento contra el enemigo con menos HP
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Butterfly_Fly">
-      <Abnormality>Funeral de las mariposas muertas</Abnormality>
+      <Abnormality>O Funeral das Borboletas Mortas</Abnormality>
       <CardName>Lamento</CardName>
       <AbilityDesc>[Solo un aliado]
 Haz +2-4 de daño a un enemigo con un efecto de estado.
@@ -396,7 +396,7 @@ Si el bibliotecario tiene un efecto de estado al comienzo de una escena, gana 1-
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Butterfly_Casket">
-      <Abnormality>Funeral de las mariposas muertas</Abnormality>
+      <Abnormality>O Funeral das Borboletas Mortas</Abnormality>
       <CardName>Ataúd</CardName>
       <AbilityDesc>[Solo un aliado]
 Al golpear a un enemigo que tenga 50% o menos de HP, sella un dado de velocidad de el objetivo (Dos veces por escena, excluye ataques en masa).</AbilityDesc>
@@ -461,7 +461,7 @@ Gana 1-2 de Prisa y 2-4 de Fuerza cada escena.</AbilityDesc>
   
   <Sephirah SephirahType="Hod">
     <AbnormalityCard ID="ShyLookToday_Face">
-      <Abnormality>Mirada tímida de hoy</Abnormality>
+      <Abnormality>Expressão Tímida de Hoje</Abnormality>
       <CardName>Mirada del día</CardName>
       <AbilityDesc>[Solo un aliado]
 La cara del bibliotecario cambia constantemente.
@@ -478,7 +478,7 @@ La ira es feroz.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="ShyLookToday_Shy">
-      <Abnormality>Mirada tímida de hoy</Abnormality>
+      <Abnormality>Expressão Tímida de Hoje</Abnormality>
       <CardName>Distanciamiento social</CardName>
       <AbilityDesc>[Solo un aliado]
 Los dados de bloqueo ganan 1-2 de Poder.
@@ -493,7 +493,7 @@ Haz +2-7 de daño de aturdimiento al desviar daño.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="ShyLookToday_Normalface">
-      <Abnormality>Mirada tímida de hoy</Abnormality>
+      <Abnormality>Expressão Tímida de Hoje</Abnormality>
       <CardName>Timidez</CardName>
       <AbilityDesc>[Solo un aliado]
 Cuando usas una página, todos los dados de bloqueo en esa página ganan Poder igual a la cantidad de dados defensivos en dicha página.</AbilityDesc>
@@ -507,7 +507,7 @@ Cuando usas una página, todos los dados de bloqueo en esa página ganan Poder i
     </AbnormalityCard>
     
     <AbnormalityCard ID="RedShoes_Kirakira">
-      <Abnormality>Los zapatos rojos</Abnormality>
+      <Abnormality>Los Os Saltos Vermelhos</Abnormality>
       <CardName>Brillantina</CardName>
       <AbilityDesc>[Solo un aliado]
 Al comienzo de una escena, cada enemigo es Seducido con una probabilidad del 50%.
@@ -525,7 +525,7 @@ Pronto se volverán rojos.</FlaborText>
     </AbnormalityCard>
     
     <AbnormalityCard ID="RedShoes_Desire">
-      <Abnormality>Los zapatos rojos</Abnormality>
+      <Abnormality>Los Os Saltos Vermelhos</Abnormality>
       <CardName>Obsesión</CardName>
       <AbilityDesc>[Todos los personajes]
 Todos los personajes aplican el doble de Sangrado.</AbilityDesc>
@@ -540,7 +540,7 @@ Todos los personajes aplican el doble de Sangrado.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="RedShoes_Cut">
-      <Abnormality>Los zapatos rojos</Abnormality>
+      <Abnormality>Los Os Saltos Vermelhos</Abnormality>
       <CardName>Hacha</CardName>
       <AbilityDesc>[Solo un aliado]
 Los dados cortantes ganan 1-3 de Poder.
@@ -554,7 +554,7 @@ Recibe 2-5 de daño de aturdimiento cuando un dado cortante no acierta. (Excluye
     </AbnormalityCard>
     
     <AbnormalityCard ID="SpiderBud_Cocoon">
-      <Abnormality>Capullo de araña</Abnormality>
+      <Abnormality>Casulo Aracnídeo</Abnormality>
       <CardName>Capullo</CardName>
       <AbilityDesc>[Solo un aliado]
 Al golpear, Si el resultado del dado es el valor máximo: inflige 1-2 de Parálisis, Atadura y Frágil la siguiente escena.(Excluye ataques en masa)</AbilityDesc>
@@ -569,7 +569,7 @@ Al golpear, Si el resultado del dado es el valor máximo: inflige 1-2 de Paráli
     </AbnormalityCard>
     
     <AbnormalityCard ID="SpiderBud_BabyAtk">
-      <Abnormality>Capullo de araña</Abnormality>
+      <Abnormality>Casulo Aracnídeo</Abnormality>
       <CardName>Comida</CardName>
       <AbilityDesc>[Solo un aliado]
 Al golpear a un enemigo aturdido, todos los aliados recuperan 2-4 de HP.(Excluye ataques en masa)</AbilityDesc>
@@ -584,7 +584,7 @@ Al golpear a un enemigo aturdido, todos los aliados recuperan 2-4 de HP.(Excluye
     </AbnormalityCard>
     
     <AbnormalityCard ID="SpiderBud_Dinner">
-      <Abnormality>Capullo de araña</Abnormality>
+      <Abnormality>Casulo Aracnídeo</Abnormality>
       <CardName>Vigilancia</CardName>
       <AbilityDesc>[Solo un aliado]
 Los enemigos pierden 1 de Poder en choques contra el bibliotecario seleccionado.
@@ -691,7 +691,7 @@ Gana 6 de 'Ropa de Ortiga', que dan Protección igual a la cantidad que tengas c
   
   <Sephirah SephirahType="Netzach">
     <AbnormalityCard ID="UniverseZogak_Echo">
-      <Abnormality>Fragmento del universo</Abnormality>
+      <Abnormality>Fragmento do Universo</Abnormality>
       <CardName>Ecos del más allá</CardName>
       <AbilityDesc>[Todos los personajes]
 Haz 5-10 de daño de aturdimiento a todos los enemigos. Todos los aliados recuperan 5-10 de resistencia al aturdimiento.</AbilityDesc>
@@ -706,7 +706,7 @@ Haz 5-10 de daño de aturdimiento a todos los enemigos. Todos los aliados recupe
     </AbnormalityCard>
     
     <AbnormalityCard ID="UniverseZogak_Tentacle">
-      <Abnormality>Fragmento del universo</Abnormality>
+      <Abnormality>Fragmento do Universo</Abnormality>
       <CardName>Tentáculos</CardName>
       <AbilityDesc>[Solo un aliado]
 En un ataque perforante exitoso, reduce la resistencia al aturdimiento máxima del objetivo en 5%. (Hasta 50%, excluye ataques en masa)</AbilityDesc>
@@ -721,12 +721,12 @@ En un ataque perforante exitoso, reduce la resistencia al aturdimiento máxima d
     </AbnormalityCard>
     
     <AbnormalityCard ID="UniverseZogak_Sing">
-      <Abnormality>Fragmento del universo</Abnormality>
+      <Abnormality>Fragmento do Universo</Abnormality>
       <CardName>Incomprensible</CardName>
       <AbilityDesc>[Solo un aliado]
 En un ataque de un solo-lado, inflige 1 de Endeble y Desarmar la siguiente escena con una probabilidad del 50%. 
 La probabilidad incrementa en 10% por cada ataque exitoso. (Tres veces por encuentro, excluye ataques en masa)</AbilityDesc>
-      <FlaborText>Eventualmente, él tuvo éxito al entrar en el dominio de ‘Fragmento del Universo’. Sin embargo, estaba claro que su pequeño cerebro no podría resistirlo.</FlaborText>
+      <FlaborText>Eventualmente, él tuvo éxito al entrar en el dominio de ‘Fragmento do Universo’. Sin embargo, estaba claro que su pequeño cerebro no podría resistirlo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Entiendo. Tú. Juntos. Humano. Yo.</Dialogue>
         <Dialogue ID="2">Quiero. Entiendo. Yo. Tú, Estudiar.</Dialogue>
@@ -735,7 +735,7 @@ La probabilidad incrementa en 10% por cada ataque exitoso. (Tres veces por encue
     </AbnormalityCard>
     
     <AbnormalityCard ID="ChildofGalaxy_Tear">
-      <Abnormality>Niño de la galaxia</Abnormality>
+      <Abnormality>Criança da Galáxia</Abnormality>
       <CardName>Lágrima</CardName>
       <AbilityDesc>[Solo un aliado]
 Poder del dado +1. Al morir, Todos los personajes reciben 50% del HP máximo como daño. (Máx. 60)</AbilityDesc>
@@ -750,7 +750,7 @@ Poder del dado +1. Al morir, Todos los personajes reciben 50% del HP máximo com
     </AbnormalityCard>
     
     <AbnormalityCard ID="ChildofGalaxy_Friend">
-      <Abnormality>Niño de la galaxia</Abnormality>
+      <Abnormality>Criança da Galáxia</Abnormality>
       <CardName>Un símbolo de amistad</CardName>
       <AbilityDesc>[Todos los aliados]
 Por 3 escenas, todos los aliados recuperan 10% del HP máximo al comienzo de una escena. (Máx. 12)</AbilityDesc>
@@ -765,7 +765,7 @@ Por 3 escenas, todos los aliados recuperan 10% del HP máximo al comienzo de una
     </AbnormalityCard>
     
     <AbnormalityCard ID="ChildofGalaxy_Token">
-      <Abnormality>Niño de la galaxia</Abnormality>
+      <Abnormality>Criança da Galáxia</Abnormality>
       <CardName>Token</CardName>
       <AbilityDesc>[Solo un aliado]
 Al comienzo de cada escena, tres páginas aleatorias en la mano ganan el estado 'Token'. (Excluyendo páginas [Al jugar])
@@ -798,7 +798,7 @@ Contra objetivos con 3+ de 'Emoción', haz 2-7 de daño y daño de aturdimiento 
     </AbnormalityCard>
     
     <AbnormalityCard ID="Porccubus_Boom">
-      <Abnormality>Porccubus</Abnormality>
+      <Abnormality>Pórcubo</Abnormality>
       <CardName>Júbilo</CardName>
       <AbilityDesc>[Solo un aliado]
 Poder del dado +1. Reduce la resistencia máxima al aturdimiento en 50%.</AbilityDesc>
@@ -813,7 +813,7 @@ Poder del dado +1. Reduce la resistencia máxima al aturdimiento en 50%.</Abilit
     </AbnormalityCard>
     
     <AbnormalityCard ID="Porccubus_Happy">
-      <Abnormality>Porccubus</Abnormality>
+      <Abnormality>Pórcubo</Abnormality>
       <CardName>Polvo para reir</CardName>
       <AbilityDesc>[Todos los aliados]
 Al ser golpeado, recupera 2-4 de resistencia al aturdimiento si el personaje no está aturdido.</AbilityDesc>
@@ -914,7 +914,7 @@ Cuando el bibliotecario seleccionado deja a un enemigo aturdido, todos los enemi
   
   <Sephirah SephirahType="Keter">
     <AbnormalityCard ID="Bloodbath_Blood">
-      <Abnormality>Baño de sangre</Abnormality>
+      <Abnormality>Banheira de Sangue</Abnormality>
       <CardName>Sangre</CardName>
       <AbilityDesc>[Solo un aliado]
 Los dados defensivos ganan 1-2 de Poder.
@@ -930,7 +930,7 @@ Recibes +3-5 de daño de aturdimiento al ser golpeado.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Bloodbath_Scar">
-      <Abnormality>Baño de sangre</Abnormality>
+      <Abnormality>Banheira de Sangue</Abnormality>
       <CardName>Cicatrices</CardName>
       <AbilityDesc>[Solo un aliado]
 Recibe 2-5 menos de daño de ataques cortantes.
@@ -946,7 +946,7 @@ Al ser golpeado, reduce el daño de los ataques a 0 con una probabilidad del 20%
     </AbnormalityCard>
     
     <AbnormalityCard ID="Bloodbath_Hands">
-      <Abnormality>Baño de sangre</Abnormality>
+      <Abnormality>Banheira de Sangue</Abnormality>
       <CardName>Manos pálidas</CardName>
       <AbilityDesc>[Solo un aliado]
 Después de tres ataques exitosos al mismo objetivo, Haz 3-10 de daño de aturdimiento adicional.
@@ -963,7 +963,7 @@ Son las manos de las personas que una vez amé.</FlaborText>
     </AbnormalityCard>
     
     <AbnormalityCard ID="HeartofAspiration_Heart">
-      <Abnormality>Corazón de la aspiración</Abnormality>
+      <Abnormality>Coração da Aspiração</Abnormality>
       <CardName>Pulsación</CardName>
        <AbilityDesc>[Todos los aliados]
 Gana 1-2 de Fuerza al final de cada escena.
@@ -979,7 +979,7 @@ Al final de Cada escena, Si el bibliotecario no hizo daño con dados ofensivos, 
     </AbnormalityCard>
     
     <AbnormalityCard ID="HeartofAspiration_Doki">
-      <Abnormality>Corazón de la aspiración</Abnormality>
+      <Abnormality>Coração da Aspiração</Abnormality>
       <CardName>Incitar</CardName>
      <AbilityDesc>[Solo un aliado]
 Incrementa el HP máximo en 15%. (el HP actual aumenta acordermente)
@@ -995,7 +995,7 @@ Gana 1-2 de velocidad.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="HeartofAspiration_Atk">
-      <Abnormality>Corazón de la aspiración</Abnormality>
+      <Abnormality>Coração da Aspiração</Abnormality>
       <CardName>Latidos fervientes</CardName>
       <AbilityDesc>[Solo un aliado]
 El bibliotecario seleccionado muere al final de la tercera escena después que esta página fuera escogida.
@@ -1056,7 +1056,7 @@ Al comienzo de una escena, baraja todas tus páginas en el mazo y roba 4 página
     </AbnormalityCard>
 
     <AbnormalityCard ID="TheSnowQueen_Sord">
-      <Abnormality>La reina de la nieve</Abnormality>
+      <Abnormality>A Rainha da Neve</Abnormality>
       <CardName>Astilla de hielo</CardName>
       <AbilityDesc>[Solo un aliado]
 Al ganar un choque, inflige 1-3 de Atadura la siguiente escena con una probabilidad del 50%.
@@ -1072,13 +1072,13 @@ Haz +2-5 de daño de aturdimiento contra un enemigo con Atadura.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="TheSnowQueen_Chu">
-      <Abnormality>La reina de la nieve</Abnormality>
+      <Abnormality>A Rainha da Neve</Abnormality>
       <CardName>Un beso</CardName>
       <AbilityDesc>[Solo un aliado]
 Después de ganar 2 o más choques con una sola página de combate, inflige Astilla de hielo al oponente.
 Al final de cada escena, personajes con 3 o más Astilla de hielo quedan Inmovilizados por la siguiente escena.
       </AbilityDesc>
-      <FlaborText>El beso de la reina de la nieve congeló su corazón y él no pudo sentir el frío nunca más.</FlaborText>
+      <FlaborText>El beso de A Rainha da Neve congeló su corazón y él no pudo sentir el frío nunca más.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Solo aquellos que conocen el aroma de las rosas pueden traer un final a todo esto.</Dialogue>
         <Dialogue ID="2">Debes haber tenido un corazón cálido una vez.</Dialogue>
@@ -1089,12 +1089,12 @@ Al final de cada escena, personajes con 3 o más Astilla de hielo quedan Inmovil
     </AbnormalityCard>
     
     <AbnormalityCard ID="TheSnowQueen_Snow">
-      <Abnormality>La reina de la nieve</Abnormality>
+      <Abnormality>A Rainha da Neve</Abnormality>
       <CardName>Tormenta de nieve</CardName>
       <AbilityDesc>[Solo un aliado]
 Todos los personajes excepto el bibliotecario seleccionado quedan Inmovilizados por esta escena.
 La siguiente escena, todos los enemigos reciben 6 de Atadura.</AbilityDesc>
-      <FlaborText>La primavera llega con el florecimiento de las rosas. Su calor derritió el palacio de la reina de la nieve. Nadie la recordó, durmiendo debajo.</FlaborText>
+      <FlaborText>La primavera llega con el florecimiento de las rosas. Su calor derritió el palacio de A Rainha da Neve. Nadie la recordó, durmiendo debajo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Nadie se da cuenta de que estoy durmiendo en este lugar.</Dialogue>
         <Dialogue ID="2">Cuando esta nieve se derrita, yo también seré olvidada.</Dialogue>
@@ -1152,7 +1152,7 @@ Al ser golpeado, el atacante recibe daño de aturdimiento igual al daño físico
   
   <Sephirah SephirahType="Tiphereth">
     <AbnormalityCard ID="QueenOfHatred_Laser">
-      <Abnormality>La reina del odio</Abnormality>
+      <Abnormality>A Rainha do Ódio</Abnormality>
       <CardName>Amor</CardName>
       <AbilityDesc>[Solo un aliado]
 Después de ganar un choque usando un dado ofensivo, un aliado aleatorio recupera 3-5 de HP.
@@ -1168,7 +1168,7 @@ Después de ganar un choque usando un dado defensivo, un aliado aleatorio recupe
     </AbnormalityCard>
     
     <AbnormalityCard ID="QueenOfHatred_Gun">
-      <Abnormality>La reina del odio</Abnormality>
+      <Abnormality>A Rainha do Ódio</Abnormality>
       <CardName>Justicia</CardName>
       <AbilityDesc>[Solo un aliado]
 El enemigo que haga la mayor cantidad de daño a los aliados en la escena anterior es marcado como 'Villano'.
@@ -1183,7 +1183,7 @@ Haz +3-5 de daño cuando ataques al 'Villano'.</AbilityDesc>
     </AbnormalityCard>
     
  <AbnormalityCard ID="QueenOfHatred_Snake">
-      <Abnormality>La reina del odio</Abnormality>
+      <Abnormality>A Rainha do Ódio</Abnormality>
       <CardName>Odio</CardName>
       <AbilityDesc>[Solo un aliado]
 Después de perder un choque, Recibe 2-4 de daño de aturdimiento y gana 1 Fuerza la siguiente escena. (Hasta 2 por escena)
@@ -1199,7 +1199,7 @@ Después de perder tres choques en una sola escena, reduce el coste de la págin
     </AbnormalityCard>
     
     <AbnormalityCard ID="KnightOfDespair_Gaho">
-      <Abnormality>El caballero de la desesperación</Abnormality>
+      <Abnormality>Dama do Desespero</Abnormality>
       <CardName>Bendición</CardName>
       <AbilityDesc>[Solo un aliado]
 Si el personaje recibió daño de ataques en la escena anterior, cambia las resistencias de este personaje contra el tipo que hace más daño a "Resistente" por la escena. (Aplica separadamente el daño y daño de aturdimiento)</AbilityDesc>
@@ -1213,7 +1213,7 @@ Si el personaje recibió daño de ataques en la escena anterior, cambia las resi
     </AbnormalityCard>
     
     <AbnormalityCard ID="KnightOfDespair_Sword">
-      <Abnormality>El caballero de la desesperación</Abnormality>
+      <Abnormality>Dama do Desespero</Abnormality>
       <CardName>Espadas afiladas con lágrimas</CardName>
       <AbilityDesc>[Solo un aliado]
 En un ataque perforante exitoso, si el resultado del dado es el máximo, haz daño adicional igual al 10% del HP máximo del objetivo. (Máx. 12, excluye ataques en masa)</AbilityDesc>
@@ -1226,7 +1226,7 @@ En un ataque perforante exitoso, si el resultado del dado es el máximo, haz da�
     </AbnormalityCard>
     
     <AbnormalityCard ID="KnightOfDespair_Despair">
-      <Abnormality>El caballero de la desesperación</Abnormality>
+      <Abnormality>Dama do Desespero</Abnormality>
       <CardName>Desesperación</CardName>
       <AbilityDesc>[Todos los aliados]
 Cuando un aliado muere, todos los aliados ganan 1-3 de Fuerza y Prisa y todos los enemigos reciben 2 de Frágil.</AbilityDesc>
@@ -1241,7 +1241,7 @@ Cuando un aliado muere, todos los aliados ganan 1-3 de Fuerza y Prisa y todos lo
     </AbnormalityCard>
   
     <AbnormalityCard ID="Greed_Break">
-      <Abnormality>El rey de la codicia</Abnormality>
+      <Abnormality>O Rei da Ganância</Abnormality>
       <CardName>Intemperancia</CardName>
       <AbilityDesc>[Solo un aliado]
 Si el primer dado de la página de combate gana un choque, destruye todos los dados que quedan en el dado del oponente con una probabilidad del 25%.</AbilityDesc>
@@ -1255,7 +1255,7 @@ Si el primer dado de la página de combate gana un choque, destruye todos los da
     </AbnormalityCard>
     
     <AbnormalityCard ID="Greed_Protect">
-      <Abnormality>El rey de la codicia</Abnormality>
+      <Abnormality>O Rei da Ganância</Abnormality>
       <CardName>Camino a la felicidad</CardName>
       <AbilityDesc>[Solo un aliado]
 Gana 1 de Dureza por cada choque ganada en una escena. (Hasta 3 por escena)</AbilityDesc>
@@ -1269,7 +1269,7 @@ Gana 1 de Dureza por cada choque ganada en una escena. (Hasta 3 por escena)</Abi
     </AbnormalityCard>
     
     <AbnormalityCard ID="Greed_Eat">
-      <Abnormality>El rey de la codicia</Abnormality>
+      <Abnormality>O Rei da Ganância</Abnormality>
       <CardName>Codicia</CardName>
       <AbilityDesc>[Solo un aliado]
 En un choque, Si el resultado del dado ganador es mayor por 4 o más comparado al del perdedor, el perdedor recibe 3-7 de daño adicional y el ganador recupera 2-5 de HP. (Ambos, el bibliotecario y el Oponente pueden activar este efecto)</AbilityDesc>
@@ -1283,7 +1283,7 @@ En un choque, Si el resultado del dado ganador es mayor por 4 o más comparado a
     </AbnormalityCard>
     
         <AbnormalityCard ID="Angry_Angry">
-      <Abnormality>La sirviente de la ira</Abnormality>
+      <Abnormality>A Serva da Ira</Abnormality>
       <CardName>Ira</CardName>
       <AbilityDesc>[Solo un aliado]
 El bibliotecario seleccionado entra en un estado de Ira.
@@ -1299,11 +1299,11 @@ También, el bibliotecario gana 2 Fuerza, restaura 2 de Luz y roba 2 páginas ad
     </AbnormalityCard>
     
 <AbnormalityCard ID="Angry_Friend">
-      <Abnormality>La sirviente de la ira</Abnormality>
+      <Abnormality>A Serva da Ira</Abnormality>
       <CardName>Compañia</CardName>
       <AbilityDesc>[Solo un aliado]
 Cuando no hay 'Compañia' presente, el primer enemigo golpeado por el bibliotecario seleccionado es marcado como uno. Cuando el bibliotecario seleccionado derrota al personaje con 'Compañia', todos los bibliotecarios restauran 3 de Luz recuperan 10 HP y resistencia al aturdimiento.</AbilityDesc>
-      <FlaborText>La sirviente de la ira valoró la justicia y el balance más que nadie, pero ella comenzó a compartir conocimiento con el Ermitaño, un enemigo de su reino, volviéndose amigos en secreto.</FlaborText>
+      <FlaborText>A Serva da Ira valoró la justicia y el balance más que nadie, pero ella comenzó a compartir conocimiento con el Ermitaño, un enemigo de su reino, volviéndose amigos en secreto.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Llámame… Llámame por mi nombre…</Dialogue>
         <Dialogue ID="2">Amigo… Mi amigo… Aquellos se necesitan… el uno al otro…</Dialogue>
@@ -1313,7 +1313,7 @@ Cuando no hay 'Compañia' presente, el primer enemigo golpeado por el biblioteca
     </AbnormalityCard>
     
     <AbnormalityCard ID="Angry_Poison">
-      <Abnormality>La sirviente de la ira</Abnormality>
+      <Abnormality>A Serva da Ira</Abnormality>
       <CardName>Lodo acido</CardName>
       <AbilityDesc>[All Enemies]
 Inflige 5 de 'Erosión' a todos los enemigos. Enemigos con Erosión también ganan Atadura igual a la cantidad Erosion que tengan actualmente.
@@ -1373,7 +1373,7 @@ Al comienzo de una escena, inflige 5 de Endeble, Desarmar y Atadura a todos los 
 
   <Sephirah SephirahType="Gebura">
     <AbnormalityCard ID="Redhood_Hunt">
-      <Abnormality>Mercenaria caperucita roja</Abnormality>
+      <Abnormality>Chapeuzinho Vermelha Mercenária</Abnormality>
       <CardName>Presa</CardName>
       <AbilityDesc>[Solo un aliado]
 Marca al primer enemigo que es atacado por este bibliotecario después que esta página es seleccionada.
@@ -1389,7 +1389,7 @@ Haz +2-6 de daño cuando atacas a un enemigo Marcado.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Redhood_Revenge">
-      <Abnormality>Mercenaria caperucita roja</Abnormality>
+      <Abnormality>Chapeuzinho Vermelha Mercenária</Abnormality>
       <CardName>Venganza</CardName>
       <AbilityDesc>[Solo un aliado]
 Al comienzo de una escena, gana Fuerza basada en la cantidad de daño recibido la escena anterior. (1 de Fuerza cada 5 de daño, hasta 2)</AbilityDesc>
@@ -1403,7 +1403,7 @@ Al comienzo de una escena, gana Fuerza basada en la cantidad de daño recibido l
     </AbnormalityCard>
     
     <AbnormalityCard ID="Redhood_RedScar">
-      <Abnormality>Mercenaria caperucita roja</Abnormality>
+      <Abnormality>Chapeuzinho Vermelha Mercenária</Abnormality>
       <CardName>Caperucita roja</CardName>
       <AbilityDesc>[Solo un aliado]
 Si el HP del bibliotecario está en 50%/35%/25% o menos, gana 1/2/4 de Fuerza cada escena.</AbilityDesc>
@@ -1417,7 +1417,7 @@ Si el HP del bibliotecario está en 50%/35%/25% o menos, gana 1/2/4 de Fuerza ca
     </AbnormalityCard>
     
      <AbnormalityCard ID="BigBadWolf_Claw">
-      <Abnormality>El gran lobo que puede ser malo</Abnormality>
+      <Abnormality>Lobo Grande que Será do Mau</Abnormality>
       <CardName>Garras feroces</CardName>
       <AbilityDesc>[Solo un aliado]
 Después que el bibliotecario reciba un daño mayor a 25% de su HP máximo, no puede ser Seleccionado ni Enfrentado la siguiente escena.
@@ -1432,7 +1432,7 @@ El bibliotecario gana 2 de Fuerza esa escena, e inflige de 1 Sangrado con cada a
     </AbnormalityCard>
     
     <AbnormalityCard ID="BigBadWolf_Eat">
-      <Abnormality>El gran lobo que puede ser malo</Abnormality>
+      <Abnormality>Lobo Grande que Será do Mau</Abnormality>
       <CardName>Instinto</CardName>
       <AbilityDesc>[Solo un aliado]
 Cada vez que el bibliotecario seleccionado gana un choque, el último dado de su página actual gana 1-2 de Poder.
@@ -1447,7 +1447,7 @@ Recupera 3-7 de HP al golpear con éxito con su último dado.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="BigBadWolf_Change">
-      <Abnormality>El gran lobo que puede ser malo</Abnormality>
+      <Abnormality>Lobo Grande que Será do Mau</Abnormality>
       <CardName>El papel del lobo</CardName>
       <AbilityDesc>[Solo un aliado]
 Los dados de contraataque ganan 1-2 de Poder.
@@ -1462,7 +1462,7 @@ Los dados de contraataque infringen 2 de Frágil al ganar un choque. (3 veces po
     </AbnormalityCard>
     
         <AbnormalityCard ID="Mountain_Eat">
-      <Abnormality>Montaña de cuerpos sonrientes</Abnormality>
+      <Abnormality>Montanha de Corpos Sorridentes</Abnormality>
       <CardName>Absorción</CardName>
 <AbilityDesc>[Solo un aliado]
 Por la duración del acto, recupera 20% de HP máximo (Máx. 20) al derrotar a un enemigo.
@@ -1477,7 +1477,7 @@ Al comienzo de una escena, gana Fuerza basado en la cantidad de HP que el biblio
     </AbnormalityCard>
     
     <AbnormalityCard ID="Mountain_Shout">
-      <Abnormality>Montaña de cuerpos sonrientes</Abnormality>
+      <Abnormality>Montanha de Corpos Sorridentes</Abnormality>
       <CardName>Risa</CardName>
       <AbilityDesc>[Solo un aliado]
 Cuando el bibliotecario recibe un golpe mientras su HP es 50% o menos, estalla un Chillido con una probabilidad del 50%. (hasta 3 veces por escena)
@@ -1492,7 +1492,7 @@ El Chillido hace 2-5 de daño de aturdimiento a todos los enemigos e inflige de 
     </AbnormalityCard>
     
     <AbnormalityCard ID="Mountain_Vomit">
-      <Abnormality>Montaña de cuerpos sonrientes</Abnormality>
+      <Abnormality>Montanha de Corpos Sorridentes</Abnormality>
 <CardName>Montaña de cuerpos</CardName>
 <AbilityDesc>[Solo un aliado]
 Todos los bibliotecarios excepto el seleccionado son matados inmediatamente al seleccionar esta página. 
@@ -1634,7 +1634,7 @@ Las páginas copiadas se agotan al usarlas.
     </AbnormalityCard>
     
     <AbnormalityCard ID="LumberJack_Cut">
-      <Abnormality>Leñador de buen corazón</Abnormality>
+      <Abnormality>Lenhador de Coração Caloroso</Abnormality>
       <CardName>Un corazón cálido</CardName>
       <AbilityDesc>[Solo un aliado]
 Al comienzo de una escena, incrementa el Poder de los dados ofensivos en +1-2 por la escena si el bibliotecario tiene 3 o más Luz.</AbilityDesc>
@@ -1648,7 +1648,7 @@ Al comienzo de una escena, incrementa el Poder de los dados ofensivos en +1-2 po
     </AbnormalityCard>
     
     <AbnormalityCard ID="LumberJack_Tree">
-      <Abnormality>Leñador de buen corazón</Abnormality>
+      <Abnormality>Lenhador de Coração Caloroso</Abnormality>
       <CardName>Madera</CardName>
       <AbilityDesc>[Solo un aliado]
 Cuando ataques a un objetivo que tiene más Luz que el bibliotecario, Los dados ofensivos ganan Poder igual a la cantidad Luz que tiene el objetivo. (hasta 2)</AbilityDesc>
@@ -1662,7 +1662,7 @@ Cuando ataques a un objetivo que tiene más Luz que el bibliotecario, Los dados 
     </AbnormalityCard>
     
     <AbnormalityCard ID="LumberJack_Heart">
-      <Abnormality>Leñador de buen corazón</Abnormality>
+      <Abnormality>Lenhador de Coração Caloroso</Abnormality>
       <CardName>Corazón</CardName>
       <AbilityDesc>[Solo un aliado]
 Después de hacer 15 o más de daño a enemigos en una sola escena, reduce el coste de las dos páginas más caras en mano en 1.
@@ -1678,7 +1678,7 @@ El coste reducido es reseteado después de usarlas.</AbilityDesc>
     </AbnormalityCard>
 
    <AbnormalityCard ID="House_LionAtk">
-      <Abnormality>El camino a casa</Abnormality>
+      <Abnormality>O Caminho para Casa</Abnormality>
       <CardName>Coraje</CardName>
       <AbilityDesc>[Solo un aliado]
 Al comienzo de una escena, gana Fuerza y Protección igual al número de aliados vivos menos 2. (Si el valor es menor a 0, se inflige Endeble y Frágil en su lugar.)</AbilityDesc>
@@ -1692,7 +1692,7 @@ Al comienzo de una escena, gana Fuerza y Protección igual al número de aliados
     </AbnormalityCard>
     
     <AbnormalityCard ID="House_BigHouse">
-      <Abnormality>El camino a casa</Abnormality>
+      <Abnormality>O Caminho para Casa</Abnormality>
       <CardName>Hogar</CardName>
       <AbilityDesc>[Todos los aliados]
 Al comienzo de una escena, se colocan números en los enemigos hasta 3/2/2/1/1, dependiendo del número de aliados con vida.
@@ -1707,7 +1707,7 @@ Cada vez que un objetivo es atacado en el orden correcto, incrementa el daño fi
     </AbnormalityCard>
     
     <AbnormalityCard ID="House_Home">
-      <Abnormality>El camino a casa</Abnormality>
+      <Abnormality>O Caminho para Casa</Abnormality>
       <CardName>Caminando juntos</CardName>
       <AbilityDesc>[Solo un aliado]
 Si un aliado redirige el ataque que iba dirigido a este personaje, el dado del aliado gana 1-2 de Poder en el choque.</AbilityDesc>
@@ -1856,7 +1856,7 @@ Si el HP del objetivo es 25% o menos, destruye todos sus dados al ganar un choqu
     </AbnormalityCard>
       
     <AbnormalityCard ID="SmallBird_Punishment">
-      <Abnormality>Ave castigador</Abnormality>
+      <Abnormality>Pássaro Punitivo</Abnormality>
       <CardName>Castigo</CardName>
       <AbilityDesc>[Solo un aliado]
 Después de recibir daño, el primer dado de la primera página ue el bibliotecario utiliza la siguiente escena gana 2-4 de Poder. (Excluyendo páginas [Al jugar])</AbilityDesc>
@@ -1869,7 +1869,7 @@ Después de recibir daño, el primer dado de la primera página ue el biblioteca
     </AbnormalityCard>
       
     <AbnormalityCard ID="SmallBird_Beak">
-      <Abnormality>Ave castigador</Abnormality>
+      <Abnormality>Pássaro Punitivo</Abnormality>
       <CardName>Pico castigador</CardName>
       <AbilityDesc>[Solo un aliado]
 El ataque del bibliotecario hace daño adicional igual al número de escenas que el bibliotecario ha psado sin recibir daño de ataques. (Máx. 10)</AbilityDesc>
@@ -1882,7 +1882,7 @@ El ataque del bibliotecario hace daño adicional igual al número de escenas que
     </AbnormalityCard>
       
     <AbnormalityCard ID="Smallbird_Fly">
-      <Abnormality>Ave castigador</Abnormality>
+      <Abnormality>Pássaro Punitivo</Abnormality>
       <CardName>Pequeños Aleteos</CardName>
       <AbilityDesc>[Solo un aliado]
 Los dados de evasión ganan 1-2 de Poder.
@@ -1897,7 +1897,7 @@ Al ganar un choque usando un dado de evasión, el próximo dado ofensivo gana 1-
     </AbnormalityCard>
       
     <AbnormalityCard ID="LongBird_Sin">
-      <Abnormality>Ave del juicio</Abnormality>
+      <Abnormality>Pássaro do Julgamento</Abnormality>
       <CardName>El peso del pecado</CardName>
       <AbilityDesc>[Solo un aliado]
 Cuando un dado que este bibliotecario juega tenga el resultado minimo, Recibe 2-7 de daño y gana 1-2 de Fuerza y Dureza la siguiente escena.</AbilityDesc>
@@ -1910,7 +1910,7 @@ Cuando un dado que este bibliotecario juega tenga el resultado minimo, Recibe 2-
     </AbnormalityCard>
       
    <AbnormalityCard ID="LongBird_Scale">
-      <Abnormality>Ave del juicio</Abnormality>
+      <Abnormality>Pássaro do Julgamento</Abnormality>
       <CardName>Balanza inclinada</CardName>
       <AbilityDesc>[Solo un aliado]
 Después de atacar al enemigo con más HP, recupera el HP del aliado con menos HP en 2-8. (3 veces por escena, excluye ataques en masa)</AbilityDesc>
@@ -1924,7 +1924,7 @@ Después de atacar al enemigo con más HP, recupera el HP del aliado con menos H
     </AbnormalityCard>
       
     <AbnormalityCard ID="LongBird_Judgement">
-      <Abnormality>Ave del juicio</Abnormality>
+      <Abnormality>Pássaro do Julgamento</Abnormality>
       <CardName>Juicio</CardName>
       <AbilityDesc>[Solo un aliado]
 Al comienzo de una escena, Todos los personajes ganan 1 de 'Pecado' con una probabilidad del 50%.
@@ -2030,7 +2030,7 @@ Todos los ataques del 'Intruso' hacen 2-4 menos de daño y daño de aturdimiento
   
   <Sephirah SephirahType="Hokma">
     <AbnormalityCard ID="Bloodytree_Wing">
-      <Abnormality>Escarbando el paraíso</Abnormality>
+      <Abnormality>O Céu Perfurador</Abnormality>
       <CardName>Alas ensangrentadas</CardName>
       <AbilityDesc>[Solo un aliado]
 Al desviar daño, haz la mitad del resultado del dado de bloqueo como daño fisico al oponente.</AbilityDesc>
@@ -2044,7 +2044,7 @@ Al desviar daño, haz la mitad del resultado del dado de bloqueo como daño fisi
     </AbnormalityCard>
     
     <AbnormalityCard ID="Bloodytree_Gaze">
-      <Abnormality>Escarbando el paraíso</Abnormality>
+      <Abnormality>O Céu Perfurador</Abnormality>
       <CardName>Mirada de otros</CardName>
       <AbilityDesc>[Solo un aliado]
 Haz +2-4 de daño un ataque de un solo-lado.
@@ -2059,7 +2059,7 @@ En un choque, haz 3-6 menos de daño con ataques, pero los dados de bloqueo gana
     </AbnormalityCard>
     
     <AbnormalityCard ID="Bloodytree_Forcus">
-      <Abnormality>Escarbando el paraíso</Abnormality>
+      <Abnormality>O Céu Perfurador</Abnormality>
       <CardName>Atención y concentración</CardName>
       <AbilityDesc>[Solo un aliado]
 Haz y Recibe el doble de daño de aturdimiento al desviar daño.</AbilityDesc>
@@ -2073,7 +2073,7 @@ Haz y Recibe el doble de daño de aturdimiento al desviar daño.</AbilityDesc>
     </AbnormalityCard>
     
         <AbnormalityCard ID="Clock_Time">
-      <Abnormality>El precio del silencio</Abnormality>
+      <Abnormality>O Preço do Silêncio</Abnormality>
       <CardName>Tiempo</CardName>
       <AbilityDesc>[Todos los aliados]
 El jugador tiene 30 segundo para seleccionar la página de combate antes que la Fase de combate comience en cada escena.
@@ -2088,7 +2088,7 @@ Incrementa el Poder de todos los dados del bibliotecario en 1-2.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Clock_Thirteen">
-      <Abnormality>El precio del silencio</Abnormality>
+      <Abnormality>O Preço do Silêncio</Abnormality>
       <CardName>El decimotercer peaje</CardName>
       <AbilityDesc>[Solo un aliado]
 Cada 13 páginas de combate el bibliotecario gana 1-2 de Poder. (Excluyendo páginas [Al jugar])
@@ -2103,7 +2103,7 @@ El dado en la página también gana este efecto: ‘[Al golpear] Haz daño adici
     </AbnormalityCard>
     
     <AbnormalityCard ID="Clock_Kill">
-      <Abnormality>El precio del silencio</Abnormality>
+      <Abnormality>O Preço do Silêncio</Abnormality>
       <CardName>Silencio</CardName>
       <AbilityDesc>[Solo un aliado]
 Añade una página de 'Silencio' a la mano: ‘Coste 0 - [Al jugarla] Recibe 15% del HP máximo como daño; Todos los otros personajes pierden 5 de velocidad’. 
@@ -2118,7 +2118,7 @@ Añade una página de 'Amplificar' a la mano: ‘Coste 0 - [Al jugarla] Recibe 1
     </AbnormalityCard>
     
     <AbnormalityCard ID="BlueStar_martyrdom">
-      <Abnormality>Estrella azul</Abnormality>
+      <Abnormality>Estrela Azul</Abnormality>
       <CardName>Mártir</CardName>
       <AbilityDesc>[Solo un aliado]
 Añade una página de 'Mártir' a la mano: ‘Coste 0 - [Al jugarla] por esta escena, haz 4-6 bonus de daño de aturdimiento con ataques pero recibe 1-3 de daño después de un ataque exitoso’.</AbilityDesc>
@@ -2131,11 +2131,11 @@ Añade una página de 'Mártir' a la mano: ‘Coste 0 - [Al jugarla] por esta es
     </AbnormalityCard>
     
         <AbnormalityCard ID="BlueStar_Atonement">
-      <Abnormality>Estrella azul</Abnormality>
+      <Abnormality>Estrela Azul</Abnormality>
       <CardName>Penitencia</CardName>
       <AbilityDesc>[Solo un aliado]
 Si algún personaje está aturdido al comienzo de una escena, ellos reciben 3-7 de daño y todos los aliados ganan 1 de Fuerza por la escena. (Multiples personajes aturdidos no dan más Fuerza)</AbilityDesc>
-      <FlaborText>Nuestra Estrella azul es el único santuario que nos acepta. Seremos limpiados de todos nuestros pecados aquí.</FlaborText>
+      <FlaborText>Nuestra Estrela Azul es el único santuario que nos acepta. Seremos limpiados de todos nuestros pecados aquí.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Vamos a quitarnos completamente este sucio cascarón y brillemos intensamente.</Dialogue>
         <Dialogue ID="2">No deberíamos dejar que nuestra ansiedad nos infeste por dentro, ocupados, intentando olvidar todas nuestras malas acciones al borrarlas.</Dialogue>
@@ -2144,7 +2144,7 @@ Si algún personaje está aturdido al comienzo de una escena, ellos reciben 3-7 
     </AbnormalityCard>
     
         <AbnormalityCard ID="BlueStar_Melody">
-      <Abnormality>Estrella azul</Abnormality>
+      <Abnormality>Estrela Azul</Abnormality>
       <CardName>Un sonido nostálgico</CardName>
       <AbilityDesc>[Todos los aliados]
 Todos los aliados hacen +2-4 de daño de aturdimiento por esta escena. El efecto de esta página se activa 3 escenas después.</AbilityDesc>

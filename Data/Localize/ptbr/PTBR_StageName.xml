@@ -61,67 +61,67 @@
   <Name ID="100012">Linaje de la Espada</Name>
   <Name ID="100013">El Fixer de grado 1 Dong-hwan</Name>
   
-  <Name ID="210001">Baño de sangre</Name>
-  <Name ID="210002">Corazón de la aspiración</Name>
-  <Name ID="201001">Niña chamuscada</Name>
-  <Name ID="201002">Feliz osito de peluche</Name>
-  <Name ID="202001">Asesino olvidado</Name>
-  <Name ID="202002">Pequeño ayudante</Name>
-  <Name ID="203001">Mirada tímida de hoy</Name>
-  <Name ID="203002">Zapatos rojos</Name>
-  <Name ID="204001">Fragmento del universo</Name>
-  <Name ID="204002">Niño de la galaxia</Name>
+  <Name ID="210001">Banheira de Sangue</Name>
+  <Name ID="210002">Coração da Aspiração</Name>
+  <Name ID="201001">Garota Queimada</Name>
+  <Name ID="201002">Ursinho de Pelúcia Feliz</Name>
+  <Name ID="202001">Assassino Abandonado</Name>
+  <Name ID="202002">Auxiliar Geral</Name>
+  <Name ID="203001">Expressão Tímida de Hoje</Name>
+  <Name ID="203002">Os Saltos Vermelhos</Name>
+  <Name ID="204001">Fragmento do Universo</Name>
+  <Name ID="204002">Criança da Galáxia</Name>
 
   <Name ID="201003">Festival de las hadas</Name>
-  <Name ID="203003">Capullo de araña</Name>
-  <Name ID="204003">Porccubus</Name>
+  <Name ID="203003">Casulo Aracnídeo</Name>
+  <Name ID="204003">Pórcubo</Name>
 
-  <Name ID="202003">Máquina de cantar</Name>
+  <Name ID="202003">Máquina Cantora</Name>
 
-  <Name ID="210003">Pinocho</Name>
+  <Name ID="210003">Pinóquio</Name>
 
-  <Name ID="205001">La reina del odio</Name>
+  <Name ID="205001">A Rainha do Ódio</Name>
 
-  <Name ID="205002">Caballero de la desesperación</Name>
+  <Name ID="205002">Dama do Desespero</Name>
 
-  <Name ID="201004">Reina abeja</Name>
+  <Name ID="201004">Abelha Rainha</Name>
 
-  <Name ID="206001">Mercenaria caperucita roja</Name>
-  <Name ID="207001">Espantapájaros buscando sabiduría</Name>
+  <Name ID="206001">Chapeuzinho Vermelha Mercenária</Name>
+  <Name ID="207001">Espantalho em Busca de Sabedoria</Name>
 
-  <Name ID="207002">Leñador de buen corazón</Name>
+  <Name ID="207002">Lenhador de Coração Caloroso</Name>
 
-  <Name ID="202004">Funeral de las mariposas muertas</Name>
+  <Name ID="202004">O Funeral das Borboletas Mortas</Name>
 
-  <Name ID="206002">El gran lobo que puede ser malo</Name>
+  <Name ID="206002">Lobo Grande que Será do Mau</Name>
 
-  <Name ID="205003">El rey de la codicia</Name>
+  <Name ID="205003">O Rei da Ganância</Name>
 
   <Name ID="203004">Laetitia</Name>
 
   <Name ID="204004">Alriune</Name>
 
-  <Name ID="208001">Pajaro grande</Name>
-  <Name ID="209001">Escarbando el paraíso</Name>
-  <Name ID="210004">La reina de la nieve</Name>
+  <Name ID="208001">Pássaro Grande</Name>
+  <Name ID="209001">O Céu Perfurador</Name>
+  <Name ID="210004">A Rainha da Neve</Name>
 
-  <Name ID="206003">Montaña de cuerpos sonrientes</Name>
-  <Name ID="207003">El camino a casa y el gato miedoso</Name>
+  <Name ID="206003">Montanha de Corpos Sorridentes</Name>
+  <Name ID="207003">O Caminho para Casa &amp; O Gato Medroso</Name>
 
-  <Name ID="205004">La sirviente de la ira</Name>
+  <Name ID="205004">A Serva da Ira</Name>
 
-  <Name ID="209002">El precio del silencio</Name>
-  <Name ID="208002">Ave castigador</Name>
+  <Name ID="209002">O Preço do Silêncio</Name>
+  <Name ID="208002">Pássaro Punitivo</Name>
 
   <Name ID="50009">La Niebla Rabiaoja</Name>
 
-  <Name ID="208003">Ave del juicio</Name>
+  <Name ID="208003">Pássaro do Julgamento</Name>
 
   <Name ID="206004">Nosferatu</Name>
 
   <Name ID="207004">Ozma</Name>
 
-  <Name ID="209003">Estrella azul</Name>
+  <Name ID="209003">Estrela Azul</Name>
 
   <Name ID="70001">Los Niños Llorando</Name>
   <Name ID="70002">La iglesia de los engranajes</Name>
@@ -142,10 +142,10 @@
 
 
   <!--케테르 완전개방-->
-  <Name ID="210005">Baño de sangre</Name>
-  <Name ID="210006">Corazón de la aspiración</Name>
+  <Name ID="210005">Banheira de Sangue</Name>
+  <Name ID="210006">Coração da Aspiração</Name>
   <Name ID="210007">Pinocho</Name>
-  <Name ID="210008">La reina de la nieve</Name>
+  <Name ID="210008">A Rainha da Neve</Name>
   <Name ID="210009">Niña silenciosa</Name>
 
   <Name ID="100014">Oficina de Jeong</Name>

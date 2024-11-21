@@ -273,18 +273,18 @@
     </BattleCardDesc>
     <BattleCardDesc ID="901705">
       <LocalizedName>Espada que perfora el corazón</LocalizedName>
-      <Ability>Si esto falla en hacer daño al objetivo, la Espada atravesará a El caballero de la desesperación, haciendole daño a ella</Ability>
+      <Ability>Si esto falla en hacer daño al objetivo, la Espada atravesará a Dama do Desespero, haciendole daño a ella</Ability>
       <Behaviour ID="0">Este dado hace daño igual a (Dado x 2)% del HP máximo (Ignora resistencias)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901706">
       <LocalizedName>Espada que desgarra el corazón</LocalizedName>
-      <Ability>Si esto falla en hacer daño al objetivo, la Espada atravesará a El caballero de la desesperación, haciendole daño a ella</Ability>
+      <Ability>Si esto falla en hacer daño al objetivo, la Espada atravesará a Dama do Desespero, haciendole daño a ella</Ability>
       <Behaviour ID="0">Este dado hace daño igual a (Dado x 2)% del HP máximo (Ignora resistencias)</Behaviour>
       <Behaviour ID="1">Este dado hace daño igual a (Dado x 2)% del HP máximo (Ignora resistencias)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901707">
       <LocalizedName>Espada que rompe el corazón</LocalizedName>
-      <Ability>Si esto falla en hacer daño al objetivo, la Espada atravesará a El caballero de la desesperación, haciendole daño a ella</Ability>
+      <Ability>Si esto falla en hacer daño al objetivo, la Espada atravesará a Dama do Desespero, haciendole daño a ella</Ability>
       <Behaviour ID="0">Este dado hace daño igual a (Dado x 2)% del HP máximo (Ignora resistencias)</Behaviour>
       <Behaviour ID="1">Este dado hace daño igual a (Dado x 2)% del HP máximo (Ignora resistencias)</Behaviour>
       <Behaviour ID="2">Este dado hace daño igual a (Dado x 2)% del HP máximo (Ignora resistencias)</Behaviour>
@@ -569,11 +569,11 @@
     </BattleCardDesc>
     <BattleCardDesc ID="902522">
       <LocalizedName>Fragmento de dicha</LocalizedName>
-      <Ability>Ganada al destruir 'Felicidad Brillante', Solo puede ser utilizada esta escena.</Ability>
+      <Ability>Ganada al destruir 'Beatitude Brilhante', Solo puede ser utilizada esta escena.</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902523">
       <LocalizedName>Fragmento de dicha</LocalizedName>
-      <Ability>Ganada al destruir 'Felicidad Brillante', Solo puede ser utilizada esta escena.</Ability>
+      <Ability>Ganada al destruir 'Beatitude Brilhante', Solo puede ser utilizada esta escena.</Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="902411">

@@ -6,7 +6,7 @@
       <Desc>Reduce la velocidad en 2. Recibe 1-2 de daño al comienzo de la escena. (No se acumula)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedShoes_Kirakira">
-      <Name>Encanto de los zapatos rojos</Name>
+      <Name>Encanto de los Os Saltos Vermelhos</Name>
       <Desc>Prioriza atacar al usuario que utilizó &lt;Brillantina&gt;. Haz +2-4 de daño.</Desc>
     </BattleEffectText>
     <!-- Deleted old Rhythm -->
@@ -156,7 +156,7 @@
 
     <BattleEffectText ID="SpiderBud_Cocoon">
       <Name>Capullo</Name>
-      <Desc>Objetivo de las arañitas.</Desc>
+      <Desc>Objetivo de las Aranhazinhas.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Philip_Attack">
@@ -178,12 +178,12 @@
 
     <BattleEffectText ID="QueenOfHatred_Sign">
       <Name>Villano</Name>
-      <Desc>Se vuelve el objetivo de la Reina del odio.</Desc>
+      <Desc>Se vuelve el objetivo de A Rainha do Ódio.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="QueenOfHatred_Hatred">
       <Name>Odio</Name>
-      <Desc>Se vuelve el objetivo de *todas* las páginas de la Reina del odio.</Desc>
+      <Desc>Se vuelve el objetivo de *todas* las páginas de A Rainha do Ódio.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="KnightOfDespair_Blessing">
@@ -221,11 +221,11 @@
       <Name>Esporas</Name>
       <Desc>En el comienzo de la escena, recibe {0} de daño y reduce las acumulaciones a la mitad. (Redondeado hacia abajo)
 Recibe {0} de daño cada vez que un personaje lanza un dado ofensivo.
-Si el personaje muere con un problema de estado, una Abeja trabajadora aparecerá la siguiente escena.</Desc>
+Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá la siguiente escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Queenbee_Punish">
       <Name>Castigo</Name>
-      <Desc>Recibe +2-4 de daño de bibliotecarios sin la página de Anormalidad 'Abeja trabajadora'.</Desc>
+      <Desc>Recibe +2-4 de daño de bibliotecarios sin la página de Anormalidad 'Abelha-Operária'.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Snowwhite_Vine">
       <Name>Vides</Name>
@@ -565,11 +565,11 @@ Si el personaje tiene 6 o más de Frío, se Inmoviliza y remueve todo el Frío d
 
     <BattleEffectText ID="HokmaFirstCounter">
       <Name>Inactivo</Name>
-      <Desc>Despertará en {0} escena(s).Si una Espina del paraíso o Escarbando el paraíso está aturdido, esto no sucede.</Desc>
+      <Desc>Despertará en {0} escena(s).Si una Espina del paraíso o O Céu Perfurador está aturdido, esto no sucede.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HokmaFirstCounter2">
       <Name>Inactivo</Name>
-      <Desc>Una Espina despertará o aparecerá en {0} escena(s). Si Escarbando el paraíso está aturdido, esto no sucede.</Desc>
+      <Desc>Una Espina despertará o aparecerá en {0} escena(s). Si O Céu Perfurador está aturdido, esto no sucede.</Desc>
     </BattleEffectText>
 	
     
@@ -579,13 +579,13 @@ Si el personaje tiene 6 o más de Frío, se Inmoviliza y remueve todo el Frío d
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Target">
       <Name>Camino de ladrillos amarillo</Name>
-      <Desc>Objetivo de el camino a casa y Gato miedoso.
-Gato miedoso gana +5 de Poder cuando ataca a este personaje.
-Si todos los ataque de '¡Amigos! ¡Vamos a casa~!' fallan en acertar al objetivo con este estado, el último ataque de el camino a casa es cancelada.</Desc>
+      <Desc>Objetivo de O Caminho para Casa y Gato Medroso.
+Gato Medroso gana +5 de Poder cuando ataca a este personaje.
+Si todos los ataque de '¡Amigos! ¡Vamos a casa~!' fallan en acertar al objetivo con este estado, el último ataque de O Caminho para Casa es cancelada.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Coward_Strength">
       <Name>Coraje</Name>
-      <Desc>Gana Fuerza igual a la cantidad de veces que El camino a casa fue atacado esta escena.</Desc>
+      <Desc>Gana Fuerza igual a la cantidad de veces que O Caminho para Casa fue atacado esta escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Super_Cancel">
       <Name>Casa que no puede ser alcanzada</Name>
@@ -758,7 +758,7 @@ Este efecto está desactivado al ser aturdido.</Desc>
 
     <BattleEffectText ID="Sin_Abnormality">
       <Name>Pecado</Name>
-      <Desc>Si la cantidad de Pecado excede una cierta cantidad en el comienzo de la escena, Ave del Juicio usará una página de combate especial. El 'Pecado' puede ser transferido a aliados al atacarlos y hacerles daño. (Una vez por página)</Desc>
+      <Desc>Si la cantidad de Pecado excede una cierta cantidad en el comienzo de la escena, Pássaro do Julgamento usará una página de combate especial. El 'Pecado' puede ser transferido a aliados al atacarlos y hacerles daño. (Una vez por página)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Sin_AbnormalityCard">
       <Name>Pecado</Name>
@@ -902,7 +902,7 @@ Si esto llega a 2, una poderosa página de combate es usada la siguiente escena.
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Coward_Final">
       <Name>Cobardía</Name>
-      <Desc>Gana Endeble igual a la cantidad de veces que 'El camino a casa' fue atacado esta escena.</Desc>
+      <Desc>Gana Endeble igual a la cantidad de veces que 'O Caminho para Casa' fue atacado esta escena.</Desc>
     </BattleEffectText>
     
     <!-- Ozma -->
@@ -937,20 +937,20 @@ Si esto llega a 2, una poderosa página de combate es usada la siguiente escena.
 
     <!-- Wizard -->
     <BattleEffectText ID="Wizard_Lumberjack">
-      <Name>Leñador de buen corazón</Name>
+      <Name>Lenhador de Coração Caloroso</Name>
       <Desc>Después de hacer 30 o más de daño a enemigos en una sola escena durante la Fase de este personaje, restaura completamente la Luz de todos los personajes incluyendote a ti mismo.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Scarecrow">
-      <Name>Espantapájaros buscando por sabiduría</Name>
+      <Name>Espantalho em Busca de Sabedoria</Name>
       <Desc>Cuando la Fase de este personaje comienza, añade una copia de 'Sabiduría' y 4 páginas de combate especiales a la mano, e incrementa el número de dados de velocidad a 5.
 Si fallas al restaurar todos los bibliotecarios a sus formas originales al final de la Fase, reduce el número de dados de velocidad a 1.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Lion">
-      <Name>Gato miedoso</Name>
+      <Name>Gato Medroso</Name>
       <Desc>Cuando la Fase de este personaje comienza, una copia de 'Coraje' es añadida a la mano. El número de dados de velocidad is incrementado a 5.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_WaybackHome">
-      <Name>El camino a casa</Name>
+      <Name>O Caminho para Casa</Name>
       <Desc>Añade 4 páginas de combate especiales a la mano.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Ozma">
@@ -965,15 +965,15 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
 
     <!-- Wizard -->
     <BattleEffectText ID="Wizard_Lumberjack_Original">
-      <Name>Leñador de buen corazón</Name>
+      <Name>Lenhador de Coração Caloroso</Name>
       <Desc>Necesita volver a su Forma Original.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Lion_Original">
-      <Name>Gato miedoso</Name>
+      <Name>Gato Medroso</Name>
       <Desc>Necesita volver a su Forma Original.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_WaybackHome_Original">
-      <Name>El camino a casa</Name>
+      <Name>O Caminho para Casa</Name>
       <Desc>Necesita volver a su Forma Original.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Ozma_Original">

@@ -65,7 +65,7 @@
   </PassiveDesc>
   <PassiveDesc ID="105412">
     <Name>Metamorfosis</Name>
-    <Desc>Si un bibliotecario muere mientras está influenciado por esporas, una abeja trabajadora aparecerá la siguiente escena.</Desc>
+    <Desc>Si un bibliotecario muere mientras está influenciado por esporas, una Abelha-Operária aparecerá la siguiente escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="105413">
     <Name>Feromonas</Name>
@@ -165,7 +165,7 @@
   </PassiveDesc>
   <PassiveDesc ID="205332">
     <Name>Adicción a la música</Name>
-    <Desc>Si nadie está dentro de maquina de canto por el final de la escena que 'ANHELO esa melodía!' fue activado, el empleado adicto con menos HP entra a la maquina.</Desc>
+    <Desc>Si nadie está dentro de maquina de canto por el final de la escena que 'ANHELO esa melodía!' fue activado, el Funcionário Viciado con menos HP entra a la maquina.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205411">
     <Name>Mano de salvación</Name>
@@ -244,7 +244,7 @@
   </PassiveDesc>
   <PassiveDesc ID="305412">
     <Name>Broma Divertida</Name>
-    <Desc>Añade un 'Regalo' a la mano de cada bibliotecario cada 2 escenas. Da un 'Regalo' adicional por cada dos 'Pequeños amiguitos' que han muerto.</Desc>
+    <Desc>Añade un 'Regalo' a la mano de cada bibliotecario cada 2 escenas. Da un 'Regalo' adicional por cada dos 'Amiguinhos da Bruxinha' que han muerto.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305413">
     <Name>¡¡Graaan~ regalo!!</Name>
@@ -372,7 +372,7 @@
   </PassiveDesc>
   <PassiveDesc ID="405412">
     <Name>Fragancia floreciente</Name>
-    <Desc>Los ataques de este personaje solo hacen daño de aturdimiento a los bibliotecarios. Si un bibliotecario está aturdido, muere de forma instantánea, y 'El que emerge de la tierra' aparecerá la siguiente escena.</Desc>
+    <Desc>Los ataques de este personaje solo hacen daño de aturdimiento a los bibliotecarios. Si un bibliotecario está aturdido, muere de forma instantánea, y 'Aquele que Emergiu da Terra' aparecerá la siguiente escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405411">
     <Name>Expiación</Name>
@@ -396,7 +396,7 @@
   </PassiveDesc>
   <PassiveDesc ID="405422">
     <Name>Fragancia floreciente</Name>
-    <Desc>Los ataques de este personaje solo hacen daño de aturdimiento a los bibliotecarios. Si un bibliotecario está aturdido, muere de forma instantánea, y 'El que emerge de la tierra' aparecerá la siguiente escena.</Desc>
+    <Desc>Los ataques de este personaje solo hacen daño de aturdimiento a los bibliotecarios. Si un bibliotecario está aturdido, muere de forma instantánea, y 'Aquele que Emergiu da Terra' aparecerá la siguiente escena.</Desc>
   </PassiveDesc>
 
 
@@ -491,11 +491,11 @@
 
   <PassiveDesc ID="505311">
     <Name>Deseo palpitante</Name>
-    <Desc>Si el HP baja a 50% o menos, transformate en el Rey de la codicia la siguiente escena. El HP no disminuye de 50% antes de transformarse.</Desc>
+    <Desc>Si el HP baja a 50% o menos, transformate en O Rei da Ganância la siguiente escena. El HP no disminuye de 50% antes de transformarse.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505312">
     <Name>El camino del oro</Name>
-    <Desc>Cada 3 escenas, crea felicidad brillante y no pueden apuntarte, pero no actuas. La siguiente escena, usa una página de combate especial contra todos los bibliotecarios.</Desc>
+    <Desc>Cada 3 escenas, crea Beatitude Brilhante y no pueden apuntarte, pero no actuas. La siguiente escena, usa una página de combate especial contra todos los bibliotecarios.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505313">
     <Name>Narcisismo</Name>
@@ -506,12 +506,12 @@
     <Desc>Si todos los bibliotecarios consiguen negar el ataque de la página de combate especial, Roland se aturde la siguiente escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505321">
-    <Name>El Rey de la codicia</Name>
+    <Name>O Rei da Ganância</Name>
     <Desc>Usa páginas de combate diferentes. En un golpe exitoso, haz daño adicional igual a las acumulaciones de Sangrado en el objetivo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505322">
     <Name>El camino del Rey</Name>
-    <Desc>Cada 3 escenas, crea felicidad brillante y no pueden apuntarte, pero no actuas. La siguiente escena, usa una página de combate especial contra un solo objetivo.</Desc>
+    <Desc>Cada 3 escenas, crea Beatitude Brilhante y no pueden apuntarte, pero no actuas. La siguiente escena, usa una página de combate especial contra un solo objetivo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505323">
     <Name>Voracidad</Name>
@@ -522,7 +522,7 @@
     <Desc>Si un bibliotecario niega con exito todos los ataques de la página de combate especial, Roland se aturde la siguiente escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505331">
-    <Name>Felicidad brillante</Name>
+    <Name>Beatitude Brilhante</Name>
     <Desc>Existe por una escena. Da una página de combate especial al bibliotecario que lo derrota.</Desc>
   </PassiveDesc>
 
@@ -746,11 +746,11 @@
   </PassiveDesc>
     <PassiveDesc ID="605302">
     <Name>Cadáveres derretidos</Name>
-    <Desc>Cada vez que el personaje pierda más que 25% del HP máximo (62/87/112), 'Cuerpos derretidos' aparecerán al comienzo de la siguiente escena.</Desc>
+    <Desc>Cada vez que el personaje pierda más que 25% del HP máximo (62/87/112), 'Corpos Derretidos' aparecerán al comienzo de la siguiente escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605311">
     <Name>Dividir</Name>
-    <Desc>Se divide cuando el HP baja a 0. Si todos los cuerpos son derrotados en 3 escenas, la batalla avanza a la siguiente fase. De no se asi, el personaje revive como etapa 1. (Al revivir, recuperará HP por la suma del HP restante que todos los cuerpos derretidos tenían.)</Desc>
+    <Desc>Se divide cuando el HP baja a 0. Si todos los cuerpos son derrotados en 3 escenas, la batalla avanza a la siguiente fase. De no se asi, el personaje revive como etapa 1. (Al revivir, recuperará HP por la suma del HP restante que todos los Corpos Derretidos tenían.)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605312">
     <Name>Masa creciente</Name>
@@ -917,7 +917,7 @@
 
   <!-- 집으로 가는 길-->
   <PassiveDesc ID="705311">
-    <Name>En el camino a casa</Name>
+    <Name>En O Caminho para Casa</Name>
     <Desc>Genera la 'Casa' cuando la fase comienza, y usa una página de ataque en masa que aplica 'Camino de ladrillos amarillos' a la 'Casa' y a dos bibliotecarios.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705312">
@@ -935,11 +935,11 @@ El ataque en la 'Casa' es cancelado si todos los bibliotecarios con 'Camino de l
   </PassiveDesc>
   <PassiveDesc ID="705321">
     <Name>Valiente</Name>
-    <Desc>Es inmune a todos los daños hasta que 'El camino a casa' muere.</Desc>
+    <Desc>Es inmune a todos los daños hasta que 'O Caminho para Casa' muere.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705322">
     <Name>Cobarde</Name>
-    <Desc>Una vez 'El camino a casa' muere, todas las resistencias cambian a "Fatal", y el HP máximo es reducido. El número de dados de velocidad y páginas de combate también cambian.</Desc>
+    <Desc>Una vez 'O Caminho para Casa' muere, todas las resistencias cambian a "Fatal", y el HP máximo es reducido. El número de dados de velocidad y páginas de combate también cambian.</Desc>
   </PassiveDesc>
 
   <!-- 오즈마-->
@@ -985,7 +985,7 @@ El ataque en la 'Casa' es cancelado si todos los bibliotecarios con 'Camino de l
     <Name>El juicio de la bruja</Name>
     <Desc>
       Cinco fases se desarrolan en un orden establecido. Si todas las fases han pasado, procede a la fase de 'Enojo'.
-      Es inmune al daño de aturdimiento antes que la fase el camino a casa comience. Es inmune al daño fisico antes que la fase de enojo comience.
+      Es inmune al daño de aturdimiento antes que la fase O Caminho para Casa comience. Es inmune al daño fisico antes que la fase de enojo comience.
     </Desc>
   </PassiveDesc>
   <!-- 마법사 1막-->
@@ -1026,7 +1026,7 @@ El ataque en la 'Casa' es cancelado si todos los bibliotecarios con 'Camino de l
     <Name>Muéstrame tu coraje</Name>
     <Desc>
       Inflige a todos los bibliotecarios con 10 Endeble, Desarmar, y Frágil por 2 escenas.
-      si todas las 'Caras con ceño fruncido' son derrotadas, procede a la fase el camino a casa en la siguiente escena.
+      si todas las 'Caras con ceño fruncido' son derrotadas, procede a la fase O Caminho para Casa en la siguiente escena.
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="705517">
@@ -1169,7 +1169,7 @@ Al comienzo de la siguiente escena, recuperate del aturdimiento, elimina todos l
     <Desc>Usa páginas de combate designadas. Este patrón no se utilizará una vez que el efecto de Ojos grandes se pierda.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805517">
-    <Name>Memoria del Ave del Juicio</Name>
+    <Name>Memoria del Pássaro do Julgamento</Name>
     <Desc>Usa páginas de combate designadas. Este patrón no se utilizará una vez que el efecto de Nrazos largos se pierda.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805518">
@@ -1388,7 +1388,7 @@ Mientra este personaje está vivo, todos los bibliotecarios barajan sus manos y 
   </PassiveDesc>
   <PassiveDesc ID="1005414">
     <Name>Aquellos que conocen la crueldad del invierno y el aroma de las rosas</Name>
-    <Desc>Después que todas las prisiones de hielo han sido destruidas, todos los bibliotecarios recuperan 50% de su HP máximo al comienzo de la siguiente escena. La Reina de la nieve usará una página de ataque en masa la misma escena.</Desc>
+    <Desc>Después que todas las prisiones de hielo han sido destruidas, todos los bibliotecarios recuperan 50% de su HP máximo al comienzo de la siguiente escena. A Rainha da Neve usará una página de ataque en masa la misma escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005415">
     <Name>Corazón frío</Name>

@@ -217,7 +217,7 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="502023">
     <Name>Espada que atraviesa la desesperación</Name>
-    <Desc>Si esto falla en hacer daño a su objetivo mientras está en un estado de Desesperación, la espada atravesará a El Caballero de la desesperación, haciendole daño a ella.</Desc>
+    <Desc>Si esto falla en hacer daño a su objetivo mientras está en un estado de Desesperación, la espada atravesará a Dama do Desespero, haciendole daño a ella.</Desc>
   </PassiveDesc>
 
   <!-- 여왕벌 -->
@@ -231,7 +231,7 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="104013">
     <Name>Metamorfosis</Name>
-    <Desc>Si un bibliotecario muere mientras está influenciado por Esporas, una abeja trabajadora aparecerá la siguiente escena.</Desc>
+    <Desc>Si un bibliotecario muere mientras está influenciado por Esporas, una Abelha-Operária aparecerá la siguiente escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="104014">
     <Name>Feromonas</Name>
@@ -334,7 +334,7 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
   <!-- 죽나장 나비-->
   <PassiveDesc ID="204021">
     <Name>Revoloteo inútil</Name>
-    <Desc>Apunta al enemigo con menos HP; suprimido cuando el Funeral de las mariposas muertas es suprimido.</Desc>
+    <Desc>Apunta al enemigo con menos HP; suprimido cuando el O Funeral das Borboletas Mortas es suprimido.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="602011">
@@ -369,15 +369,15 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
 
   <PassiveDesc ID="503010">
     <Name>Ámbar de oro</Name>
-    <Desc>No Actua. Si el HP llega a 0 antes de el final de la escena, despierta como una Chica Mágica. De no se asi, despierta como El Rey de la Codicia.</Desc>
+    <Desc>No Actua. Si el HP llega a 0 antes de el final de la escena, despierta como una Chica Mágica. De no se asi, despierta como O Rei da Ganância.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503011">
     <Name>Deseo palpitante</Name>
-    <Desc>Si el HP baja a 50% o menos, transformate en El Rey de la Codicia la siguiente escena. El HP no disminuye de 50% antes de transformarse.</Desc>
+    <Desc>Si el HP baja a 50% o menos, transformate en O Rei da Ganância la siguiente escena. El HP no disminuye de 50% antes de transformarse.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503012">
     <Name>El camino del oro</Name>
-    <Desc>Cada 3 escenas, crea Felicidad brillante y no pueden apuntarte, pero no actuas. La siguiente escena, usa una página de combate especial contra todos los bibliotecarios.</Desc>
+    <Desc>Cada 3 escenas, crea Beatitude Brilhante y no pueden apuntarte, pero no actuas. La siguiente escena, usa una página de combate especial contra todos los bibliotecarios.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503013">
     <Name>Narcisismo</Name>
@@ -388,12 +388,12 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
     <Desc>Si todos los bibliotecarios consiguen negar el ataque de la página de combate especial, la Anormalidad se aturde la siguiente escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503021">
-    <Name>El Rey de la codicia</Name>
+    <Name>O Rei da Ganância</Name>
     <Desc>Usa páginas de combate diferentes. En un golpe exitoso, haz daño adicional igual a las acumulaciones de Sangrado en el objetivo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503022">
     <Name>El camino del Rey</Name>
-    <Desc>Cada 3 escenas, crea Felicidad brillante y no pueden apuntarte, pero no actuas. La siguiente escena, usa dos páginas de combate especiales contra un solo objetivo.</Desc>
+    <Desc>Cada 3 escenas, crea Beatitude Brilhante y no pueden apuntarte, pero no actuas. La siguiente escena, usa dos páginas de combate especiales contra un solo objetivo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503023">
     <Name>Voracidad</Name>
@@ -404,7 +404,7 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
     <Desc>Si un bibliotecario niega con exito todos los ataques de la página de combate especial, la Anormalidad se aturde la siguiente escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503031">
-    <Name>Felicidad brillante</Name>
+    <Name>Beatitude Brilhante</Name>
     <Desc>Existe por una escena. Da una página de combate especial al bibliotecario que lo derrota.</Desc>
   </PassiveDesc>
 
@@ -447,7 +447,7 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="404012">
     <Name>Fragancia floreciente</Name>
-    <Desc>Los ataques de este personaje solo hacen daño de aturdimiento a los bibliotecarios. Si un bibliotecario está aturdido, muere de forma instantánea y 'El que emerge de la tierra' aparecerá la siguiente escena.</Desc>
+    <Desc>Los ataques de este personaje solo hacen daño de aturdimiento a los bibliotecarios. Si un bibliotecario está aturdido, muere de forma instantánea y 'Aquele que Emergiu da Terra' aparecerá la siguiente escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="404011">
     <Name>Expiación</Name>
@@ -471,12 +471,12 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="404022">
     <Name>Fragancia floreciente</Name>
-    <Desc>Los ataques de este personaje solo hacen daño de aturdimiento a los bibliotecarios. Si un bibliotecario está aturdido, muere de forma instantánea y 'El que emerge de la tierra' aparecerá la siguiente escena.</Desc>
+    <Desc>Los ataques de este personaje solo hacen daño de aturdimiento a los bibliotecarios. Si un bibliotecario está aturdido, muere de forma instantánea y 'Aquele que Emergiu da Terra' aparecerá la siguiente escena.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="801011">
     <Name>Ojos vigilantes</Name>
-    <Desc>Los objetivos de Pajaro grande no pueden ser redirigidos por los bibliotecarios.</Desc>
+    <Desc>Los objetivos de Pássaro Grande no pueden ser redirigidos por los bibliotecarios.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="801012">
     <Name>Una lámpara que arde por siempre</Name>
@@ -484,7 +484,7 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="801021">
     <Name>Ojos Cansados</Name>
-    <Desc>Da una página de combate especial que puede aturdir a Pajaro grande a los bibliotecarios que derroten este personaje.</Desc>
+    <Desc>Da una página de combate especial que puede aturdir a Pássaro Grande a los bibliotecarios que derroten este personaje.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="801022">
     <Name>Seguidor</Name>
@@ -534,7 +534,7 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1004014">
     <Name>Aquellos que conocen la crueldad del invierno y el aroma de las rosas</Name>
-    <Desc>Después que todas las Prisiones de hielo han sido destruidas, todos los bibliotecarios recuperan 50% de su HP máximo. La Reina de la nieve usará una página de Ataque en masa la misma escena.</Desc>
+    <Desc>Después que todas las Prisiones de hielo han sido destruidas, todos los bibliotecarios recuperan 50% de su HP máximo. A Rainha da Neve usará una página de Ataque en masa la misma escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1004021">
     <Name>Kai y Gerda</Name>
@@ -547,11 +547,11 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="603012">
     <Name>Cadáveres derretidos</Name>
-    <Desc>Cada vez que la Anormalidad pierde más que 25% del HP máximo (62/87/112), 'Cuerpos derretidos' aparecerán al comienzo de la siguiente escena.</Desc>
+    <Desc>Cada vez que la Anormalidad pierde más que 25% del HP máximo (62/87/112), 'Corpos Derretidos' aparecerán al comienzo de la siguiente escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="603111">
     <Name>Dividir</Name>
-    <Desc>Se divide cuando el HP baja a 0. Si todos los cuerpos son derrotados en 3 escenas, la batalla se gana. De no se asi, la Anormalidad revive como etapa 1. (Al revivir, recuperará HP por la Suma del HP restante que todos los Cuerpos derretidos tenían.)</Desc>
+    <Desc>Se divide cuando el HP baja a 0. Si todos los cuerpos son derrotados en 3 escenas, la batalla se gana. De no se asi, la Anormalidad revive como etapa 1. (Al revivir, recuperará HP por la Suma del HP restante que todos los Corpos Derretidos tenían.)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="603112">
     <Name>Masa creciente</Name>
@@ -595,16 +595,16 @@ Si ningún bibliotecario es dañado por el ataque, la Anormalidad se aturde la s
   </PassiveDesc>
   <PassiveDesc ID="703031">
     <Name>Valiente</Name>
-    <Desc>Es inmune a todos los daños hasta que 'El Camino a Casa' muere.</Desc>
+    <Desc>Es inmune a todos los daños hasta que 'O Caminho para Casa' muere.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="703032">
     <Name>Cobarde</Name>
-    <Desc>Una vez 'El Camino a Casa' muere, todas las resistencias cambian a 'Fatal' y el HP máximo es reducido. El número de dados de velocidad y páginas de combate también cambian.</Desc>
+    <Desc>Una vez 'O Caminho para Casa' muere, todas las resistencias cambian a 'Fatal' y el HP máximo es reducido. El número de dados de velocidad y páginas de combate también cambian.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="504011">
     <Name>Jugada de hoy</Name>
-    <Desc>Solo la Sirviente de la ira puede derrotar al Ermitaño. la batalla de Anormalidad termina cuando el Ermitaño es derrotado.</Desc>
+    <Desc>Solo A Serva da Ira puede derrotar al Ermitaño. la batalla de Anormalidad termina cuando el Ermitaño es derrotado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="504012">
     <Name>Rabia ciega</Name>
@@ -624,7 +624,7 @@ Si ningún bibliotecario es dañado por el ataque, la Anormalidad se aturde la s
   </PassiveDesc>
   <PassiveDesc ID="504022">
     <Name>Querido compañero</Name>
-    <Desc>Gana +5 de Poder cuando tienes un choque contra la Sirviente de la ira. No recibe daño de Quemadura, sangrado, o Erosión.</Desc>
+    <Desc>Gana +5 de Poder cuando tienes un choque contra A Serva da Ira. No recibe daño de Quemadura, sangrado, o Erosión.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="504023">
     <Name>Visitantes de otro mundo</Name>
@@ -632,12 +632,12 @@ Si ningún bibliotecario es dañado por el ataque, la Anormalidad se aturde la s
   </PassiveDesc>
   <PassiveDesc ID="504024">
     <Name>Cuandos dos reinos se encuentran</Name>
-    <Desc>Cambia de comportamiento cuando todos los bastones del Ermitaño han sido derrotado. En la primera escena de el nuevo ciclo, ataca a la Sirviente de la ira.
-Después de atacar a la Sirviente de la ira de nuevo en la segunda escena, usa una página de Ataque en masa que Invoca más bastones del Ermitaño.</Desc>
+    <Desc>Cambia de comportamiento cuando todos los bastones del Ermitaño han sido derrotado. En la primera escena de el nuevo ciclo, ataca a A Serva da Ira.
+Después de atacar a A Serva da Ira de nuevo en la segunda escena, usa una página de Ataque en masa que Invoca más bastones del Ermitaño.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="504031">
     <Name>Bastón del Ermitaño</Name>
-    <Desc>Ataca a la Sirviente de la ira.</Desc>
+    <Desc>Ataca a A Serva da Ira.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="902011">
@@ -646,14 +646,14 @@ Después de atacar a la Sirviente de la ira de nuevo en la segunda escena, usa u
   </PassiveDesc>
   <PassiveDesc ID="902012">
     <Name>Tiempo acumulado</Name>
-    <Desc>Al comienzo de la escena, aparece un 'Remanente de tiempo'. Si 4 Remanentes de tiempo están presentes, el con menos HP es remplazado y todos los bibliotecarios reciben daño igual a su HP.</Desc>
+    <Desc>Al comienzo de la escena, aparece un 'Tempo Remanescente'. Si 4 Remanentes de tiempo están presentes, el con menos HP es remplazado y todos los bibliotecarios reciben daño igual a su HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="902013">
     <Name>Tiempo imparable</Name>
     <Desc>Si 12 Remanentes de tiempo son derrotados en 12 escenas, se aturde a siguiente escena. Si menos de 12 Remanentes de tiempo fueron derrotador por el final de la escena 12, usa una página de Ataque en masa en la escena 13.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="902014">
-    <Name>El precio del silencio</Name>
+    <Name>O Preço do Silêncio</Name>
     <Desc>Al comienzo de la escena, añade una copia de 'Silencio' a la mano de todos los bibliotecarios.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="902021">
@@ -685,7 +685,7 @@ Después de atacar a la Sirviente de la ira de nuevo en la segunda escena, usa u
 
   <PassiveDesc ID="803011">
     <Name>Balanza injusta</Name>
-    <Desc>Comenzando con la escena 1, todos los personajes excluyendo a Ave del juicio ganan 1 de Pecado al comienzo de la escena. El Pecado puede ser transferido a un aliado al atacarlos y dañarlos. (Una vez por página)</Desc>
+    <Desc>Comenzando con la escena 1, todos los personajes excluyendo a Pássaro do Julgamento ganan 1 de Pecado al comienzo de la escena. El Pecado puede ser transferido a un aliado al atacarlos y dañarlos. (Una vez por página)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="803012">
     <Name>El peso del pecado</Name>
@@ -822,7 +822,7 @@ Después de eso, el Jack real se transforma en 'Jack revivido' y usa de forma pe
   </PassiveDesc>
   <PassiveDesc ID="903012">
     <Name>Sonido de una estrella</Name>
-    <Desc>Comenzando con la tercera escena, el santuario de la Estrella azul usa una página de Ataque en masa cada 3 escenas.</Desc>
+    <Desc>Comenzando con la tercera escena, el santuario de la Estrela Azul usa una página de Ataque en masa cada 3 escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="903013">
     <Name>En el abrazo de una estrella</Name>
@@ -840,7 +840,7 @@ Después de eso, el Jack real se transforma en 'Jack revivido' y usa de forma pe
   <!--푸른별의 신도-->
   <PassiveDesc ID="903021">
     <Name>¡¡Puedo oir el sonido de una strella!!</Name>
-    <Desc>Usa una página de combate especial en la escena cuando el santuario de la Estrella azul usa una página de Ataque en masa. Si la resistencia al aturdimiento del personaje es 40% o menos, en su lugar usa una página que causa al personaje autodestruirse.</Desc>
+    <Desc>Usa una página de combate especial en la escena cuando el santuario de la Estrela Azul usa una página de Ataque en masa. Si la resistencia al aturdimiento del personaje es 40% o menos, en su lugar usa una página que causa al personaje autodestruirse.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="903022">
     <Name>Martires</Name>

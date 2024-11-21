@@ -878,16 +878,16 @@
     <AcquireCondition>Derrota a Argalia distorsionado {0} vez.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality1">
-    <Desc>Mientras poseas las páginas de Anormalidad de Niña chamuscada, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de Garota Queimada, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Las</Prefix>
     <Postfix>cenizas</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Niña chamuscada {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Garota Queimada {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality2">
-    <Desc>Mientras poseas las páginas de Anormalidad de Feliz osito de peluche, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de Ursinho de Pelúcia Feliz, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Propietario</Prefix>
     <Postfix>del osito</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Feliz osito de peluche {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Ursinho de Pelúcia Feliz {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality3">
     <Desc>Mientras poseas las páginas de Anormalidad de el Festival de hadas, 5% Probabilidad de incrementar el daño en +1</Desc>
@@ -896,10 +896,10 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de el Festival de hadas {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality4">
-    <Desc>Mientras poseas las páginas de Anormalidad de Reina abeja, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de Abelha Rainha, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Sirviente leal</Prefix>
     <Postfix>de la Reina</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Reina abeja {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Abelha Rainha {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality5">
     <Desc>Mientras poseas las páginas de Anormalidad de Manzana de Blancanieves, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
@@ -914,10 +914,10 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Asesino abandonado {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality7">
-    <Desc>Mientras poseas las páginas de Anormalidad de Pequeño ayudante, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de Auxiliar Geral, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>¡Te podemos ayudar</Prefix>
     <Postfix>con todo!</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Pequeño ayudante {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Auxiliar Geral {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality8">
     <Desc>Mientras poseas las páginas de Anormalidad de la Maquina de canto, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
@@ -926,10 +926,10 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Maquina de canto {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality9">
-    <Desc>Mientras poseas las páginas de Anormalidad de el Funeral de las mariposas muertas, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de el O Funeral das Borboletas Mortas, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
     <Prefix>Condolencias</Prefix>
     <Postfix>y descanso eterno</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de el Funeral de las mariposas muertas {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de el O Funeral das Borboletas Mortas {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality10">
     <Desc>Mientras poseas las páginas de Anormalidad de Der Freischütz, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
@@ -944,16 +944,16 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Mirada tímida {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality12">
-    <Desc>Mientras poseas las páginas de Anormalidad de los Zapatos rojos, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de los Os Saltos Vermelhos, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Pisadas</Prefix>
     <Postfix>carmesí</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de los Zapatos rojos {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de los Os Saltos Vermelhos {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality13">
-    <Desc>Mientras poseas las páginas de Anormalidad del Capullo de araña, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad del Casulo Aracnídeo, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
     <Prefix>Pequeño</Prefix>
-    <Postfix>capullo de araña</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Capullo de araña {0} veces.</AcquireCondition>
+    <Postfix>Casulo Aracnídeo</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Casulo Aracnídeo {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality14">
     <Desc>Mientras poseas las páginas de Anormalidad de Laetitia, 5% Probabilidad de incrementar el daño en +1</Desc>
@@ -968,22 +968,22 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Sueño del Cisne negro {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality16">
-    <Desc>Mientras poseas las páginas de Anormalidad de Fragmento del universo, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de Fragmento do Universo, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
     <Prefix>Eco del</Prefix>
     <Postfix>universo</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Fragmento del universo {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Fragmento do Universo {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality17">
-    <Desc>Mientras poseas las páginas de Anormalidad del Niño de la galaxia, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad del Criança da Galáxia, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
     <Prefix>Mejor amigo</Prefix>
     <Postfix>de la galaxia</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Niño de la galaxia {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Criança da Galáxia {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality18">
-    <Desc>Mientras poseas las páginas de Anormalidad de Porccubus, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de Pórcubo, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
     <Prefix>Placer</Prefix>
     <Postfix>inaguantable</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Porccubus {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Pórcubo {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality19">
     <Desc>Mientras poseas las páginas de Anormalidad de Alriune, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
@@ -998,10 +998,10 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Orquesta silenciosa {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality21">
-    <Desc>Mientras poseas las páginas de Anormalidad de la Reina del odio, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de A Rainha do Ódio, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Reina conducida por</Prefix>
     <Postfix>el odio</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Reina del odio {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de A Rainha do Ódio {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality22">
     <Desc>Mientras poseas las páginas de Anormalidad de la Caballera de la desesperación, 5% Probabilidad de incrementar el daño en +1</Desc>
@@ -1010,16 +1010,16 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Caballera de la desesperación {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality23">
-    <Desc>Mientras poseas las páginas de Anormalidad de el Rey de la codicia, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de O Rei da Ganância, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Reina atada por</Prefix>
     <Postfix>la codicia</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de el Rey de la codicia {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de O Rei da Ganância {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality24">
-    <Desc>Mientras poseas las páginas de Anormalidad de la Sirviente de la ira, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de A Serva da Ira, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Sirviente rellena por</Prefix>
     <Postfix>la ira</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Sirviente de la ira {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de A Serva da Ira {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality25">
     <Desc>Mientras poseas las páginas de Anormalidad del Bufón de Nihil, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
@@ -1028,10 +1028,10 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Bufón de Nihil {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality26">
-    <Desc>Mientras poseas las páginas de Anormalidad de la Mercenaria caperucita roja, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de la Chapeuzinho Vermelha Mercenária, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Mercenaria</Prefix>
     <Postfix>caperucita roja</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Mercenaria caperucita roja {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Chapeuzinho Vermelha Mercenária {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality27">
     <Desc>Mientras poseas las páginas de Anormalidad del Gran lobo, 5% Probabilidad de incrementar el daño en +1</Desc>
@@ -1040,10 +1040,10 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Gran lobo {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality28">
-    <Desc>Mientras poseas las páginas de Anormalidad de la Montaña de cuerpos sonrientes, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de la Montanha de Corpos Sorridentes, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Montaña</Prefix>
     <Postfix>de cuerpos</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Montaña de cuerpos sonrientes {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Montanha de Corpos Sorridentes {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality29">
     <Desc>Mientras poseas las páginas de Anormalidad de Nosferatu, 5% Probabilidad de incrementar el daño en +1</Desc>
@@ -1058,22 +1058,22 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Nada ahí {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality31">
-    <Desc>Mientras poseas las páginas de Anormalidad del Espantapájaros buscando por sabiduría, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
-    <Prefix>Espantapájaros</Prefix>
+    <Desc>Mientras poseas las páginas de Anormalidad del Espantalho em Busca de Sabedoria, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Prefix>Espantalho</Prefix>
     <Postfix>sesudo</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Espantapájaros buscando por sabiduría {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Espantalho em Busca de Sabedoria {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality32">
-    <Desc>Mientras poseas las páginas de Anormalidad del Leñador de buen corazón, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad del Lenhador de Coração Caloroso, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Leñador</Prefix>
     <Postfix>de buen corazón</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Leñador de buen corazón {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Lenhador de Coração Caloroso {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality33">
-    <Desc>Mientras poseas las páginas de Anormalidad del Camino a casa/Gato asustado, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad dO Caminho para Casa/Gato asustado, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>El Camino a</Prefix>
     <Postfix>casa</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Camino a casa/Gato asustado {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O dO Caminho para Casa/Gato asustado {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality34">
     <Desc>Mientras poseas las páginas de Anormalidad de Ozma, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
@@ -1094,16 +1094,16 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Pájaro grande {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality37">
-    <Desc>Mientras poseas las páginas de Anormalidad de Ave castigador, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de Pássaro Punitivo, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Pandilla</Prefix>
     <Postfix>castigadora</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Ave castigador {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Pássaro Punitivo {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality38">
-    <Desc>Mientras poseas las páginas de Anormalidad de Ave del juicio, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de Pássaro do Julgamento, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Balanza del</Prefix>
     <Postfix>juicio</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Ave del juicio {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Pássaro do Julgamento {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality39">
     <Desc>Mientras poseas las páginas de Anormalidad de Ave del apocalipsis, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
@@ -1118,22 +1118,22 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Ave del apocalipsis {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality41">
-    <Desc>Mientras poseas las páginas de Anormalidad de Escarbando el paraíso, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de O Céu Perfurador, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Escarbando</Prefix>
     <Postfix>el paraíso</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Escarbando el paraíso {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de O Céu Perfurador {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality42">
-    <Desc>Mientras poseas las páginas de Anormalidad de el Precio del silencio, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de O Preço do Silêncio, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>El Precio del</Prefix>
     <Postfix>silencio</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de el Precio del silencio {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de O Preço do Silêncio {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality43">
-    <Desc>Mientras poseas las páginas de Anormalidad de la Estrella azul, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de la Estrela Azul, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
     <Prefix>Adorador</Prefix>
-    <Postfix>de la Estrella azul</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Estrella azul {0} veces.</AcquireCondition>
+    <Postfix>de la Estrela Azul</Postfix>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Estrela Azul {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality44">
     <Desc>Mientras poseas las páginas de Anormalidad de la NocheBlanca, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
@@ -1148,16 +1148,16 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la NocheBlanca {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality46">
-    <Desc>Mientras poseas las páginas de Anormalidad de Baño de sangre, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de Banheira de Sangue, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
     <Prefix>Baño</Prefix>
     <Postfix>empapado de sangre</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Baño de sangre {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Banheira de Sangue {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality47">
-    <Desc>Mientras poseas las páginas de Anormalidad del Corazón de la aspiración, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad del Coração da Aspiração, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Corazón de la</Prefix>
     <Postfix>aspiración</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Corazón de la aspiración {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Coração da Aspiração {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality48">
     <Desc>Mientras poseas las páginas de Anormalidad de Pinocho, 5% Probabilidad de incrementar el daño en +1</Desc>
@@ -1166,10 +1166,10 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Pinocho {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality49">
-    <Desc>Mientras poseas las páginas de Anormalidad de la Reina de la nieve, 4% Probabilidad de incrementar el Poder de los dados Defensivos en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de A Rainha da Neve, 4% Probabilidad de incrementar el Poder de los dados Defensivos en +1</Desc>
     <Prefix>Beso del</Prefix>
     <Postfix>Invierno</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la Reina de la nieve {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de A Rainha da Neve {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality50">
     <Desc>Mientras poseas las páginas de Anormalidad de Chica silenciosa, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
