@@ -2,7 +2,7 @@
 <CoreLocalizeList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CoreLocalize>
     <Language>ptbr_en</Language>
-	<LanguageName>Português Brasileiro</LanguageName>
+	<LanguageName>Português do Brasil</LanguageName>
 	<SharedLanguage>ptbr</SharedLanguage>
 	<HeadFont>Resource/Fonts/FallbackFontHead</HeadFont>
 	<BodyFont>Resource/Fonts/FallbackFontBody</BodyFont>
