@@ -2,7 +2,7 @@
 <AbnormalityCardsRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Sephirah SephirahType="Malkuth">
     <AbnormalityCard ID="FairyCarnival_Care">
-      <Abnormality>Festival de las Hadas</Abnormality>
+      <Abnormality>Festival das Fadas</Abnormality>
       <CardName>El Cuidado de las Hadas</CardName>
       <AbilityDesc>Heal 25% HP upon selection.</AbilityDesc>
       <FlaborText>The fairies protect our employees. Everything will be peaceful while you are under the fairies' care.</FlaborText>

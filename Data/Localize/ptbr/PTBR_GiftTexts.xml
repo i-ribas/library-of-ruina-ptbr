@@ -890,10 +890,10 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Ursinho de Pelúcia Feliz {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality3">
-    <Desc>Mientras poseas las páginas de Anormalidad de el Festival de hadas, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de el Festival das Fadas, 5% Probabilidad de incrementar el daño en +1</Desc>
     <Prefix>Comida de emergencia</Prefix>
     <Postfix>de las hadas</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de el Festival de hadas {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de el Festival das Fadas {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality4">
     <Desc>Mientras poseas las páginas de Anormalidad de Abelha Rainha, 5% Probabilidad de incrementar el daño en +1</Desc>

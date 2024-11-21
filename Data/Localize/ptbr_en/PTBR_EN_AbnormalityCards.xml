@@ -95,7 +95,7 @@ Todos los dados pierden 1-2 de Poder en un ataque de un solo-lado.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="FairyCarnival_Care">
-      <Abnormality>Festival de hadas</Abnormality>
+      <Abnormality>Festival das Fadas</Abnormality>
       <CardName>Cuidado de las hadas</CardName>
       <AbilityDesc>[Solo un aliado]
 Por tres escenas, recupera 15% del HP máximo (Máx. 18) al final de una escena.
@@ -111,7 +111,7 @@ Si el bibliotecario es golpeado 3 veces mientras este efecto está activo, pierd
     </AbnormalityCard>
     
     <AbnormalityCard ID="FairyCarnival_Gluttony">
-      <Abnormality>Festival de hadas</Abnormality>
+      <Abnormality>Festival das Fadas</Abnormality>
       <CardName>Glotonería</CardName>
       <AbilityDesc>[Solo un aliado]
 Cuando ataques a un objetivo que recibió daño la misma escena, haz +1-3 de daño y recupera 2-5 HP al golpear.</AbilityDesc>
@@ -126,7 +126,7 @@ Cuando ataques a un objetivo que recibió daño la misma escena, haz +1-3 de da�
     </AbnormalityCard>
     
     <AbnormalityCard ID="FairyCarnival_QueenAtk">
-      <Abnormality>Festival de hadas</Abnormality>
+      <Abnormality>Festival das Fadas</Abnormality>
       <CardName>Depredación</CardName>
       <AbilityDesc>[Solo un aliado]
 Todos los aliados excepto el bibliotecario pierden 10 de HP.
