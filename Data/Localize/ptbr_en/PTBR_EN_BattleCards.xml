@@ -973,7 +973,7 @@
       <LocalizedName>Lamento Solene</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="910015">
-      <LocalizedName>Bala Mágica</LocalizedName>
+      <LocalizedName>Munição Mágica</LocalizedName>
     </BattleCardDesc>
 
 
@@ -1078,7 +1078,7 @@
 
 
     <BattleCardDesc ID="910117">
-      <LocalizedName>Pequeno Presente</LocalizedName>
+      <LocalizedName>Presentinho</LocalizedName>
     </BattleCardDesc>
 
   <!-- Thumb -->
@@ -1472,13 +1472,13 @@
       <LocalizedName>Enchente de Balas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920003">
-      <LocalizedName>Cartucho Mágica</LocalizedName>
+      <LocalizedName>Bala Mágica</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920004">
-      <LocalizedName>Cartucho Silenciosa</LocalizedName>
+      <LocalizedName>Bala Silenciosa</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920005">
-      <LocalizedName>Cartucho Inevitável</LocalizedName>
+      <LocalizedName>Bala Inevitável</LocalizedName>
     </BattleCardDesc>
 
 
@@ -1490,13 +1490,13 @@
       <LocalizedName>Ataque sem Hesitar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920103">
-      <LocalizedName>Banho de Balas</LocalizedName>
+      <LocalizedName>Chuva de Balas</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920104">
       <LocalizedName>Caça à Besta</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920105">
-      <LocalizedName>Bala de Ponta-Oca</LocalizedName>
+      <LocalizedName>Munição de Ponta-Oca</LocalizedName>
     </BattleCardDesc>
 
 
@@ -1842,7 +1842,7 @@
       <LocalizedName>Pois Ele É Santo</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920602">
-      <LocalizedName>Seja Feita Vossa Vontade</LocalizedName>
+      <LocalizedName>Seja Feita a Vontade do Senhor</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="920603">
       <LocalizedName>A Ti Entrego Minha Vida</LocalizedName>
@@ -2503,7 +2503,7 @@
       <LocalizedName>Coragem Líquida</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100024">
-      <LocalizedName>Saco de Seda com Serradura</LocalizedName>
+      <LocalizedName>Saco de Seda com Serragem</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="1100025">
       <LocalizedName>Coração de Chumbo</LocalizedName>

@@ -3,7 +3,7 @@
   <cardDescList>
     <!-- Malkuth Realization -->
     <BattleCardDesc ID="9901101">
-      <LocalizedName>Cuarta llama del fósforo</LocalizedName>
+      <LocalizedName>Quarta Chama do Fósforo</LocalizedName>
       <Behaviour ID="0">[Al golpear] Inflige 10 de Quemadura</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901102">
@@ -11,106 +11,106 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9901103">
-      <LocalizedName>Esperanza desmoronada</LocalizedName>
+      <LocalizedName>Esperança Desmoronada</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9901104">
-      <LocalizedName>Encender</LocalizedName>
+      <LocalizedName>Incendiar</LocalizedName>
       <Ability />
     </BattleCardDesc>
 
     <BattleCardDesc ID="9901201">
-      <LocalizedName>Muestra de afecto</LocalizedName>
+      <LocalizedName>Demonstração de Afeto</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9901202">
-      <LocalizedName>Cariño tímido</LocalizedName>
+      <LocalizedName>Carinho Tímido</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9901203">
-      <LocalizedName>Amor áspero</LocalizedName>
+      <LocalizedName>Amor Bruto</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9901204">
-      <LocalizedName>Memorias nostalgicas</LocalizedName>
+      <LocalizedName>Abraço Nostálgico do Passado</LocalizedName>
       <Ability />
       <Behaviour ID="0">[Al golpear] Aturde al objetivo</Behaviour>
     </BattleCardDesc>
 
     <BattleCardDesc ID="9901301">
-      <LocalizedName>Respiro</LocalizedName>
+      <LocalizedName>Descanso</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9901302">
-      <LocalizedName>Enjambre hambriento</LocalizedName>
+      <LocalizedName>Inquietude Voraz</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9901303">
-      <LocalizedName>Depredación</LocalizedName>
+      <LocalizedName>Predação</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9901304">
-      <LocalizedName>Hambre voraz</LocalizedName>
+      <LocalizedName>Fome Voraz</LocalizedName>
       <Ability />
       <Behaviour ID="0">[Al golpear] Recupera 3 de HP, recicla este dado hasta conseguir el resultado minimo (Hasta 5 veces)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901305">
-      <LocalizedName>Aleteo</LocalizedName>
+      <LocalizedName>Bater de Asas</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9901306">
-      <LocalizedName>Glotonería</LocalizedName>
+      <LocalizedName>Glutonaria</LocalizedName>
       <Ability />
     </BattleCardDesc>
 
 
     <BattleCardDesc ID="9901401">
-      <LocalizedName>Impulso de agresión</LocalizedName>
+      <LocalizedName>Impulso de Agressão</LocalizedName>
       <Ability>Utilizará un poderoso ataque la siguiente escena</Ability>
       <Behaviour ID="0">[Al ganar un choque] Inflige 1 de Espora</Behaviour>
       <Behaviour ID="2">[Al golpear] Da 2 de Fuerza y Prisa a todos los aliados (Incluyendote a ti mismo) la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901402">
-      <LocalizedName>Estigma de gloria</LocalizedName>
+      <LocalizedName>Estigma de Glória</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al ganar un choque] Inflige 1 de Espora</Behaviour>
       <Behaviour ID="1">[Al ganar un choque] Inflige 1 de Espora</Behaviour>
       <Behaviour ID="2">[Al ganar un choque] Inflige 1 de Espora</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901403">
-      <LocalizedName>Por el reino</LocalizedName>
+      <LocalizedName>Pelo Reino</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al ganar un choque] Inflige 1 de Espora</Behaviour>
       <Behaviour ID="1">[Al ganar un choque] Inflige 1 de Espora</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901404">
-      <LocalizedName>Lealtad incrementada</LocalizedName>
+      <LocalizedName>Impulso de Lealdade</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="2">[Al golpear] Da 2 de Dureza a todos los aliados (Incluyendote a ti mismo) la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901405">
-      <LocalizedName>Golpe de retribución</LocalizedName>
+      <LocalizedName>Agulhada de Retribuição</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige 3 de Frágil; Enemigo aturdido</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901406">
-      <LocalizedName>Adquirir nutrientes</LocalizedName>
+      <LocalizedName>Adquirir Nutrientes</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] La Abelha Rainha recupera 10 de HP</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901407">
-      <LocalizedName>Guardaespaldas</LocalizedName>
+      <LocalizedName>Garde du Corps</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige 1 de Espora</Behaviour>
       <Behaviour ID="2">[Al golpear] Inflige 1 de Espora</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901408">
-      <LocalizedName>Llevar larvas</LocalizedName>
+      <LocalizedName>Injetar Larvas</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="1">[Al golpear] Inflige 3 de Esporas</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901409">
-      <LocalizedName>Promover el crecimiento</LocalizedName>
+      <LocalizedName>Promover o Crescimento</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige daño igual a la cantidad de Esporas del objetivo</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige daño igual a la cantidad de Esporas del objetivo</Behaviour>
@@ -118,74 +118,74 @@
     </BattleCardDesc>
 
     <BattleCardDesc ID="9901501">
-      <LocalizedName>Tallos verdes</LocalizedName>
+      <LocalizedName>Talhos Verdes</LocalizedName>
       <Behaviour ID="0">[Al golpear] Inflige 2 de Frágil la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9901502">
-      <LocalizedName>Vides llenos de rencor</LocalizedName>
+      <LocalizedName>Vinhas Carregadas de Rancor</LocalizedName>
       <Ability>El dado en esta página pierde 3 de Poder si el objetivo tiene más velocidad</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9901503">
-      <LocalizedName>Vides Enlazados con Engaños</LocalizedName>
+      <LocalizedName>Vinhas Entrelaçadas com Desilusões</LocalizedName>
       <Ability>El dado en esta página pierde 3 de Poder si el objetivo tiene más velocidad</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9901504">
-      <LocalizedName>Malicia invasora</LocalizedName>
+      <LocalizedName>Malícia Invasora</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9901505">
-      <LocalizedName>Vida desmoronada</LocalizedName>
+      <LocalizedName>Vida Desmoronada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9901506">
-      <LocalizedName>Espinas</LocalizedName>
+      <LocalizedName>Espinhos</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <!-- End Malkuth -->
 
     <!-- Yesod 예소드 보스전 -->
     <BattleCardDesc ID="9902101">
-      <LocalizedName>Ira encadenada</LocalizedName>
+      <LocalizedName>Ira Acorrentada</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902102">
-      <LocalizedName>Sonido metálico</LocalizedName>
+      <LocalizedName>Eco Metálico</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902103">
-      <LocalizedName>Termina, comienza, termina</LocalizedName>
+      <LocalizedName>Termina, Começa, Termina</LocalizedName>
       <Ability>[Comienzo del combate] Elimina todos los efectos de estado negativos en ti mismo; te vuelves inmune a los efectos de estado negativos esta escena</Ability>
       <Behaviour ID="2">[Al golpear] Aturde al objetivo</Behaviour>
     </BattleCardDesc>
     
     <BattleCardDesc ID="9902201">
-      <LocalizedName>Carga Mk2</LocalizedName>
+      <LocalizedName>Carregar Mk2</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902202">
-      <LocalizedName>Descanso Mk2</LocalizedName>
+      <LocalizedName>Descansar Mk2</LocalizedName>
       <Ability>[Al usar] Gana 1 de Fuerza y Dureza la siguiente escena</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902203">
-      <LocalizedName>Limpieza Mk2</LocalizedName>
+      <LocalizedName>Limpar Mk2</LocalizedName>
       <Ability>Haz 3-5 de daño adicional a los objetivos con menos velocidad</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902204">
-      <LocalizedName>Deshabilitar limitador</LocalizedName>
+      <LocalizedName>Desativar Limitador</LocalizedName>
       <Ability>El usuario está aturdido la siguiente escena</Ability>
       <Behaviour ID="0">[Al golpear] Inflige 2 de Sangrado</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 2 de Sangrado</Behaviour>
       <Behaviour ID="2">[Al golpear] Inflige 2 de Sangrado</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902205">
-      <LocalizedName>Carga</LocalizedName>
+      <LocalizedName>Carregar</LocalizedName>
       <Ability>[Al usar] Gana 1 de Fuerza y Dureza la siguiente escena</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902206">
-      <LocalizedName>Limpieza</LocalizedName>
+      <LocalizedName>Limpar</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902207">
-      <LocalizedName>Descanso</LocalizedName>
+      <LocalizedName>Descansar</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     
@@ -196,23 +196,23 @@
       <Behaviour ID="1">[Al perder un choque] El último dado gana +1 de Poder</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902302">
-      <LocalizedName>Pequeño rendimiento</LocalizedName>
+      <LocalizedName>Pequena Performance</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Un aliado recibe 6 de daño de aturdimiento; dale 1 de Fuerza y Desarmar la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902303">
-      <LocalizedName>¡Vamos a crear una canción!</LocalizedName>
+      <LocalizedName>Vamos Criar uma Música!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Todos los aliados ganan +2 de Fuerza esta escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902304">
-      <LocalizedName>Armonía de desesperación</LocalizedName>
+      <LocalizedName>Harmonia de Desespero</LocalizedName>
       <Ability>Al golpear con éxito con esta página, aplica el siguiente efecto: inflige 1 de Sangrado. Un aliado aleatorio recibe 6 de daño de aturdimiento; dales 1 de Fuerza y Desarmar la siguiente escena</Ability>
       <Behaviour ID="0">[Al golpear] Recicla este dado hasta conseguir el resultado minimo (Hasta 3 veces)</Behaviour>
       <Behaviour ID="1">[Al golpear] Recicla este dado hasta conseguir el resultado minimo (Hasta 3 veces)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902305">
-      <LocalizedName>Gesto tembloroso</LocalizedName>
+      <LocalizedName>Movimento Trêmulo</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="1">[Al perder un choque] Inflige 1 de Endeble a ti mismo la siguiente escena</Behaviour>
       <Behaviour ID="2">[Al perder un choque] Inflige 1 de Desarmar a ti mismo la siguiente escena</Behaviour>
@@ -223,27 +223,27 @@
       <Behaviour ID="0">[Al golpear] Inflige 3 de Atadura la siguiente escena si el ataque fue de un solo-lado</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902307">
-      <LocalizedName>¡Escucha este hermoso sonido!</LocalizedName>
+      <LocalizedName>Escute esse Bela Canção!</LocalizedName>
       <Ability>Si el usuario falla en hacer daño, se Aturde a si mismo</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902308">
-      <LocalizedName>¡¡Anhela la música!!</LocalizedName>
+      <LocalizedName>Eu Anseio Por Esta Bela Canção!!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] El objetivo se introduce en la Máquina (No se activa si solo queda un bibliotecario)</Behaviour>
     </BattleCardDesc>
     
     <BattleCardDesc ID="9902401">
-      <LocalizedName>La tranquilidad</LocalizedName>
+      <LocalizedName>A Quietude</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902402">
-      <LocalizedName>Mano guía</LocalizedName>
+      <LocalizedName>Mão Guia</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Sella un dado de velocidad del objetivo hasta el final de la siguiente escena
 [Al perder un choque] Sella un dado de velocidad de ti mismo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902403">
-      <LocalizedName>En comodidad</LocalizedName>
+      <LocalizedName>Confortar</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Sella un dado de velocidad del objetivo hasta el final de la siguiente escena</Behaviour> 
       <Behaviour ID="1">[Al golpear] Sella un dado de velocidad del objetivo hasta el final de la siguiente escena</Behaviour> 
@@ -255,77 +255,77 @@
       <Behaviour ID="1">[Al golpear] Si el objetivo está aturdido, haz un daño igual al 50% de su HP actual</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902405">
-      <LocalizedName>Descanso eterno</LocalizedName>
+      <LocalizedName>Descanso Eterno</LocalizedName>
       <Ability>Repite el ataque del primer y segundo dado 5 veces</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902411">
-      <LocalizedName>Tranquilidad</LocalizedName>
+      <LocalizedName>Tranquilidade</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902412">
-      <LocalizedName>Liberación del enojo</LocalizedName>
+      <LocalizedName>Exumação de Raiva</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902413">
-      <LocalizedName>Liberación del dolor</LocalizedName>
+      <LocalizedName>Exumação de Dor</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902414">
-      <LocalizedName>Liberación de la obsesión</LocalizedName>
+      <LocalizedName>Exumação de Obsessão</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="9902501">
-      <LocalizedName>Bala mágica</LocalizedName>
+      <LocalizedName>Bala Mágica</LocalizedName>
       <Ability>Prioriza al bibliotecario en el centro</Ability>
       <Behaviour ID="0">[Al golpear] Haz 10 de daño de aturdimiento al objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902502">
-      <LocalizedName>Bala inevitable</LocalizedName>
+      <LocalizedName>Bala Inevitável</LocalizedName>
       <Ability>Todos los bibliotecarios son objetivos menos el del centro</Ability>
       <Behaviour ID="0">[Al golpear] Inflige 3 de Parálisis esta escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902503">
-      <LocalizedName>Bala cautivadora</LocalizedName>
+      <LocalizedName>Bala Cativante</LocalizedName>
       <Ability>Tres bibliotecarios aleatorios son objetivos</Ability>
       <Behaviour ID="0">[Al golpear] Inflige 1 de Endeble esta escena y 5 de Quemadura la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 1 de Endeble esta escena y 5 de Quemadura la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902504">
-      <LocalizedName>Bala implacable</LocalizedName>
+      <LocalizedName>Bala Implacável</LocalizedName>
       <Behaviour ID="0">[Al golpear] Haz 10 de daño de aturdimiento al objetivo e inflige 5 de Frágil la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902505">
-      <LocalizedName>Bala silenciosa</LocalizedName>
+      <LocalizedName>Bala Silenciosa</LocalizedName>
       <Behaviour ID="0">[Al golpear] Inflige 10 de Quemadura, 3 de Endeble, y 3 de Desarmar la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902506">
-      <LocalizedName>Balas de inundación</LocalizedName>
+      <LocalizedName>Enchente de Balas</LocalizedName>
       <Behaviour ID="0">[Al golpear] Haz 6 de daño de aturdimiento al objetivo</Behaviour>
       <Behaviour ID="1">[Al golpear] Haz 6 de daño de aturdimiento al objetivo</Behaviour>
       <Behaviour ID="2">[Al golpear] Haz 6 de daño de aturdimiento al objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902507">
-      <LocalizedName>Balas de desesperación</LocalizedName>
+      <LocalizedName>Balas de Desesperon</LocalizedName>
       <Ability>Se apunta a si mismo; hace 100 de daño</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9902508">
-      <LocalizedName>Bala mágica</LocalizedName>
+      <LocalizedName>Bala Mágica</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Haz 10 de daño de aturdimiento al objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902509">
-      <LocalizedName>Bala mágica</LocalizedName>
+      <LocalizedName>Bala Mágica</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Haz 10 de daño de aturdimiento al objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902510">
-      <LocalizedName>Bala mágica</LocalizedName>
+      <LocalizedName>Bala Mágica</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Haz 10 de daño de aturdimiento al objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9902511">
-      <LocalizedName>Bala mágica</LocalizedName>
+      <LocalizedName>Bala Mágica</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Haz 10 de daño de aturdimiento al objetivo</Behaviour>
     </BattleCardDesc>
@@ -334,33 +334,33 @@
 
     <!-- Hod 호드 최종전 -->
     <BattleCardDesc ID="9903101">
-      <LocalizedName>Cara alegre</LocalizedName>
+      <LocalizedName>Expressão Alegre</LocalizedName>
       <Ability>El resultado del dado es el minimo si la expresión actual es la más feliz</Ability>
       <Behaviour ID="0">[Al perder un choque] El oponente Restaura 1 de Luz</Behaviour>
       <Behaviour ID="1">[Al perder un choque] El oponente Restaura 1 de Luz</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903102">
-      <LocalizedName>Cara sonriente</LocalizedName>
+      <LocalizedName>Expressã Sorridente</LocalizedName>
       <Ability>El resultado del dado es el minimo si la expresión actual está sonriendo ligeramente</Ability>
       <Behaviour ID="0">[Al perder un choque] El oponente Restaura 2-5 de HP y resistencia al aturdimiento</Behaviour>
       <Behaviour ID="1">[Al perder un choque] El oponente Restaura 2-5 de HP y resistencia al aturdimiento</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903103">
-      <LocalizedName>Cara en reposo</LocalizedName>
+      <LocalizedName>Expressã Neutra</LocalizedName>
       <Ability>El resultado del dado es el minimo si la expresión actual es inexpresiva</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9903104">
-      <LocalizedName>Cara triste</LocalizedName>
+      <LocalizedName>Expressã Tímido</LocalizedName>
       <Ability>El resultado del dado es el minimo si la expresión actual es triste</Ability>
       <Behaviour ID="0">[Al perder un choque] Destruye todos los dados que quedan en esta página</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903105">
-      <LocalizedName>Cara enojada</LocalizedName>
+      <LocalizedName>Expressã Raivosa</LocalizedName>
       <Ability>El resultado del dado es el minimo si la expresión actual es enojada</Ability>
       <Behaviour ID="0">[Al perder un choque] Inflige 2 de Frágil a ti mismo esta escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903106">
-      <LocalizedName>Sentimientos vacilantes</LocalizedName>
+      <LocalizedName>Sentimentos Vacilantes</LocalizedName>
       <Ability>El dado gana más Poder lo más cerca que esté la expresión a enojada</Ability>
       <Behaviour ID="0">[Al ganar un choque] Aturde al objetivo</Behaviour>
       <Behaviour ID="1">Haz +10 de daño contra enemigos aturdidos</Behaviour>
@@ -368,25 +368,25 @@
 
 
     <BattleCardDesc ID="9903201">
-      <LocalizedName>Obsesión</LocalizedName>
+      <LocalizedName>Obsessão</LocalizedName>
       <Behaviour ID="0">Gana +3 de Poder contra objetivos con Sangrado;[Al golpear] Inflige 2 de Frágil la siguiente escena</Behaviour>
       <Behaviour ID="2">Gana +3 de Poder contra objetivos con Sangrado;[Al golpear] Inflige 2 de Frágil la siguiente escena</Behaviour>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9903202">
-      <LocalizedName>Tenacidad</LocalizedName>
+      <LocalizedName>Tenacidade</LocalizedName>
       <Behaviour ID="1">Gana +6 de Poder contra objetivos con Sangrado;[Al golpear] rompe un dado la siguiente escena</Behaviour>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9903203">
-      <LocalizedName>Deseos rebosantes</LocalizedName>
+      <LocalizedName>Desejo Incontrolável</LocalizedName>
       <Behaviour ID="0">[Al golpear] Recupera HP igual a la cantidad de Sangrado del objetivo</Behaviour>
       <Behaviour ID="1">[Al golpear] Recupera HP igual a la cantidad de Sangrado del objetivo</Behaviour>
       <Behaviour ID="2">[Al golpear] Recupera HP igual a la cantidad de Sangrado del objetivo</Behaviour>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9903204">
-      <LocalizedName>¡¡¡NO PUEDO RESISTIRLO!!!</LocalizedName>
+      <LocalizedName>EU NÃO CONSIGO RESISTIR!!!</LocalizedName>
       <Behaviour ID="0">[Al golpear] Inflige 2 de Sangrado esta escena</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 2 de Sangrado esta escena</Behaviour>
       <Behaviour ID="2">[Al golpear] Inflige 2 de Sangrado esta escena</Behaviour>
@@ -394,65 +394,65 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9903211">
-      <LocalizedName>Deseo susurrante</LocalizedName>
+      <LocalizedName>Desejo Sussurante</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9903212">
-      <LocalizedName>Deseo oculto</LocalizedName>
+      <LocalizedName>Desejo Oculto</LocalizedName>
     </BattleCardDesc>
 
     <BattleCardDesc ID="9903301">
-      <LocalizedName>Grita</LocalizedName>
+      <LocalizedName>Gritar</LocalizedName>
       <Ability />
       <Behaviour ID="0">[Al golpear] Aturde al objetivo; inflige el estado 'Capullo' al objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903302">
-      <LocalizedName>Ojos brillantes</LocalizedName>
+      <LocalizedName>Olhos Brilhantes</LocalizedName>
       <Ability />
       <Behaviour ID="0">[Al ganar un choque] Inflige 2 de Endeble la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al ganar un choque] Inflige 2 de Desarmar la siguiente escena</Behaviour>
       <Behaviour ID="2">[Al ganar un choque] Inflige 2 de Endeble la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903311">
-      <LocalizedName>Tela fina</LocalizedName>
+      <LocalizedName>Teia Fina</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9903312">
-      <LocalizedName>Colmillos afilados</LocalizedName>
+      <LocalizedName>Presas Dolorosas</LocalizedName>
     </BattleCardDesc>
 
 
     <BattleCardDesc ID="9903411">
-      <LocalizedName>Toma un regalo~</LocalizedName>
+      <LocalizedName>Toma, Um Presente~</LocalizedName>
       <Behaviour ID="0">[Al golpear] Añade una copia de 'Regalo' a la mano del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903412">
-      <LocalizedName>¡No te lastimes!</LocalizedName>
+      <LocalizedName>Não se Machuque!</LocalizedName>
       <Ability>[Al usar] El aliado con menos HP recupera 10 de HP</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9903413">
-      <LocalizedName>¡Vamos a divertirnos!</LocalizedName>
+      <LocalizedName>Vamos nos Divertir!</LocalizedName>
       <Ability>[Al usar] Da 1 de Fuerza y 3 de Protección a 2 aliados aleatorios</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9903414">
-      <LocalizedName>¡¡Graaan~ Regalo!!</LocalizedName>
+      <LocalizedName>UM PRESENTÃO!!</LocalizedName>
       <Behaviour ID="0">[Al golpear] Añade una copia de 'Regalo' a la mano del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903415">
-      <LocalizedName>Toma un regalo~</LocalizedName>
+      <LocalizedName>Toma, Um Presente~~</LocalizedName>
       <Behaviour ID="0">[Al golpear] Añade una copia de 'Regalo' a la mano del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903421">
-      <LocalizedName>Re..ga..lo</LocalizedName>
+      <LocalizedName>P..r..e..s..e..n..t..e..</LocalizedName>
       <Behaviour ID="0">[Al golpear] Añade una copia de 'Regalo' a la mano del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903422">
-      <LocalizedName>T.óm..a..l.o..</LocalizedName>
+      <LocalizedName>T.om..a..</LocalizedName>
       <Behaviour ID="0">[Al golpear] Añade una copia de 'Regalo' a la mano del objetivo</Behaviour>
       <Behaviour ID="1">[Al golpear] Añade una copia de 'Regalo' a la mano del objetivo</Behaviour>
       <Behaviour ID="2">[Al golpear] Añade una copia de 'Regalo' a la mano del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903423">
-      <LocalizedName>Ex..pl..o..ta..</LocalizedName>
+      <LocalizedName>Ex..pl..o..da..</LocalizedName>
       <Ability>El usuario muere después de usar esta página</Ability>
       <Behaviour ID="0">[Al golpear] Añade tres copias de 'Regalo' a la mano del objetivo</Behaviour>
     </BattleCardDesc>
@@ -464,87 +464,87 @@
       <Behaviour ID="0">[Al golpear] Inflige 3 de Frágil esta escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903433">
-      <LocalizedName>Quitar regalo</LocalizedName>
+      <LocalizedName>Roubar o Presente</LocalizedName>
       <Behaviour ID="0">[Al golpear] Agota una copia de 'Regalo' de la mano del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903451">
-      <LocalizedName>Regalo</LocalizedName>
+      <LocalizedName>Presente</LocalizedName>
       <Ability>Explota después de 2 escenas, haz 15 de daño e inflige 1 de 'La-ti-do'. El bibliotecario muere si tiene 3 o más de 'La-ti-do'.</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9903452">
-      <LocalizedName>Regalo</LocalizedName>
+      <LocalizedName>Presente</LocalizedName>
       <Ability>Explota después de 2 escenas, haz 15 de daño e inflige 1 de 'La-ti-do'. El bibliotecario muere si tiene 3 o más de 'La-ti-do'.</Ability>
     </BattleCardDesc>
 
     <BattleCardDesc ID="9903511">
-      <LocalizedName>Retorcerse</LocalizedName>
+      <LocalizedName>Contorcer-se</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9903512">
-      <LocalizedName>Acurrucarse</LocalizedName>
+      <LocalizedName>Enrolar-se</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9903513">
-      <LocalizedName>Vómito</LocalizedName>
+      <LocalizedName>Vômito</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9903514">
-      <LocalizedName>Sombrilla desgastada</LocalizedName>
+      <LocalizedName>Sombrinha Desgastada</LocalizedName>
       <Behaviour ID="0">[Al ganar un choque] Devuelve el daño Bloqueado al atacante</Behaviour>
       <Behaviour ID="1">[Al ganar un choque] Devuelve el daño Bloqueado al atacante</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903515">
-      <LocalizedName>Realidad nauseabunda</LocalizedName>
+      <LocalizedName>Realidade Nauseante</LocalizedName>
       <Behaviour ID="1">[Al golpear] Inflige 5 de Sangrado y Frágil la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903516">
-      <LocalizedName>Chillido de sueños rotos</LocalizedName>
+      <LocalizedName>Guinchos de Sonhos Quebrados</LocalizedName>
       <Behaviour ID="0">[Al golpear] Aturde al objetivo. Solo puedes ganar Emoción Negativa la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903521">
-      <LocalizedName>Ataque engañoso</LocalizedName>
+      <LocalizedName>Ataque Enganoso</LocalizedName>
       <Behaviour ID="0">[Al golpear] Angela gana 1 de Fuerza la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903522">
-      <LocalizedName>Desperdicio verde</LocalizedName>
+      <LocalizedName>Desperdício Verde</LocalizedName>
     </BattleCardDesc>
     <!-- End Hod? -->
 
     <!-- Netzach Realization -->
     <BattleCardDesc ID="9904101">
-      <LocalizedName>Sonido sombrío</LocalizedName>
+      <LocalizedName>Som Fraco da Canção</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9904102">
       <LocalizedName>Penetrar</LocalizedName>
       <Behaviour ID="0">[Al golpear] Añade 'Iluminación' a la mano del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9904103">
-      <LocalizedName>Perforar el límite</LocalizedName>
+      <LocalizedName>Perfuração de Limites</LocalizedName>
       <Behaviour ID="1">[Al golpear] Añade 'Iluminación' a la mano del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9904104">
-      <LocalizedName>Ecos del más allá</LocalizedName>
+      <LocalizedName>Ecos do Além</LocalizedName>
       <Ability>Si el objetivo tiene 'Iluminación' en la mano, haz 0 de daño y agota esta carta de la mano</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9904105">
-      <LocalizedName>Iluminación</LocalizedName>
+      <LocalizedName>Esclarecimento</LocalizedName>
       <Ability>Mientras esté en la mano, reduce la resistencia al aturdimiento Máxima en 50%</Ability>
     </BattleCardDesc>
 
 
     <BattleCardDesc ID="9904201">
-      <LocalizedName>Lágrimas de despedida</LocalizedName>
+      <LocalizedName>Lágrimas de Despedida</LocalizedName>
       <Behaviour ID="0">[Al golpear] Inflige 3 de Frágil</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9904202">
-      <LocalizedName>Una despedida eterna</LocalizedName>
+      <LocalizedName>Um Adeus Eterno</LocalizedName>
       <Ability>Apunta a todos los personajes</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9904203">
-      <LocalizedName>Espera</LocalizedName>
+      <LocalizedName>Esperar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9904204">
-      <LocalizedName>Lluvia de estrellas</LocalizedName>
+      <LocalizedName>Chuva de Meteoros</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9904205">
-      <LocalizedName>Luz tenue</LocalizedName>
+      <LocalizedName>Brilho</LocalizedName>
     </BattleCardDesc>
 
 
