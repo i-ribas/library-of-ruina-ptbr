@@ -1083,7 +1083,7 @@
       <LocalizedName>Impedir</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="970415">
-      <LocalizedName>Agonia do Necessitados</LocalizedName>
+      <LocalizedName>Agonia dos Necessitados</LocalizedName>
       <Behaviour ID="0">[Al golpear] Inflige 2 de Endeble esta escena</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 1 de Endeble esta escena</Behaviour>
       <Behaviour ID="2">[Al golpear] Inflige 1 de Endeble esta escena</Behaviour>
