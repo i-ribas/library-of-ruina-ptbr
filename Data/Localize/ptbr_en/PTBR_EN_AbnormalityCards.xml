@@ -914,7 +914,7 @@ Cuando el bibliotecario seleccionado deja a un enemigo aturdido, todos los enemi
   
   <Sephirah SephirahType="Keter">
     <AbnormalityCard ID="Bloodbath_Blood">
-      <Abnormality>Banheira de Sangue</Abnormality>
+      <Abnormality>Banho de Sangue</Abnormality>
       <CardName>Sangre</CardName>
       <AbilityDesc>[Solo un aliado]
 Los dados defensivos ganan 1-2 de Poder.
@@ -930,7 +930,7 @@ Recibes +3-5 de daño de aturdimiento al ser golpeado.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Bloodbath_Scar">
-      <Abnormality>Banheira de Sangue</Abnormality>
+      <Abnormality>Banho de Sangue</Abnormality>
       <CardName>Cicatrices</CardName>
       <AbilityDesc>[Solo un aliado]
 Recibe 2-5 menos de daño de ataques cortantes.
@@ -946,7 +946,7 @@ Al ser golpeado, reduce el daño de los ataques a 0 con una probabilidad del 20%
     </AbnormalityCard>
     
     <AbnormalityCard ID="Bloodbath_Hands">
-      <Abnormality>Banheira de Sangue</Abnormality>
+      <Abnormality>Banho de Sangue</Abnormality>
       <CardName>Manos pálidas</CardName>
       <AbilityDesc>[Solo un aliado]
 Después de tres ataques exitosos al mismo objetivo, Haz 3-10 de daño de aturdimiento adicional.
@@ -1199,7 +1199,7 @@ Después de perder tres choques en una sola escena, reduce el coste de la págin
     </AbnormalityCard>
     
     <AbnormalityCard ID="KnightOfDespair_Gaho">
-      <Abnormality>Dama do Desespero</Abnormality>
+      <Abnormality>Cavalheira do Desespero</Abnormality>
       <CardName>Bendición</CardName>
       <AbilityDesc>[Solo un aliado]
 Si el personaje recibió daño de ataques en la escena anterior, cambia las resistencias de este personaje contra el tipo que hace más daño a "Resistente" por la escena. (Aplica separadamente el daño y daño de aturdimiento)</AbilityDesc>
@@ -1213,7 +1213,7 @@ Si el personaje recibió daño de ataques en la escena anterior, cambia las resi
     </AbnormalityCard>
     
     <AbnormalityCard ID="KnightOfDespair_Sword">
-      <Abnormality>Dama do Desespero</Abnormality>
+      <Abnormality>Cavalheira do Desespero</Abnormality>
       <CardName>Espadas afiladas con lágrimas</CardName>
       <AbilityDesc>[Solo un aliado]
 En un ataque perforante exitoso, si el resultado del dado es el máximo, haz daño adicional igual al 10% del HP máximo del objetivo. (Máx. 12, excluye ataques en masa)</AbilityDesc>
@@ -1226,7 +1226,7 @@ En un ataque perforante exitoso, si el resultado del dado es el máximo, haz da�
     </AbnormalityCard>
     
     <AbnormalityCard ID="KnightOfDespair_Despair">
-      <Abnormality>Dama do Desespero</Abnormality>
+      <Abnormality>Cavalheira do Desespero</Abnormality>
       <CardName>Desesperación</CardName>
       <AbilityDesc>[Todos los aliados]
 Cuando un aliado muere, todos los aliados ganan 1-3 de Fuerza y Prisa y todos los enemigos reciben 2 de Frágil.</AbilityDesc>
@@ -1417,7 +1417,7 @@ Si el HP del bibliotecario está en 50%/35%/25% o menos, gana 1/2/4 de Fuerza ca
     </AbnormalityCard>
     
      <AbnormalityCard ID="BigBadWolf_Claw">
-      <Abnormality>Lobo Grande que Será do Mau</Abnormality>
+      <Abnormality>Lobo Grande que Será Mau</Abnormality>
       <CardName>Garras feroces</CardName>
       <AbilityDesc>[Solo un aliado]
 Después que el bibliotecario reciba un daño mayor a 25% de su HP máximo, no puede ser Seleccionado ni Enfrentado la siguiente escena.
@@ -1432,7 +1432,7 @@ El bibliotecario gana 2 de Fuerza esa escena, e inflige de 1 Sangrado con cada a
     </AbnormalityCard>
     
     <AbnormalityCard ID="BigBadWolf_Eat">
-      <Abnormality>Lobo Grande que Será do Mau</Abnormality>
+      <Abnormality>Lobo Grande que Será Mau</Abnormality>
       <CardName>Instinto</CardName>
       <AbilityDesc>[Solo un aliado]
 Cada vez que el bibliotecario seleccionado gana un choque, el último dado de su página actual gana 1-2 de Poder.
@@ -1447,7 +1447,7 @@ Recupera 3-7 de HP al golpear con éxito con su último dado.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="BigBadWolf_Change">
-      <Abnormality>Lobo Grande que Será do Mau</Abnormality>
+      <Abnormality>Lobo Grande que Será Mau</Abnormality>
       <CardName>El papel del lobo</CardName>
       <AbilityDesc>[Solo un aliado]
 Los dados de contraataque ganan 1-2 de Poder.

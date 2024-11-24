@@ -66,7 +66,7 @@
 	<text id="ui_gift_cheek">Bochecha</text>
 	<text id="ui_gift_mouth">Boca</text>
 	<text id="ui_gift_ear">Orelha</text>
-	<text id="ui_gift_headdress1">Acessório 1 </text>
+	<text id="ui_gift_headdress1">Acessório 1</text>
 	<text id="ui_gift_headdress2">Acessório 2</text>
 	<text id="ui_gift_headdress3">Acessório 3</text>
 	<text id="ui_gift_headdress4">Acessório 4</text>
@@ -117,7 +117,7 @@
 	<text id="ui_library_titledesc">???</text>
 	<text id="ui_invitation_maintitle">História</text>
 	<text id="ui_invitation_titlecontent">O Convite</text>
-	<text id="ui_invitation_context">Querido Convidado: \n Seja muito bem-vindo ao entrar na Biblioteca.\nOs livros da Biblioteca podem te recompensar\n sabedoria, riqueza, honra e todo poder que\nbusca, sem mais delongas, uma provação te espera.\nSe não puder sobreviver esta provação,\n então você mesmo será convertido a um livro.</text>
+	<text id="ui_invitation_context">Querido Convidado: \n Eu formalmente te convido para a Biblioteca.\nOs livros da Biblioteca podem te recompensar\n sabedoria, riqueza, honra e todo poder que\nbusca, entretanto, uma provação te espera na Biblioteca.\nSe você não sobreviver esta provação,\n então você mesmo será tornado em um livro.</text>
 	<text id="ui_invitation_from">- Angela</text>
 	<text id="ui_invitation_todaybook">Livros do dia</text>
 	<text id="ui_invitation_bookname_emptyslot">Registrar Livro</text>
@@ -127,12 +127,12 @@
 	<text id="ui_invitation_checkenemyinfo">Checar Informação do Convidado</text>
 	<text id="ui_invitation_button_openbooklist">Checar Estante</text>
 	<text id="ui_invitation_enemyinfo_title">Convidado</text>
-	<text id="ui_invitation_enemyinfo_reward_title">Possíveis recompensas</text>
-	<text id="ui_invitation_enemyinfo_reward_afterbattle">Disponível depois de receber o Convidado</text>
-	<text id="ui_invitation_enemyinfo_reviewstory">Revisitar história</text>
+	<text id="ui_invitation_enemyinfo_reward_title">Possíveis Recompensas</text>
+	<text id="ui_invitation_enemyinfo_reward_afterbattle">Disponível depois de Receber o Convidado</text>
+	<text id="ui_invitation_enemyinfo_reviewstory">Revisitar História</text>
 	<text id="ui_invitation_enemyinfo_prevstory">Pré-Batalha</text>
 	<text id="ui_invitation_enemyinfo_nextstory">Pós-Batalha</text>
-	<text id="ui_invitation_reviewsephirahstory">Revisitar história do Sephirah</text>
+	<text id="ui_invitation_reviewsephirahstory">Revisitar História do Sephirah</text>
 	<text id="ui_battlesetting_maintitle_stagestart">Começar a Encenação</text>
 	<text id="ui_battlesetting_subtitle_progress">Atos Restantes: {0}</text>
 	<text id="ui_battlesetting_possiblefloor">Andares Disponíveis:</text>
@@ -149,7 +149,7 @@
 	<text id="ui_battleresult_empty">Nenhum</text>
 	<text id="ui_battleresult_emptybookname">Nenhum Livro Selecionado</text>
 	<text id="ui_battleresult_returnrewadlist">Voltar</text>
-	<text id="ui_popup_levelup_floor">A Realização {0} subiu de nível!</text>
+	<text id="ui_popup_levelup_floor">A Realização {0} subiu de Nível!</text>
 	<text id="ui_popup_opensephirah_questalarm">Uma Nova Tarefa Surgiu</text>
 	<text id="ui_popup_opensephirah_title">Foi aberto o {0}</text>
 	<text id="ui_popup_librarygradeup_title">Grau da Biblioteca</text>
@@ -222,7 +222,7 @@
 	<text id="ui_tooltip_library_2">Realização do Andar de {0}.</text>
 	<text id="ui_tooltip_library_3">Realização da Página que o Bibliotecário está Equipado.</text>
 	<text id="ui_tooltip_library_4">{0} atualmente tem esta Página equipada.</text>
-	<text id="ui_tooltip_curtain_1">Esta Melhoria está atualmente Impossível.</text>
+	<text id="ui_tooltip_curtain_1">Esta Melhoria está Atualmente Impossível.</text>
 	<text id="ui_tooltip_lower_1">ESC: Pausar</text>
 	<text id="ui_tooltip_lower_2">F1: Abrir Manual</text>
 	<text id="ui_customize_appearance_eye">Olho</text>
@@ -311,7 +311,7 @@ Aguarde pacientemente pela próxima atualização para ver mais.</text>
 	<text id="ui_tooltip_resistance_break_penetrate">Resistência à Atordoamento por Dano Perfurante : {0}</text>
 	<text id="ui_tooltip_resistance_break_hit">Resistência à Atordoamento por Dano Contundente : {0}</text>
 	<text id="ui_tooltip_maxexp">Não pode subir mais o Nível de Realização.</text>
-	<text id="ui_tooltip_maxlevel">Nível máximo</text>
+	<text id="ui_tooltip_maxlevel">Nível Máximo</text>
 	<text id="ui_popup_newgame">Tem certeza que deseja encerrar o Cenário e começar do zero?</text>
 	<text id="ui_popup_yesbutton">Sim</text>
 	<text id="ui_popup_nobutton">Não</text>
@@ -412,8 +412,8 @@ A Habilidade original do espaço irá se perder.</text>
 	<text id="ui_newtooltip_battle_3">Moedas de Emoção Atual</text>
 	<text id="ui_newtooltip_battle_4">Lista de Páginas de Anormalidade atualmente selecionadas</text>
 	<text id="ui_newtooltip_battle_5">Página de Anormalidade atualmente em efeito</text>
-	<text id="ui_newtooltip_battle_6">Resistência de dano fisico do objetivo: {0} contra {1}</text>
-	<text id="ui_newtooltip_battle_7">Resistência de Atordoamento do objetivo: {0} contra {1}</text>
+	<text id="ui_newtooltip_battle_6">Resistência de dano fisico do Alvo: {0} contra {1}</text>
+	<text id="ui_newtooltip_battle_7">Resistência de Atordoamento do Alvo: {0} contra {1}</text>
 	<text id="ui_newtooltip_battle_8">Páginas em Mão</text>
 	<text id="ui_newtooltip_battle_9">HP Atual</text>
 	<text id="ui_newtooltip_battle_10">Moedas de Emoção Atual</text>
@@ -422,9 +422,9 @@ A Habilidade original do espaço irá se perder.</text>
 	<text id="ui_newtooltip_battle_13">Nível de Emoção da equipe</text>
 	<text id="ui_newtooltip_battle_14">Ativar Modo Rápido Sim/Não
 Quando o Modo Rápido está em "Não", dados serão lançados manualmente.</text>
-	<text id="ui_newtooltip_battle_15">Mostrar o objetivo dos Convidados</text>
+	<text id="ui_newtooltip_battle_15">Mostrar o Alvo dos Convidados</text>
 	<text id="ui_newtooltip_battle_16">Mostrar Embates</text>
-	<text id="ui_newtooltip_battle_17">Mostrar o objetivo dos Bibliotecários</text>
+	<text id="ui_newtooltip_battle_17">Mostrar o Alvo dos Bibliotecários</text>
 	<text id="ui_newtooltip_main_1">Checar a informação de {0}.</text>
 	<text id="ui_newtooltip_main_2">Checar a informação de {0}.</text>
 
@@ -435,7 +435,7 @@ Quando o Modo Rápido está em "Não", dados serão lançados manualmente.</text
   <text id="ui_library_abilitycontent_17">Agora pode usar Páginas E.G.O.</text>
   <text id="ui_library_abilitycontent_18">O Nível de Emoção foi aumentado até o nível {0}.</text>
   <text id="ui_popup_creature_bossbattle_start">Você está preparado para ver o episódio final da história do {0}?</text>
-  <text id="ui_getegocard">Página E.G.O. obtida</text>
+  <text id="ui_getegocard">Página E.G.O. Obtida</text>
   <text id="ui_egocard">Página E.G.O.</text>
 
   <text id="ui_newtooltip_battle_18">Coloca Páginas de Combate aleatórias em Dados de Velocidade vazios.
@@ -527,7 +527,7 @@ Deseja sobrescrever con un baralho novo?</text>
   <!--20201027-->
  <text id="ui_bookfilter_reinforced">Páginas com Cartas</text>
 
-  <text id="ui_invitation_availableunitnumber">Unidades disponíveis:</text>
+  <text id="ui_invitation_availableunitnumber">Unidades Disponíveis:</text>
   <text id="ui_invitation_enemyfloornumber">Número de Atos:</text>
 
   <!--20201103-->
@@ -550,9 +550,9 @@ Deseja sobrescrever con un baralho novo?</text>
   <text id="ui_resultemotionlevelrewardtitle">Nível de Emoção bonus</text>
   <text id ="ui_resultgetbookincreasepertitle">{0} Incremento de ratio</text>
   <!--20201113-->
-  <text id="ui_selectgendertype">Tipo de corpo</text>
+  <text id="ui_selectgendertype">Tipo de Corpo</text>
   <!--20201113-->
-  <text id="ui_resultemptygift">Acessórios de batalha não obtidos</text>
+  <text id="ui_resultemptygift">Acessórios de Batalha Não Obtidos</text>
   <!--20201116-->
   <text id="ui_genderappearance_a">Opção A</text>
   <text id="ui_genderappearance_b">Opção B</text>
@@ -613,9 +613,9 @@ Deseja sobrescrever con un baralho novo?</text>
 
   <!--<20210202UI-->
   <text id="ui_controller_controlscroll">Use a roda do mouse para deslizar sobre a lista.</text>
-  <text id="ui_controller_scrolltotop">Deslizar até o topo</text>
+  <text id="ui_controller_scrolltotop">Deslizar até o Topo</text>
 
-  <text id="ui_controller_story_playvoice">Reproduzir voz</text>
+  <text id="ui_controller_story_playvoice">Reproduzir Voz</text>
 
   <text id="ui_controller_zoominout">Zoom In/Out</text>
   <text id="ui_controller_zoomreset">Resetar Zoom</text>
@@ -681,7 +681,7 @@ Tem certeza que deseja se render?</text>
   <text id ="ui_alarm_rewardtwistedblue">Adquiriu as recompensas do Silêncio Preto e da Assembléia da Reverberação.</text>
 
 
-  <text id="ui_battle_switchtarget">Selecionar alvo do embate</text>
+  <text id="ui_battle_switchtarget">Selecionar Alvo do Embate</text>
   
   
   <!--20210318 선택지 텍스트-->
@@ -737,7 +737,7 @@ Tem certeza de que quer fazer isso?</text>
   <text id="ui_controller_startbattle">Começar Combate</text>
   <text id="ui_controller_upperui">Região Superior</text>
   <text id="ui_controller_selectbattlepage">Selecionar Página de Combate</text>
-  <text id="ui_controller_selecttarget">Selecionar Objetivo</text>
+  <text id="ui_controller_selecttarget">Selecionar Alvo</text>
   <text id="ui_controller_cancelbattlepage">Desselecionar Página de Combate</text>
   <text id="ui_controller_unitdetail">Detalhes</text>
 

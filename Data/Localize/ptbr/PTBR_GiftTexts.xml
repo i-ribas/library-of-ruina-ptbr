@@ -1148,10 +1148,10 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de la NocheBlanca {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality46">
-    <Desc>Mientras poseas las páginas de Anormalidad de Banheira de Sangue, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de Banho de Sangue, 5% Probabilidad de incrementar el daño de aturdimiento en +1</Desc>
     <Prefix>Baño</Prefix>
     <Postfix>empapado de sangre</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Banheira de Sangue {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Banho de Sangue {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality47">
     <Desc>Mientras poseas las páginas de Anormalidad del Coração da Aspiração, 5% Probabilidad de incrementar el daño en +1</Desc>

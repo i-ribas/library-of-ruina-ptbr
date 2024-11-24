@@ -7,7 +7,7 @@
       <Behaviour ID="0">[Al golpear] Inflige 3 de Parálisis</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="900102">
-      <LocalizedName>Maão Pálidas</LocalizedName>
+      <LocalizedName>Mãos Pálidas</LocalizedName>
       <Ability>Si todos los ataques aciertan aturde al enemigo</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="900103">
@@ -273,18 +273,18 @@
     </BattleCardDesc>
     <BattleCardDesc ID="901705">
       <LocalizedName>Espada que Perfura o Coração</LocalizedName>
-      <Ability>Si esto falla en hacer daño al objetivo, la Espada atravesará a Dama do Desespero, haciendole daño a ella</Ability>
+      <Ability>Si esto falla en hacer daño al objetivo, la Espada atravesará a Cavalheira do Desespero, haciendole daño a ella</Ability>
       <Behaviour ID="0">Este dado hace daño igual a (Dado x 2)% del HP máximo (Ignora resistencias)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901706">
       <LocalizedName>Espada que Rasga o Coração</LocalizedName>
-      <Ability>Si esto falla en hacer daño al objetivo, la Espada atravesará a Dama do Desespero, haciendole daño a ella</Ability>
+      <Ability>Si esto falla en hacer daño al objetivo, la Espada atravesará a Cavalheira do Desespero, haciendole daño a ella</Ability>
       <Behaviour ID="0">Este dado hace daño igual a (Dado x 2)% del HP máximo (Ignora resistencias)</Behaviour>
       <Behaviour ID="1">Este dado hace daño igual a (Dado x 2)% del HP máximo (Ignora resistencias)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901707">
       <LocalizedName>Espada que Quebra o Coração</LocalizedName>
-      <Ability>Si esto falla en hacer daño al objetivo, la Espada atravesará a Dama do Desespero, haciendole daño a ella</Ability>
+      <Ability>Si esto falla en hacer daño al objetivo, la Espada atravesará a Cavalheira do Desespero, haciendole daño a ella</Ability>
       <Behaviour ID="0">Este dado hace daño igual a (Dado x 2)% del HP máximo (Ignora resistencias)</Behaviour>
       <Behaviour ID="1">Este dado hace daño igual a (Dado x 2)% del HP máximo (Ignora resistencias)</Behaviour>
       <Behaviour ID="2">Este dado hace daño igual a (Dado x 2)% del HP máximo (Ignora resistencias)</Behaviour>
@@ -629,7 +629,7 @@
     </BattleCardDesc>
 
     <BattleCardDesc ID="902601">
-      <LocalizedName>Florecer</LocalizedName>
+      <LocalizedName>Floração Plena</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige 1 de Aroma la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 1 de Aroma la siguiente escena</Behaviour>
@@ -822,7 +822,7 @@
     </BattleCardDesc>
 
     <BattleCardDesc ID="970321">
-      <LocalizedName>Vamos Juntos…</LocalizedName>
+      <LocalizedName>Vamos, Juntos…</LocalizedName>
       <Ability>[Al usar] Aplica 'Camino de ladrillos amarillo' a dos bibliotecarios la siguiente escena</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="970322">
@@ -831,7 +831,7 @@
       <Behaviour ID="0">[Al golpear] Aturde al objetivo. Se pierde la Batalla si el ataque golpea la 'Casa'</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="970323">
-      <LocalizedName>Sua… Maga Malvada!</LocalizedName>
+      <LocalizedName>Sua… Bruxa Malvada!</LocalizedName>
       <Ability>Si cualquier bibliotecario es golpeado, la 'Casa' se genera la siguiente escena. De lo contrario, el usuario está aturdido la siguiente escena y la 'Casa' se genera la siguiente escena.</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="970324">

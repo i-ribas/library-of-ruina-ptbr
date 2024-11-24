@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <CharactersNameRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name ID="9100101">Banheira de Sangue</Name>
+  <Name ID="9100101">Banho de Sangue</Name>
   <Name ID="9100201">Coração da Aspiração</Name>
   <Name ID="9100202">Pulmões de Desejo</Name>
   <Name ID="9010101">Garota Queimada</Name>
@@ -30,8 +30,8 @@
 
   <Name ID="9050101">A Rainha do Ódio</Name>
 
-  <Name ID="9050201">Dama do Desespero</Name>
-  <Name ID="9050202">Espada de uma Dama Esquecida</Name>
+  <Name ID="9050201">Cavalheira do Desespero</Name>
+  <Name ID="9050202">Espada de uma Cavalheira Esquecida</Name>
 
   <Name ID="9010401">Abelha Rainha</Name>
   <Name ID="9010402">Abelha-Operária</Name>
@@ -40,7 +40,7 @@
   <Name ID="9010511">Chama do Quarto Fósforo</Name>
   <Name ID="9010512">Chama do Último Fósforo</Name>
   <Name ID="9010521">O Esquecido</Name>
-  <Name ID="9010531">Aleteo</Name>
+  <Name ID="9010531">Bater de Asas</Name>
   <Name ID="9010532">Multidão de Fadas</Name>
   <Name ID="9010541">Avispón</Name>
   <Name ID="9010542">Abelha-Operária</Name>
@@ -54,7 +54,7 @@
   <Name ID="9070101">Espantalho em Busca de Sabedoria</Name>
 
   <Name ID="9070201">Lenhador de Coração Caloroso</Name>
-  <Name ID="9070202">Árbol</Name>
+  <Name ID="9070202">Árvore</Name>
 
   <Name ID="9020401">O Funeral das Borboletas Mortas</Name>
   <Name ID="9020402">Caleidoscópio de Borboletas</Name>
@@ -74,7 +74,7 @@
 <!--                        -->
 
   <Name ID="9060201">Um Lobo</Name>
-  <Name ID="9060202">Lobo Grande que Será do Mau</Name>
+  <Name ID="9060202">Lobo Grande que Será Mau</Name>
 
   <Name ID="9050301">Âmbar Áureo</Name>
   <Name ID="9050302">Garota Mágica</Name>

@@ -242,7 +242,7 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
     </BattleEffectText>
     <BattleEffectText ID="FairyMeat">
       <Name>Carne Fresca</Name>
-      <Desc>'Aleteo' gana +2 de Poder contra este personaje y recupera 10 de HP al golpear.</Desc>
+      <Desc>'Bater de Asas' gana +2 de Poder contra este personaje y recupera 10 de HP al golpear.</Desc>
     </BattleEffectText>
 
     <!--
