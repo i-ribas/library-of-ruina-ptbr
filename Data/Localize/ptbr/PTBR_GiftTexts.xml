@@ -1160,10 +1160,10 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O del Coração da Aspiração {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality48">
-    <Desc>Mientras poseas las páginas de Anormalidad de Pinocho, 5% Probabilidad de incrementar el daño en +1</Desc>
-    <Prefix>Pinocho</Prefix>
+    <Desc>Mientras poseas las páginas de Anormalidad de Pinóquio, 5% Probabilidad de incrementar el daño en +1</Desc>
+    <Prefix>Pinóquio</Prefix>
     <Postfix>nariz larga</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Pinocho {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Pinóquio {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality49">
     <Desc>Mientras poseas las páginas de Anormalidad de A Rainha da Neve, 4% Probabilidad de incrementar el Poder de los dados Defensivos en +1</Desc>
@@ -1172,9 +1172,9 @@
     <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de A Rainha da Neve {0} veces.</AcquireCondition>
   </GiftText>
   <GiftText ID="Abnormality50">
-    <Desc>Mientras poseas las páginas de Anormalidad de Chica silenciosa, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
+    <Desc>Mientras poseas las páginas de Anormalidad de Garota Silênciosa, 4% Probabilidad de incrementar el Poder de dados ofensivos en +1</Desc>
     <Prefix>Chica sin</Prefix>
     <Postfix>palabras</Postfix>
-    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Chica silenciosa {0} veces.</AcquireCondition>
+    <AcquireCondition>Usa las páginas de Anormalidad o E.G.O de Garota Silênciosa {0} veces.</AcquireCondition>
   </GiftText>
 </GiftTextRoot>

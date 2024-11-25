@@ -31,11 +31,11 @@
   </PassiveDesc>
   <PassiveDesc ID="1003016">
     <Name>¿Por qué es malo?</Name>
-    <Desc>Después que la mentira ha sido descubierta, todos los Pinochos ganan 2 de Endeble y Desarmar la siguiente escena y todas las resistencias al daño de aturdimiento cambian a "Débil".</Desc>
+    <Desc>Después que la mentira ha sido descubierta, todos los Pinóquios ganan 2 de Endeble y Desarmar la siguiente escena y todas las resistencias al daño de aturdimiento cambian a "Débil".</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003018">
     <Name>Lalala~</Name>
-    <Desc>Si la mentira no ha sido descubierta, todos los Pinochos ganan 4 de Fuerza y Dureza la siguiente escena.</Desc>
+    <Desc>Si la mentira no ha sido descubierta, todos los Pinóquios ganan 4 de Fuerza y Dureza la siguiente escena.</Desc>
   </PassiveDesc>
   <!-- 피노키오 : 호기심쟁이 -->
   <PassiveDesc ID="1003021">
@@ -53,7 +53,7 @@
   </PassiveDesc>
   <PassiveDesc ID="1003033">
     <Name>Una Canción para Todos</Name>
-    <Desc>Mientra este personaje está vivo, todos los Pinochos ganan 2 de Fuerza o 2 de Dureza al comienzo de cada escena.</Desc>
+    <Desc>Mientra este personaje está vivo, todos los Pinóquios ganan 2 de Fuerza o 2 de Dureza al comienzo de cada escena.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="101011">

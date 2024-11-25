@@ -1011,7 +1011,7 @@ Gana 4 de Fuerza, Dureza, Prisa y Protección cada escena hasta que mueras. Toda
     </AbnormalityCard>
     
     <AbnormalityCard ID="Pinocchio_Learn">
-      <Abnormality>Pinocho</Abnormality>
+      <Abnormality>Pinóquio</Abnormality>
       <CardName>Aprendiendo</CardName>
       <AbilityDesc>[Solo un aliado]
 Añade una página de 'Aprender' a la mano: ‘Coste 2 - [Al comenzar un choque] Replaza todos los dados con los de la página del oponente’.
@@ -1027,7 +1027,7 @@ Esta página es también incluida en el mazo al comienzo de los siguientes actos
     </AbnormalityCard>
     
     <AbnormalityCard ID="Pinocchio_Lie">
-      <Abnormality>Pinocho</Abnormality>
+      <Abnormality>Pinóquio</Abnormality>
       <CardName>Mentiras</CardName>
       <AbilityDesc>[Solo un aliado]
 Al comienzo de una escena, el coste de todas las páginas que originalmente cuestan menos de 4 se vuelve aleatorio.</AbilityDesc>
@@ -1042,7 +1042,7 @@ Al comienzo de una escena, el coste de todas las páginas que originalmente cues
     </AbnormalityCard>
     
     <AbnormalityCard ID="Pinocchio_Curious">
-      <Abnormality>Pinocho</Abnormality>
+      <Abnormality>Pinóquio</Abnormality>
       <CardName>Curiosidad</CardName>
       <AbilityDesc>[Solo un aliado]
 Al comienzo de una escena, baraja todas tus páginas en el mazo y roba 4 páginas.</AbilityDesc>
@@ -1105,7 +1105,7 @@ La siguiente escena, todos los enemigos reciben 6 de Atadura.</AbilityDesc>
     </AbnormalityCard>
     
      <AbnormalityCard ID="QuietKid_Hammer">
-      <Abnormality>Chica silenciosa</Abnormality>
+      <Abnormality>Garota Silênciosa</Abnormality>
       <CardName>Martillo y clavo</CardName>
       <AbilityDesc>[Solo un aliado]
 Cuando realices un ataque perforante, inflige 1 de 'Clavo' al objetivo.
@@ -1120,7 +1120,7 @@ Si un personaje con 'Clavos' es golpeado por un ataque Condundente, ellos recibe
     </AbnormalityCard>
     
     <AbnormalityCard ID="QuietKid_Eyeshine">
-      <Abnormality>Chica silenciosa</Abnormality>
+      <Abnormality>Garota Silênciosa</Abnormality>
       <CardName>Leer</CardName>
       <AbilityDesc>[Solo un aliado]
 Haz y recibe el doble de daño físico.</AbilityDesc>
@@ -1134,7 +1134,7 @@ Haz y recibe el doble de daño físico.</AbilityDesc>
     </AbnormalityCard>
     
     <AbnormalityCard ID="QuietKid_Guilty">
-      <Abnormality>Chica silenciosa</Abnormality>
+      <Abnormality>Garota Silênciosa</Abnormality>
       <CardName>Culpa</CardName>
       <AbilityDesc>[Solo un aliado]
 Reduce el daño de aturdimiento en 1-3.

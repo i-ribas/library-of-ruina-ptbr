@@ -2172,7 +2172,7 @@ Después de utilizar las 9 páginas E.G.O., una página especial es añadida a l
   </BattleCardAbility>
   <BattleCardAbility ID="final_remove_error">
     <Desc>El dado en esta página y la página la que se enfrenta no son afectados por el Poder ganado o perdido</Desc>
-    <Desc>[Al golpear] Si Pinocho es el objetivo, matalo, entonces recupera todo el HP y resistencia al aturdimiento de todos los aliados al final de la escena</Desc>
+    <Desc>[Al golpear] Si Pinóquio es el objetivo, matalo, entonces recupera todo el HP y resistencia al aturdimiento de todos los aliados al final de la escena</Desc>
     <Desc>y gana 2 de Fuerza la escena siguiente</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="final_exhaust_target_card">
