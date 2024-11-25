@@ -2230,7 +2230,7 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
       <Behaviour ID="2">[Al golpear] El coste de una página en la mano del usuario que Cueste 2 o menos Sube en 1</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9910513">
-      <LocalizedName>Cravado</LocalizedName>
+      <LocalizedName>Cravar</LocalizedName>
       <Ability>El coste baja en 1 después de perder un choque contra una página con mayor coste (Una vez por página)</Ability>
       <Behaviour ID="0">[Al golpear] Inflige 2 de 'Clavos' la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 2 de 'Clavos' la siguiente escena</Behaviour>

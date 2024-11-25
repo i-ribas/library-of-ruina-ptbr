@@ -175,11 +175,11 @@
 	<text id="ui_option_low_texture">Baixo</text>
 	<text id="ui_option_fullscreenmode">Tela Cheia</text>
 	<text id="ui_option_windowmode">Modo Janela</text>
-	<text id="ui_option_Initializestoreddata">Resetar Configuração de Som</text>
+	<text id="ui_option_Initializestoreddata">Resetar Configurações de Som</text>
 	<text id="ui_option_apply">Confirmar e Sair</text>
 	<text id="ui_title_newgame">Novo Jogo</text>
 	<text id="ui_title_continue">Continuar</text>
-	<text id="ui_title_setting">Configuração</text>
+	<text id="ui_title_setting">Configurações</text>
 	<text id="ui_title_exit">Sair</text>
 	<text id="tooltip_tooltipPanel" xsi:nil="true"/>
 	<text id="ui_subtitle_none" xsi:nil="true"/>
@@ -247,7 +247,7 @@
 	<text id="ui_library_abilitycontent_16">1 Bibliotecário Chefe e {0} Assistente/s de bibliotecário foram despertados.</text>
 	<text id="ui_escpanel_continue">Continuar Jogo</text>
 	<text id="ui_escpanel_manual">Manual</text>
-	<text id="ui_escpanel_option">Configuração</text>
+	<text id="ui_escpanel_option">Configurações</text>
 	<text id="ui_escpanel_returntitle">Voltar ao Menu Principal</text>
 	<text id="ui_escpanel_exit">Sair do Jogo</text>
 	<text id="ui_option_resetSound">Resetar Volume</text>
