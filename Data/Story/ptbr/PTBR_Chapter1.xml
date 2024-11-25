@@ -5,6 +5,8 @@
   </Chapter>
   <Group>
     <GroupName>Prologue</GroupName>
+<!-- Prologo -->
+  <!-- EP1 -->
     <Episode>
       <EpisodeName>Episodio 1</EpisodeName>
       <Place>
@@ -199,6 +201,7 @@
     </Episode>
     <Episode>
       <EpisodeName>Episodio 2</EpisodeName>
+  <!-- EP2 -->    
       <Place>
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="앤젤라">
@@ -421,6 +424,7 @@
     </Episode>
     <Episode>
       <EpisodeName>Episodio 3</EpisodeName>
+  <!-- EP3 -->    
       <Place>
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="롤랑">
@@ -643,6 +647,7 @@
     </Episode>
     <Episode>
       <EpisodeName>Episodio 4</EpisodeName>
+  <!-- EP4 -->    
       <Place>
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="롤랑">
@@ -680,8 +685,10 @@
   </Group>
   <Group>
     <GroupName>Rats</GroupName>
+<!-- Convite dos Ratos -->    
     <Episode>
       <EpisodeName>Episodio 1</EpisodeName>
+  <!-- EP1 -->    
       <Place>
         <PlaceName>Localización: Algún lugar en las Callejuelas</PlaceName>
         <Dialog ID="0" Model="피트">
@@ -1225,6 +1232,7 @@
     </Episode>
     <Episode>
       <EpisodeName>Episodio 1 - Conclusion</EpisodeName>
+  <!-- EP1 Conclusão -->    
       <Place>
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="앤젤라">
@@ -1244,8 +1252,10 @@
   </Group>
   <Group>
     <GroupName>Hermandad de Hierro</GroupName>
+<!-- Irmandade de Ferro -->    
     <Episode>
       <EpisodeName>Episodio 1</EpisodeName>
+  <!-- EP1 -->    
       <Place>
         <PlaceName>Localización: Algún lugar en las Callejuelas</PlaceName>
         <Dialog ID="0" Model="모">
@@ -1582,6 +1592,7 @@
     </Episode>
     <Episode>
       <EpisodeName>Episodio 1 - Conclusion</EpisodeName>
+  <!-- EP1 Conclusão -->    
       <Place>
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="롤랑">
@@ -1667,8 +1678,10 @@
   </Group>
   <Group>
     <GroupName>Oficina de Yun</GroupName>
+<!-- Yun Office -->    
     <Episode>
       <EpisodeName>Episodio 1</EpisodeName>
+  <!-- EP1 -->    
       <Place>
         <PlaceName>Localización: Algún lugar en las Callejuelas</PlaceName>
         <Dialog ID="0" Model="해결사1">
@@ -1810,6 +1823,7 @@
     </Episode>
     <Episode>
       <EpisodeName>Episodio 2</EpisodeName>
+  <!-- EP2 -->    
       <Place>
         <PlaceName>Localización: Oficina de Yun</PlaceName>
         <Dialog ID="0" Model="핀">
@@ -2062,6 +2076,7 @@
     </Episode>
     <Episode>
       <EpisodeName>Episodio 2 - Conclusion</EpisodeName>
+  <!-- EP2 Conclusão -->    
       <Place>
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="롤랑">
@@ -2110,6 +2125,7 @@
     </Episode>
     <Episode>
       <EpisodeName>Episodio 3</EpisodeName>
+  <!-- EP3 -->    
       <Place>
         <PlaceName>Localización: Oficina de Yun</PlaceName>
         <Dialog ID="0" Model="윤">
@@ -2323,6 +2339,7 @@
     </Episode>
     <Episode>
       <EpisodeName>Episodio 3 - Conclusion</EpisodeName>
+  <!-- EP3 Conclusão -->    
       <Place>
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="앤젤라">
@@ -2378,8 +2395,10 @@
   </Group>
   <Group>
     <GroupName>Hook Office</GroupName>
+<!-- Hook Office -->    
     <Episode>
       <EpisodeName>Episodio 1</EpisodeName>
+  <!-- EP1 -->    
       <Place>
         <PlaceName>Localización: Algún lugar en las Callejuelas</PlaceName>
         <Dialog ID="0" Model="맥컬린">
@@ -2685,6 +2704,7 @@
     </Episode>
     <Episode>
       <EpisodeName>Episodio 1 - Conclusion</EpisodeName>
+  <!-- EP1 Conclusão -->    
       <Place>
         <PlaceName>Localización: Dentro de la Biblioteca</PlaceName>
         <Dialog ID="0" Model="앤젤라">
