@@ -1620,7 +1620,7 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
     </BattleCardDesc>
 
     <BattleCardDesc ID="9907621">
-      <LocalizedName>Sabeoria</LocalizedName>
+      <LocalizedName>Sabedoria</LocalizedName>
       <Ability>[Al jugar] Se puede ver a través de la verdadera forma de los demás</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9907622">
@@ -1718,7 +1718,7 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9908212">
-      <LocalizedName>Bater de Asas Veloz</LocalizedName>
+      <LocalizedName>Alisar</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9908213">
       <LocalizedName>Punição!</LocalizedName>
@@ -1804,11 +1804,11 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
       <Behaviour ID="1">[Al ganar un choque] Recupera 7 de HP</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9908514">
-      <LocalizedName>Luz Iluminando o Bosque</LocalizedName>
+      <LocalizedName>Luz Iluminando a Floresta</LocalizedName>
       <Behaviour ID="0">[Al golpear] Inflige 1 de Atadura y Parálisis; si el objetivo es derrotado por esto, vuelve a usarlo en otro objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9908515">
-      <LocalizedName>Vamos Proteger o Bosque Negro</LocalizedName>
+      <LocalizedName>Vamos Proteger a Floresta Negra</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9908516">
       <LocalizedName>Paz Para Todos</LocalizedName>
@@ -1881,12 +1881,12 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
       <Ability>Esta página hace una cantidad de daño fijo</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9909121">
-      <LocalizedName>Tu És Filho Dele</LocalizedName>
-      <!-- John 1:49-->
+      <LocalizedName>Tu És o Filho de Deus</LocalizedName>
+      <!-- João 1:49 -->
     </BattleCardDesc>
     <BattleCardDesc ID="9909122">
       <LocalizedName>Tu És o Rei</LocalizedName>
-      <!-- John 1:49-->
+      <!-- João 1:49 -->
     </BattleCardDesc>
     <BattleCardDesc ID="9909123">
       <LocalizedName>Queres Que Digamos Que Desça Fogo do Céu?</LocalizedName>
@@ -2029,7 +2029,7 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
       <LocalizedName>???</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9910021">
-      <LocalizedName>O Eu que Conheço</LocalizedName>
+      <LocalizedName>O Eu que Conheçe</LocalizedName>
     </BattleCardDesc>
 
     <!-- 피의 욕조 -->
@@ -2047,11 +2047,11 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
       <Ability>Si todos los ataques aciertan Aturde al enemigo</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9910110">
-      <LocalizedName>Mão Pálidas</LocalizedName>
+      <LocalizedName>Mãos Pálidas</LocalizedName>
       <Ability>Si todos los ataques aciertan Aturde al enemigo</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9910111">
-      <LocalizedName>Mão Pálidas</LocalizedName>
+      <LocalizedName>Mãos Pálidas</LocalizedName>
       <Ability>Si todos los ataques aciertan Aturde al enemigo</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9910104">
@@ -2126,7 +2126,7 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9910303">
-      <LocalizedName>Eliminar Error</LocalizedName>
+      <LocalizedName>Eliminar Erro</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <!-- 눈의 여왕 -->
@@ -2217,7 +2217,7 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
 
     <!-- 아무 말 없는 소녀 : 못 손 -->
     <BattleCardDesc ID="9910511">
-      <LocalizedName>Prego Firme </LocalizedName>
+      <LocalizedName>Prego Robusto</LocalizedName>
       <Ability>El coste baja en 1 después de perder un choque contra una página con mayor coste (Una vez por página)</Ability>
       <Behaviour ID="1">[Al golpear] Inflige 2 de 'Clavos' la siguiente escena; El coste de una página en la mano del usuario sube en 1</Behaviour>
       <Behaviour ID="2">[Al golpear] Inflige 1 de 'Clavo' la siguiente escena</Behaviour>
@@ -2230,13 +2230,13 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
       <Behaviour ID="2">[Al golpear] El coste de una página en la mano del usuario que Cueste 2 o menos Sube en 1</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9910513">
-      <LocalizedName>Pregado</LocalizedName>
+      <LocalizedName>Cravado</LocalizedName>
       <Ability>El coste baja en 1 después de perder un choque contra una página con mayor coste (Una vez por página)</Ability>
       <Behaviour ID="0">[Al golpear] Inflige 2 de 'Clavos' la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 2 de 'Clavos' la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9910514">
-      <LocalizedName>Afundando Pregos</LocalizedName>
+      <LocalizedName>Prego Encravado</LocalizedName>
       <Ability>El coste baja en 1 después de perder un choque contra una página con mayor coste (Una vez por página)</Ability>
       <Behaviour ID="0">[Al golpear] Inflige 1 de 'Clavo' la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 1 de 'Clavo' la siguiente escena</Behaviour>

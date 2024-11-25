@@ -152,7 +152,7 @@
       <Behaviour ID="1">[Al golpear] Añade una copia de 'Placer' a la mano del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901202">
-      <LocalizedName>Agora É Hora de Minha Cabeça Estourar.</LocalizedName>
+      <LocalizedName>Hora de Minha Cabeça Estourar</LocalizedName>
       <Ability />
       <Behaviour ID="0">[Al golpear] Añade dos copias de 'Placer' a la mano del objetivo</Behaviour>
       <Behaviour ID="1">[Al golpear] Añade una copia de 'Placer' a la mano del objetivo</Behaviour>
