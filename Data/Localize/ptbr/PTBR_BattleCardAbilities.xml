@@ -1627,7 +1627,7 @@
 
   <!-- black silence -->
   <BattleCardAbility ID="blackSilenceSpecial">
-    <Desc>Esta página solo puede ser usada después de utilizar las 9 páginas de combate de el Silencio Negro</Desc>
+    <Desc>Esta página apenas pode ser usada após usar as 9 Páginas de Combate do Silêncio Preto</Desc>
     <Desc>[Al golpear] Inflige 5 de Sangrado, 3 de Atadura y 3 de Frágil la siguiente escena</Desc>
   </BattleCardAbility>
   <BattleCardAbility ID="blackSilenceSpecialDice">
@@ -1700,7 +1700,7 @@
   <!-- roland added2 -->
 
   <BattleCardAbility ID="rolandSpecialRemake">
-    <Desc>Esta página solo puede ser usada después de utilizar las 9 páginas de combate de el Silencio Negro; [Poder Nulo]</Desc>
+    <Desc>Esta página solo puede ser usada después de utilizar las 9 páginas de combate de O Silêncio Preto; [Poder Nulo]</Desc>
   </BattleCardAbility> 
   
   

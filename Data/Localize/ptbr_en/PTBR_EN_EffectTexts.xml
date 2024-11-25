@@ -1221,10 +1221,10 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
 
     <BattleEffectText ID="BlackSilenceSpecial">
       <Name>Furioso</Name>
-      <Desc>Número de páginas de combate utilizadas por el Silencio Negro: {0}</Desc>
+      <Desc>Número de páginas de combate utilizadas por O Silêncio Preto: {0}</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackSilenceCardCount">
-      <Name>El Silencio Negro</Name>
+      <Name>O Silêncio Preto</Name>
       <Desc>Cuando la cantidad de este estado es 2, todos los dados en la próxima página de combate ganarán +2 de Poder.</Desc>
     </BattleEffectText>
 

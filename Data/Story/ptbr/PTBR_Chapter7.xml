@@ -1342,7 +1342,7 @@
           <Teller>Olivier</Teller>
           <Title>Fixer de Hana S. Sección 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_16</VoiceFile>
-          <Content>... Toma. Son los guantes del Silencio Negro. Digamos que ahora estamos a mano.</Content>
+          <Content>... Toma. Son los guantes do Silêncio Preto. Digamos que ahora estamos a mano.</Content>
         </Dialog>
         <Dialog ID="32" Model="롤랑">
           <Teller>Roland</Teller>
@@ -1390,7 +1390,7 @@
           <Teller>Olivier</Teller>
           <Title>Fixer de Hana S. Sección 3</Title>
           <VoiceFile>ch7_Hana_ep2_Olivier_22</VoiceFile>
-          <Content>No mucho después de eso... escuché de una persona que parecía ser el Silencio Negro estaba enloquecida por toda la Ciudad.</Content>
+          <Content>No mucho después de eso... escuché de una persona que parecía ser O Silêncio Preto estaba enloquecida por toda la Ciudad.</Content>
         </Dialog>
         <Dialog ID="40" Model="올리비에">
           <Teller>Olivier</Teller>
@@ -1600,7 +1600,7 @@
           <Teller>Angela</Teller>
           <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch7_Hana_ep2_Angela_7</VoiceFile>
-          <Content>Así que eras el Silencio Negro y no solo cualquier Fixer de Grado 1. Conseguiste esconderlo de mí por tanto tiempo.</Content>
+          <Content>Así que eras O Silêncio Preto y no solo cualquier Fixer de Grado 1. Conseguiste esconderlo de mí por tanto tiempo.</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑_2">
           <Teller>Roland</Teller>

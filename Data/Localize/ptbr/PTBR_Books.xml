@@ -1425,7 +1425,7 @@ Si me preguntas, la Ciudad tal y como existe con sus Estrellas… podría ser la
     </BookDesc>
 	
     <BookDesc BookID="102">
-      <BookName>Página de El Silencio Negro</BookName>
+      <BookName>Página de O Silêncio Preto</BookName>
       <TextList>
         <Desc></Desc>
       </TextList>
@@ -1637,7 +1637,7 @@ La gente entretiene a las esperanzas como les plazca, y entonces se muerden entr
     
 <!--검은침묵 책장-->
     <BookDesc BookID="270001">
-      <BookName>Página de El Silencio Negro</BookName>
+      <BookName>Página de O Silêncio Preto</BookName>
       <TextList>
         <Desc></Desc>
       </TextList>
@@ -1672,7 +1672,7 @@ La gente entretiene a las esperanzas como les plazca, y entonces se muerden entr
     </BookDesc>
 
     <BookDesc BookID="270301">
-      <BookName>Página de El Silencio Negro</BookName>
+      <BookName>Página de O Silêncio Preto</BookName>
       <TextList>
         <Desc></Desc>
       </TextList>

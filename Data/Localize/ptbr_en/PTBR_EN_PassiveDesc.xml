@@ -1176,7 +1176,7 @@ El personaje se transformará de vuelta en un bibliotecario si no hay aliados Si
     <Desc>Tiene página clave y páginas de combate únicas que no pueden ser cambiadas ni remplazadas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10013">
-    <Name>El Silencio Negro</Name>
+    <Name>O Silêncio Preto</Name>
     <Desc>Roba 2 páginas adicionales al comienzo del acto. Todos los dados en cada tercer página de combate usada ganan +2 de Poder.</Desc>
   </PassiveDesc>
 
@@ -1262,7 +1262,7 @@ Si el personaje cumple las condiciones puestas en el Contrato sin firmar de sus 
     <Desc>Recupera 5 de resistencia al aturdimiento al golpear; pierde 8 de resistencia al aturdimiento al perder un Enfremiento.</Desc> <!-- Leave the "unimplemented" text in for now, they plan to choose one of the two after testing. -->
   </PassiveDesc>
   <PassiveDesc ID="170004">
-    <Name>El Silencio Negro</Name>
+    <Name>O Silêncio Preto</Name>
     <Desc>Todos los dados en la página seleccionada en el tercer dado de velocidad ganan +2 de Poder.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170005">
