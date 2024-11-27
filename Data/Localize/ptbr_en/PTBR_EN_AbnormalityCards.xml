@@ -5,13 +5,13 @@
       <Abnormality>Garota Queimada</Abnormality>
       <CardName>Passos</CardName>
       <AbilityDesc>[Todos os Aliados]
-      Quando o HP de um bibliotecário está em 20% ou menos, cause 30% do HP máximo do alvo em dano (Max. 36) e Inflige 1-3 de Queimadura ao ataca-lo, então morra.   </AbilityDesc>      
-      <FlaborText>Voy por ti. Tú, quien será reducido a cenizas como yo.</FlaborText>
+Quando o HP de um bibliotecário está em 20% ou menos, cause 30% do HP máximo do alvo como dano (Max. 36) e inflige 1-3 de Queimadura ao ataca-lo, e morra.</AbilityDesc>      
+      <FlaborText>Eu vou com você, que vai ser reduzido a cinzas como eu.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Se eu preciso morrer, então junte-se a mim.</Dialogue>
         <Dialogue ID="2">É tão triste morrer sozinho... Você conhece esse sentimento bem, não é?</Dialogue>
-        <Dialogue ID="3">Me espere. Eu vou com você, que vai ser reduzido a cinzas</Dialogue>
-        <Dialogue ID="4">Passo-a-passo... Queimando em um carvão preto como breu.</Dialogue>
+        <Dialogue ID="3">Me espere. Eu vou com você, que vai ser reduzido a cinzas...</Dialogue>
+        <Dialogue ID="4">Passo a passo... Queimando em um carvão preto como breu.</Dialogue>
         <Dialogue ID="5">Tem qualquer coisa que eu possa fazer, eu, uma Garota Queimada-à-Cinzas?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -20,7 +20,7 @@
       <Abnormality>Garota Queimada</Abnormality>
       <CardName>Cinzas</CardName>
       <AbilityDesc>[Aliado Único]
-      Ao ser Golpeado, Inflige 1-3 de Queimadura ao atacante e tem 40% de chance de ganhar um buff na próxima cena: 'Dados Ofensivos Infligem 1 de Queimadura' (Não acumula)
+Ao ser Golpeado, Inflige 1-3 de Queimadura ao atacante e tem 40% de chance de ganhar um buff na próxima Cena: 'Dados ofensivos infligem 1 de Queimadura ao golpear' (Não acumula)
       </AbilityDesc>
       <FlaborText>“O corpo carbonizado representa a esperança desmoronada da criança, enquanto as chamas ardentes representam a obsessão por afeto.”</FlaborText>
       <Dialogues>
@@ -36,13 +36,13 @@
       <Abnormality>Garota Queimada</Abnormality>
       <CardName>Fósforo</CardName>
       <AbilityDesc>[Aliado Único]
-      As duas primeias Páginas de Combate que esse bibliotecário usar após essa página de Anormalidade ser selecionada ganham o status de 'Fósforo'(Exclui páginas [Ao Jogar])
-      Sempre que o bibliotecário usar uma página com 'Fósforo', ganhe 1 'Brasas'
-      Páginas com 'Fósforo' se tornam mais fortes com base na quantidade de 'Brasas'; Mas elas tem 25% de chance de causar dano ao usuário se 'Brasas' está em 4 ou mais.
+As duas primeias Páginas de Combate que esse bibliotecário usar após essa página de Anormalidade ser selecionada ganham o status de 'Fósforo' (Exclui páginas [Ao Jogar])
+Sempre que o bibliotecário usar uma página com 'Fósforo', ganhe 1 'Brasas'
+Páginas com 'Fósforo' se tornam mais fortes com base na quantidade de 'Brasas'; Mas elas tem 25% de chance de causar dano ao usuário se 'Brasas' está em 4 ou mais.
       </AbilityDesc>
       <FlaborText>“Bem, ela é como uma bomba-relógio. Ninguém consegue dizer se ela está de bom humor ou não”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Passo-a-passo... Queimando em um carvão preto como breu.</Dialogue>
+        <Dialogue ID="1">Passo a passo... Queime até virar carvão preto como breu.</Dialogue>
         <Dialogue ID="2">O que vai aparecer quando eu acender o próximo fósforo?</Dialogue>
         <Dialogue ID="3">Você vai me deixar quando a luz do último fósforo se apagar, não vai?</Dialogue>
         <Dialogue ID="4">Essa luz é minha única esperança…</Dialogue>
@@ -54,8 +54,8 @@
       <Abnormality>Ursinho de Pelúcia Feliz</Abnormality>
       <CardName>Abraço Nostálgico do Passado</CardName>
       <AbilityDesc>[Aliado Único]
-      Ao ganhar um Embate, 20% de chance de causar Dano de Atordoamento igual ao valor do dado
-      Embates contra o mesmo alvo múltiplas vezes aumenta a chance 
+Ao ganhar um Embate, 20% de chance de causar Dano de Atordoamento bônus igual ao valor do dado
+Embates contra o mesmo alvo múltiplas vezes aumenta a chance 
       </AbilityDesc>
       <FlaborText>O Ursinho estava abraçando alguém com força. Ursinho ama abraços. Mas algo estava estranho.</FlaborText>
       <Dialogues>
@@ -71,7 +71,7 @@
       <Abnormality>Ursinho de Pelúcia Feliz</Abnormality>
       <CardName>Memórias Felizes</CardName>
       <AbilityDesc>[Aliado Único]
-      A Página de Combate com o Custo mais alto na mão é escolhida (Exclui páginas [Ao Jogar]). Usar páginas com o mesmo nome reduz o Custo de todas as cópias desse bibliotecário em 1.
+A Página de Combate com o Custo mais alto na mão é escolhida (Exclui páginas [Ao Jogar]). Usar páginas com o mesmo nome reduz o Custo de todas as cópias que esse bibliotecário tem por 1.
       </AbilityDesc>
       <FlaborText>Mas, você vê, o Ursinho nunca mais queria se separar de seu dono.</FlaborText>
       <Dialogues>
@@ -79,7 +79,7 @@
         <Dialogue ID="2">Não me deixe. Você vai mudar sua mente quando eu te abraçar mais uma vez.</Dialogue>
         <Dialogue ID="3">É tão triste ter que dizer adeus de novo…</Dialogue>
         <Dialogue ID="4">Por que você tem que me deixar e prometer que nos veremos de novo?</Dialogue>
-        <Dialogue ID="5">Você parou de gostar de mim porquê eu te abracei forte demais?</Dialogue>
+        <Dialogue ID="5">Você parou de gostar de mim porque eu te abracei forte demais?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -87,12 +87,12 @@
       <Abnormality>Ursinho de Pelúcia Feliz</Abnormality>
       <CardName>Demonstração de Afeto</CardName>
       <AbilityDesc>[Aliado Único]
-      Todos os dados ganham 1-2 de Poder em um Embate
-      Todos os dados perdem 1-2 de Poder em um ataque unilateral
+Todos os dados ganham 1-2 de Poder em um Embate.
+Todos os dados perdem 1-2 de Poder em um ataque unilateral.
       </AbilityDesc>
-      <FlaborText>Suas memórias começam com um abraço caloroso.</FlaborText>
+      <FlaborText>Suas memórias começaram com um abraço caloroso.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Estou feliz que você está brincando comigo.</Dialogue>
+        <Dialogue ID="1">Estou tão feliz que você está brincando comigo.</Dialogue>
         <Dialogue ID="2">Você é muito gentil, não é? Vamos fazer de novo, ok?</Dialogue>
         <Dialogue ID="3">Você estava tão ansioso para brincar comigo. Estou tocado...</Dialogue>
         <Dialogue ID="4">Venha aqui e sinta esse sentimento felpudo e caloroso de amor com meu abraço.</Dialogue>
@@ -104,12 +104,12 @@
       <Abnormality>Festival das Fadas</Abnormality>
       <CardName>Cuidado das Fadas</CardName>
       <AbilityDesc>[Aliado Único]
-      Por três Cenas, recupera 15% do HP máximo (Máx. 18) ao final da Cena.
-      Se o bibliotecário for atingido 3 vezes enquanto esse efeito está ativo, perca 25% do HP atual (Máx. 30) e perca esse efeito.</AbilityDesc>
-      <FlaborText>As fadas protegem nossos funcionários. Tudo será pacífico enquanto voc~e estiver sob o cuidado das fadas.</FlaborText>
+Por três Cenas, recupera 15% do HP Máximo (Máx. 18) ao final da Cena.
+Se o bibliotecário for atingido 3 vezes enquanto esse efeito está ativo, perca 25% do HP atual (Máx. 30) e perca esse efeito.</AbilityDesc>
+      <FlaborText>As fadas protegem nossos funcionários. Tudo será pacífico enquanto você estiver sob o cuidado das fadas.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Não se preocupe! Nós cuidaremos bem de você.</Dialogue>
-        <Dialogue ID="2">Não fique alarmado. Nós estamos aqui pra te proteger.</Dialogue>
+        <Dialogue ID="2">Não fique alarmado! Nós estamos aqui pra te proteger.</Dialogue>
         <Dialogue ID="3">Sabe, fadas são seres sagrados. Tenha um pouco de confiança.</Dialogue>
         <Dialogue ID="4">Você é um amante da natureza com um bom coração, você merece nosso cuidado.</Dialogue>
         <Dialogue ID="5">Você é especial, os outros deveriam se olhar no espelho.</Dialogue>
@@ -118,12 +118,12 @@
     
     <AbnormalityCard ID="FairyCarnival_Gluttony">
       <Abnormality>Festival das Fadas</Abnormality>
-      <CardName>Glotonaria</CardName>
+      <CardName>Gula</CardName>
       <AbilityDesc>[Aliado Único]
-      Quanto Atingir um alvo que já tenha recebido dano na Cena, cause +1-3 de dano e recupere 2-5 HP ao golpear</AbilityDesc>
-      <FlaborText>As fadas não eram nada mais do que monstros carnívoros, e sua "proteção" era o metodo delas de manter a carne fresca.</FlaborText>
+Quando atacar um alvo que já tenha recebido dano na mesma Cena, cause +1-3 de dano e recupere 2-5 HP ao golpear.</AbilityDesc>
+      <FlaborText>As fadas não eram nada mais do que monstros carnívoros, e sua "proteção" era o método delas de manter a carne fresca.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">O porquê que ficamos do seu lado? É para te proteger!</Dialogue>
+        <Dialogue ID="1">O porquê que ficamos do seu lado? É claro que é para te proteger!</Dialogue>
         <Dialogue ID="2">Aproveite o cuidado das fadas até não aguentar mais.</Dialogue>
         <Dialogue ID="3">Uma pessoa boa como você não deveria morrer nas mãos de mais ninguém.</Dialogue>
         <Dialogue ID="4">Nós não vamos te machucar, contanto que você não faça nada do mal.</Dialogue>
@@ -135,15 +135,15 @@
       <Abnormality>Festival das Fadas</Abnormality>
       <CardName>Predação</CardName>
       <AbilityDesc>[Aliado Único]
-      Todos os Aliados exceto o bibliotecário escolhido perdem 10 de HP
-      O bibliotecário escolhido recupera a mesma quantidade de HP que os outros perderam para esse efeito e ganha 3 de Poder e 3 de Celeridade</AbilityDesc>
+Todos os Aliados exceto o bibliotecário escolhido perdem 10 de HP.
+O bibliotecário escolhido recupera a mesma quantidade de HP que os outros perderam para esse efeito, e ganha 3 de Poder e 3 de Celeridade essa Cena.</AbilityDesc>
       <FlaborText>Seu estômago e seu rosto foram arrancados, e seus olhos e orgãos foram danificados como se tivessem sido devorados por algo. Enquanto isso, as fadas tinham o sangue e carne de alguém lambuzando em suas bocas.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Minhas fadas estão diminuindo em número... Mas nada pode ser feito.</Dialogue>
-        <Dialogue ID="2">Carne podre e assustada não é gostosa!</Dialogue>
+        <Dialogue ID="1">Minhas fadas estão diminuindo em número... Mas não há nada que se possa fazer.</Dialogue>
+        <Dialogue ID="2">Carne podre e cicatrizada não é gostosa!</Dialogue>
         <Dialogue ID="3">Eu preciso de algo fresco. Carne vencida não é nutritiva.</Dialogue>
-        <Dialogue ID="4">Eu preciso comer antes que vença, hm?</Dialogue>
-        <Dialogue ID="5">Carne podre e assustada não é gostosa.</Dialogue>
+        <Dialogue ID="4">Eu preciso comer antes que estrague, hm?</Dialogue>
+        <Dialogue ID="5">Carne podre e cicatrizada não é gostosa.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -151,12 +151,12 @@
       <Abnormality>Abelha Rainha</Abnormality>
       <CardName>Esporos</CardName>
       <AbilityDesc>[Aliado Único]
-      Ao ser golpeado, inflige 1-3 de Queimadura e 1-3 de Sangramento ao atacante na próxima cena.</AbilityDesc>
+Ao ser golpeado, inflige 1-3 de Queimadura e 1-3 de Sangramento ao atacante na próxima cena.</AbilityDesc>
       <FlaborText>Foi confirmado que os esporos carregam ovos de zangões que eclodem dentro de um hospedeiro vivo.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Se uma operária morre, eu sempre posso fazer mais para substitui-la.</Dialogue>
-        <Dialogue ID="2">Para levar meu reino à grandeza... Eu preciso de mais abelas.</Dialogue>
-        <Dialogue ID="3">Você sabe para onde minhas operárias foram?</Dialogue>
+        <Dialogue ID="1">Mesmo se um zangão morrer, eu sempre posso fazer mais para substituir.</Dialogue>
+        <Dialogue ID="2">Para levar meu reino à grandeza... Eu preciso de mais abelhas.</Dialogue>
+        <Dialogue ID="3">Você sabe para onde meus zangões foram?</Dialogue>
         <Dialogue ID="4">Olhe para o grande céu azul enquanto você pode.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -165,11 +165,11 @@
       <Abnormality>Abelha Rainha</Abnormality>
       <CardName>Abelha-Operária</CardName>
       <AbilityDesc>[Aliado Único]
-      O inimigo que causou mais dano ao biblioteário selecionado é marcado. Outros aliados causam 2-4 a mais de dano ao alvo marcado</AbilityDesc>
-      <FlaborText>Elas mostram apenas dois comportamentos: Entregar nutrientes à rainha, e proliferar.</FlaborText>
+O inimigo que causou mais dano ao biblioteário selecionado é marcado. Outros aliados causam 2-4 a mais de dano ao alvo marcado com seus ataques</AbilityDesc>
+      <FlaborText>Elas mostram apenas dois comportamentos: Entregar nutrientes à Rainha, e proliferar.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Minhas abelhas, é hora de atacar.</Dialogue>
-        <Dialogue ID="2">Suas asas, pernas e mandíbulas... Coloque cada parte do seu corpo para trabalhas. Antes que eles saqueiem nosso mel.</Dialogue>
+        <Dialogue ID="1">Minhas abelhas. É hora de atacar.</Dialogue>
+        <Dialogue ID="2">Suas asas, pernas e mandíbulas... Coloque cada parte do seu corpo para trabalhar. Antes que eles saqueiem nosso mel.</Dialogue>
         <Dialogue ID="3">Sejam rápidos, meus lacaios. Não podemos desperdiçar um minuto.</Dialogue>
         <Dialogue ID="4">Quem vai lembrar das abelhas que morreram pelo reino...</Dialogue>
       </Dialogues>
@@ -179,13 +179,13 @@
       <Abnormality>Abelha Rainha</Abnormality>
       <CardName>Lealdade</CardName>
       <AbilityDesc>[Aliado Único]
-      No começo da cena, todos os aliados ganham Força com base na quantidade de dano que o bibliotecário selecionado recebeu na Cena passada.
-      (1 de Força para cada 5 de dano)</AbilityDesc>
+No começo da cena, todos os aliados ganham Força com base na quantidade de dano que o bibliotecário selecionado recebeu na Cena passada.
+(1 de Força para cada 5 de dano)</AbilityDesc>
       <FlaborText>A lealdade das abelhas é um instinto que se desenvolve naturalmente. Se descobrirmos uma maneira de usar esse instinto, muitas coisas vão mudar.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Se apresse e me dê mais mel.</Dialogue>
         <Dialogue ID="2">Eu sou o reino, e o reino sou eu. Lealdade a mim é lealdade ao reino.</Dialogue>
-        <Dialogue ID="3">Mesmo que suas asas estejam rasgadas, você deveria dar tudo o que tem para servir enquanto suas pernas estiverem funcionando</Dialogue>
+        <Dialogue ID="3">Mesmo que suas asas estejam rasgadas, você deveria dar tudo o que tem para servir enquanto suas pernas estiverem funcionando.</Dialogue>
         <Dialogue ID="4">“Dar a própria vida” é um juramento vazio. O que eu quero de você é que sobreviva e continue a me proteger.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -194,13 +194,13 @@
       <Abnormality>Maçã da Branca de Neve</Abnormality>
       <CardName>Vinhas</CardName>
       <AbilityDesc>[Aliado Único]
-      Pelo resto do Ato, inflige 6 Amarrado no começo de cada Cena.
-      Dados Perfurantes ganham 1-2 de Poder quando atacando esse inimigo </AbilityDesc>
+Pelo resto do Ato, inflige 6 Amarrado em um inimigo aleatório no começo da Cena.
+Dados Perfurantes ganham 1-2 de Poder atacando esse inimigo.</AbilityDesc>
       <FlaborText>Um dia, um galho cresceu dele. As folhas e galhos já estavam secas e definhadas, mas continuaram a crescer.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">A macça ficou sozinha por tanto tempo. Apenas corpos apodrecidos ficaram a seu lado...</Dialogue>
+        <Dialogue ID="1">A maçã ficou sozinha por tanto tempo. Apenas corpos apodrecidos ficaram a seu lado...</Dialogue>
         <Dialogue ID="2">As vinhas estavam secas e definhadas, mas sempre abraçando a maçã.</Dialogue>
-        <Dialogue ID="3">Como eu desejo amarrar os dois pés da pessoa que foi abençoada com minha existência e então foi embora.</Dialogue>
+        <Dialogue ID="3">Como eu desejo amarrar os dois pés da pessoa que foi abençoada com minha existência e logo foi embora.</Dialogue>
         <Dialogue ID="4">Aqueles que morderam a maçã cairam no sono como a princesa o fez, exceto que eles nunca conseguiriam acordar.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -209,12 +209,13 @@
       <Abnormality>Maçã da Branca de Neve</Abnormality>
       <CardName>Barreira de Espinhos</CardName>
       <AbilityDesc>[Aliado Único]
-      Ao ser golpeado, inflige 2-8 de dano e 1-3 de Amarrado ao atacante.
-      Se 3 de Amarrado foi infligido, recupere HP igual a quantidade de dano causado por esse efeito.</AbilityDesc>
-      <FlaborText>A maçã que caiu das mãos da Branca de Neve depois de uma única mordida nunca poderia ser feliz. A maçã, cheia de solidão e ódio pela princesa, esperou pelo dia que iria apodrecer e voltar à terra</FlaborText>
+Ao ser golpeado, inflige 2-8 de dano e 1-3 de Amarrado ao atacante.
+Se 3 de Amarrado foi infligido, recupere HP igual a quantidade de dano causado por esse efeito.</AbilityDesc>
+      <FlaborText>A maçã que caiu das mãos da Branca de Neve depois de uma única mordida nunca poderia ser feliz. 
+      A maçã, cheia de solidão e ódio pela princesa, esperou pelo dia que iria apodrecer e voltar à terra.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Uma maçã bonita, abandonada em um lugar desamparado. Oh, maçã bonita </Dialogue>
-        <Dialogue ID="2">A maçã não poderia retornar à terra, e apenas impuridades apodrecidas estavam ao seu redor.</Dialogue>
+        <Dialogue ID="1">Uma maçã bonita, abandonada em um lugar desamparado. Oh, maçã bonita...</Dialogue>
+        <Dialogue ID="2">A maçã não pode retornar à terra, e apenas impuridades apodrecidas estavam ao seu redor.</Dialogue>
         <Dialogue ID="3">A maçã que foi derrubada no chão de terra não poderia ser feliz.</Dialogue>
         <Dialogue ID="4">Vinhas espinhosas cresceram do coração ferido.</Dialogue>
       </Dialogues>
@@ -224,10 +225,10 @@
       <Abnormality>Maçã da Branca de Neve</Abnormality>
       <CardName>Malícia</CardName>
       <AbilityDesc>[Aliado Único]
-      No começo dessa Cena, todos os inimigos recebem dano inversamente proporcional a quantidade de HP que o bibliotecário tem. (Min. 5, Máx. 30; Menos HP é mais Dano</AbilityDesc>
+No começo dessa Cena, todos os inimigos recebem dano inversamente proporcional a quantidade de HP que o bibliotecário tem. (Mín. 5, Máx. 30; Menos HP é mais Dano)</AbilityDesc>
       <FlaborText>A malícia inerente causa toda a vida à desmoronar quando ela florece.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Minha existência nasceu de raiva e uma maldição, ainda assim eu servi como a bênção de outra pessoa.</Dialogue>
+        <Dialogue ID="1">Minha existência nasceu de raiva e uma maldição, ainda assim eu servi como a bênção para outra pessoa.</Dialogue>
         <Dialogue ID="2">As vinhas sem vida continuam a crescer.</Dialogue>
         <Dialogue ID="3">Ela cresceu, engolindo os pensamentos desesperados de vingança, de raiva a si mesma... E solidão.</Dialogue>
       </Dialogues>
