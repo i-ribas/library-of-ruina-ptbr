@@ -5,7 +5,7 @@
       <Abnormality>Garota Queimada</Abnormality>
       <CardName>Passos</CardName>
       <AbilityDesc>[Todos os Aliados]
-      Quando o HP de um bibliotecário está em 20% ou menos, cause 30% do HP máximo do alvo em dano (Max. 36) e inflinge 1-3 de Queimadura ao ataca-lo, então morra.   </AbilityDesc>      
+      Quando o HP de um bibliotecário está em 20% ou menos, cause 30% do HP máximo do alvo em dano (Max. 36) e Inflige 1-3 de Queimadura ao ataca-lo, então morra.   </AbilityDesc>      
       <FlaborText>Voy por ti. Tú, quien será reducido a cenizas como yo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Se eu preciso morrer, então junte-se a mim.</Dialogue>
@@ -20,7 +20,7 @@
       <Abnormality>Garota Queimada</Abnormality>
       <CardName>Cinzas</CardName>
       <AbilityDesc>[Aliado Único]
-      Ao ser Golpeado, Inflinge 1-3 de Queimadura ao atacante e tem 40% de chance de ganhar um buff na próxima cena: 'Dados Ofensivos inflingem 1 de Queimadura' (Não acumula)
+      Ao ser Golpeado, Inflige 1-3 de Queimadura ao atacante e tem 40% de chance de ganhar um buff na próxima cena: 'Dados Ofensivos Infligem 1 de Queimadura' (Não acumula)
       </AbilityDesc>
       <FlaborText>“O corpo carbonizado representa a esperança desmoronada da criança, enquanto as chamas ardentes representam a obsessão por afeto.”</FlaborText>
       <Dialogues>
@@ -102,62 +102,62 @@
     
     <AbnormalityCard ID="FairyCarnival_Care">
       <Abnormality>Festival das Fadas</Abnormality>
-      <CardName>Cuidado de las hadas</CardName>
+      <CardName>Cuidado das Fadas</CardName>
       <AbilityDesc>[Aliado Único]
-Por tres escenas, recupera 15% del HP máximo (Máx. 18) al final de una escena.
-Si el bibliotecario es golpeado 3 veces mientras este efecto está activo, pierde 25% del HP actual (Máx. 30) y pierde este efecto.</AbilityDesc>
-      <FlaborText>Las Hadas protegen a nuestros empleados. Todo será pacífico mientras estás bajo el cuidado de las hadas.</FlaborText>
+      Por três Cenas, recupera 15% do HP máximo (Máx. 18) ao final da Cena.
+      Se o bibliotecário for atingido 3 vezes enquanto esse efeito está ativo, perca 25% do HP atual (Máx. 30) e perca esse efeito.</AbilityDesc>
+      <FlaborText>As fadas protegem nossos funcionários. Tudo será pacífico enquanto voc~e estiver sob o cuidado das fadas.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¡No te preocupes! Nosotras te cuidaremos.</Dialogue>
-        <Dialogue ID="2">No estés alarmado. Estamos aquí para protegerte.</Dialogue>
-        <Dialogue ID="3">Las Hadas son seres sagrados, ya sabes. Ten algo de confianza.</Dialogue>
-        <Dialogue ID="4">Tú eres un amante de la naturaleza de buen corazón, te mereces nuestro cuidado.</Dialogue>
-        <Dialogue ID="5">Tú eres especial. Los otros deberían verse más en el espejo.</Dialogue>
+        <Dialogue ID="1">Não se preocupe! Nós cuidaremos bem de você.</Dialogue>
+        <Dialogue ID="2">Não fique alarmado. Nós estamos aqui pra te proteger.</Dialogue>
+        <Dialogue ID="3">Sabe, fadas são seres sagrados. Tenha um pouco de confiança.</Dialogue>
+        <Dialogue ID="4">Você é um amante da natureza com um bom coração, você merece nosso cuidado.</Dialogue>
+        <Dialogue ID="5">Você é especial, os outros deveriam se olhar no espelho.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="FairyCarnival_Gluttony">
       <Abnormality>Festival das Fadas</Abnormality>
-      <CardName>Glotonería</CardName>
+      <CardName>Glotonaria</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando ataques a un objetivo que recibió daño la misma escena, haz +1-3 de daño y recupera 2-5 HP al golpear.</AbilityDesc>
-      <FlaborText>Las Hadas no eran más que seres carnívoros y su “Protección” era solo un método para mantener la carne fresca.</FlaborText>
+      Quanto Atingir um alvo que já tenha recebido dano na Cena, cause +1-3 de dano e recupere 2-5 HP ao golpear</AbilityDesc>
+      <FlaborText>As fadas não eram nada mais do que monstros carnívoros, e sua "proteção" era o metodo delas de manter a carne fresca.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¿La razón de que estemos de tu lado? ¡Por supuesto que es para protegerte a ti!</Dialogue>
-        <Dialogue ID="2">Disfruta el cuidado de las hadas hasta que tu corazón este contento.</Dialogue>
-        <Dialogue ID="3">Una buena persona como tú no debería morir a manos de alguien más.</Dialogue>
-        <Dialogue ID="4">No te haremos daño, mientras no hagas nada malvado.</Dialogue>
-        <Dialogue ID="5">¿Estás dudando de nosotras? Ese es un pensamiento muy malvado el que tienes…</Dialogue>
+        <Dialogue ID="1">O porquê que ficamos do seu lado? É para te proteger!</Dialogue>
+        <Dialogue ID="2">Aproveite o cuidado das fadas até não aguentar mais.</Dialogue>
+        <Dialogue ID="3">Uma pessoa boa como você não deveria morrer nas mãos de mais ninguém.</Dialogue>
+        <Dialogue ID="4">Nós não vamos te machucar, contanto que você não faça nada do mal.</Dialogue>
+        <Dialogue ID="5">Você está duvidando de nós? Você tem um pensamento do mal...</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="FairyCarnival_QueenAtk">
       <Abnormality>Festival das Fadas</Abnormality>
-      <CardName>Depredación</CardName>
+      <CardName>Predação</CardName>
       <AbilityDesc>[Aliado Único]
-Todos os Aliados excepto el bibliotecario pierden 10 de HP.
-El bibliotecario recupera tanto HP como los otros perdieron con este efecto y ganas 3 de Fuerza y 3 de Prisa esta escena.</AbilityDesc>
-      <FlaborText>Su estómago y cara fueron arrancados y sus ojos y órganos fueron dañados como si fueran comidos por algo. Mientras tanto, las Hadas tenían sangre y manchas de sangre por toda la boca.</FlaborText>
+      Todos os Aliados exceto o bibliotecário escolhido perdem 10 de HP
+      O bibliotecário escolhido recupera a mesma quantidade de HP que os outros perderam para esse efeito e ganha 3 de Poder e 3 de Celeridade</AbilityDesc>
+      <FlaborText>Seu estômago e seu rosto foram arrancados, e seus olhos e orgãos foram danificados como se tivessem sido devorados por algo. Enquanto isso, as fadas tinham o sangue e carne de alguém lambuzando em suas bocas.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Mis Hadas están disminuyendo en número… Pero no se puede evitar.</Dialogue>
-        <Dialogue ID="2">¡La carne podrida y asustada no es sabrosa!</Dialogue>
-        <Dialogue ID="3">Necesito algo fresco. La carne en mal estado no es nutritiva.</Dialogue>
-        <Dialogue ID="4">Necesito comer antes de que se eche a perder</Dialogue>
-        <Dialogue ID="5">La carne podrida y asustada no es sabrosa.</Dialogue>
+        <Dialogue ID="1">Minhas fadas estão diminuindo em número... Mas nada pode ser feito.</Dialogue>
+        <Dialogue ID="2">Carne podre e assustada não é gostosa!</Dialogue>
+        <Dialogue ID="3">Eu preciso de algo fresco. Carne vencida não é nutritiva.</Dialogue>
+        <Dialogue ID="4">Eu preciso comer antes que vença, hm?</Dialogue>
+        <Dialogue ID="5">Carne podre e assustada não é gostosa.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="QueenBee_Funga">
       <Abnormality>Abelha Rainha</Abnormality>
-      <CardName>Esporas</CardName>
+      <CardName>Esporos</CardName>
       <AbilityDesc>[Aliado Único]
-Al ser golpeado, inflige 1-3 de Quemadura y 1-3 de Sangrado al atacante la siguiente escena.</AbilityDesc>
-      <FlaborText>Ha sido confirmado que las Esporas llevan huevos que se abren dentro de su huésped.</FlaborText>
+      Ao ser golpeado, inflige 1-3 de Queimadura e 1-3 de Sangramento ao atacante na próxima cena.</AbilityDesc>
+      <FlaborText>Foi confirmado que os esporos carregam ovos de zangões que eclodem dentro de um hospedeiro vivo.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Incluso si una obrera muere, Siempre puedo hacer más para llenar su lugar.</Dialogue>
-        <Dialogue ID="2">Para llevar a mi reino a lo más grande… Necesito más abejas…</Dialogue>
-        <Dialogue ID="3">¿Sabes dónde se han ido todas mis abejas?</Dialogue>
-        <Dialogue ID="4">Mira al gran cielo azul mientras puedas.</Dialogue>
+        <Dialogue ID="1">Se uma operária morre, eu sempre posso fazer mais para substitui-la.</Dialogue>
+        <Dialogue ID="2">Para levar meu reino à grandeza... Eu preciso de mais abelas.</Dialogue>
+        <Dialogue ID="3">Você sabe para onde minhas operárias foram?</Dialogue>
+        <Dialogue ID="4">Olhe para o grande céu azul enquanto você pode.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -165,71 +165,71 @@ Al ser golpeado, inflige 1-3 de Quemadura y 1-3 de Sangrado al atacante la sigui
       <Abnormality>Abelha Rainha</Abnormality>
       <CardName>Abelha-Operária</CardName>
       <AbilityDesc>[Aliado Único]
-El enemigo que haga la mayor cantidad de daño al bibliotecario seleccionado es Marcado. Los otros Aliado hacen 2-4 de daño adicional al enemigo Marcado con sus ataques.</AbilityDesc>
-      <FlaborText>Ellos solo muestran dos formas de comportamiento: Entregar nutrientes a la Reina y proliferar.</FlaborText>
+      O inimigo que causou mais dano ao biblioteário selecionado é marcado. Outros aliados causam 2-4 a mais de dano ao alvo marcado</AbilityDesc>
+      <FlaborText>Elas mostram apenas dois comportamentos: Entregar nutrientes à rainha, e proliferar.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Mis abejas. Es tiempo de moverse.</Dialogue>
-        <Dialogue ID="2">Tus alas, piernas, mandíbula… Pon cada parte de tu cuerpo a trabajar, Para que no roben nuestra miel.</Dialogue>
-        <Dialogue ID="3">Dense prisa, mis pequeños. No podemos desperdiciar ni un minuto.</Dialogue>
-        <Dialogue ID="4">Quien recordará a las abejas que han muerto por el reino…</Dialogue>
+        <Dialogue ID="1">Minhas abelhas, é hora de atacar.</Dialogue>
+        <Dialogue ID="2">Suas asas, pernas e mandíbulas... Coloque cada parte do seu corpo para trabalhas. Antes que eles saqueiem nosso mel.</Dialogue>
+        <Dialogue ID="3">Sejam rápidos, meus lacaios. Não podemos desperdiçar um minuto.</Dialogue>
+        <Dialogue ID="4">Quem vai lembrar das abelhas que morreram pelo reino...</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="QueenBee_Loyalty">
       <Abnormality>Abelha Rainha</Abnormality>
-      <CardName>Lealtad</CardName>
+      <CardName>Lealdade</CardName>
       <AbilityDesc>[Aliado Único]
-Al comienzo de una escena, Todos os Aliados ganan Fuerza basado en la cantidad de daño que el bibliotecario seleccionado reciba en la escena anterior.
-(1 Fuerza cada 5 de daño)</AbilityDesc>
-      <FlaborText>La lealtad de las abejas es un instinto natural desarrollado. Si nosotros pudiéramos descubrir una manera de usar ese instinto, muchas cosas podrían cambiar.</FlaborText>
+      No começo da cena, todos os aliados ganham Força com base na quantidade de dano que o bibliotecário selecionado recebeu na Cena passada.
+      (1 de Força para cada 5 de dano)</AbilityDesc>
+      <FlaborText>A lealdade das abelhas é um instinto que se desenvolve naturalmente. Se descobrirmos uma maneira de usar esse instinto, muitas coisas vão mudar.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Apresúrate y dame más miel.</Dialogue>
-        <Dialogue ID="2">Yo soy el reino y el Reino soy yo. Lealtad a mí es lealtad a tu reino.</Dialogue>
-        <Dialogue ID="3">Incluso si tus alas están rasgadas, tú deberías darlo todo para servir mientras tus piernas aún funcionen.</Dialogue>
-        <Dialogue ID="4">“Dar tu propia vida”  es un juramento vacío. Lo que yo quiero de ti es que sobrevivas y sigas protegiéndome.</Dialogue>
+        <Dialogue ID="1">Se apresse e me dê mais mel.</Dialogue>
+        <Dialogue ID="2">Eu sou o reino, e o reino sou eu. Lealdade a mim é lealdade ao reino.</Dialogue>
+        <Dialogue ID="3">Mesmo que suas asas estejam rasgadas, você deveria dar tudo o que tem para servir enquanto suas pernas estiverem funcionando</Dialogue>
+        <Dialogue ID="4">“Dar a própria vida” é um juramento vazio. O que eu quero de você é que sobreviva e continue a me proteger.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="SnowWhite_Vine">
-      <Abnormality>Manzana de Blancanieves</Abnormality>
-      <CardName>Vides</CardName>
+      <Abnormality>Maçã da Branca de Neve</Abnormality>
+      <CardName>Vinhas</CardName>
       <AbilityDesc>[Aliado Único]
-Por el resto del acto, inflige 6 de Atadura a un enemigo aleatorio al comienzo de una escena.
-Los dados perforantes ganan 1-2 de Poder cuando atacan a un enemigo.</AbilityDesc>
-      <FlaborText>Un día, una rama creció de ella. Las hojas y las ramas ya estaban marchitas y secas, pero ella continuó creciendo.</FlaborText>
+      Pelo resto do Ato, inflige 6 Amarrado no começo de cada Cena.
+      Dados Perfurantes ganham 1-2 de Poder quando atacando esse inimigo </AbilityDesc>
+      <FlaborText>Um dia, um galho cresceu dele. As folhas e galhos já estavam secas e definhadas, mas continuaram a crescer.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">La Manzana estuvo sola por tanto tiempo. Solo los cuerpos podridos se mantuvieron a su lado…</Dialogue>
-        <Dialogue ID="2">Las Vides estaban marchitas y secas, pero ellos siempre abrazaron la Manzana.</Dialogue>
-        <Dialogue ID="3">Como desearía atar las dos piernas de la persona que me bendijo con mi existencia y entonces se fue.</Dialogue>
-        <Dialogue ID="4">Aquellos que mordían la manzana cayeron dormidos como la princesa hizo, excepto que ellos nunca pudieron despertar.</Dialogue>
+        <Dialogue ID="1">A macça ficou sozinha por tanto tempo. Apenas corpos apodrecidos ficaram a seu lado...</Dialogue>
+        <Dialogue ID="2">As vinhas estavam secas e definhadas, mas sempre abraçando a maçã.</Dialogue>
+        <Dialogue ID="3">Como eu desejo amarrar os dois pés da pessoa que foi abençoada com minha existência e então foi embora.</Dialogue>
+        <Dialogue ID="4">Aqueles que morderam a maçã cairam no sono como a princesa o fez, exceto que eles nunca conseguiriam acordar.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="SnowWhite_Thorn">
-      <Abnormality>Manzana de Blancanieves</Abnormality>
-      <CardName>Barrera de espinas</CardName>
+      <Abnormality>Maçã da Branca de Neve</Abnormality>
+      <CardName>Barreira de Espinhos</CardName>
       <AbilityDesc>[Aliado Único]
-Al ser golpeado, inflige 2-8 de daño y 1-3 de Atadura al atacante.
-Si 3 de Atadura fueron infringidos a la vez, recupera HP igual a la cantidad de daño hecho con este efecto.</AbilityDesc>
-      <FlaborText>La Manzana que cayó de la mano de Blancanieves después de un solo mordisco no podría ser nunca feliz. La Manzana, llena de soledad y odio hacia la princesa, espero el día que se pudriera y regresara a la tierra.</FlaborText>
+      Ao ser golpeado, inflige 2-8 de dano e 1-3 de Amarrado ao atacante.
+      Se 3 de Amarrado foi infligido, recupere HP igual a quantidade de dano causado por esse efeito.</AbilityDesc>
+      <FlaborText>A maçã que caiu das mãos da Branca de Neve depois de uma única mordida nunca poderia ser feliz. A maçã, cheia de solidão e ódio pela princesa, esperou pelo dia que iria apodrecer e voltar à terra</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Una bonita Manzana, abandonada en un lugar desamparado, Oh, bonita Manzana…</Dialogue>
-        <Dialogue ID="2">La Manzana no pudo regresar a la tierra y solo impurezas podridas la rodeaban.</Dialogue>
-        <Dialogue ID="3">La Manzana que fue arrojada al sucio suelo no pudo ser feliz.</Dialogue>
-        <Dialogue ID="4">Vides espinosas crecieron del corazón herido.</Dialogue>
+        <Dialogue ID="1">Uma maçã bonita, abandonada em um lugar desamparado. Oh, maçã bonita </Dialogue>
+        <Dialogue ID="2">A maçã não poderia retornar à terra, e apenas impuridades apodrecidas estavam ao seu redor.</Dialogue>
+        <Dialogue ID="3">A maçã que foi derrubada no chão de terra não poderia ser feliz.</Dialogue>
+        <Dialogue ID="4">Vinhas espinhosas cresceram do coração ferido.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="SnowWhite_malice">
-      <Abnormality>Manzana de Blancanieves</Abnormality>
-      <CardName>Malicia</CardName>
+      <Abnormality>Maçã da Branca de Neve</Abnormality>
+      <CardName>Malícia</CardName>
       <AbilityDesc>[Aliado Único]
-Al comienzo de esta escena, todos los enemigos recibirán daño inversamente proporcional a la cantidad de HP que le queda al bibliotecario. (Min. 5, Máx. 30; Menos HP es más daño)</AbilityDesc>
-      <FlaborText>La malicia inherente causó que toda la vida se derrumbara tan pronto como floreciera.</FlaborText>
+      No começo dessa Cena, todos os inimigos recebem dano inversamente proporcional a quantidade de HP que o bibliotecário tem. (Min. 5, Máx. 30; Menos HP é mais Dano</AbilityDesc>
+      <FlaborText>A malícia inerente causa toda a vida à desmoronar quando ela florece.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Mi existencia nació de la ira y una maldición, aun así serví como una bendición para alguien más.</Dialogue>
-        <Dialogue ID="2">Las vides sin vida siguieron creciendo.</Dialogue>
-        <Dialogue ID="3">Creció, tragando terribles pensamientos de venganza, enojo a sí misma… y soledad.</Dialogue>
+        <Dialogue ID="1">Minha existência nasceu de raiva e uma maldição, ainda assim eu servi como a bênção de outra pessoa.</Dialogue>
+        <Dialogue ID="2">As vinhas sem vida continuam a crescer.</Dialogue>
+        <Dialogue ID="3">Ela cresceu, engolindo os pensamentos desesperados de vingança, de raiva a si mesma... E solidão.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>

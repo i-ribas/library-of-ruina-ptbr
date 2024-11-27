@@ -3,20 +3,20 @@
   <effectTextList>
     <BattleEffectText ID="OldLady_Lonely">
       <Name>Solicitud</Name>
-      <Desc>Reduce la velocidad en 2. Recibe 1-2 de daño al comienzo de la escena. (No se acumula)</Desc>
+      <Desc>Reduz a Velocidade em 2. Recebe 1-2 de Dano al comienzo de la escena. (No se acumula)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedShoes_Kirakira">
       <Name>Encanto de los Os Saltos Vermelhos</Name>
-      <Desc>Prioriza atacar al usuario que utilizó &lt;Brillantina&gt;. Haz +2-4 de daño.</Desc>
+      <Desc>Prioriza atacar al usuario que utilizó &lt;Brillantina&gt;. Haz +2-4 de Dano.</Desc>
     </BattleEffectText>
     <!-- Deleted old Rhythm -->
     <BattleEffectText ID="TheDreamingCurrent_Sea">
       <Name>Oceano arcoiris</Name>
-      <Desc>Reduce la velocidad en 3 por {0} escena(s). Pierde 10% del HP actual y restaura 1 de Luz en el comienzo de la escena.</Desc>
+      <Desc>Reduz a Velocidade em 3 por {0} Cena(s). Perde 10% del HP actual y restaura 1 de Luz en el comienzo de la escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Bloodbath_Hands">
       <Name>Manos pálidas</Name>
-      <Desc>Después que un persona es golpeado {0} veces, Haz 3-10 de daño de aturdimiento adicional.</Desc>
+      <Desc>Depois que un persona es golpeado {0} veces, Haz 3-10 de Dano de Atordoamento adicional.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="TheSnowQueen_Chu">
       <Name>Astillas de hielo</Name>
@@ -24,116 +24,116 @@
     </BattleEffectText>
     <BattleEffectText ID="HappyTeddyBear_Hug">
       <Name>Amor de osito</Name>
-      <Desc>Al perder un choque contra un objetivo que ha usado &lt;Memorias nostalgicas&gt;, recibe daño de aturdimiento igual al resultado del dado con una probabilidad de {0}% .</Desc>
+      <Desc>Ao Perder um Embate contra un objetivo que ha usado &lt;Memorias nostalgicas&gt;, recibe Dano de Atordoamento igual al resultado del dado con una probabilidad de {0}% .</Desc>
     </BattleEffectText>
     <BattleEffectText ID="TheDreamingCurrent_candy">
       <Name>Dulce</Name>
-      <Desc>Haz {0}% de daño adicional al objetivo que ha usado &lt;Dulce&gt;.</Desc>
+      <Desc>Haz {0}% de Dano adicional al objetivo que ha usado &lt;Dulce&gt;.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ChildofGalaxy_Token">
       <Name>Token</Name>
-      <Desc>Por {0} escena(s), restaura 10% del HP máximo en el comienzo de la escena. Recibe 20% del HP máximo como daño cuando un aliado muere.</Desc>
+      <Desc>Por {0} Cena(s), restaura 10% del HP máximo en el comienzo de la escena. Recebe 20% del HP máximo como Dano cuando un aliado muere.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Stun">
-      <Name>Inmovilizado</Name>
-      <Desc>No se puede actuar por la duración de la escena.</Desc>
+      <Name>Imobilizado</Name>
+      <Desc>Não pode agir pela duração dessa Cena</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Break">
-      <Name>Aturdido</Name>
-      <Desc>No se puede actuar por la duración de la escena. No se roba carta ni se recupera Luz al comienzo de la escena.</Desc>
+      <Name>Atordoado</Name>
+      <Desc>Não pode agir pela duração dessa Cena. Páginas não serão compradas e Luz não será restaurada nessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Burn">
-      <Name>Quemadura</Name>
-      <Desc>Al final de la escena, recibe {0} de daño y reduce 1/3 de la cantidad de Quemadura. (Redondeado hacia abajo)</Desc>
+      <Name>Queimadura</Name>
+      <Desc>Ao final da Cena, recebe {0} de dano e subraia 1/3 dos acúmulos de Queimadura (Arredondado para baixo)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Paralysis">
-      <Name>Parálisis</Name>
-      <Desc>Por la duración de la escena, cuando un personaje juega una página de combate, hasta {0} dados aleatorios tienen su resultado máximo reducido en 3.</Desc>
+      <Name>Paralisado</Name>
+      <Desc>pela duração dessa Cena, quando esse personagem jogar uma Página de Combate, até {0} dados aleatórios tem seu resultado máximo reduzido em 3.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Bleeding">
-      <Name>Sangrado</Name>
-      <Desc>Por la escena, recibe {0} de daño y reduce 1/3 de la cantidad de Sangrado cada vez que el personaje lance un dado ofensivo. (Redondeado hacia arriba)</Desc>
+      <Name>Sangramento</Name>
+      <Desc>Por essa Cena, receba {0} de dano e subraia 1/3 dos acúmulos de Sangramento sempre que esse personagem rola um dado ofensivo. (Arredondado para Cima)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Vulnerable">
       <Name>Frágil</Name>
-      <Desc>Recibe {0} de daño adicional de ataques esta escena.</Desc>
+      <Desc>Recebe {0} de Dano adicional de ataques pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Weak">
-      <Name>Endeble</Name>
-      <Desc>Reduce el Poder de los dados ofensivos en {0} por la duración de la escena.</Desc>
+      <Name>Fraco</Name>
+      <Desc>Reduz o Poder de todos os dados ofensivos em {0} pela duração dessa Cena</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Disarm">
       <Name>Desarmar</Name>
-      <Desc>Reduce el Poder de los dados defensivos en {0} por la duración de la escena.</Desc>
+      <Desc>Reduz o Poder de todos os dados defensivos em {0} pela duração dessa Cena</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Binding">
-      <Name>Atadura</Name>
-      <Desc>Reduce la velocidad en {0} por la duración de la escena.</Desc>
+      <Name>Amarrado</Name>
+      <Desc>Reduz a Velocidade em {0} pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Protection">
-      <Name>Protección</Name>
-      <Desc>Recibe {0} menos de daño de ataques esta escena.</Desc>
+      <Name>Proteção</Name>
+      <Desc>Recebe {0} menos Dano de ataques pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Strength">
-      <Name>Fortalecido</Name>
-      <Desc>Incrementa el Poder de los dados ofensivos en {0} por la duración de la escena.</Desc>
+      <Name>Força</Name>
+      <Desc>Aumenta o Poder de todos os dados ofensivos en {0} pela duração dessa Cena</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Endurance">
       <Name>Endurecido</Name>
-      <Desc>Incrementa el Poder de los dados defensivos en {0} por la duración de la escena.</Desc>
+      <Desc>Aumenta o Poder de todos os dados defensivos en {0} pela duração dessa Cena</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Quickness">
-      <Name>Prisa</Name>
-      <Desc>Incrementa la velocidad en {0} por la duración de la escena.</Desc>
+      <Name>Celeridade</Name>
+      <Desc>Aumenta a velocidade em {0} pela duração dessa Cena</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Blurry">
       <Name>Borroso</Name>
-      <Desc>Este personaje no puede volverse objetivo por el enemigo mientras otros objetivos sin Borroso existan. Se remueve al final de la escena.</Desc>
+      <Desc>Este personaje no puede volverse objetivo por el enemigo mientras otros objetivos sin Borroso existan. Se remueve Ao final da Cena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Burn_Keyword">
-      <Name>Quemadura X</Name>
-      <Desc>Al final de la escena, recibe X de daño y reduce 1/3 de la cantidad. (Redondeado hacia abajo)</Desc>
+      <Name>Queimadura X</Name>
+      <Desc>Ao final da Cena, recebe {0} de dano e subraia 1/3 dos acúmulos de Queimadura (Arredondado para baixo)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Paralysis_Keyword">
-      <Name>Parálisis X</Name>
-      <Desc>Por la escena, hasta X dados tienen su resultado máximo reducido en 3 cuando usa páginas.</Desc>
+      <Name>Paralisado X</Name>
+      <Desc>pela duração dessa Cena, quando esse personagem jogar uma Página de Combate, até X dados aleatórios tem seu resultado máximo reduzido em 3.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Bleeding_Keyword">
-      <Name>Sangrado X</Name>
-      <Desc>Por la escena, recibe X de daño y reduce 1/3 de la cantidad cada vez que el personaje use un dado ofensivo. (Redondeado hacia arriba)</Desc>
+      <Name>Sangramento X</Name>
+      <Desc>Por essa Cena, receba X de dano e subtraia 1/3 dos acúmulos de Sangramento sempre que esse personagem rola um dado ofensivo. (Arredondado para cima )</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Vulnerable_Keyword">
       <Name>Frágil X</Name>
-      <Desc>Recibe X de daño adicional de ataques por la escena.</Desc>
+      <Desc>Recebe X de Dano adicional de ataques pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Weak_Keyword">
-      <Name>Endeble X</Name>
-      <Desc>Los dados ofensivos pierden X de Poder por la escena.</Desc>
+      <Name>Fraco X</Name>
+      <Desc>Os dados ofensivos perdem X de Poder pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Disarm_Keyword">
       <Name>Desarmar X</Name>
-      <Desc>Los dados defensivos pierden X de Poder por la escena.</Desc>
+      <Desc>Os dados defensivos perdem X de Poder pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Binding_Keyword">
-      <Name>Atadura X</Name>
-      <Desc>Reduce la velocidad en X por la escena.</Desc>
+      <Name>Amarrado X</Name>
+      <Desc>Reduz a Velocidade em X pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Protection_Keyword">
-      <Name>Protección X</Name>
-      <Desc>Recibe X menos de daño de ataques por la escena.</Desc>
+      <Name>Proteção X</Name>
+      <Desc>Recebe X menos de Dano de ataques pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Strength_Keyword">
-      <Name>Fuerza X</Name>
-      <Desc>Los dados ofensivos ganan +X de Poder por la escena.</Desc>
+      <Name>Força X</Name>
+      <Desc>Os dados ofensivos ganham +X de Poder pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Endurance_Keyword">
       <Name>Dureza X</Name>
-      <Desc>Los dados defensivos ganan +X de Poder por la escena.</Desc>
+      <Desc>Os dados defensivos ganham +X de Poder pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Quickness_Keyword">
-      <Name>Prisa X</Name>
-      <Desc>Incrementa la velocidad en X por la escena.</Desc>
+      <Name>Celeridade X</Name>
+      <Desc>Aumenta a velocidade em X pela duração dessa Cena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="bstart_Keyword">
@@ -161,11 +161,11 @@
 
     <BattleEffectText ID="Philip_Attack">
       <Name>Espada abrasadora</Name>
-      <Desc>En un ataque exitoso, inflige 4 de Quemadura al objetivo.</Desc>
+      <Desc>En un ataque exitoso, inflige 4 de Queimadura al objetivo.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Philip_Defense">
       <Name>Escudo de plumas</Name>
-      <Desc>Después de recibir un golpe, inflige 2 de Quemadura al atacante. Recibe -5 de daño de los ataques.</Desc>
+      <Desc>Depois de recibir un golpe, inflige 2 de Queimadura al atacante. Recebe -5 de Dano de los ataques.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Philip_Strong">
       <Name>Ataque ardiente</Name>
@@ -193,52 +193,52 @@
 
     <BattleEffectText ID="Gaho">
       <Name>Bendición</Name>
-      <Desc>Resistencias contra el tipo de daño que hizo más daño la escena anterior son cambiadas a "Resistente" por esta escena. (Aplica separadamente para daño fisico y daño de aturdimiento)</Desc>
+      <Desc>Resistencias contra el tipo de Dano que hizo más Dano la escena anterior son cambiadas a "Resistente" durante essa Cena. (Aplica separadamente para Dano fisico y Dano de Atordoamento)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Ability/BloodBath_Hand">
       <Name>Manos pálidas</Name>
-      <Desc>Recibirá 3-10 de daño de aturdimiento adicional en cada tercer golpea de el bibliotecario con la página de Anormalidad 'Manos Pálidas'.</Desc>
+      <Desc>Recibirá 3-10 de Dano de Atordoamento adicional en cada tercer golpea de el bibliotecario con la página de Anormalidad 'Manos Pálidas'.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="SweepersSkill">
       <Name>Persistencia</Name>
-      <Desc>Al recibir daño "Letal", probabilidad de 80% de revivir con algo de HP. Esta probabilidad se reduce a la mitad por cada vez que se reviva.</Desc>
+      <Desc>Al recibir Dano "Letal", probabilidad de 80% de revivir con algo de HP. Esta probabilidad se reduce a la mitad por cada vez que se reviva.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="SlashPowerUp">
-      <Name>Cortante incrementado</Name>
-      <Desc>Los dados cortantes ganan +{0} de Poder por esta escena.</Desc>
+      <Name>Cortante Aumentado</Name>
+      <Desc>Os dados cortantes ganham +{0} de Poder durante essa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="PenetratePowerUp">
-      <Name>Perforante incrementado</Name>
-      <Desc>Los dados perforantes ganan +{0} de Poder por esta escena.</Desc>
+      <Name>Perfurante Aumentado</Name>
+      <Desc>Os dados perforantes ganham +{0} de Poder durante essa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HitPowerUp">
-      <Name>Contundente incrementado</Name>
-      <Desc>Los dados contundentes ganan +{0} de Poder por esta escena.</Desc>
+      <Name>Contundente Aumentado</Name>
+      <Desc>Os dados contundentes ganham +{0} de Poder durante essa Cena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Queenbee_Spore">
       <Name>Esporas</Name>
-      <Desc>En el comienzo de la escena, recibe {0} de daño y reduce las acumulaciones a la mitad. (Redondeado hacia abajo)
-Recibe {0} de daño cada vez que un personaje lanza un dado ofensivo.
-Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá la siguiente escena.</Desc>
+      <Desc>En el comienzo de la escena, recibe {0} de Dano y reduce las acumulaciones a la mitad. (Redondeado hacia abajo)
+      Recebe {0} de Dano cada vez que un personaje lanza un dado ofensivo.
+      Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá la siguiente escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Queenbee_Punish">
       <Name>Castigo</Name>
-      <Desc>Recibe +2-4 de daño de bibliotecarios sin la página de Anormalidad 'Abelha-Operária'.</Desc>
+      <Desc>Recebe +2-4 de Dano de bibliotecarios sin la página de Anormalidad 'Abelha-Operária'.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Snowwhite_Vine">
       <Name>Vides</Name>
-      <Desc>Cuando un bibliotecario con la página de Anormalidad 'Vides' ataca a este personaje, sus dados perforantes ganan +1-2 de Poder.</Desc>
+      <Desc>Cuando un bibliotecario con la página de Anormalidad 'Vides' ataca a este personaje, sus dados perforantes ganham +1-2 de Poder.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Burning_Match">
-      <Name>Flameante</Name>
-      <Desc>Gana un dado de velocidad; Poder de los dados +2; pierde 5% del HP máximo cada vez que el personaje lanza un dado.</Desc>
+      <Name>Flamejante</Name>
+      <Desc>Ganhe um Dado de Velocidade; Poder dos Dados +2; perca 5% do HP máximo sempre que esse personagem rola um dado.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="TeddyLove">
       <Name>Afección</Name>
-      <Desc>Todos los dados del oponente atacando a este personaje ganan Poder igual a las acumulaciones de este efecto.</Desc>
+      <Desc>Todos os dados del oponente atacando a este personaje ganham Poder igual a las acumulaciones de este efecto.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="FairyMeat">
       <Name>Carne Fresca</Name>
@@ -257,16 +257,16 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
     </BattleEffectText>
     <BattleEffectText ID="AreaDiceAll_Keyword">
       <Name>Suma</Name>
-      <Desc>Si el ataque es &gt; que la suma de los dados lanzados en la página de combate del objetivo, ellos reciben el daño y su página es destruida.</Desc>
+      <Desc>Si el ataque es &gt; que la suma de todos os dados lanzados en la página de combate del objetivo, ellos reciben el Dano y su página es destruida.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="AreaDiceEach_Keyword">
       <Name>Individual</Name>
-      <Desc>Si el lanzamiento es mayor que el del dado actual del objetivo, ellos reciben el daño y el dado es destruido.</Desc>
+      <Desc>Si el lanzamiento es mayor que el del dado actual del objetivo, ellos reciben el Dano y el dado es destruido.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="FairyMeal">
       <Name>Voracidad</Name>
-      <Desc>Total de daño actual: {0}.</Desc>
+      <Desc>Total de Dano actual: {0}.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="OnlyOne_Keyword">
@@ -276,15 +276,15 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
 
     <BattleEffectText ID="RedHood_Angry">
       <Name>Enojo</Name>
-      <Desc>Dura 2 escenas. Gana +2 de Fuerza cada escena y usa páginas de ataque en masa.</Desc>
+      <Desc>Dura 2 escenas. Gana +2 de Força cada escena y usa páginas de ataque en masa.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedHood_Rage">
       <Name>Enojo descarriado</Name>
-      <Desc>Permanente. Gana +5 de Fuerza y Prisa cada escena y usa páginas de ataque en masa.</Desc>
+      <Desc>Permanente. Gana +5 de Força y Celeridade cada escena y usa páginas de ataque en masa.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedHood_Hunt">
       <Name>Presa</Name>
-      <Desc>Recibe +2-6 de daño de los ataques del bibliotecario con la página de Anormalidad 'Presa'.</Desc>
+      <Desc>Recebe +2-6 de Dano de los ataques del bibliotecario con la página de Anormalidad 'Presa'.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="WarpCharge">
@@ -303,15 +303,15 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
 
     <BattleEffectText ID="Smoke">
       <Name>Humo</Name>
-      <Desc>Recibe {0}% más de daño. Puede acumular hasta 10. Poder de los dados +1 si el personaje tiene 9+ de Humo. Pierde 1 de Humo al final de la escena.</Desc>
+      <Desc>Recebe {0}% más de Dano. Puede acumular hasta 10. Poder de todos os dados +1 si el personaje tiene 9+ de Humo. Perde 1 de Humo Ao final da Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Smoke_buf">
       <Name>Humo</Name>
-      <Desc>Haz {0}% más de daño. Puede acumular hasta 10. Poder de los dados +1 si el personaje tiene 9+ de Humo. Pierde 1 de Humo al final de la escena.</Desc>
+      <Desc>Haz {0}% más de Dano. Puede acumular hasta 10. Poder de todos os dados +1 si el personaje tiene 9+ de Humo. Perde 1 de Humo Ao final da Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Smoke_Keyword">
       <Name>Humo</Name>
-      <Desc>Incrementa el daño recibido. En 9+ Humo, todos los dados ganan +1 de Poder. acumula hasta 10. -1 de Humo al final de cada escena.</Desc>
+      <Desc>Incrementa el Dano recibido. En 9+ Humo, todos os dados ganham +1 de Poder. acumula hasta 10. -1 de Humo al final de cada escena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Butterfly_Seal">
@@ -330,7 +330,7 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
     </BattleEffectText>
     <BattleEffectText ID="Wolf_Claw">
       <Name>Garras de salvajismo</Name>
-      <Desc>Gana +2 de Fuerza por esta escena; no puede ser objetivo; no puede enfrentarse a enemigos; inflige 1 de Sangrado la siguiente escena por cada ataque exitoso.</Desc>
+      <Desc>Gana +2 de Força durante essa Cena; no puede ser objetivo; no puede enfrentarse a enemigos; inflige 1 de Sangramento la siguiente escena por cada ataque exitoso.</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="Crying_Weak">
@@ -339,20 +339,20 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
     </BattleEffectText>
 
     <BattleEffectText ID="BurningGirl_Burn">
-      <Name>Carbón</Name>
-      <Desc>Los dados ofensivos ganan “[Al golpear] Inflige 1 de Quemadura”.</Desc>
+      <Name>Cinzas</Name>
+      <Desc>Os dados ofensivos ganham “[Ao Golpear] Inflige 1 de Queimadura”.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BurningGirl_Ember">
       <Name>Brasas</Name>
-      <Desc>El Resultado máximo del primer dado de páginas con 'Fósforo' incrementa en 1 por cada acumulación. El dado inflige Quemadura igual a las acumulaciones de 'Brasas' al golpear. Si hay 4 o más de 'Brasas', explota después de lanzar el primer dado con una probabilidad de 25%, inflige daño igual al resultado del dado a ti mismo.</Desc>
+      <Desc>A rolagem máxima do primeiro dado das páginas com 'Fósforo' aumenta em 1 para cada acúmulo. O dado inflige Queimadura igual aos acúmulos de 'Brasas' ao golpear. Se tiver 4 ou mais acúmulos de 'Brasas', 25% de chance de explodir ao rolar o primeiro dado, infligindo dano a si mesmo igual ao valor máximo da rolagem.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="SingingMachine_Rhythm">
       <Name>Ritmo</Name>
-      <Desc>Mientras este efecto está Activo, gana 1 de Fuerza en el comienzo de la escena y recibe +2-5 de daño de aturdimiento de los ataques. Pierde 1 de Ritmo al final de la escena.</Desc>
+      <Desc>Mientras este efecto está Activo, gana 1 de Força en el comienzo de la escena y recibe +2-5 de Dano de Atordoamento de los ataques. Perde 1 de Ritmo Ao final da Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Porccubus_Happy">
       <Name>Emoción</Name>
-      <Desc>Si al recibir un ataque 'Emoción' llega a 3 de acumulaciones, recibe 2-7 de daño y daño de aturdimiento y pierde este estado.</Desc>
+      <Desc>Si al recibir un ataque 'Emoción' llega a 3 de acumulaciones, recibe 2-7 de Dano y Dano de Atordoamento y perde este estado.</Desc>
     </BattleEffectText>
 
 		<BattleEffectText ID="onlypage_yujin_Keyword">
@@ -382,12 +382,12 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
 
     <BattleEffectText ID="HodFinal_CopiousBleeding">
       <Name>Herida profunda</Name>
-      <Desc>Si al recibir un golpe la cantidad de 'Herida profunda' llega a 5, recibe daño igual al 25% del HP máximo.</Desc>
+      <Desc>Si al recibir un golpe la cantidad de 'Herida profunda' llega a 5, recibe Dano igual al 25% del HP máximo.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="CardBuf_Latitia_Heart">
       <Name>Regalo de Laetitia</Name>
-      <Desc>Explota en {0} escena(s)</Desc>
+      <Desc>Explota en {0} Cena(s)</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Latitia_Heart">
@@ -397,11 +397,11 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
 
     <BattleEffectText ID="Latitia_Gift">
       <Name>Regalado</Name>
-      <Desc>Si el personaje se enfrenta contra un oponente que no sea el que da el 'Regalo', recibe 2-7 daño en el comienzo del choque y 2 Sangrado la siguiente escena con una probabilidad de 40%.</Desc>
+      <Desc>Si el personaje se enfrenta contra un oponente que no sea el que da el 'Regalo', recibe 2-7 Dano en el comienzo del Embate y 2 Sangramento la siguiente escena con una probabilidad de 40%.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackSwan_Nettle">
       <Name>Ropa de ortiga</Name>
-      <Desc>En el comienzo de la escena, gana Protección igual a la cantidad de este efecto de estado. Se pierde una acumulación al recibir un golpe.</Desc>
+      <Desc>En el comienzo de la escena, gana Proteção igual a la cantidad de este efecto de estado. Se perde una acumulación al recibir un golpe.</Desc>
     </BattleEffectText>
 
 
@@ -433,8 +433,8 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
       <Desc>Cuando es usada o descartada, da efectos adicionales a las páginas de combate de rango.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="DmgUp">
-      <Name>Daño aumentado</Name>
-      <Desc>Todos los dados ofensivos que el personaje juega tienen +{0} de daño por la escena.</Desc>
+      <Name>Dano aumentado</Name>
+      <Desc>Todos os dados ofensivos que el personaje juega tienen +{0} de Dano pela duração dessa Cena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Universe_DecreaseMaxBp">
@@ -452,34 +452,34 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
     </BattleEffectText>
     <BattleEffectText ID="Alriune_Debuf">
       <Name>Aroma</Name>
-      <Desc>En el comienzo de la escena, recibe {0} de daño de aturdimiento y reduce las acumulaciones a la mitad. (Redondeado hacia abajo)</Desc>
+      <Desc>En el comienzo de la escena, recibe {0} de Dano de Atordoamento y reduce las acumulaciones a la mitad. (Redondeado hacia abajo)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ResistWeakBP">
       <Name>Resistencia al aturdimiento reducida</Name>
-      <Desc>Toda la resistencia al daño de aturdimiento cambia a "Fatal" por esta escena.</Desc>
+      <Desc>Toda la resistencia al Dano de Atordoamento cambia a "Fatal" durante essa Cena.</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="Orchestra_Enthusiastic">
       <Name>Adoración ferviente</Name>
       <Desc>Incontrolable. Al ser aturdido, este estado es removido y el personaje se recupera del aturdimiento la siguiente escena.
-	  Solo recibe daño de aturdimiento de bibliotecarios cuerdos; solo recibe daño fisico de bibliotecarios con este efecto. No recibe daño de ataques de Anormalidades (Excepto 'the Finale')</Desc>
+	  Solo recibe Dano de Atordoamento de bibliotecarios cuerdos; solo recibe Dano fisico de bibliotecarios con este efecto. No recibe Dano de ataques de Anormalidades (Excepto 'the Finale')</Desc>
     </BattleEffectText>
 	<BattleEffectText ID="PowerUpOrchestraEgo">
       <Name>Pianissimo</Name>
-      <Desc>Angela gana +2 de Poder en un choque contra este personaje.</Desc>
+      <Desc>Angela gana +2 de Poder en un Embate contra este personaje.</Desc>
 	</BattleEffectText>
     <BattleEffectText ID="AllPowerUp">
-      <Name>Poder incrementado</Name>
-      <Desc>Poder de los dados +{0}</Desc>
+      <Name>Poder Aumentado</Name>
+      <Desc>Poder de todos os dados +{0}</Desc>
     </BattleEffectText>
     <BattleEffectText ID="DecreaseSpeedTo1">
       <Name>Velocidad fija: 1</Name>
-      <Desc>Velocidad es fijada en 1 por esta escena.</Desc>
+      <Desc>Velocidad es fijada en 1 durante essa Cena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Alriune_Flower">
       <Name>Pétalo</Name>
-      <Desc>Si el personaje recibe 4 golpes del bibliotecarios con la página de Anormalidad 'Génesis de primavera', todos los personajes reciben 3-7 daño de aturdimiento y el personaje no puede ser objetivo la siguiente escena.</Desc>
+      <Desc>Si el personaje recibe 4 golpes del bibliotecarios con la página de Anormalidad 'Génesis de primavera', todos los personajes reciben 3-7 Dano de Atordoamento y el personaje no puede ser objetivo la siguiente escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="NoTargeting">
       <Name>Sin objetivo</Name>
@@ -487,13 +487,13 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
     </BattleEffectText>
     <BattleEffectText ID="Orchestra_Affect">
       <Name>Adoración ferviente</Name>
-      <Desc>Apunta personajes aleatorios, incluyendo aliados. Hace +2-4 de daño con ataques.</Desc>
+      <Desc>Apunta personajes aleatorios, incluyendo aliados. Hace +2-4 de Dano con ataques.</Desc>
     </BattleEffectText>
 
 
     <BattleEffectText ID="TakeBreakDamage2">
-      <Name>Vulnerable al aturdimiento</Name>
-      <Desc>Recibe +2 de daño de aturdimiento de los ataques por esta escena.</Desc>
+      <Name>Vulnerável à Atordoamento</Name>
+      <Desc>Recebe +2 de Dano de Atordoamento de ataques pela duração dessa Cena..</Desc>
     </BattleEffectText>
 
 
@@ -511,8 +511,8 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
     </BattleEffectText>
 
     <BattleEffectText ID="NullifyPower">
-      <Name>Poder anulado</Name>
-      <Desc>No es afectado por efectos relacionados al Poder por esta escena.</Desc>
+      <Name>Poder Anulado</Name>
+      <Desc>Não é afetado por efeitos relacionados a Poder nessa cena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Alriune_Petal">
@@ -530,18 +530,18 @@ Si el personaje muere con un problema de estado, una Abelha-Operária aparecerá
     </BattleEffectText>
     <BattleEffectText ID="BigBird_Sleep">
       <Name>Dormido</Name>
-      <Desc>Se Aturde por esta escena.</Desc>
+      <Desc>Se Aturde durante essa Cena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Lumberjack_Cut">
       <Name>Un corazón cálido</Name>
-      <Desc>Incrementa el Poder de los dados ofensivos en 1-2 si el personaje tiene 3 o más Luz al comienzo de la Fase de combate.</Desc>
+      <Desc>Aumenta o Poder de todos os dados ofensivos en 1-2 si el personaje tiene 3 o más Luz al comienzo de la Fase de combate.</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="SnowQueen_Debuf">
       <Name>Frío</Name>
-      <Desc>1 de Frío se pierde al comienzo de cada escena.
-En el comienzo de la escena, si el personaje tiene 4 o más Frío, gana 2 de Atadura y Endeble.
+      <Desc>1 de Frío se perde al comienzo de cada escena.
+En el comienzo de la escena, si el personaje tiene 4 o más Frío, gana 2 de Amarrado y Fraco.
 Si el personaje tiene 6 o más de Frío, se Inmoviliza y remueve todo el Frío de si mismo al comienzo de la siguiente escena.</Desc>
     </BattleEffectText>
 
@@ -552,30 +552,30 @@ Si el personaje tiene 6 o más de Frío, se Inmoviliza y remueve todo el Frío d
     
     <BattleEffectText ID="BloodyTree_Emotion_Damage">
       <Name>Alas ensangrentadas</Name>
-      <Desc>Cuando un personaje entra en combate, todos los personajes excepto ellos mismos, el objetivo y los bibliotecarios con la página de Anormalidad ‘Alas ensangrentadas’ Reciben 1-10 de daño.</Desc>
+      <Desc>Cuando un personaje entra en combate, todos los personajes excepto ellos mismos, el objetivo y los bibliotecarios con la página de Anormalidad ‘Alas ensangrentadas’ Receben 1-10 de Dano.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="SnowQueen_Emotion_Shard">
       <Name>Astilla de hielo</Name>
-      <Desc>Si la acumulación es 3 o mayor al final de la escena, el personaje se vuelve Inmovilizado por la siguiente escena.</Desc>
+      <Desc>Si la acumulación es 3 o mayor Ao final da Cena, el personaje se vuelve Inmovilizado por la siguiente escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="SnowQueen_Emotion_Stun">
       <Name>Congelado</Name>
-      <Desc>No puede Actuar esta escena. Si es tu enemigo, ellos ganan 6 de Atadura siguiente escena.</Desc>
+      <Desc>No puede Actuar esta escena. Si es tu enemigo, ellos ganham 6 de Amarrado siguiente escena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="HokmaFirstCounter">
       <Name>Inactivo</Name>
-      <Desc>Despertará en {0} escena(s).Si una Espina del paraíso o O Céu Perfurador está aturdido, esto no sucede.</Desc>
+      <Desc>Despertará en {0} Cena(s).Si una Espina del paraíso o O Céu Perfurador está aturdido, esto no sucede.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HokmaFirstCounter2">
       <Name>Inactivo</Name>
-      <Desc>Una Espina despertará o aparecerá en {0} escena(s). Si O Céu Perfurador está aturdido, esto no sucede.</Desc>
+      <Desc>Una Espina despertará o aparecerá en {0} Cena(s). Si O Céu Perfurador está aturdido, esto no sucede.</Desc>
     </BattleEffectText>
 	
     
      <BattleEffectText ID="Mountain_WeakResist">
       <Name>Resistencia al aturdimiento reducida</Name>
-      <Desc>Toda la resistencia al daño de aturdimiento cambia a "Fatal" por esta escena.</Desc>
+      <Desc>Toda la resistencia al Dano de Atordoamento cambia a "Fatal" durante essa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Target">
       <Name>Camino de ladrillos amarillo</Name>
@@ -585,7 +585,7 @@ Si todos los ataque de '¡Amigos! ¡Vamos a casa~!' fallan en acertar al objetiv
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Coward_Strength">
       <Name>Coraje</Name>
-      <Desc>Gana Fuerza igual a la cantidad de veces que O Caminho para Casa fue atacado esta escena.</Desc>
+      <Desc>Gana Força igual a la cantidad de veces que O Caminho para Casa fue atacado esta escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Super_Cancel">
       <Name>Casa que no puede ser alcanzada</Name>
@@ -594,11 +594,11 @@ Si esto llega a 3, una poderosa página de combate es usada la siguiente escena.
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Emotion_Target">
       <Name>Caminando</Name>
-      <Desc>El bibliotecario con la página de Anormalidad hace 3 más de daño cuando ellos atacan a un objetivo en el orden correcto.</Desc>
+      <Desc>El bibliotecario con la página de Anormalidad hace 3 más de Dano cuando ellos atacan a un objetivo en el orden correcto.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Emotion_Protected">
       <Name>Un camino recorrido juntos</Name>
-      <Desc>Si un aliado intercepta un ataque que inicialmente apuntaba a este personaje, sus páginas ganan 1-2 de Poder</Desc>
+      <Desc>Si un aliado intercepta un ataque que inicialmente apuntaba a este personaje, sus páginas ganham 1-2 de Poder</Desc>
     </BattleEffectText>
     <BattleEffectText ID="DangoCreature_Emotion_Healed">
       <Name>División</Name>
@@ -607,7 +607,7 @@ Si esto llega a 3, una poderosa página de combate es usada la siguiente escena.
 
     <BattleEffectText ID="IndexRelease">
       <Name>Espada desbloqueada</Name>
-      <Desc>Poder de los dados +1</Desc>
+      <Desc>Poder de todos os dados +1</Desc>
     </BattleEffectText>
     <BattleEffectText ID="IndexReleaseCount">
       <Name>Desbloquear</Name>
@@ -642,11 +642,11 @@ Si esto llega a 3, una poderosa página de combate es usada la siguiente escena.
     
        <BattleEffectText ID="Decay">
       <Name>Erosión</Name>
-      <Desc>Al final de la escena, recibe {0} de daño y Pierde 1 de de Erosión. Cuando recibes un golpe, recibe daño y daño de aturdimiento adicional igual a la cantidad de este estado.</Desc>
+      <Desc>Ao final da Cena, recibe {0} de Dano y Perde 1 de de Erosión. Cuando recibes un golpe, recibe Dano y Dano de Atordoamento adicional igual a la cantidad de este estado.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ServantOfWrath_Wand">
       <Name>Bastón</Name>
-      <Desc>Cuando la página de combate 'Tú caerás…!' es usada contra este personaje, todos los dados en esa página ganan Poder proporcional a la cantidad de este estado.</Desc>
+      <Desc>Cuando la página de combate 'Tú caerás…!' es usada contra este personaje, todos os dados en esa página ganham Poder proporcional a la cantidad de este estado.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Nihil_Hatred">
@@ -655,12 +655,12 @@ Si esto llega a 3, una poderosa página de combate es usada la siguiente escena.
     </BattleEffectText>
     <BattleEffectText ID="Nihil_Meaningless">
       <Name>Vacío</Name>
-      <Desc>Mientras el personaje tiene este efecto, gana 7 de Endeble, Desarmar y Frágil en el comienzo de la escena</Desc>
+      <Desc>Mientras el personaje tiene este efecto, gana 7 de Fraco, Desarmar y Frágil en el comienzo de la escena</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Angry_Angry">
       <Name>Ira</Name>
-      <Desc>Incontrolable; apunta personajes aleatorios incluyendo aliados. en el comienzo de la escena, gana 2 de Fuerza, restaura 2 de Luz y roba 2 páginas más. (El inconveniente es anulado si la condición de cierta página de Anormalidad es completada.)</Desc>
+      <Desc>Incontrolable; apunta personajes aleatorios incluyendo aliados. en el comienzo de la escena, gana 2 de Força, restaura 2 de Luz y roba 2 páginas más. (El inconveniente es anulado si la condición de cierta página de Anormalidad es completada.)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Angry_Friend">
       <Name>Compañia</Name>
@@ -668,14 +668,14 @@ Si esto llega a 3, una poderosa página de combate es usada la siguiente escena.
     </BattleEffectText>
     <BattleEffectText ID="Nihil_MagicalPower">
       <Name>Chicas mágicas</Name>
-      <Desc>Mientras la cuatro páginas de las chicas mágicas están en la mano, el bibliotecario gana 1-2 de Fuerza cada escena y no es afectado por Endeble, Desarmar, o Atadura.</Desc>
+      <Desc>Mientras la cuatro páginas de las chicas mágicas están en la mano, el bibliotecario gana 1-2 de Força cada escena y no es afectado por Fraco, Desarmar, o Amarrado.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nihil_Nihil">
       <Name>Nihil</Name>
-      <Desc>Inflige 5 de Endeble, Desarmar y Atadura en todos los otros personajes en el comienzo de la escena. Las desventajas de páginas de Anomalidad 'Codicia', 'Odio', e 'Ira' son Anuladas de las siguientes maneras:
-Codicia: Solo el bibliotecario puede activar este efecto.
-Odio: No recibes daño de aturdimiento adicional al perder un choque.
-Ira: Recupera el control de tus bibliotecarios.</Desc>
+      <Desc>Inflige 5 de Fraco, Desarmar y Amarrado en todos los otros personajes en el comienzo de la escena. Las desventajas de páginas de Anomalidad 'Codicia', 'Odio', e 'Ira' son Anuladas de las siguientes maneras:
+      Codicia: Solo el bibliotecario puede activar este efecto.
+      Odio: No recibes Dano de Atordoamento adicional Ao Perder um Embate.
+      Ira: Recupera el control de tus bibliotecarios.</Desc>
     </BattleEffectText>
      <BattleEffectText ID="onlypage_chun_Keyword">
       <Name>Página exclusiva de Chun</Name>
@@ -683,17 +683,17 @@ Ira: Recupera el control de tus bibliotecarios.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="CardBuf_burnUp_Keyword">
       <Name>Fuego furioso desgarrador</Name>
-      <Desc>Mientras esta página está siendo usada, inflige el doble de Quemadura usando páginas de combate.</Desc>
+      <Desc>Mientras esta página está siendo usada, inflige el doble de Queimadura usando páginas de combate.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BurnSpread_Keyword">
-      <Name>Fuerza de un incendio</Name>
-      <Desc>Si este personaje se Aturde en las siguientes {0} escenas, todos sus otros aliados reciben Quemadura igual a la mitad de Quemadura que este personaje tenía al comienzo de la siguiente escena. (Redondeado hacia abajo)</Desc>
+      <Name>Força de un incendio</Name>
+      <Desc>Si este personaje se Aturde en las siguientes {0} escenas, todos sus otros aliados reciben Queimadura igual a la mitad de Queimadura que este personaje tenía al comienzo de la siguiente escena. (Redondeado hacia abajo)</Desc>
     </BattleEffectText>
 
 
     <BattleEffectText ID="Silence_StopTime">
       <Name>Silencio</Name>
-      <Desc>La restricción de Tiempo de la Fase de Configuración no aplica por esta escena.</Desc>
+      <Desc>La restricción de Tiempo de la Fase de Configuración no aplica durante essa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Silence_TraceCount">
       <Name>Tiempo acumulado</Name>
@@ -705,7 +705,7 @@ Ira: Recupera el control de tus bibliotecarios.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Silence_PowerClash">
       <Name>Tiempo avanzando</Name>
-      <Desc>Gana +3 de Poder en un *Choque*.</Desc>
+      <Desc>Gana +3 de Poder en un *Embate*.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Silence_PowerAtk">
       <Name>Tiempo avanzando</Name>
@@ -718,18 +718,18 @@ Ira: Recupera el control de tus bibliotecarios.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Smallbird_Beak">
       <Name>Pico castigador</Name>
-      <Desc>Daño +{0}</Desc>
+      <Desc>Dano +{0}</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Clock_Thirteen">
       <Name>El decimotercer Peaje</Name>
       <Desc>Páginas Usadas: {0}
-Cada 13 páginas gana +1-2 de Poder.
-Los dados en la página ganan: ‘[Al golpear] Hacen daño adicional igual a (Valor del dado)% del HP máximo del objetivo’.</Desc>
+    Cada 13 páginas gana +1-2 de Poder.
+    Os dados en la página ganham: ‘[Ao Golpear] Hacen Dano adicional igual a (Valor del dado)% del HP máximo del objetivo’.</Desc>
     </BattleEffectText>
   
     <BattleEffectText ID="RedMist">
       <Name>Niebla Roja</Name>
-      <Desc>Poder de los dados +{0}. Puede acumular hasta 5.</Desc>
+      <Desc>Poder de todos os dados +{0}. Puede acumular hasta 5.</Desc>
     </BattleEffectText>
 
 <BattleEffectText ID="onlypage_redmist_Keyword">
@@ -739,30 +739,30 @@ Los dados en la página ganan: ‘[Al golpear] Hacen daño adicional igual a (Va
 
 <BattleEffectText ID="BinahFairy">
       <Name>Hada</Name>
-      <Desc>Recibe {0} de daño cada vez que se lanza un dado. Al final de la escena, recibe {0} de daño y reduce la Hada a la mitad. (Redondeado hacia abajo)</Desc>
+      <Desc>Recebe {0} de Dano cada vez que se lanza un dado. Ao final da Cena, recibe {0} de Dano y reduce la Hada a la mitad. (Redondeado hacia abajo)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedMistEgoReady">
       <Name>Manifestar E.G.O</Name>
-      <Desc>Manifestará E.G.O en {0} escena(s)</Desc>
+      <Desc>Manifestará E.G.O en {0} Cena(s)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedMistEgo">
       <Name>E.G.O Manifestado</Name>
-      <Desc>Puede usar 'División mayor: Horizontal'. Poder de los dados +2. Recibe daño de aturdimiento si el personaje falla al hacer 40+ de daño cada escena.
+      <Desc>Puede usar 'División mayor: Horizontal'. Poder de todos os dados +2. Recebe Dano de Atordoamento si el personaje falla al hacer 40+ de Dano cada escena.
 Este efecto está desactivado al ser aturdido.</Desc>
     </BattleEffectText>
 
 <BattleEffectText ID="Fairy_Keyword">
       <Name>Hada X</Name>
-      <Desc>Recibe X de daño cada vez que se lanza un dado. Al final de la escena, recibe X de daño y reduce Hada a la mitad. (Redondeado hacia abajo)</Desc>
+      <Desc>Recebe X de Dano cada vez que se lanza un dado. Ao final da Cena, recibe X de Dano y reduce Hada a la mitad. (Redondeado hacia abajo)</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Sin_Abnormality">
       <Name>Pecado</Name>
-      <Desc>Si la cantidad de Pecado excede una cierta cantidad en el comienzo de la escena, Pássaro do Julgamento usará una página de combate especial. El 'Pecado' puede ser transferido a aliados al atacarlos y hacerles daño. (Una vez por página)</Desc>
+      <Desc>Si la cantidad de Pecado excede una cierta cantidad en el comienzo de la escena, Pássaro do Julgamento usará una página de combate especial. El 'Pecado' puede ser transferido a aliados al atacarlos y hacerles Dano. (Una vez por página)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Sin_AbnormalityCard">
       <Name>Pecado</Name>
-      <Desc>Si la cantidad de Pecado llega a 5 o más, recibe daño igual a 10% de HP máximo y remueve toda la acumulación. El 'Pecado' puede ser transferido a otro personaje al atacarlos y hacerles daño. (Una vez por página)</Desc>
+      <Desc>Si la cantidad de Pecado llega a 5 o más, recibe Dano igual a 10% de HP máximo y remueve toda la acumulación. El 'Pecado' puede ser transferido a otro personaje al atacarlos y hacerles Dano. (Una vez por página)</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_rhino_Keyword">
@@ -796,51 +796,51 @@ Este efecto está desactivado al ser aturdido.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="NicolaiTarget">
       <Name>Marca</Name>
-      <Desc>Recibe 50% más de daño y daño de aturdimiento de los ataques.</Desc>
+      <Desc>Recebe 50% más de Dano y Dano de Atordoamento de los ataques.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="MyoBerserk">
       <Name>Modo salvaje</Name>
-      <Desc>Poder de los dados +1</Desc>
+      <Desc>Poder de todos os dados +1</Desc>
     </BattleEffectText>
 
 	  
    <!-- 게부라 최종전 -->
     <BattleEffectText ID="RedHoodFinal_Berserk">
       <Name>Rabia</Name>
-      <Desc>Dura 2 escenas. Gana 2 de Fuerza cada escena y usa páginas de ataque en masa.</Desc>
+      <Desc>Dura 2 escenas. Gana 2 de Força cada escena y usa páginas de ataque en masa.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedHoodFinal_Rage">
       <Name>Rabia desencaminada</Name>
-      <Desc>Permanente. Gana 4 de Fuerza cada escena y usa páginas de ataque en masa.</Desc>
+      <Desc>Permanente. Gana 4 de Força cada escena y usa páginas de ataque en masa.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedHoodFinal_Mark">
       <Name>Marca de la casa</Name>
-      <Desc>Recibe 50% más de daño de los ataques de la Mercenaria.</Desc>
+      <Desc>Recebe 50% más de Dano de los ataques de la Mercenaria.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="RedHoodFinal_Scar">
       <Name>Cicatrices</Name>
-      <Desc>En el comienzo de la escena, gana Sangrado igual a la cantidad de Cicatrices. Si la cantidad es 6 o mayor en el comienzo de la escena, recibe daño igual a 20% del HP máximo y remueve toda la acumulación. Cuando es atacado por el lobo, recibe daño adicional igual a la cantidad de Cicatrices. Los dados de el lobo ganan +2 de Poder contra objetivos con 4 o más Cicatrices.</Desc>
+      <Desc>En el comienzo de la escena, gana Sangramento igual a la cantidad de Cicatrices. Si la cantidad es 6 o mayor en el comienzo de la escena, recibe Dano igual a 20% del HP máximo y remueve toda la acumulación. Cuando es atacado por el lobo, recibe Dano adicional igual a la cantidad de Cicatrices. os dados de el lobo ganham +2 de Poder contra objetivos con 4 o más Cicatrices.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nothing_Skin">
       <Name>Caparazón</Name>
-      <Desc>Por la escena, copia todas las resistencias y páginas de combate del personaje que fue derrotado la anterior escena.</Desc>
+      <Desc>pela duração dessa Cena, copia todas las resistencias y páginas de combate del personaje que fue derrotado la anterior escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nothing_Fear">
       <Name>Terror</Name>
-      <Desc>Si el personaje tiene 3 o más copias de 'Terror' en la mano en el comienzo de la escena, recibe 10 de daño y daño de aturdimiento por cada copia en la mano y se vuelve Inmovilizado Por la escena.</Desc>
+      <Desc>Si el personaje tiene 3 o más copias de 'Terror' en la mano en el comienzo de la escena, recibe 10 de Dano y Dano de Atordoamento por cada copia en la mano y se vuelve Inmovilizado pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nothing_Mimic">
       <Name>Imitación</Name>
-      <Desc>Afecta las propiedades de ciertas páginas de combate. Puede acumular hasta 10. 1 Imitación se pierde al final de cada escena.</Desc>
+      <Desc>Afecta las propiedades de ciertas páginas de combate. Puede acumular hasta 10. 1 Imitación se perde al final de cada escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nosferatu_Blood">
       <Name>Sangre</Name>
-      <Desc>Usa diferentes páginas de combate dependiendo de la cantidad de Sangre. 1 Sangre se pierde cuando un personaje aguanta un daño más grande que 5% del HP máximo.</Desc>
+      <Desc>Usa diferentes páginas de combate dependiendo de la cantidad de Sangre. 1 Sangre se perde cuando un personaje aguanta un Dano más grande que 5% del HP máximo.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nosferatu_Blight">
       <Name>Miedo al Agua</Name>
-      <Desc>Dura por 2 escenas. en el comienzo de la escena, pierde 5% del HP máximo y gana 1 de Fuerza, 1 de Prisa y 5 de Sangrado. Si el personaje está en 50% HP o menos, se vuelve incontrolable y ataca aliado con una probabilidad de 25%.</Desc>
+      <Desc>Dura por 2 escenas. en el comienzo de la escena, perde 5% del HP máximo y gana 1 de Força, 1 de Celeridade y 5 de Sangramento. Si el personaje está en 50% HP o menos, se vuelve incontrolable y ataca aliado con una probabilidad de 25%.</Desc>
     </BattleEffectText>
   
     <!-- text changed -->
@@ -857,12 +857,12 @@ Este efecto está desactivado al ser aturdido.</Desc>
     
     <BattleEffectText ID="StanceChange_Keyword">
       <Name>Cambiar postura</Name>
-      <Desc>Remueve todas las páginas del mazo y la mano y se remplaza con el mazo construido con la nueva postura. Después de eso, roba hasta que el número de páginas sea igual a antes de cambiar de Postura.</Desc>
+      <Desc>Remueve todas las páginas del mazo y la mano y se remplaza con el mazo construido con la nueva postura. Depois de eso, roba hasta que el número de páginas sea igual a antes de cambiar de Postura.</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="StanceSlash">
       <Name>Postura cortante</Name>
-      <Desc>Poder de dados cortantes +2. Haz 50% de daño adicional con ataques.</Desc>
+      <Desc>Poder de dados cortantes +2. Haz 50% de Dano adicional con ataques.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="StancePenetrate">
       <Name>Postura Penetrante</Name>
@@ -870,7 +870,7 @@ Este efecto está desactivado al ser aturdido.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="StanceHit">
       <Name>Postura contundente</Name>
-      <Desc>Poder de dados contundentes +2. Haz 50% de daño de aturdimiento adicional con ataques.</Desc>
+      <Desc>Poder de dados contundentes +2. Haz 50% de Dano de Atordoamento adicional con ataques.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="StanceDefense">
       <Name>Postura de bloqueo</Name> <!-- don't need to equal to '방어' of '방어 주사위' -->
@@ -879,21 +879,21 @@ Este efecto está desactivado al ser aturdido.</Desc>
 
     <BattleEffectText ID="DefensePowerUp">
       <Name>Defensa incrementada</Name>
-      <Desc>Los dados defensivos ganan +{0} de Poder por esta escena</Desc>
+      <Desc>Os dados defensivos ganham +{0} de Poder durante essa Cena</Desc>
     </BattleEffectText>
 
     <!-- Chesed Boss -->
     <BattleEffectText ID="Lumberjack_Heart_Final">
       <Name>Corazón cálido</Name>
-      <Desc>En el comienzo de la escena, restaura Luz por la cantidad de 'Corazones cálidos'. (No tiene regeneración de Luz base) 1 Corazón cálido se pierde al final de cada escena. Puede acumular hasta 3.</Desc>
+      <Desc>En el comienzo de la escena, restaura Luz por la cantidad de 'Corazones cálidos'. (No tiene regeneración de Luz base) 1 Corazón cálido se perde al final de cada escena. Puede acumular hasta 3.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Lumberjack_Meat_Final">
       <Name>Fragmentos de corazón</Name>
-      <Desc>Incrementa el Poder de ciertas páginas de combate que Roland juega.</Desc>
+      <Desc>Aumenta o Poder de ciertas páginas de combate que Roland juega.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Lumberjack_Piece_Final">
       <Name>Piezas de Mente</Name>
-      <Desc>Si la cantidad de este estado llega a 4, gana 1 de Corazón cálido siguiente escena y remueve 4 acumulaciones de esto. 1 Pieza de Mente se pierde al final de cada escena.</Desc>
+      <Desc>Si la cantidad de este estado llega a 4, gana 1 de Corazón cálido siguiente escena y remueve 4 acumulaciones de esto. 1 Pieza de Mente se perde al final de cada escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Super_Cancel_Final">
       <Name>Casa que no puede ser alcanzada</Name>
@@ -902,7 +902,7 @@ Si esto llega a 2, una poderosa página de combate es usada la siguiente escena.
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Coward_Final">
       <Name>Cobardía</Name>
-      <Desc>Gana Endeble igual a la cantidad de veces que 'O Caminho para Casa' fue atacado esta escena.</Desc>
+      <Desc>Gana Fraco igual a la cantidad de veces que 'O Caminho para Casa' fue atacado esta escena.</Desc>
     </BattleEffectText>
     
     <!-- Ozma -->
@@ -912,7 +912,7 @@ Si esto llega a 2, una poderosa página de combate es usada la siguiente escena.
     </BattleEffectText>
     <BattleEffectText ID="Ozma_AwakenPumpkin_Strength">
       <Name>Jack del sur</Name>
-      <Desc>Gana 2 de Fuerza cada escena</Desc>
+      <Desc>Gana 2 de Força cada escena</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Ozma_AwakenPumpkin_Endurance">
       <Name>Jack del oeste</Name>
@@ -920,11 +920,11 @@ Si esto llega a 2, una poderosa página de combate es usada la siguiente escena.
     </BattleEffectText>
     <BattleEffectText ID="Ozma_AwakenPumpkin_Quickness">
       <Name>Jack del norte</Name>
-      <Desc>Gana 2 de Prisa cada escena</Desc>
+      <Desc>Gana 2 de Celeridade cada escena</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Ozma_AwakenPumpkin_BreakDmg">
       <Name>Jack del este</Name>
-      <Desc>Hace +3 daño de aturdimiento con ataques</Desc>
+      <Desc>Hace +3 Dano de Atordoamento con ataques</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Ozma_LibrarianToPumpkin">
       <Name>Memorias perdidas</Name>
@@ -932,13 +932,13 @@ Si esto llega a 2, una poderosa página de combate es usada la siguiente escena.
     </BattleEffectText>
     <BattleEffectText ID="Ozma_PumpkinToLibrarian">
       <Name>Jack perfecto</Name>
-      <Desc>Usa la página clave y páginas de combate del bibliotecario que se volvio Calabaza. Gana 2 de Fuerza, 2de  Dureza, 1 de Prisa y una Bonificación que incrementa el daño de aturdimiento en 3 cada escena.</Desc>
+      <Desc>Usa la página clave y páginas de combate del bibliotecario que se volvio Calabaza. Gana 2 de Força, 2de  Dureza, 1 de Celeridade y una Bonificación que incrementa el Dano de Atordoamento en 3 cada escena.</Desc>
     </BattleEffectText>
 
     <!-- Wizard -->
     <BattleEffectText ID="Wizard_Lumberjack">
       <Name>Lenhador de Coração Caloroso</Name>
-      <Desc>Después de hacer 30 o más de daño a enemigos en una sola escena durante la Fase de este personaje, restaura completamente la Luz de todos los personajes incluyendote a ti mismo.</Desc>
+      <Desc>Depois de hacer 30 o más de Dano a enemigos en una sola escena durante la Fase de este personaje, restaura completamente la Luz de todos los personajes incluyendote a ti mismo.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Scarecrow">
       <Name>Espantalho em Busca de Sabedoria</Name>
@@ -991,15 +991,15 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Lion_Courage">
       <Name>Coraje</Name>
-      <Desc>Elimina todo Endeble, Desarmar y Frágil de ti mismo. Gana 10 de Fuerza y 5 de Prisa.</Desc>
+      <Desc>Elimina todo Fraco, Desarmar y Frágil de ti mismo. Gana 10 de Força y 5 de Celeridade.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Lion_Coward">
       <Name>Cobardía</Name>
-      <Desc>5 Endeble, Desarmar y Frágil es aplicado a ti mismo cada escena hasta el final de la batalla.</Desc>
+      <Desc>5 Fraco, Desarmar y Frágil es aplicado a ti mismo cada escena hasta el final de la batalla.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Ozma_Support">
       <Name>Ayudando a Jack</Name>
-      <Desc>Los dados ofensivos ganan +2 de Poder por esta escena.</Desc>
+      <Desc>Os dados ofensivos ganham +2 de Poder durante essa Cena.</Desc>
     </BattleEffectText>
 
     <!-- 환상체카드 -->
@@ -1009,27 +1009,27 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
     </BattleEffectText>
     <BattleEffectText ID="Wizard_potion">
       <Name>Coraje liquido</Name>
-      <Desc>Haz +6 de daño con ataques; Recibe +3 de daño de los ataques</Desc>
+      <Desc>Haz +6 de Dano con ataques; Recebe +3 de Dano de los ataques</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_poket">
       <Name>Saco de aserrín</Name>
-      <Desc>Al ganar un choque, recupera 8 de resistencia al aturdimiento; Al perder un choque, recibe 4 de daño de aturdimiento</Desc>
+      <Desc>Ao Vencer um Embate, recupera 8 de resistencia al aturdimiento; Ao Perder um Embate, recibe 4 de Dano de Atordoamento</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_heart">
       <Name>Corazón de plomo</Name>
-      <Desc>Cada escena, pierde 5 de HP y restaura 1 de Luz adicional</Desc>
+      <Desc>Cada escena, perde 5 de HP y restaura 1 de Luz adicional</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_home">
       <Name>Casa que no puede ser alcanzada</Name>
-      <Desc>Al perder un choque, haz 4 de daño de aturdimiento a ti mismo y añade +2 Poder al próximo dado</Desc>
+      <Desc>Ao Perder um Embate, haz 4 de Dano de Atordoamento a ti mismo y añade +2 Poder al próximo dado</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_change">
       <Name>Transformación</Name>
-      <Desc>Al realizar un ataque exitoso en un choque, destruye el próximo dado del oponente con una probabilidad de 50%; al recibir un golpa de un choque, destruye el próximo dado de ti mismo con una probabilidad de 50%.</Desc>
+      <Desc>Al realizar un ataque exitoso en un Embate, destruye el próximo dado del oponente con una probabilidad de 50%; al recibir un golpa de un Embate, destruye el próximo dado de ti mismo con una probabilidad de 50%.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_emerald">
       <Name>Esmeralda</Name>
-      <Desc>Cualquier personaje que golpea esto restaura 1 de Luz por esta escena. (Hasta 2 por personaje)</Desc>
+      <Desc>Cualquier personaje que golpea esto restaura 1 de Luz durante essa Cena. (Hasta 2 por personaje)</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_xiao_Keyword">
@@ -1041,22 +1041,22 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
       <Desc>Solo se pueden colocar en mazos con las páginas clave de Chun y Miris.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BreakProtection_Keyword">
-      <Name>Protección aturdimiento X</Name>
-      <Desc>Recibe X menos de daño de aturdimiento de ataques por la escena.</Desc>
+      <Name>Proteção aturdimiento X</Name>
+      <Desc>Recebe X menos de Dano de Atordoamento de ataques pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BreakProtection">
-      <Name>Protección aturdimiento</Name>
-      <Desc>Recibe {0} menos de daño de aturdimiento de ataques esta escena.</Desc>
+      <Name>Proteção aturdimiento</Name>
+      <Desc>Recebe {0} menos de Dano de Atordoamento de ataques esta escena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="NullifyPowerReady">
       <Name>Pú Láo</Name>
-      <Desc>El efecto de Pú Láo se activará en {0} escena(s), anula los cambios de Poder de los dados</Desc>
+      <Desc>El efecto de Pú Láo se activará en {0} Cena(s), anula los cambios de Poder de todos os dados</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="BurnDown">
       <Name>Escudo contra llamas</Name>
-      <Desc>Recibe 10 menos de daño de Quemadura por esta escena</Desc>
+      <Desc>Recebe 10 menos de Dano de Queimadura durante essa Cena</Desc>
     </BattleEffectText>
 
     <!-- Binah Final Stuff -->
@@ -1066,15 +1066,15 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
     </BattleEffectText>
     <BattleEffectText ID="SmallBird_Punish_Final">
       <Name>Castigo</Name>
-      <Desc>Recibe +8 de daño de los ataques de Roland.</Desc>
+      <Desc>Recebe +8 de Dano de los ataques de Roland.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="SmallBird_Vigil_Final">
       <Name>Vigilancia</Name>
-      <Desc>Gana Fuerza igual a la cantidad de veces que alidos con menos velocidad fueron atacados esta escena.</Desc>
+      <Desc>Gana Força igual a la cantidad de veces que alidos con menos velocidad fueron atacados esta escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Final_BigBird_Charm">
       <Name>Encantado</Name>
-      <Desc>Dura {0} escena(s). incontrolable. velocidad es fijada en 1. Usa una página de combate especial, apunta a Roland. No recibe daño fisico cuando es golpeado por aliados. removido cuando el personaje es aturdido.</Desc>
+      <Desc>Dura {0} Cena(s). incontrolable. velocidad es fijada en 1. Usa una página de combate especial, apunta a Roland. No recibe Dano fisico cuando es golpeado por aliados. removido cuando el personaje es aturdido.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Final_BigBird_Darkness">
       <Name>Oscuridad</Name>
@@ -1087,7 +1087,7 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
 
     <BattleEffectText ID="ApocalypseBird_Sin">
       <Name>Culpa pesada</Name>
-      <Desc>Recibe {0} daño de aturdimiento adicional al golpear. Si la cantidad es 5 o mayor al final de la escena, recibe 10% del HP máximo como daño y remueve toda la acumulación.</Desc>
+      <Desc>Recebe {0} Dano de Atordoamento adicional al golpear. Si la cantidad es 5 o mayor Ao final da Cena, recibe 10% del HP máximo como Dano y remueve toda la acumulación.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ApocalypseBird_Charm">
       <Name>Horrorizado</Name>
@@ -1103,17 +1103,17 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
     </BattleEffectText>
     <BattleEffectText ID="ApocalypseBird_SmallBeak">
       <Name>Huevo del apocalipsis - Pico pequeño</Name>
-      <Desc>El coste de 2 páginas aleatorias en la mano de bibliotecario aumentan en 1 por la escena</Desc>
+      <Desc>El coste de 2 páginas aleatorias en la mano de bibliotecario aumentan en 1 pela duração dessa Cena</Desc>
     </BattleEffectText>
 
 
     <BattleEffectText ID="ApocalypseBird_Apocalypse">
       <Name>La bestia</Name>
-      <Desc>Los dados de personajes atacando/atacados por este personaje no son afectado por efectos relacionados al Poder. Esos dados tienen su resulado minimo y máximo reducido en 3.</Desc>
+      <Desc>Os dados de personajes atacando/atacados por este personaje no son afectado por efectos relacionados al Poder. Esos dados tienen su resulado minimo y máximo reducido en 3.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ApocalypseBird_Peace">
       <Name>Intruso</Name>
-      <Desc>Dura {0} escena(s). Todos los ataques hechos por este personaje hacen 2-4 menos de daño y daño de aturdimiento. Recibe 1-2 de daño adicional al golpear.</Desc>
+      <Desc>Dura {0} Cena(s). Todos los ataques hechos por este personaje hacen 2-4 menos de Dano y Dano de Atordoamento. Recebe 1-2 de Dano adicional al golpear.</Desc>
     </BattleEffectText>
   
     <BattleEffectText ID="onlypage_yan_Keyword">
@@ -1137,15 +1137,15 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_Awe">
       <Name>Reverencia</Name>
-      <Desc>Al final de la escena, recibe {0} daño de aturdimiento y pierde 1 acumulación de este estado.</Desc>
+      <Desc>Ao final da Cena, recibe {0} Dano de Atordoamento y perde 1 acumulación de este estado.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_ApostlePowerUp">
       <Name>Revelación</Name>
-      <Desc>Los dados ofensivos los Apóstoles ganan +2 de Poder cuando pelean con un personaje con este estado.</Desc>
+      <Desc>Os dados ofensivos los Apóstoles ganham +2 de Poder cuando pelean con un personaje con este estado.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_BeApostle">
       <Name>Llamada</Name>
-      <Desc>Este personaje morirá al final de la escena; Un Apóstol Guárdian aparecerá cuando esto suceda.</Desc>
+      <Desc>Este personaje morirá Ao final da Cena; Un Apóstol Guárdian aparecerá cuando esto suceda.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_SuspendedAnimation">
       <Name>Suspendido</Name>
@@ -1153,7 +1153,7 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_Protection">
       <Name>Corona de espinas</Name>
-      <Desc>Gana de forma permanente 100 de Protección y 100 de Protección al aturdimiento por esta batalla.</Desc> <!-- Need dev confirmation here -->
+      <Desc>Gana de forma permanente 100 de Proteção y 100 de Proteção al aturdimiento por esta batalla.</Desc> <!-- Need dev confirmation here -->
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_WeakResist">
       <Name>Sin guardia</Name>
@@ -1170,7 +1170,7 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
     </BattleEffectText>
     <BattleEffectText ID="Emotion_BlueStar_MartyrBuf">
       <Name>Martir</Name>
-      <Desc>En un golpe exitoso esta escena, haz 4-6 de daño de aturdimiento adicional pero recibe 1-3 de daño.</Desc>
+      <Desc>En un golpe exitoso esta escena, haz 4-6 de Dano de Atordoamento adicional pero recibe 1-3 de Dano.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Emotion_BlueStar_SoundBuf_Cool">
       <Name>Un sonido nostalgico</Name>
@@ -1178,7 +1178,7 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
     </BattleEffectText>
     <BattleEffectText ID="Emotion_BlueStar_SoundBuf">
       <Name>¡Puedo oir el sonido de una estrella!</Name>
-      <Desc>Haz +2-4 daño de aturdimiento con ataques esta escena.</Desc>
+      <Desc>Haz +2-4 Dano de Atordoamento con ataques esta escena.</Desc>
     </BattleEffectText>
 
 
@@ -1190,11 +1190,11 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
 
     <BattleEffectText ID="HanaPassive1">
       <Name>Geon</Name>
-      <Desc>Gana 1 de Fuerza y haz 2 de daño y daño de aturdimiento adicional con ataques esta escena.</Desc>
+      <Desc>Gana 1 de Força y haz 2 de Dano y Dano de Atordoamento adicional con ataques esta escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HanaPassive2">
       <Name>Gon</Name>
-      <Desc>Gana 1 de Dureza y recibe 30% menos de daño y daño de aturdimiento de ataques esta escena.</Desc>
+      <Desc>Gana 1 de Dureza y recibe 30% menos de Dano y Dano de Atordoamento de ataques esta escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HanaPassive3">
       <Name>Gam</Name>
@@ -1207,11 +1207,11 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
 
     <BattleEffectText ID="HanaSpecialCard1">
       <Name>Efecto adicional</Name>
-      <Desc>Geon - ‘Al usar: Todos los dados en esta página ganan +1 de Poder’</Desc>
+      <Desc>Geon - ‘Al usar: Todos os dados en esta página ganham +1 de Poder’</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HanaSpecialCard2">
       <Name>Efecto adicional</Name>
-      <Desc>Gon - ‘Comienzo del combate: Gana 2 de Protección y Protección al aturdimiento’</Desc>
+      <Desc>Gon - ‘Comienzo del combate: Gana 2 de Proteção y Proteção al aturdimiento’</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HanaSpecialCard3">
       <Name>Efecto adicional</Name>
@@ -1225,7 +1225,7 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackSilenceCardCount">
       <Name>O Silêncio Preto</Name>
-      <Desc>Cuando la cantidad de este estado es 2, todos los dados en la próxima página de combate ganarán +2 de Poder.</Desc>
+      <Desc>Cuando la cantidad de este estado es 2, todos os dados en la próxima página de combate ganharão +2 de Poder.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="RolandAndOlivier">
@@ -1236,7 +1236,7 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
     <!--세븐 협회-->
     <BattleEffectText ID="DanteGraspInformation">
       <Name>Evaluar información</Name>
-      <Desc>{0} es cambiado a "Normal" por esta escena.</Desc>
+      <Desc>{0} es cambiado a "Normal" durante essa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="DanteWeakPointDetection">
       <Name>Debilidad expuesta</Name>
@@ -1245,13 +1245,13 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
 
     <BattleEffectText ID="Engard_Keyword">
       <Name>En Garde</Name>
-      <Desc>Una página de combate de coste 2 con un dado cortante (6-10); 'Se Agota al usarse; [Al usar] Da 1 de Fuerza al objetivo a ti mismo la siguiente escena'</Desc>
+      <Desc>Una página de combate de coste 2 con un dado cortante (6-10); 'Se Agota al usarse; [Al usar] Da 1 de Força al objetivo a ti mismo la siguiente escena'</Desc>
     </BattleEffectText>
 
     <!-- sword -->
     <BattleEffectText ID="Giveuptheflesh_Keyword">
       <Name>Para reclamar sus huesos</Name>
-      <Desc>Una página de combate de coste 5 con un dado de Contraataque cortante(14-23); 'Se Agota al usarse; [Al golpear] Inflige 5 de Parálisis y 3 de Sangrado; no puedes tener 2 a la vez'</Desc>
+      <Desc>Una página de combate de coste 5 con un dado de Contraataque cortante(14-23); 'Se Agota al usarse; [Ao Golpear] Inflige 5 de Parálisis y 3 de Sangramento; no puedes tener 2 a la vez'</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="onlypage_kim">
@@ -1287,22 +1287,22 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
 
     <BattleEffectText ID="Librarian_PuppetThread">
       <Name>Cuerdas de titiritero</Name>
-      <Desc>En el comienzo de la escena, gana 1 de Fuerza o Dureza. El HP no puede bajar de 1. Si el HP llega a 1 o un aliado con la habilidad pasiva 'Cuerdas de títere' no está presente, este estado es removido al final de la escena.</Desc>
+      <Desc>En el comienzo de la escena, gana 1 de Força o Dureza. El HP no puede bajar de 1. Si el HP llega a 1 o un aliado con la habilidad pasiva 'Cuerdas de títere' no está presente, este estado es removido Ao final da Cena.</Desc>
     </BattleEffectText>
 
 
     
     <BattleEffectText ID="HeavySmoke">
       <Name>Bruma sofocante</Name>
-      <Desc>Puede acumular hasta 3. El personaje recibe un problema de estado aleatorio (Sangrado, Parálisis, Endeble, Desarmar, Atadura, o Frágil) por cada acumulación de Bruma Sofocante al comienzo de la siguiente escena, pierde toda la Bruma Sofocante.</Desc>
+      <Desc>Puede acumular hasta 3. El personaje recibe un problema de estado aleatorio (Sangramento, Parálisis, Fraco, Desarmar, Amarrado, o Frágil) por cada acumulación de Bruma Sofocante al comienzo de la siguiente escena, perde toda la Bruma Sofocante.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HeavySmoke_buf">
       <Name>Bruma sofocante</Name>
-      <Desc>Puede acumular hasta 3. El personaje recibe un problema de estado aleatorio (Sangrado, Parálisis, Endeble, Desarmar, Atadura, o Frágil) por cada acumulación de Bruma Sofocante al comienzo de la siguiente escena, pierde toda la Bruma Sofocante.</Desc>
+      <Desc>Puede acumular hasta 3. El personaje recibe un problema de estado aleatorio (Sangramento, Parálisis, Fraco, Desarmar, Amarrado, o Frágil) por cada acumulación de Bruma Sofocante al comienzo de la siguiente escena, perde toda la Bruma Sofocante.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HeavySmoke_Keyword">
       <Name>Bruma Sofocante</Name>
-      <Desc>Puede acumula hasta 3. El personaje recibe un problema de estado aleatorio (Sangrado, Parálisis, Endeble, Desarmar, Atadura, o Frágil) por cada acumulación de este efecto al comienzo de siguiente escena. Pierde todas las acumulaciones.</Desc>
+      <Desc>Puede acumula hasta 3. El personaje recibe un problema de estado aleatorio (Sangramento, Parálisis, Fraco, Desarmar, Amarrado, o Frágil) por cada acumulación de este efecto al comienzo de siguiente escena. Perde todas las acumulaciones.</Desc>
     </BattleEffectText>
 
     <!--검은침묵 3페이즈-->
@@ -1312,23 +1312,23 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackEnergy">
       <Name>Presencia oscura</Name>
-      <Desc>Dura 1 escena. Poder de los dados +1 cuando luchas con Angelica.</Desc>
+      <Desc>Dura 1 escena. Poder de todos os dados +1 cuando luchas con Angelica.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteEnergy">
       <Name>Presencia blanca</Name>
-      <Desc>Dura 1 escena. Poder de los dados +1 cuando luchas con Roland.</Desc>
+      <Desc>Dura 1 escena. Poder de todos os dados +1 cuando luchas con Roland.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackMark">
       <Name>Marca oscura</Name>
-      <Desc>Apuntado por Roland. Los dados ofensivos de Roland ganan +3 de Poder contra este personaje.</Desc>
+      <Desc>Apuntado por Roland. Os dados ofensivos de Roland ganham +3 de Poder contra este personaje.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackFrantic">
       <Name>Frenético</Name>
-      <Desc>En el comienzo de la escena, pierde 50% de la resistencia al aturdimiento actual (Solo una vez). Gana 2 de Fuerza y Prisa cada escena.</Desc>
+      <Desc>En el comienzo de la escena, perde 50% de la resistencia al aturdimiento actual (Solo una vez). Gana 2 de Força y Celeridade cada escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteLoss">
       <Name>Desconsolada</Name>
-      <Desc>Inflige 3 de Atadura, Parálisis y Frágil cada escena.</Desc>
+      <Desc>Inflige 3 de Amarrado, Parálisis y Frágil cada escena.</Desc>
     </BattleEffectText>
 
     <!--검은침묵 4페이즈-->
@@ -1338,65 +1338,65 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Weapon">
       <Name>Rotura de arma</Name>
-      <Desc>Ignora los efectos de Cicatriz de Roland. Los dados ofensivos ganan +1 de Poder contra Roland.</Desc>
+      <Desc>Ignora los efectos de Cicatriz de Roland. Os dados ofensivos ganham +1 de Poder contra Roland.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_DmgReduction_Hit">
       <Name>Cicatrices - Contusiones</Name>
-      <Desc>Recibe 2-5 menos de daño de ataques contundentes. Cuando eres golpeado por un ataque contundente, hay una probabilidad del 25% de reducir el daño a 0.</Desc>
+      <Desc>Recebe 2-5 menos de Dano de ataques contundentes. Cuando eres golpeado por un ataque contundente, hay una probabilidad del 25% de reducir el Dano a 0.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_DmgReduction_Penetrate">
       <Name>Cicatrices - Perforaciones</Name>
-      <Desc>Recibe 2-5 menos de daño de ataques perforantes. Cuando eres golpeado por un ataque perforante, hay una probabilidad del 25% de reducir el daño a 0.</Desc>
+      <Desc>Recebe 2-5 menos de Dano de ataques perforantes. Cuando eres golpeado por un ataque perforante, hay una probabilidad del 25% de reducir el Dano a 0.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_DmgReduction_Slash">
       <Name>Cicatrices - Cortadas</Name>
-      <Desc>Recibe 2-5 menos de daño de ataques cortantes. Cuando eres golpeado por ataque cortante, hay probabilidad del 25% de reducir el daño a 0.</Desc>
+      <Desc>Recebe 2-5 menos de Dano de ataques cortantes. Cuando eres golpeado por ataque cortante, hay probabilidad del 25% de reducir el Dano a 0.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Blood">
       <Name>Sangre</Name>
-      <Desc>Los dados defensivos ganan 1-2 de Poder esta escena. Si un dado defensivo pierde un choque, recibe 3-6 de daño de aturdimiento.</Desc>
+      <Desc>Os dados defensivos ganham 1-2 de Poder esta escena. Si un dado defensivo perde un Embate, recibe 3-6 de Dano de Atordoamento.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Gaze">
       <Name>Leer</Name>
-      <Desc>Gana 1 de Fuerza esta escena. Si un dado ofensivo falla en hacer daño, recibe 3-6 de daño de aturdimiento. La Fuerza ganada incrementa en 1 cuando este efecto se activa.</Desc>
+      <Desc>Gana 1 de Força esta escena. Si un dado ofensivo falla en hacer Dano, recibe 3-6 de Dano de Atordoamento. La Força ganada incrementa en 1 cuando este efecto se activa.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Curiosity">
       <Name>Curiosidad</Name>
-      <Desc>Por esta escena, al golpear, baraja dos páginas aleatorias en la mano del objetivo de vuelta a su mazo.</Desc>
+      <Desc>durante essa Cena, al golpear, baraja dos páginas aleatorias en la mano del objetivo de vuelta a su mazo.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Kiss">
       <Name>Beso</Name>
-      <Desc>Prioriza apuntar bibliotecarios con Atadura. por esta escena, al ganar un choque, inflige Astilla de hielo a el oponente. Al final de la escena, personajes con3 o más Astillas de hielo se vuelven Inmovilizado por la siguiente escena.</Desc>
+      <Desc>Prioriza apuntar bibliotecarios con Amarrado. durante essa Cena, Ao Vencer um Embate, inflige Astilla de hielo a el oponente. Ao final da Cena, personajes con3 o más Astillas de hielo se vuelven Inmovilizado por la siguiente escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_NonTargetable">
       <Name>Listo para actuar</Name>
-      <Desc>Por {0} escenas, no Actua, no puede ser objetivo y no puede recibir daño de Efectos de Estado. Cuando este personaje vuelve a la acción después de {0} escenas, todos los efectos de estado son eliminados.</Desc>
+      <Desc>Por {0} escenas, no Actua, no puede ser objetivo y no puede recibir Dano de Efectos de Estado. Cuando este personaje vuelve a la acción después de {0} escenas, todos los efectos de estado son eliminados.</Desc>
     </BattleEffectText>
 
 
   <!--Distorted Philip-->    
    <BattleEffectText ID="Arrest">
      <Name>Restricción</Name>
-     <Desc>Este estado no se pierde al final de la escena. Si Philip golpea un personaje con 3 o más acumulacion de este estado, Ellos están Inmovilizados por la siguiente escena.</Desc>
+     <Desc>Este estado no se perde Ao final da Cena. Si Philip golpea un personaje con 3 o más acumulacion de este estado, Ellos están Inmovilizados por la siguiente escena.</Desc>
    </BattleEffectText>
    <BattleEffectText ID="Arrest_buf">
      <Name>Restricción</Name>
-     <Desc>Este estado no se pierde al final de la escena.</Desc>
+     <Desc>Este estado no se perde Ao final da Cena.</Desc>
    </BattleEffectText>
    <BattleEffectText ID="Arrest_Keyword">
      <Name>Restricción</Name>
-     <Desc>Este estado no se pierde al final de la escena.</Desc>
+     <Desc>Este estado no se perde Ao final da Cena.</Desc>
    </BattleEffectText>
 
 
     <!--잔향악단 중층-->
     <BattleEffectText ID="Tanya_Killed">
       <Name>Tomenta violenta</Name>
-      <Desc>Por la duración del acto, Haz +3 de daño con ataques.</Desc>
+      <Desc>Por la duración del acto, Haz +3 de Dano con ataques.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Jaeheon_Killed">
       <Name>Carne desatada</Name>
-      <Desc>Por la duración del acto, gana 1-3 de Prisa en el comienzo de la escena y todos los dados ganan +1 de Poder.</Desc>
+      <Desc>Por la duración del acto, gana 1-3 de Celeridade en el comienzo de la escena y todos os dados ganham +1 de Poder.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Jaeheon_String">
       <Name>Cuerdas de títeres</Name>
@@ -1404,11 +1404,11 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Oswald_String">
       <Name>Hilos rojos</Name>
-      <Desc>En {0} escenas, Si dos o más personajes tienen este estado, ellos mueren y Sr. Conejo aparecerá. Si un Bibliotercario tiene este estado, ellos ganan 10 de Prisa en el comienzo de la escena. Se remueve si Oswald o Jae-heon mueren.</Desc>
+      <Desc>En {0} escenas, Si dos o más personajes tienen este estado, ellos mueren y Sr. Conejo aparecerá. Si un Bibliotercario tiene este estado, ellos ganham 10 de Celeridade en el comienzo de la escena. Se remueve si Oswald o Jae-heon mueren.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Oswald_Vulnerable">
-      <Name>Vulnerable</Name>
-      <Desc>Todas las resistencias cambian a "Fatal" por esta escena.</Desc>
+      <Name>Vulnerável</Name>
+      <Desc>Todas as resistências se tornam "Fatal" durante essa Cena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="RolandWeak">
@@ -1432,19 +1432,19 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
     <!-- 심장 -->
     <BattleEffectText ID="KeterFinal_Eager">
       <Name>Anhelo</Name>
-      <Desc>Mientras este personaje está a la Ofensiva, gana Fuerza igual a la cantidad de este estado. La cantidad de Anhelo es reseteado cuando este personaje está aturdido o cuando la escena en la que Aspiración está en la Ofensiva termina.</Desc>
+      <Desc>Mientras este personaje está a la Ofensiva, gana Força igual a la cantidad de este estado. La cantidad de Anhelo es reseteado cuando este personaje está aturdido o cuando la escena en la que Aspiración está en la Ofensiva termina.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_FerventBeats">
       <Name>Latidos fervientes</Name>
-      <Desc>El personaje muere en {0} escenas. Al comienzo de cada escena, gana 4 de Fuerza, Dureza, Prisa y Protección.
-Resistencia al daño de aturdimiento cambia a "Inefectivo".
+      <Desc>El personaje muere en {0} escenas. Al comienzo de cada escena, gana 4 de Força, Dureza, Celeridade y Proteção.
+Resistencia al Dano de Atordoamento cambia a "Inefectivo".
 Cuando Aspiración no está a la Ofensiva, este personaje utilizará páginas de combate especiales.
 Cuando este efecto se activa, el efecto de 'Ansia' es removido.
 Este efecto es removido cuando la Ofensiva de Aspiración acaba.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_Lung1">
       <Name>Ansia - La fe</Name>
-      <Desc>En el comienzo de la escena, gana Fuerza y Dureza igual a la mitad de 'Anhelo' que Aspiración tiene (Redondeado hacia arriba).</Desc>
+      <Desc>En el comienzo de la escena, gana Força y Dureza igual a la mitad de 'Anhelo' que Aspiración tiene (Arredondado para cima ).</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_Lung2">
       <Name>Ansia - El dolor</Name>
@@ -1452,21 +1452,21 @@ Este efecto es removido cuando la Ofensiva de Aspiración acaba.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_Lung3">
       <Name>Ansia - El esfuerzo</Name>
-      <Desc>Al golpear, da 1 de Anhelo a Aspiración. Si el personaje falla en hacer daño al final de la escena, Aspiración pierde 2 de Anhelo.</Desc>
+      <Desc>Al golpear, da 1 de Anhelo a Aspiración. Si el personaje falla en hacer Dano Ao final da Cena, Aspiración perde 2 de Anhelo.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_Lung4">
       <Name>Ansia - La espera</Name>
-      <Desc>Al final de la escena, da 3 de Anhelo a Aspiración.</Desc>
+      <Desc>Ao final da Cena, da 3 de Anhelo a Aspiración.</Desc>
     </BattleEffectText>
 
     <!-- 피노키오 -->
     <BattleEffectText ID="KeterFinal_FailLying">
       <Name>¿Por qué es malo?</Name>
-      <Desc>La mentira ha sido descubierta. inflige 4 de Endeble y Desarmar y la resistencia al daño de aturdimiento cambia a "Fatal".</Desc>
+      <Desc>La mentira ha sido descubierta. inflige 4 de Fraco y Desarmar y la resistencia al Dano de Atordoamento cambia a "Fatal".</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SuccessLying">
       <Name>Lalala~</Name>
-      <Desc>La mentira no ha sido atrapada. Gana 4 de Fuerza y Dureza.</Desc>
+      <Desc>La mentira no ha sido atrapada. Gana 4 de Força y Dureza.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_ChangeCostAll">
       <Name>Una canción de mentiras</Name>
@@ -1484,19 +1484,19 @@ Este efecto es removido cuando la Ofensiva de Aspiración acaba.</Desc>
     <!-- 아무 말 없는 소녀 -->
     <BattleEffectText ID="KeterFinal_SilenceGirl_Nail">
       <Name>Clavos</Name>
-      <Desc>Recibe {0} de daño adicional de Martillo. Pierde 1 de Clavo al final de la escena.</Desc>
+      <Desc>Recebe {0} de Dano adicional de Martillo. Perde 1 de Clavo Ao final da Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Gaze_Attack">
       <Name>Ansiedad</Name>
-      <Desc>Por esta escena, cualquier dado en peleas que involucre a este personaje no es afectado por Aumento o Reducción de Poder. Haz +1~2 de daño con ataques. Si el personaje falla en hacer cualquier daño con los dados ofensivos esta escena, recibe 15 daño de aturdimiento.</Desc>
+      <Desc>Durante essa Cena, cualquier dado en peleas que involucre a este personaje no es afectado por Aumento o Reducción de Poder. Haz +1~2 de Dano con ataques. Si el personaje falla en hacer cualquier Dano con os dados ofensivos esta escena, recibe 15 Dano de Atordoamento.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Gaze_Defense">
       <Name>Miedo</Name>
-      <Desc>Por esta escena, cualquier dado en peleas que involucre a este personaje no es afectado por Aumento o Reducción de Poder. Haz +1~2 daño de aturdimiento en un Reflejo. Si el personaje falla en hacer cualquier daño Reflejado con dados de bloqueo esta escena, recibe 15 daño de aturdimiento.</Desc>
+      <Desc>Durante essa Cena, cualquier dado en peleas que involucre a este personaje no es afectado por Aumento o Reducción de Poder. Haz +1~2 Dano de Atordoamento en un Reflejo. Si el personaje falla en hacer cualquier Dano Reflejado con dados de bloqueo esta escena, recibe 15 Dano de Atordoamento.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Gaze_Attacked">
       <Name>Autorreproche</Name>
-      <Desc>Por esta escena, cualquier dado en peleas que involucre a este personaje no es afectado por Aumento o Reducción de Poder. Recibe 1~2 de daño de aturdimiento menos de los ataques. Si el personaje no recibe ningún daño esta escena, recibe 15 daño de aturdimiento.</Desc>
+      <Desc>Durante essa Cena, cualquier dado en peleas que involucre a este personaje no es afectado por Aumento o Reducción de Poder. Recebe 1~2 de Dano de Atordoamento menos de los ataques. Si el personaje no recibe ningún Dano esta escena, recibe 15 Dano de Atordoamento.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Light">
       <Name>Luz tenue</Name>
@@ -1509,7 +1509,7 @@ Este efecto es removido cuando la Ofensiva de Aspiración acaba.</Desc>
 
     <BattleEffectText ID="KeterFinal_Light">
       <Name>Luz calida</Name>
-      <Desc>Sientes la Fuerza para dar un paso hacia delante.</Desc>
+      <Desc>Sientes la Força para dar un paso hacia delante.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_Cogito">
       <Name>El último fragmento de Luz</Name>
@@ -1523,15 +1523,15 @@ Este efecto es removido cuando la Ofensiva de Aspiración acaba.</Desc>
 
     <BattleEffectText ID="CardBuf_KeterFinal_SilenceGirl_CostDown">
       <Name>Coste reducido</Name>
-      <Desc>Coste -{0}, Poder de los dados en esta página -{0}. Se resetea cuando se descarta o se usa.</Desc>
+      <Desc>Coste -{0}, Poder de todos os dados en esta página -{0}. Se resetea cuando se descarta o se usa.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="CardBuf_KeterFinal_SilenceGirl_CostUp">
       <Name>Coste aumentado</Name>
-      <Desc>Coste +{0}, Poder de los dados en esta página +{0}. Se resetea cuando se descarta o se usa.</Desc>
+      <Desc>Coste +{0}, Poder de todos os dados en esta página +{0}. Se resetea cuando se descarta o se usa.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_BlackHand_Attacked">
       <Name>Convicción</Name>
-      <Desc>Poder de los dados +10</Desc>
+      <Desc>Poder de todos os dados +10</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="KeterFinal_SilenceGirl_Sin_Ready">
@@ -1541,7 +1541,7 @@ Este efecto es removido cuando la Ofensiva de Aspiración acaba.</Desc>
     
     <BattleEffectText ID="QuietKid_Hammer_Buf">
       <Name>Clavos</Name> <!-- used in '못과 망치' -->
-      <Desc>Cuando eres golpeado por un ataque contundente, el personaje recibe 5 de daño por cada acumulación de este estado, luego de eso se elimina.</Desc>
+      <Desc>Cuando eres golpeado por un ataque contundente, el personaje recibe 5 de Dano por cada acumulación de este estado, luego de eso se elimina.</Desc>
     </BattleEffectText>
 
     <!-- 환상체 책장: 열망-->
@@ -1552,7 +1552,7 @@ Este efecto es removido cuando la Ofensiva de Aspiración acaba.</Desc>
     <!-- 황상체 책장: 그리웠던 옛날의 포옹-->
     <BattleEffectText ID="Teddy_Head">
       <Name>Memorias nostalgicas</Name>
-      <Desc>Al ganar un choque, haz daño de aturdimiento adicional igual al resultado del dado con probabilidad de 20%. enfrentarte contra el mismo personaje varias veces incrementará la probabilidad.</Desc>
+      <Desc>Ao Vencer um Embate, haz Dano de Atordoamento adicional igual al resultado del dado con probabilidad de 20%. enfrentarte contra el mismo personaje varias veces incrementará la probabilidad.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="oneinch_penetrate">
@@ -1580,11 +1580,11 @@ Este efecto es removido cuando la Ofensiva de Aspiración acaba.</Desc>
 
     <BattleEffectText ID="Freischutz_Request">
       <Name>Objetivo requerido</Name>
-      <Desc>Recibe +3-5 de daño del personaje con la página de Anormalidad 'Solicitud'.</Desc>
+      <Desc>Recebe +3-5 de Dano del personaje con la página de Anormalidad 'Solicitud'.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="CardBuf_NihilClown_Card">
       <Name>Lucha sin sentido</Name>
-      <Desc>Gana 1 'Pasos hacia la futilidad' Al perder un choque usando la página con este Simbolo.</Desc>
+      <Desc>Gana 1 'Pasos hacia la futilidad' Ao Perder um Embate usando la página con este Simbolo.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Buf_NihilClown_Card">
       <Name>Pasos hacia la futilidad</Name>
@@ -1592,19 +1592,19 @@ Este efecto es removido cuando la Ofensiva de Aspiración acaba.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="NihilClown_Card">
       <Name>Inútil</Name>
-      <Desc>Gana 5 de Protección cada escena. Inmune a los efectos de estado.
+      <Desc>Gana 5 de Proteção cada escena. Inmune a los efectos de estado.
 Cuando golpea, el atacante recibe 1 Erosión y Frágil siguiente escena. (Dos veces por escena)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nosferatu_BloodHope">
       <Name>Sangre</Name>
       <Desc>3 acumulaciones de Sangre son perdidas al final de cada escena.
-En 0 de Sangre: Pierde 4-8 de resistencia al aturdimiento en el comienzo de la escena. 
-En 1+ de Sangre: Cuando lanzas un dado ofensivo, pierde 2-7 de HP, e incrementa el daño en 3-7.
-At 15+ de Sangre: Gana 2 de Fuerza. La cantidad de Sangre es reseteada al comienzo de la siguiente escena.</Desc>
+En 0 de Sangre: Perde 4-8 de resistencia al aturdimiento en el comienzo de la escena. 
+En 1+ de Sangre: Cuando lanzas un dado ofensivo, perde 2-7 de HP, e incrementa el Dano en 3-7.
+At 15+ de Sangre: Gana 2 de Força. La cantidad de Sangre es reseteada al comienzo de la siguiente escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ApocalypseBird_BigEyeEffect">
       <Name>Encantado por Pájaro grande</Name>
-      <Desc>Apunta al personaje con la página de Anormalidad &lt;'Ojos Grandes'&gt;. Hace +2-4 de daño con ataques.</Desc>
+      <Desc>Apunta al personaje con la página de Anormalidad &lt;'Ojos Grandes'&gt;. Hace +2-4 de Dano con ataques.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Matan_Flame">
