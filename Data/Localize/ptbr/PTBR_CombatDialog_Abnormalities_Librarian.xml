@@ -1,29 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="Bloodbath_roland_start">Angela tiene razón, este lugar es raro. También hay coágulos de sangre por todas partes…</text>
-	<text id="Bloodbath_roland_die">No espere morir por culpa de un monstruo raro…</text>
-	<text id="Bloodbath_roland_kill">Creo que tengo que ser agradecido de que el monstruo era más débil de lo que solía… Estuvo cerca.</text>
-	<text id="Heart_roland_start">¿Esa cosa puede dar poder? ¿eh?… ¿Se siente como tener dos corazones o algo así?</text>
-	<text id="Heart_roland_die">No espere morir por culpa de un monstruo raro…</text>
-	<text id="Heart_roland_kill">Termino todo muy rápido para una pelea contra criaturas, ¿eh?</text>
-	<text id="Heart_librarian_start">Mi cuerpo se llenará de energía cuando consiga la ayuda de esta cosa.</text>
-	<text id="Heart_librarian_kill">Estuvo bien. Excepto por las náuseas que tengo por toda esta sangre aquí…</text>
-	<text id="ScorchedGirl_malkuth_start">Se está aferrando a ese fósforo, como si fuera su única esperanza…</text>
-	<text id="ScorchedGirl_malkuth_die">¿Quizás estaba demasiado emocionada…?</text>
-	<text id="ScorchedGirl_malkuth_kill">Al final se convirtió en cenizas… Pobre.</text>
-	<text id="Teady_malkuth_start">Cierto, abrazar era su cosa favorita, ¿no? ¡Se siente bien el verte de nuevo!</text>
-	<text id="Teady_malkuth_die">¿Quizás estaba demasiado emocionada…?</text>
-	<text id="Teady_malkuth_kill">Es lo que debía hacer… Pero me sienta mal ver lo mal que quedó el Osito.</text>
-	<text id="Teady_librarian_start">Esa cosa amaba jugar con la gente.</text>
-	<text id="Teady_librarian_kill">Pensando en las personas que fueron asesinadas por eso… No me puedo sentir mal por esto.</text>
-	<text id="Murder_yesod_start">… No quería verlo de nuevo.</text>
-	<text id="Murder_yesod_die"> Mi descuido tiene la culpa de que mi destino haya terminado así.</text>
-	<text id="Murder_yesod_kill">Estaba encadenado por una ira vacía y el arrepentimiento hasta sus últimos momentos.</text>
+  <!-- Bloodbath -->
+	<text id="Bloodbath_roland_start">Angela tem razão, esse lugar é realmente bizarro. Há coágulos de sangue por todo o lugar, também…</text>
+	<text id="Bloodbath_roland_die">Eu não esperava morrer para um monstro estranho…</text>
+	<text id="Bloodbath_roland_kill">Acho que deveria agradecer pelo monstro estar mais fraco do que antes... Foi por pouco.</text>
+  <!-- Heart of Aspiration -->
+	<text id="Heart_roland_start">Aquela coisa dá força? Hm… É como se você tivesse dois corações ou o quê?</text>
+	<text id="Heart_roland_die">Eu não esperava morrer para um monstro estranho…</text>
+	<text id="Heart_roland_kill">Acabou bem rápido pra uma luta contra bichos estranhos, hein?</text>
+	<text id="Heart_librarian_start">Meu corpo ficava cheio de energia quando eu recebia ajuda dessa coisa.</text>
+	<text id="Heart_librarian_kill">Deu tudo certo. Exceto pela náusea que eu tô sentindo por causa de todo esse sangue aqui…</text>
+  <!-- Scorched Girl -->
+	<text id="ScorchedGirl_malkuth_start">Ela tá se agarrando àquele fósforo queimado, como se fosse sua única esperança...</text>
+	<text id="ScorchedGirl_malkuth_die">Talvez eu estava muito entusiasmada…?</text>
+	<text id="ScorchedGirl_malkuth_kill">Virou cinzas no fim... Coitadinho.</text>
+  <!-- Happy Teddy Bear -->
+	<text id="Teady_malkuth_start">Tá, abraçar era a coisa favorita dele, não era? É bom ver você de novo!</text>
+	<text id="Teady_malkuth_die">Talvez eu estava muito entusiasmada…?</text>
+	<text id="Teady_malkuth_kill">É o que devo fazer... Mas eu sinto um pouco de pena de ver o quão esfarrapado o ursinho de pelúcia ficou.</text>
+	<text id="Teady_librarian_start">Essa coisa amava brincar com a gente.</text>
+	<text id="Teady_librarian_kill">Pensando nas pessoas que foram mortas por aquela coisa... Não posso dizer que sinto pena.</text>
+  <!-- Forsaken Murderer -->
+	<text id="Murder_yesod_start">…Eu não queria ver ele novamente.</text>
+	<text id="Murder_yesod_die">Foi culpa do meu descuido que eu encontrei esse destino.</text>
+	<text id="Murder_yesod_kill">Ele foi acorrentado por uma raiva vazia e arrependimento até o último momento.</text>
+  <!-- All-Around Helper -->
 	<text id="Helper_yesod_start">No debería ser difícil mientras tengamos información sobre esta máquina.</text>
-	<text id="Helper_yesod_die"> Mi descuido tiene la culpa de que mi destino haya terminado así.</text>
+	<text id="Helper_yesod_die"> Foi culpa do meu descuido que eu encontrei esse destino.</text>
 	<text id="Helper_yesod_kill">No me queda claro si esto fue culpa de un mal funcionamiento o la malicia de alguien.</text>
 	<text id="Helper_librarian_start">Oh, conozco a este pequeño. Giraba como un loco antes de tirarse al suelo.</text>
 	<text id="Helper_librarian_kill">Siendo honesto, se ve redondo y lindo. Era realmente popular entre nosotros.</text>
+  <!-- Today's Shy Expression -->
   <text id="Shy_hod_start">Ese niño aún se esconde tras esa máscara… Tengo que ser considerada con su estado de ánimo</text>
   <text id="Shy_hod_die">Mi cuerpo se siente entumecido, que debería hacer…</text>
   <text id="Shy_hod_kill">Afortunadamente, pude manejarlo sola.</text>
@@ -42,7 +49,7 @@
 	<text id="Kid_librarian_kill">Nadie será amigo de esa cosa…</text>
   
   <text id="Fairy_malkuth_start">¡Estas hadas solían tener comida fresca al “Cuidarlos”!</text>
-  <text id="Fairy_malkuth_die">¿Quizás estaba demasiado emocionada…?</text>
+  <text id="Fairy_malkuth_die">¿Talvez eu estava muito entusiasmada…?</text>
   <text id="Fairy_malkuth_kill">Está comiendo a sus propios súbditos para saciar su hambre…</text>
   <text id="Fairy_librarian1_start">¿Sigues pensando que nos cuidaba por nuestro beneficio?</text>
   <text id="Fairy_librarian1_kill">Si, sigue comiendo a su presa mientras está fresca.</text>
@@ -66,16 +73,16 @@
   <text id="Porccubus_librarian2_kill">No quiero tener que lidiar con algo como esto nunca más…</text>
 
   <text id="Singingmachine_yesod_start">Todos, manténganse alerta. No se dejen seducir por la música.</text>
-  <text id="Singingmachine_yesod_die"> Mi descuido tiene la culpa de que mi destino haya terminado así.</text>
+  <text id="Singingmachine_yesod_die"> Foi culpa do meu descuido que eu encontrei esse destino.</text>
   <text id="Singingmachine_yesod_kill">No puedo entender como todos estaban tan desesperados para escuchar…</text>
   <text id="Singingmachine_librarian1_start">Solo pensar en los empleados que fueron encantados por esto… Me da escalofríos.</text>
   <text id="Singingmachine_librarian1_kill">De todos modos, ¿qué es tan bueno sobre esto? Solo me hace sentir enfermo…</text>
   <text id="Singingmachine_librarian2_start">Yup. Ellos podrían lanzar gente dentro solo para escuchar la melodía.</text>
   <text id="Singingmachine_librarian2_kill">Ellos están locos…</text>
   <text id="Pinocchio_roland_start">Creo que lo leí en algún otro lugar… sobre un muñeco de madera con nariz larga…</text>
-  <text id="Pinocchio_roland_die">No espere morir por culpa de un monstruo raro…</text>
+  <text id="Pinocchio_roland_die">Eu não esperava morrer para um monstro estranho…</text>
   <text id="Pinocchio_roland_kill">Necesita mentir para volverse humano… Deja un sabor amargo.</text>
-  <text id="Pinocchio_librarian1_start">Pinocho. ¿Era un cuento infantil sobre un niño que le crecía la nariz al mentir?</text>
+  <text id="Pinocchio_librarian1_start">Pinóquio. ¿Era un cuento infantil sobre un niño que le crecía la nariz al mentir?</text>
   <text id="Pinocchio_librarian1_kill">Es una lástima que nunca se vuelva humano.</text>
   <text id="Pinocchio_librarian2_start">Ese crujido que hace con la nariz… Es repugnante.</text>
   <text id="Pinocchio_librarian2_kill">¿Está tratando de imitarnos?… Es un poco espeluznante.</text>
@@ -130,7 +137,7 @@
   <text id="M_Angela_SnowWhite_librarian4_start">… Marchita, ¿eh? ¿Quizás es para mostrar la angustia por la que ella ha pasado?</text>
   
   <text id="QueenBee_Malkuth_start">¡Tengan cuidado, no inhalen las esporas!</text>
-  <text id="QueenBee_Malkuth_die">¿Quizás estaba demasiado emocionada…?</text>
+  <text id="QueenBee_Malkuth_die">¿Talvez eu estava muito entusiasmada…?</text>
   <text id="QueenBee_Malkuth_kill">No tuvimos otra elección que romperla…</text>
   <text id="QueenBee_librarian1_start">Parece que quiera más y más obreras para trabajar con ella.</text>
   <text id="QueenBee_librarian1_kill">Lo siento por destruir tu reino… Era una situación de matar o ser matado.</text>
@@ -166,7 +173,7 @@
   <text id="Woodsman_librarian3_kill">No sé por ustedes, pero yo no siento ninguna simpatía por esa cosa…</text>
 
 	<text id="Butterflies_yesod_start">Manténganse alerta. No dudaré en explotar su debilidad.</text>
-	<text id="Butterflies_yesod_die"> Mi descuido tiene la culpa de que mi destino haya terminado así.</text>
+	<text id="Butterflies_yesod_die"> Foi culpa do meu descuido que eu encontrei esse destino.</text>
 	<text id="Butterflies_yesod_kill">… Una muerte en paz… Nuestro trabajo ha acabado, regresemos.</text>
 	<text id="Butterflies_librarian1_start">Es muy frío el tocar esas mariposas, se me pone la piel de gallina.</text>
 	<text id="Butterflies_librarian1_kill">¿Esto liberará a nuestro último bibliotecario, verdad? ¿Deberíamos darle una cálida bienvenida?</text>
