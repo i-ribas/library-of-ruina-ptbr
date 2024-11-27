@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="Bloodbath_namal_1">Un cuchillo usado por alguien vagamente emocionado no tendrá lo suficiente para tomar una vida.</text>
-	<text id="Bloodbath_namal_2">La cicatrices no son más que marcas de fallos… Tú no serás diferente.</text>
-	<text id="Bloodbath_namal_3">No quiero enfrentarme a más dolor.</text>
-	<text id="Bloodbath_namal_4">¿Puede tu pobre coraje dejar una herida profunda?</text>
-	<text id="Bloodbath_namal_5">¿Cuantos fracasos debo soportar hasta que estés satisfecho?</text>
-	<text id="Bloodbath_namal_6">¿Puedes resistir esta profunda desesperación?</text>
-	<text id="Bloodbath_palehand_1">Entra, introducete a este horrible Banho de Sangue.</text>
-	<text id="Bloodbath_palehand_2">Las manos de las personas que tú, o quizás nosotros, que una vez amamos, esperan dentro.</text>
-	<text id="Bloodbath_palehand_3">Dejemos todo, cierra tus ojos y hundámonos en este pozo sin fondo.</text>
-	<text id="Heart_nomal_1">Nunca he parado de desearlo, hasta que los latidos me dieron una respuesta.</text>
-	<text id="Heart_nomal_2">Si hubiera un significado a todo lo que deseamos…</text>
-	<text id="Heart_nomal_3">Solo la autodestrucción espera a esta excesiva aspiración.</text>
-	<text id="Heart_nomal_4">Cada vez que algo va mal, los latidos van más y más rápido.</text>
-	<text id="Heart_nomal_5">Si estás antojado y no haces nada para pararlo, Se volverá demasiado grande y explotará eventualmente.</text>
-	<text id="Heart_Beat_1">Únete a esta rápida y emocionante Pulsación.</text>
-	<text id="Heart_Beat_2">Incluso si significa que tengo que explotar un día, quiero ver el final.</text>
+  <!-- Bloodbath -->
+	<text id="Bloodbath_namal_1">Uma faca usada por alguém sem vontade não tem o que é preciso para acabar com uma vida.</text>
+	<text id="Bloodbath_namal_2">Cicatrizes são apenas marcas de fracasso… Você não será diferente.</text>
+	<text id="Bloodbath_namal_3">Eu não quero encarar mais dor.</text>
+	<text id="Bloodbath_namal_4">Será que sua coragem mesquinha consegue deixar uma cicatriz profunda?</text>
+	<text id="Bloodbath_namal_5">Quantos mais fracassos devo suportar até você se satisfazer?</text>
+	<text id="Bloodbath_namal_6">Você consegue resistir esse desespero profundo?</text>
+
+	<text id="Bloodbath_palehand_1">Entre. Venha para esta terrível poça de sangue.</text>
+	<text id="Bloodbath_palehand_2">As mãos das pessoas que você, ou talvez nós, já amamos, estão esperando lá dentro.</text>
+	<text id="Bloodbath_palehand_3">Deixe tudo de lado, feche os olhos e mergulhe neste poço sem fundo.</text>
+  <!-- Heart of Aspiration -->
+	<text id="Heart_nomal_1">Nunca pare de desejar-lo, até os batimentos darem uma resposta.</text>
+	<text id="Heart_nomal_2">Se houvesse algum significado para tudo o que desejamos…</text>
+	<text id="Heart_nomal_3">Somente a autodestruição espera no final desta aspiração excessiva.</text>
+	<text id="Heart_nomal_4">Toda vez que algo dá errado, os batimentos ficarão cada vez mais rápidos.</text>
+	<text id="Heart_nomal_5">Se você continuar desejando e não fizer nada para saciá-lo, ele ficará grande demais e acabará explodindo.</text>
+
+	<text id="Heart_Beat_1">Junte-se a mim nesta pulsação rápida e febril.</text>
+	<text id="Heart_Beat_2">Mesmo que isso signifique que um dia eu tenha que explodir, eu quero ver o fim.</text>
+  <!-- Scorched Girl -->
 	<text id="ScorchedGirl_nomal_1">Paso por paso… Quémate hasta carbonizarte.</text>
 	<text id="ScorchedGirl_nomal_2">Una espléndida cena… Decoraciones elegantes… ¿Qué sucedera cuando encienda este fósforo?</text>
 	<text id="ScorchedGirl_nomal_3">¿Te irás cuando la luz de este Fósforo se haya ido, verdad?</text>
 	<text id="ScorchedGirl_nomal_4">La luz de estos fósforos es mi única esperanza…</text>
 	<text id="ScorchedGirl_nomal_5">Cuando una estrella fugaz cae, significa que alguien fue al cielo. Me pregunto de quién será esa estrella…</text>
+
 	<text id="ScorchedGirl_hopedie_1">No… No te lleves la esperanza lejos de mí.</text>
 	<text id="ScorchedGirl_hopedie_2">El calor, el festín y la elegancia… Toda se ha ido. No ha quedado nada…</text>
+
 	<text id="ScorchedGirl_4fire_1">Si voy a morir… Entonces te haré sufrir el mismo destino.</text>
 	<text id="ScorchedGirl_4fire_2">Espérame. Iré contigo, tú, que serás reducido a cenizas.</text>
 	<text id="ScorchedGirl_4fire_3">Para convertir todas las cosas brillantes en cenizas…</text>
+  <!-- Happy Teddy Bear -->
 	<text id="Teady_nomal_1">¿Te gustaría jugar conmigo? Estaba muy solo.</text>
 	<text id="Teady_nomal_2">Está bien. No seas tímido. Solo estamos jugando juntos.</text>
 	<text id="Teady_nomal_3">¿No quieres sentir este extraño y cálido sentimiento?</text>
