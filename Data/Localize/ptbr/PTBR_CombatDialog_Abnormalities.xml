@@ -13,7 +13,7 @@
 	<text id="Bloodbath_palehand_3">Deixe tudo de lado, feche os olhos e mergulhe neste poço sem fundo.</text>
   <!-- Heart of Aspiration -->
 	<text id="Heart_nomal_1">Nunca pare de desejar-lo, até os batimentos darem uma resposta.</text>
-	<text id="Heart_nomal_2">Se houvesse algum significado para tudo o que desejamos…</text>
+	<text id="Heart_nomal_2">Se houvesse algum significado para tudo que desejamos…</text>
 	<text id="Heart_nomal_3">Somente a autodestruição espera no final desta aspiração excessiva.</text>
 	<text id="Heart_nomal_4">Toda vez que algo dá errado, os batimentos ficarão cada vez mais rápidos.</text>
 	<text id="Heart_nomal_5">Se você continuar desejando e não fizer nada para saciá-lo, ele ficará grande demais e acabará explodindo.</text>
@@ -21,48 +21,55 @@
 	<text id="Heart_Beat_1">Junte-se a mim nesta pulsação rápida e febril.</text>
 	<text id="Heart_Beat_2">Mesmo que isso signifique que um dia eu tenha que explodir, eu quero ver o fim.</text>
   <!-- Scorched Girl -->
-	<text id="ScorchedGirl_nomal_1">Paso por paso… Quémate hasta carbonizarte.</text>
-	<text id="ScorchedGirl_nomal_2">Una espléndida cena… Decoraciones elegantes… ¿Qué sucedera cuando encienda este fósforo?</text>
-	<text id="ScorchedGirl_nomal_3">¿Te irás cuando la luz de este Fósforo se haya ido, verdad?</text>
-	<text id="ScorchedGirl_nomal_4">La luz de estos fósforos es mi única esperanza…</text>
-	<text id="ScorchedGirl_nomal_5">Cuando una estrella fugaz cae, significa que alguien fue al cielo. Me pregunto de quién será esa estrella…</text>
+	<text id="ScorchedGirl_nomal_1">Passo a passo... Queime até virar carvão preto como breu.</text>
+	<text id="ScorchedGirl_nomal_2">Uma lareira aconchegante... Um jantar farto... Decorações extravagantes... O que aparecerá quando eu acender o próximo fósforo?</text>
+	<text id="ScorchedGirl_nomal_3">Você vai me deixar quando a luz do último fósforo se apagar, não é?</text>
+	<text id="ScorchedGirl_nomal_4">A luz desses fósforos é minha única esperança…</text>
+	<text id="ScorchedGirl_nomal_5">Quando uma estrela cadente cai dos céus, significa que alguém foi para o céu. Eu me pergunto de quem é aquela estrela…</text>
 
-	<text id="ScorchedGirl_hopedie_1">No… No te lleves la esperanza lejos de mí.</text>
-	<text id="ScorchedGirl_hopedie_2">El calor, el festín y la elegancia… Toda se ha ido. No ha quedado nada…</text>
+	<text id="ScorchedGirl_hopedie_1">Não… Não tire a esperança de mim.</text>
+	<text id="ScorchedGirl_hopedie_2">O calor, a festa, a beleza… Tudo se foi. Não sobrou nada agora…</text>
 
-	<text id="ScorchedGirl_4fire_1">Si voy a morir… Entonces te haré sufrir el mismo destino.</text>
-	<text id="ScorchedGirl_4fire_2">Espérame. Iré contigo, tú, que serás reducido a cenizas.</text>
-	<text id="ScorchedGirl_4fire_3">Para convertir todas las cosas brillantes en cenizas…</text>
+	<text id="ScorchedGirl_4fire_1">Se eu preciso morrer... Vou fazer que você junte-se a mim.</text>
+	<text id="ScorchedGirl_4fire_2">Me espere. Eu vou com você, que vai ser reduzido a cinzas.</text>
+	<text id="ScorchedGirl_4fire_3">Para queimar todas as coisas que são brilhantes em cinzas…</text>
   <!-- Happy Teddy Bear -->
-	<text id="Teady_nomal_1">¿Te gustaría jugar conmigo? Estaba muy solo.</text>
-	<text id="Teady_nomal_2">Está bien. No seas tímido. Solo estamos jugando juntos.</text>
-	<text id="Teady_nomal_3">¿No quieres sentir este extraño y cálido sentimiento?</text>
-	<text id="Teady_nomal_4">Sería genial si pudieras tomar mi mano y bailar conmigo…</text>
-	<text id="Teady_nomal_5">Eres el único con quien deseo hablar…</text>
-	<text id="Teady_nomal_6">No me golpees, por favor… Ya estoy desgarrado y desgastado, mi relleno de algodón está por todos lados.</text>
-	<text id="Teady_heart_1">Soy feliz de que juegues conmigo.</text>
-	<text id="Teady_heart_2">Eres muy amable, ¿verdad? ¿Jugamos de nuevo otra vez, sí?</text>
-	<text id="Teady_heart_3">Estabas tan emocionado de jugar conmigo, Estoy conmovido…</text>
-	<text id="Teady_hug_1">Ven y siente este extraño y cálido sentimiento con un abrazo.</text>
-	<text id="Teady_hug_2">Todos aman los abrazos.</text>
-	<text id="Teady_hug_3">No te preocupes. No da miedo. Todo lo que hago es envolverte entre mis brazos.</text>
-	<text id="Murder_nomal_1">No me mires con esos ojos. Tú eres el más lamentable aquí…</text>
-	<text id="Murder_nomal_2">Puedo ser un desorden ahora, pero tendrás que temerme a la vez.</text>
-	<text id="Murder_nomal_3">Libérame… ¿Por qué tengo que estar atado?, ¡Maldición!</text>
-	<text id="Murder_nomal_4">Incluso si mi cuerpo está atado… Soy tan libre como cualquier hombre.</text>
-	<text id="Murder_scare_1">… Mi cuerpo se siente débil. ¿Qué se supone que tengo que hacer?</text>
-	<text id="Murder_scare_2">Está bien, Disculpa… Me comportaré… Detente…</text>
-	<text id="Murder_scare_3">Estoy asustado… Estoy asustado de tener que sentir cosas que no quiero sentir…</text>
+	<text id="Teady_nomal_1">Você gostaria de brincar comigo? Eu estava muito sozinho.</text>
+	<text id="Teady_nomal_2">Está tudo bem. Não seja tímido. Só estamos brincando.</text>
+	<text id="Teady_nomal_3">Você não quer sentir essa sensação felpuda e aconchegante?</text>
+	<text id="Teady_nomal_4">Seria tão bom se você pudesse segurar minha mão e dançar comigo…</text>
+	<text id="Teady_nomal_5">Você é a única pessoa com quem eu quero falar…</text>
+	<text id="Teady_nomal_6">Não me bata, por favor... Já estou desgastado e rasgado, meu enchimento de algodão está aparecendo.</text>
+
+	<text id="Teady_heart_1">Estou tão feliz que você está brincando comigo.</text>
+	<text id="Teady_heart_2">Você é bem gentil, não é? Vamos brincar de novo, ok?</text>
+	<text id="Teady_heart_3">Você estava tão ansioso para brincar comigo. Estou comovido…</text>
+  
+	<text id="Teady_hug_1">Venha aqui e sinta essa sensação quente e felpuda com o meu abraço.</text>
+	<text id="Teady_hug_2">Todo mundo ama abraços.</text>
+	<text id="Teady_hug_3">Não se preocupe. Não dá medo. Tudo o que faço é te envolver em meus braços.</text>
+  <!-- Forsaken Murderer -->
+	<text id="Murder_nomal_1">Não olhe para mim com esses olhos. Vocês são os mais lamentáveis aqui…</text>
+	<text id="Murder_nomal_2">Eu posso ser uma bagunça agora, mas você terá que ter medo de mim do mesmo jeito.</text>
+	<text id="Murder_nomal_3">Me solta… Por que eu tenho que ficar amarrado, droga!</text>
+	<text id="Murder_nomal_4">Mesmo que meu corpo esteja amarrado… Sou tão livre quanto qualquer homem.</text>
+
+	<text id="Murder_scare_1">…Meu corpo está fraco. O que eu devo fazer?</text>
+	<text id="Murder_scare_2">Tudo bem, me desculpe… Vou me comportar… Já chega…</text>
+	<text id="Murder_scare_3">Estou com medo… Estou com medo de ter que sentir coisas que não quero sentir…</text>
+  <!-- All-Around Helper -->
 	<text id="Helper_nomal_1">¡El Bot ayudante puede ayudarte en cualquier tarea del hogar!</text>
 	<text id="Helper_nomal_2">¿Qué tipo de tarea quieres que haga? Te puedo ayudar con lo que sea.</text>
 	<text id="Helper_nomal_3">Escaneo de contaminación Completo. Iniciando proceso de Limpieza.</text>
 	<text id="Helper_nomal_4">Beebeebeep~ Beep. ¡Contaminación encontrada! Procediendo con el protocolo de eliminación de basura.</text>
 	<text id="Helper_nomal_5">Te ayudaré con una gran selección de herramientas.</text>
+
 	<text id="Helper_passive_1">¡Cuando termine de limpiar, las personas me alabaran!</text>
 	<text id="Helper_passive_2">Ellos me están dando órdenes en voz alta. Significa que estoy haciendo un buen trabajo.</text>
 	<text id="Helper_passive_3">Beepboop~ ¡Piii! Información de patrones acumulada.</text>
 	<text id="Helper_passive_4">La gente ama gritarme cuando me felicitan.</text>
 	<text id="Helper_passive_5">El Bot ayudante tiene excelentes habilidades de aprendizaje.</text>
+  <!-- Today's Shy Expression -->
 	<text id="Shy_happy_1">Me siento genial, bañándome en este cálido y acogedor sol.</text>
 	<text id="Shy_happy_2">¿Por qué no pones una gran sonrisa en tu cara, cómo la mía?</text>
 	<text id="Shy_smile_1">Solo soy tímido, eso es todo. Solo tímido…</text>

@@ -11,7 +11,7 @@ Quando o HP de um bibliotecário está em 20% ou menos, cause 30% do HP máximo 
         <Dialogue ID="1">Se eu preciso morrer, então junte-se a mim.</Dialogue>
         <Dialogue ID="2">É tão triste morrer sozinho... Você conhece esse sentimento bem, não é?</Dialogue>
         <Dialogue ID="3">Me espere. Eu vou com você, que vai ser reduzido a cinzas...</Dialogue>
-        <Dialogue ID="4">Passo a passo... Queimando em um carvão preto como breu.</Dialogue>
+        <Dialogue ID="4">Passo a passo... Queime até virar carvão preto como breu.</Dialogue>
         <Dialogue ID="5">Tem qualquer coisa que eu possa fazer, eu, uma Garota Queimada-à-Cinzas?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
