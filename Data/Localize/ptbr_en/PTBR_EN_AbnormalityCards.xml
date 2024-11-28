@@ -257,11 +257,11 @@ Dados contundentes ganham 1-3 de Poder. Velocidade é fixada em 1.</AbilityDesc>
       <CardName>Eco Metálico</CardName>
 		<AbilityDesc>[Aliado Único]
 Ao realizar um ataque contundente bem sucedido, inflige 1 Amarrado e 1 Paralisado na próxima Cena (Excluí Ataques em Massa)</AbilityDesc>
-		<FlaborText>“Minha cabeça... Se tornando metal... As dobras no meu cérebro, sendo achatadas ”</FlaborText>
+		<FlaborText>“Minha cabeça... Se tornando metal... As dobras no meu cérebro, sendo achatadas...”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Minha cabeça está ecoando. Eu consigo ouvir o som do metal, claro e barulhento...</Dialogue>
         <Dialogue ID="2">É como se minha cabeça estivesse virando aço frio.</Dialogue>
-        <Dialogue ID="3">Minha cabeça está virando aço frio?</Dialogue>
+        <Dialogue ID="3">A minha cabeça está realmente virando metal?</Dialogue>
         <Dialogue ID="4">Quando eu bato minha cabeça na parede, ela faz um som refrescante.</Dialogue>
         <Dialogue ID="5">Se minha cabeça se tornar aço, as dobras no meu cérebro irão sumir.</Dialogue>
       </Dialogues>
@@ -276,7 +276,7 @@ Reduz o valor mínimo de todos os Dados em 1, e aumenta o valor máximo em 3.</A
       <Dialogues>
         <Dialogue ID="1">Não pense que venceu por me acorrentar...</Dialogue>
         <Dialogue ID="2">………</Dialogue>
-        <Dialogue ID="3">Termina… Comienza. Termina de nuevo, comienza una vez más…</Dialogue>
+        <Dialogue ID="3">Termina… Começa. Termina de novo, começa mais uma vez…</Dialogue>
         <Dialogue ID="4">Quando eu bato minha cabeça na parede, ela faz um som refrescante.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -287,10 +287,10 @@ Reduz o valor mínimo de todos os Dados em 1, e aumenta o valor máximo em 3.</A
       <AbilityDesc>[Aliado Único]
 Se o bibliotecário estiver com Luz máxima no começo da Cena, ganhe 1-2 de Celeridade e cause +2-7 de dano com ataques por essa Cena.</AbilityDesc>
       <FlaborText>Embora, os membros estavam equipados com instrumentos afiados ao invés de suprimentos de limpeza.</FlaborText>
-      <Dialogues> <!-- Nenhum deles é igual ao diálogo; -->
-        <Dialogue ID="1">Beepboop… Beep… Sem Bateria…</Dialogue>
+      <Dialogues>
+        <Dialogue ID="1">Bipbup… Bip… Sem Bateria…</Dialogue>
         <Dialogue ID="2">Por favor … recarregue-me… em uma tomada próxima…</Dialogue>
-        <Dialogue ID="3">Por favor desligando… O Auxiliar Geral se desligará em pouco tempo…</Dialogue>
+        <Dialogue ID="3">Por favor desligue… O robô auxiliar se desativará em pouco tempo…</Dialogue>
         <Dialogue ID="4">Mudando para modo de recarga. Você não pode dar ordens nesse modo.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -302,11 +302,11 @@ Se o bibliotecário estiver com Luz máxima no começo da Cena, ganhe 1-2 de Cel
 A cada três Embates vencidos, restaure 1 de Luz e ganhe 1-2 de Celeridade na próxima Cena.</AbilityDesc>
 		<FlaborText>No dia que eu fui enviado para uma casa nova, eu dei a eles um presente que eles sempre queriam.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Quando eu termino de limpar, as pessoas sempre me elogiaram!</Dialogue> <!-- Igual ao Diálogo; -->
-        <Dialogue ID="2">Eles estão me dando ordens com uma voz mais alta. Quer dizer que eu estou fazendo um bom trabalho.</Dialogue> <!-- Igual ao Diálogo; -->
-        <Dialogue ID="3">Beepboop~ Piii! Informações de padrões acumulados.</Dialogue> <!-- Igual ao Diálogo; -->
-        <Dialogue ID="4">As pessoas amam gritar quando elas me elogiam.</Dialogue> <!-- Igual ao Diálogo; -->
-        <Dialogue ID="5">O Auxiliar Geral tem excelentes capacidades de aprendizado.</Dialogue> 
+        <Dialogue ID="1">As pessoas sempre me elogiam quando termino a limpeza!</Dialogue>
+        <Dialogue ID="2">Eles estão me dando ordens em voz alta. Significa que estou fazendo um bom trabalho.</Dialogue>
+        <Dialogue ID="3">Bipbup~ Piii! Dados de padrões acumulados.</Dialogue>
+        <Dialogue ID="4">As pessoas amam gritar quando me elogiam.</Dialogue>
+        <Dialogue ID="5">O robô auxiliar tem excelentes habilidades de aprendizagem.</Dialogue> 
       </Dialogues>
     </AbnormalityCard>
     
@@ -317,11 +317,11 @@ A cada três Embates vencidos, restaure 1 de Luz e ganhe 1-2 de Celeridade na pr
 Os dados ofensivos ganham Poder contra inimigos mais lentos (+1 de Poder por ponto de diferença, Máx. 3).</AbilityDesc>
       <FlaborText>Ele reconhece o mau humor como um sinal de um ambiente sujo, e prontamente entra em modo de limpeza.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">O Auxiliar Geral pode te ajudar com as tarefas domésticas!</Dialogue> <!-- Igual ao Diálogo; -->
-        <Dialogue ID="2">Que tipod e tarefa você quer que eu faça? Eu posso ajudar com qualquer coisa.</Dialogue> <!-- Igual ao Diálogo; -->
-        <Dialogue ID="3">Escaneamento de contaminação completo. Iniciando protocolo de limpeza.</Dialogue> <!-- Igual ao Diálogo; -->
-        <Dialogue ID="4">Beebeebeep~ Beep. Contaminação detectada! Prosseguindo com o protocolo de descarte de lixo.</Dialogue> <!-- Igual ao Diálogo; -->
-        <Dialogue ID="5">Te ajudarei com uma grande seleção de ferramentas.</Dialogue> <!-- Igual ao Diálogo; -->
+        <Dialogue ID="1">O robô auxiliar pode ajudar você com qualquer tarefa doméstica!</Dialogue>
+        <Dialogue ID="2">Que tipo de tarefa você quer que eu faça? Posso ajudar com qualquer coisa.</Dialogue>
+        <Dialogue ID="3">Varredura de contaminação concluída. Iniciando protocolo de limpeza.</Dialogue>
+        <Dialogue ID="4">Bibibip~ Bip. Contaminação detectada! Prosseguindo com o protocolo de descarte de lixo.</Dialogue>
+        <Dialogue ID="5">Eu vou ajudar você com minha ampla seleção de ferramentas.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     

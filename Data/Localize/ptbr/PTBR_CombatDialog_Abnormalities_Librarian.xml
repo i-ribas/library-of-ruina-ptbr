@@ -25,43 +25,56 @@
 	<text id="Murder_yesod_die">Foi culpa do meu descuido que eu encontrei esse destino.</text>
 	<text id="Murder_yesod_kill">Ele foi acorrentado por uma raiva vazia e arrependimento até o último momento.</text>
   <!-- All-Around Helper -->
-	<text id="Helper_yesod_start">No debería ser difícil mientras tengamos información sobre esta máquina.</text>
-	<text id="Helper_yesod_die"> Foi culpa do meu descuido que eu encontrei esse destino.</text>
-	<text id="Helper_yesod_kill">No me queda claro si esto fue culpa de un mal funcionamiento o la malicia de alguien.</text>
-	<text id="Helper_librarian_start">Oh, conozco a este pequeño. Giraba como un loco antes de tirarse al suelo.</text>
-	<text id="Helper_librarian_kill">Siendo honesto, se ve redondo y lindo. Era realmente popular entre nosotros.</text>
-  <!-- Today's Shy Expression -->
-  <text id="Shy_hod_start">Ese niño aún se esconde tras esa máscara… Tengo que ser considerada con su estado de ánimo</text>
-  <text id="Shy_hod_die">Mi cuerpo se siente entumecido, que debería hacer…</text>
-  <text id="Shy_hod_kill">Afortunadamente, pude manejarlo sola.</text>
-  <text id="Redshoes_hod_start">Los que veían los zapatos se cortaban los tobillos para usarlos, cegados por el deseo…</text>
-  <text id="Redshoes_hod_die">Mi cuerpo se siente entumecido, que debería hacer…</text>
-  <text id="Redshoes_hod_kill">Esto fue arriesgado, pero puedo manejarlo.</text>
-	<text id="Redshoes_librarian_start">Estos malditos zapatos se volvieron más rojos con la sangre.</text>
-	<text id="Redshoes_librarian_kill">Casí fuí encantado hace un momento. Estuve cerca de perder mi mente.</text>
-	<text id="Spacepiece_netzach_start">Los ecos que vienen de algún lugar… Aún no puedo olvidarlos.</text>
-	<text id="Spacepiece_netzach_die">Dejando los resultados de lado, creo que finalmente puedo dormir bien…</text>
-	<text id="Spacepiece_netzach_kill">… Tampoco me siento como si quisiera intentar entender esos ecos.</text>
+	<text id="Helper_yesod_start">Isso não deve ser difícil desde que tenhamos informações claras sobre essa máquina.</text>
+	<text id="Helper_yesod_die">Foi culpa do meu descuido que eu encontrei esse destino.</text>
+	<text id="Helper_yesod_kill">Ainda não tenho certeza se foi resultado de um defeito mecânico ou da maldade de alguém.</text>
+
+	<text id="Helper_librarian_start">Ah, eu conheço esse pequenino. Ele girava feito louco antes de cair no chão.</text>
+	<text id="Helper_librarian_kill">Honestamente, ele parece bem fofo. Era bem popular entre nós.</text>
+  <!-- Today's Shy Look -->
+  <text id="Shy_hod_start">A criança ainda se esconde atrás de máscaras… Tenho que levar em consideração seu humor.</text>
+  <text id="Shy_hod_die">Meu corpo está dormente, o que eu faço…</text>
+  <text id="Shy_hod_kill">Felizmente consegui lidar com isso sozinha.</text>
+
+  <!-- Red Shoes -->
+  <text id="Redshoes_hod_start">Aqueles que viam os sapatos cortavam os tornozelos uns dos outros para usá-los, cegos pelo desejo…</text>
+  <text id="Redshoes_hod_die">Meu corpo está dormente, o que eu faço…</text>
+  <text id="Redshoes_hod_kill">Foi arriscado, mas eu consigo aguentar.</text>
+
+	<text id="Redshoes_librarian_start">Esses sapatos malditos ficavam mais vermelhos com o sangue das pessoas.</text>
+	<text id="Redshoes_librarian_kill">Eu quase fiquei encantado por um momento ali. Eu quase enlouqueci.</text>
+  <!-- Fragment of the Universe -->
+	<text id="Spacepiece_netzach_start">Os ecos vindos de algum lugar… Ainda não consigo esquecer o zumbido.</text>
+	<text id="Spacepiece_netzach_die">Resultados à parte, acho que posso dormir bem agora…</text>
+	<text id="Spacepiece_netzach_kill">…Mas eu não tenho muita vontade de tentar entendê-los.</text>
+  <!-- Child of the Galaxy-->
 	<text id="Kid_netzach_start">Parece que está usando otro método, pero… Creo que aún aprecia a sus amigos.</text>
-	<text id="Kid_netzach_die">Dejando los resultados de lado, creo que finalmente puedo dormir bien…</text>
+	<text id="Kid_netzach_die">Resultados à parte, acho que posso dormir bem agora…</text>
 	<text id="Kid_netzach_kill">No estoy seguro de si aprecia a sus amigos, o solo está desesperado, ya que no hay nadie a su lado…</text>
+
 	<text id="Kid_librarian_start">Ese niño siempre me ignoraba, ya que yo no estaba a su cargo…</text>
 	<text id="Kid_librarian_kill">Nadie será amigo de esa cosa…</text>
-  
+  <!-- Fairy Festival -->
   <text id="Fairy_malkuth_start">¡Estas hadas solían tener comida fresca al “Cuidarlos”!</text>
   <text id="Fairy_malkuth_die">¿Talvez eu estava muito entusiasmada…?</text>
   <text id="Fairy_malkuth_kill">Está comiendo a sus propios súbditos para saciar su hambre…</text>
+
   <text id="Fairy_librarian1_start">¿Sigues pensando que nos cuidaba por nuestro beneficio?</text>
   <text id="Fairy_librarian1_kill">Si, sigue comiendo a su presa mientras está fresca.</text>
+
   <text id="Fairy_librarian2_start">Se ha vuelto tan delgada ahora… Solía seguirme y cuidarme.</text>
   <text id="Fairy_librarian2_kill">Hubiera sido comido si bajaba mi guardia…</text>
+  <!-- Spider Bud -->
   <text id="Spider_hod_start">No tenía piedad, pero amaba a sus niños.</text>
-  <text id="Spider_hod_die">Mi cuerpo se siente entumecido, que debería hacer…</text>
+  <text id="Spider_hod_die">Meu corpo está dormente, o que eu faço…</text>
   <text id="Spider_hod_kill">No me siento feliz, siento como si acabara de arruinar una familia…</text>
+
   <text id="Spider_librarian1_start">Yup, desagradable. Nunca baja hasta que alguien lastima a sus niños.</text>
   <text id="Spider_librarian1_kill">No te molestes. Pudimos ser nosotros quienes terminaran colgando.</text>
   <text id="Spider_librarian2_start">Nunca me di cuenta, ya que tenía que ser cuidadoso de no pisar a sus niños, pero hombre, es asqueroso.</text>
   <text id="Spider_librarian2_kill">… Pensar sobre esos capullos me pone la piel de gallina.</text>
+
+  <!-- Porccubus -->
   <text id="Porccubus_netzach_start">No es tan violento como otros y escuché que también puede dar una felicidad inimaginable.</text>
   <text id="Porccubus_netzach_die">Hah… Hahah. Esta no era el tipo de felicidad que quería sentir.</text>
   <text id="Porccubus_netzach_kill">Supongo que volverse loco de felicidad no es positivo.</text>
@@ -232,7 +245,7 @@
   <text id="GreedKing_librarian3_kill">Cómo puede algo como la codicia ser tan deslumbrante…</text>
 
   <text id="Laetitia_Hod_start">Me siento mal por ella, pero… ¿Quizás eso podría funcionar?</text>
-  <text id="Laetitia_Hod_die">Mi cuerpo se siente entumecido, que debería hacer…</text>
+  <text id="Laetitia_Hod_die">Meu corpo está dormente, o que eu faço…</text>
   <text id="Laetitia_Hod_kill">Me siento un poco culpable…</text>
   <text id="Laetitia_librarian1_start">Escúchenme; ¿y si usamos sus ganas de hacer amigos en nuestro beneficio?…</text>
   <text id="Laetitia_librarian1_kill">Amigo, ¿eh?… Incluso un monstruo puede ser amigo de alguien.</text>
@@ -273,7 +286,7 @@
   <text id="H_Angela_Shy_librarian4_start">¿Cómo puede verse tan horrible…?</text>
 
   <text id="Alriune_netzach_start">Quizás… Vamos a necesitar algo que pueda entender a esa cosa.</text>
-  <text id="Alriune_netzach_die">Dejando los resultados de lado, creo que finalmente puedo dormir bien…</text>
+  <text id="Alriune_netzach_die">Resultados à parte, acho que posso dormir bem agora…</text>
   <text id="Alriune_netzach_kill">… El aroma no se va.</text>
   <text id="Alriune_librarian1_start">Eso es horrible… ¿Dónde se supone que está este “bosque profundo”?</text>
   <text id="Alriune_librarian1_kill">Tengo un olor a quemado dentro de mi boca.</text>

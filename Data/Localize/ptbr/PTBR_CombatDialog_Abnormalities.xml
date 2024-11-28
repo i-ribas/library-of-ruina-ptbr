@@ -58,53 +58,63 @@
 	<text id="Murder_scare_2">Tudo bem, me desculpe… Vou me comportar… Já chega…</text>
 	<text id="Murder_scare_3">Estou com medo… Estou com medo de ter que sentir coisas que não quero sentir…</text>
   <!-- All-Around Helper -->
-	<text id="Helper_nomal_1">¡El Bot ayudante puede ayudarte en cualquier tarea del hogar!</text>
-	<text id="Helper_nomal_2">¿Qué tipo de tarea quieres que haga? Te puedo ayudar con lo que sea.</text>
-	<text id="Helper_nomal_3">Escaneo de contaminación Completo. Iniciando proceso de Limpieza.</text>
-	<text id="Helper_nomal_4">Beebeebeep~ Beep. ¡Contaminación encontrada! Procediendo con el protocolo de eliminación de basura.</text>
-	<text id="Helper_nomal_5">Te ayudaré con una gran selección de herramientas.</text>
+	<text id="Helper_nomal_1">O robô auxiliar pode ajudar você com qualquer tarefa doméstica!</text>
+	<text id="Helper_nomal_2">Que tipo de tarefa você quer que eu faça? Posso ajudar com qualquer coisa.</text>
+	<text id="Helper_nomal_3">Varredura de contaminação concluída. Iniciando protocolo de limpeza.</text>
+	<text id="Helper_nomal_4">Bibibip~ Bip. Contaminação detectada! Prosseguindo com o protocolo de descarte de lixo.</text>
+	<text id="Helper_nomal_5">Eu vou ajudar você com minha ampla seleção de ferramentas.</text>
 
-	<text id="Helper_passive_1">¡Cuando termine de limpiar, las personas me alabaran!</text>
-	<text id="Helper_passive_2">Ellos me están dando órdenes en voz alta. Significa que estoy haciendo un buen trabajo.</text>
-	<text id="Helper_passive_3">Beepboop~ ¡Piii! Información de patrones acumulada.</text>
-	<text id="Helper_passive_4">La gente ama gritarme cuando me felicitan.</text>
-	<text id="Helper_passive_5">El Bot ayudante tiene excelentes habilidades de aprendizaje.</text>
-  <!-- Today's Shy Expression -->
-	<text id="Shy_happy_1">Me siento genial, bañándome en este cálido y acogedor sol.</text>
-	<text id="Shy_happy_2">¿Por qué no pones una gran sonrisa en tu cara, cómo la mía?</text>
-	<text id="Shy_smile_1">Solo soy tímido, eso es todo. Solo tímido…</text>
-	<text id="Shy_smile_2">¿Me veo un poco mejor ahora? Espero que así sea…</text>
-	<text id="Shy_expressionless_1">Algunos días, uno simplemente no tiene energia para nada.</text>
-	<text id="Shy_expressionless_2">No quiero hablar ahora. ¿Puedes volver luego?</text>
-	<text id="Shy_sad_1">Por favor no mires detrás. Es lo menos que puedes hacer…</text>
-	<text id="Shy_sad_2">Por qué será que una mirada triste no encaja con la Ciudad…</text>
-	<text id="Shy_angry_1">¿Qué quieres de mí? ¡¿Qué siga sonriendo como un idiota?!</text>
-	<text id="Shy_angry_2">¡¡¡Te dije que leyeras el ánimo, maldita sea!!!</text>
-	<text id="Redshoes_nomal_1">Este glamur debería ser solo mío.</text>
-	<text id="Redshoes_nomal_2">El rojo es tan vívido, ¿no es simplemente deslumbrante?</text>
-	<text id="Redshoes_nomal_3">Las palabras no pueden describir la ensangrentada magnificiencia.</text>
-	<text id="Redshoes_nomal_4">Cuando no haya más pies para usar estos zapatos, entonces…</text>
-	<text id="Redshoes_nomal_5">Quiero un tono más sangriento de rojo… más delicioso. ¿Me lo daras?</text>
-	<text id="Spacepiece_nomal_1">Comprender. Perfección. Momento. Saber. Conocimiento. Nuestro. Significado. Entrega.</text>
-	<text id="Spacepiece_nomal_2">Hacer. Juntos. Cantar. Canción. Iluminación.</text>
-	<text id="Spacepiece_nomal_3">Empalar. Tú. Mi. Comprender. Cruzar. Perimetro. Humano.</text>
-	<text id="Spacepiece_nomal_4">Dañar. No. Conocimiento. Nuestro. Simple. Dar. Relevo.</text>
-	<text id="Spacepiece_nomal_5">Señales. Nervios. Concentrar. Momento. Ver. Salida.</text>
+	<text id="Helper_passive_1">As pessoas sempre me elogiam quando termino a limpeza!</text>
+	<text id="Helper_passive_2">Eles estão me dando ordens em voz alta. Significa que estou fazendo um bom trabalho.</text>
+	<text id="Helper_passive_3">Bipbup~ Piii! Dados de padrões acumulados.</text>
+	<text id="Helper_passive_4">As pessoas amam gritar quando me elogiam.</text>
+	<text id="Helper_passive_5">O robô auxiliar tem excelentes habilidades de aprendizagem.</text>
+  <!-- Today's Shy Look -->
+	<text id="Shy_happy_1">Tô me sentindo incrível, tomando banho no sol quente e aconchegante.</text>
+	<text id="Shy_happy_2">Por que você não coloca um grande sorriso no seu rosto, como o meu?</text>
+
+	<text id="Shy_smile_1">É timidez, só isso. Só tímidez…</text>
+	<text id="Shy_smile_2">Eu pareço um pouco melhor agora? Espero que sim…</text>
+
+	<text id="Shy_expressionless_1">Alguns dias, você só fica sem energia.</text>
+	<text id="Shy_expressionless_2">Não estou com vontade de falar agora. Você poderia voltar mais tarde?</text>
+
+	<text id="Shy_sad_1">Por favor, não olhe para o que está por trás. É o mínimo que você pode fazer…</text>
+	<text id="Shy_sad_2">Por que um olhar triste não combina com a Cidade…</text>
+
+	<text id="Shy_angry_1">Mas que caralho você quer de mim? Que eu fique sorrindo que nem um imbecil?!</text>
+	<text id="Shy_angry_2">Eu falei pra você se tocar, seu merda!!!</text>
+  <!-- Red Shoes -->
+	<text id="Redshoes_nomal_1">Esse glamour deveria ser só meu.</text>
+	<text id="Redshoes_nomal_2">Esse vermelho é tão vívido, não é simplesmente deslumbrante?</text>
+	<text id="Redshoes_nomal_3">Palavras não podem descrever a ensanguentada magnificência.</text>
+	<text id="Redshoes_nomal_4">Quando não houver mais pés para usar esses saltos, então…</text>
+	<text id="Redshoes_nomal_5">Eu quero um tom de vermelho mais sanguíneo… mais opulento. Você me daria isso?</text>
+  <!-- Fragment of the Universe -->
+	<text id="Spacepiece_nomal_1">Entender. Perfeição. Momento. Saber. Conhecimento. Nosso. Significado. Entregar.</text>
+	<text id="Spacepiece_nomal_2">Faça. Juntos. Cante. Canção. Iluminação.</text>
+	<text id="Spacepiece_nomal_3">Empalar. Você. Meu. Entender. Cruzar. Limite. Humano.</text>
+	<text id="Spacepiece_nomal_4">Não. Machucar. Conhecimento. Nosso. Simples. Dar. Retransmitir.</text>
+	<text id="Spacepiece_nomal_5">Canta. Nervos. Foco. Momento. Ver. Existir.</text>
+
 	<text id="Spacepiece_noUnderstand_1">!#&amp;^*&amp;(^^*()!!#$!#$</text>
 	<text id="Spacepiece_noUnderstand_2">!&amp;&amp;((@##&amp;^@%$!@#!@&amp;</text>
 	<text id="Spacepiece_noUnderstand_3">!#…!#&amp;&amp;*&amp;^$%%$$%%^^&amp;*(!</text>
-	<text id="Spacepiece_understand_1">En un mundo de subconsciente que niega todo el sentido común, en la nebulosidad que refleja el mundo real mejor que cualquier espejo…</text>
-	<text id="Spacepiece_understand_2">Cuando el deslumbrante sol descienda, imágenes etéreas se mostraran ellas mismas.</text>
-	<text id="Spacepiece_understand_3">El vasto, reluciente Eco que se aproxima, vacilando su cabeza; si puedes escucharlo, cantemos juntos.</text>
+
+	<text id="Spacepiece_understand_1">Em um mundo de subconsciente que nega todo senso comum, na nebulosidade que reflete o mundo real melhor do que qualquer espelho poderia…</text>
+	<text id="Spacepiece_understand_2">Quando o sol forte se põe, imagens etéreas se mostrarão.</text>
+	<text id="Spacepiece_understand_3">O vasto e brilhante eco que se aproxima, balançando a cabeça; se você pode ouvi-lo, vamos cantá-lo juntos.</text>
+  <!-- Child of the Galaxy -->
 	<text id="Kid_nomal_1">Estamos juntos por siempre. Los mejores amigos siempre se mantienen unidos.</text>
 	<text id="Kid_nomal_2">Los amigos siempre se mantienen a tu lado. No olvides la promisa, ¿vale?</text>
 	<text id="Kid_nomal_3">Si nadie se mantiene a mi lado, Seré abrumado con tristeza.</text>
 	<text id="Kid_nomal_4">Nunca dejes mi lado. Tienes que estar conmigo por siempre.</text>
 	<text id="Kid_nomal_5">Si mi amigo se hiere… estaré tan triste.</text>
+
 	<text id="Kid_cry_1">Tú eres malo… Intentas arrebatarme a todos mis amigos.</text>
 	<text id="Kid_cry_2">Por favor, no te lleves a mis amigos lejos…</text>
 	<text id="Kid_cry_3">Ahora lo entiendo… Tú también tienes amigos. Me los llevaré exactamente como haces conmigo ahora…</text>
-
+  <!-- Fairy Festival -->
   <text id="Fairy_nomal_1">Necesito algo fresco… He estado muriendo de hambre por un rato…</text>
   <text id="Fairy_nomal_2">Solo unas pocas hagas me protegen ahora…</text>
   <text id="Fairy_nomal_3">Sé gentil con mis hadas… Son seres preciosos…</text>
