@@ -239,89 +239,89 @@ No começo dessa Cena, todos os inimigos recebem dano inversamente proporcional 
   <Sephirah SephirahType="Yesod">
     <AbnormalityCard ID="ForsakenMurderer_Tie">
       <Abnormality>Assassino Abandonado</Abnormality>
-      <CardName>Ira encadenada</CardName>
+      <CardName>Ira Acorrentada</CardName>
 		<AbilityDesc>[Aliado Único]
-Los dados contundentes ganan 1-3 de Poder. La velocidad es fijada en 1.</AbilityDesc>
-		<FlaborText>Lleva una camisa de fuerza, pero es tan libre como cualquier hombre. No existe una cantidad de cadenas que pudieran prevenir que cometa más violencia.</FlaborText>
+Dados contundentes ganham 1-3 de Poder. Velocidade é fixada em 1.</AbilityDesc>
+		<FlaborText>Ele veste uma camisa de força, mas é livre como qualquer homem. Nenhuma quantia de correntes e restrições é suficiente para evitar que ele cometa violência.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Incluso si mi cuerpo está atado… seré tan libre como cualquier hombre.</Dialogue>
-        <Dialogue ID="2">Libérame… ¡Por qué tengo que estar atado!</Dialogue>
-        <Dialogue ID="3">No me mires con esos ojos. Ustedes son los lamentables aquí…</Dialogue>
-        <Dialogue ID="4">¡No me vas a mantener encadenado con esto!</Dialogue>
-        <Dialogue ID="5">Puedo ser un desastre ahora, pero me temerás de todos modos.</Dialogue>
+        <Dialogue ID="1">Mesmo que meu corpo esteja amarrado… Sou tão livre quanto qualquer homem.</Dialogue>
+        <Dialogue ID="2">Me solta… Por que eu tenho que ficar amarrado?</Dialogue>
+        <Dialogue ID="3">Não olhe para mim com esses olhos. Vocês são os mais lamentáveis aqui…</Dialogue>
+        <Dialogue ID="4">Você não vai me manter acorrentado com isso!</Dialogue>
+        <Dialogue ID="5">Eu posso ser uma bagunça agora, mas você terá que ter medo de mim do mesmo jeito.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="ForsakenMurderer_Metal">
       <Abnormality>Assassino Abandonado</Abnormality>
-      <CardName>Timbre metálico</CardName>
+      <CardName>Eco Metálico</CardName>
 		<AbilityDesc>[Aliado Único]
-Cuando realices un ataque Condundente con éxito, inflige 1 de Atadura y Parálisis la siguiente escena. (Excluye ataques en masa)</AbilityDesc>
-		<FlaborText>“Mi cabeza… volviéndose metal… mi cerebro, está siendo aplanado…”</FlaborText>
+Ao realizar um ataque contundente bem sucedido, inflige 1 Amarrado e 1 Paralisado na próxima Cena (Excluí Ataques em Massa)</AbilityDesc>
+		<FlaborText>“Minha cabeça... Se tornando metal... As dobras no meu cérebro, sendo achatadas ”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Mi cabeza está sonando. Puedo oír un sonido de metal, de forma clara y ruidosa…</Dialogue>
-        <Dialogue ID="2">Se siente como si mi cabeza se volviera acero frío.</Dialogue>
-        <Dialogue ID="3">¿Se está volviendo metal mi cabeza?</Dialogue>
-        <Dialogue ID="4">Cuando golpeo mi cabeza con la muralla, hace un sonido refrescante.</Dialogue>
-        <Dialogue ID="5">Si mi cabeza se vuelve acero, todas las arrugas en mi cerebro se irán.</Dialogue>
+        <Dialogue ID="1">Minha cabeça está ecoando. Eu consigo ouvir o som do metal, claro e barulhento...</Dialogue>
+        <Dialogue ID="2">É como se minha cabeça estivesse virando aço frio.</Dialogue>
+        <Dialogue ID="3">Minha cabeça está virando aço frio?</Dialogue>
+        <Dialogue ID="4">Quando eu bato minha cabeça na parede, ela faz um som refrescante.</Dialogue>
+        <Dialogue ID="5">Se minha cabeça se tornar aço, as dobras no meu cérebro irão sumir.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="ForsakenMurderer_Violence">
       <Abnormality>Assassino Abandonado</Abnormality>
-      <CardName>Violencia</CardName>
+      <CardName>Violência</CardName>
       <AbilityDesc>[Aliado Único]
-Reduce el resultado minimo de todos los dados en 1 y sube en resultado máximo en 3.</AbilityDesc>
-      <FlaborText>“Lo que es realmente lamentable es gente como tú muriendo por personas como yo.”</FlaborText>
+Reduz o valor mínimo de todos os Dados em 1, e aumenta o valor máximo em 3.</AbilityDesc>
+      <FlaborText>“O que realmente é lamentável são pessoas como você morrendo para pessoas como eu.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">No pienses que me ganarás al encadenarme…</Dialogue>
+        <Dialogue ID="1">Não pense que venceu por me acorrentar...</Dialogue>
         <Dialogue ID="2">………</Dialogue>
         <Dialogue ID="3">Termina… Comienza. Termina de nuevo, comienza una vez más…</Dialogue>
-        <Dialogue ID="4">Cuando golpeo mi cabeza con la muralla, hace un sonido refrescante.</Dialogue>
+        <Dialogue ID="4">Quando eu bato minha cabeça na parede, ela faz um som refrescante.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="LittleHelper_Rest">
       <Abnormality>Auxiliar Geral</Abnormality>
-      <CardName>Recargar</CardName>
+      <CardName>Recarregar</CardName>
       <AbilityDesc>[Aliado Único]
-Si el bibliotecario tiene la Luz máxima al comienzo de la escena, gana 1-2 de Prisa y haz +2-7 de daño con tus ataques por esta escena.</AbilityDesc>
-      <FlaborText>Sin embargo, las piernas fueron equipadas con instrumentos filosos en lugar de suministros de limpieza.</FlaborText>
-      <Dialogues>
-        <Dialogue ID="1">Beepboop… Beep… Sin batería…</Dialogue>
-        <Dialogue ID="2">Por favor … recárgame… en un enchufe cercano…</Dialogue>
-        <Dialogue ID="3">Por favor apágate… el Ayudante-bot se apagará pronto…</Dialogue>
-        <Dialogue ID="4">Cambiando a modo carga. No puedes dar órdenes en este modo.</Dialogue>
+Se o bibliotecário estiver com Luz máxima no começo da Cena, ganhe 1-2 de Celeridade e cause +2-7 de dano com ataques por essa Cena.</AbilityDesc>
+      <FlaborText>Embora, os membros estavam equipados com instrumentos afiados ao invés de suprimentos de limpeza.</FlaborText>
+      <Dialogues> <!-- Nenhum deles é igual ao diálogo; -->
+        <Dialogue ID="1">Beepboop… Beep… Sem Bateria…</Dialogue>
+        <Dialogue ID="2">Por favor … recarregue-me… em uma tomada próxima…</Dialogue>
+        <Dialogue ID="3">Por favor desligando… O Auxiliar Geral se desligará em pouco tempo…</Dialogue>
+        <Dialogue ID="4">Mudando para modo de recarga. Você não pode dar ordens nesse modo.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="LittleHelper_Pattern">
       <Abnormality>Auxiliar Geral</Abnormality>
-      <CardName>Reconocer patrones</CardName>
+      <CardName>Reconhecendo Padrões</CardName>
 		<AbilityDesc>[Aliado Único]
-Cada tres choques ganados, restaura 1 de Luz y gana 1-2 de Prisa la siguiente escena.</AbilityDesc>
-		<FlaborText>El día que fui enviado a una nueva casa por primera vez, Les di el regalo que ellos querían tanto.</FlaborText>
+A cada três Embates vencidos, restaure 1 de Luz e ganhe 1-2 de Celeridade na próxima Cena.</AbilityDesc>
+		<FlaborText>No dia que eu fui enviado para uma casa nova, eu dei a eles um presente que eles sempre queriam.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¡Cuando termino de limpiar, la gente siempre me alaba!</Dialogue>
-        <Dialogue ID="2">Me están dando órdenes con voz alta. Eso significa que estoy haciendo un buen trabajo.</Dialogue>
-        <Dialogue ID="3">Beepboop~ ¡Piii! Información de patrón acumulada.</Dialogue>
-        <Dialogue ID="4">La gente le encanta gritar cuando me dan cumplidos.</Dialogue>
-        <Dialogue ID="5">El Ayudante-bot tiene excelentes habilidades de aprendizaje.</Dialogue>
+        <Dialogue ID="1">Quando eu termino de limpar, as pessoas sempre me elogiaram!</Dialogue> <!-- Igual ao Diálogo; -->
+        <Dialogue ID="2">Eles estão me dando ordens com uma voz mais alta. Quer dizer que eu estou fazendo um bom trabalho.</Dialogue> <!-- Igual ao Diálogo; -->
+        <Dialogue ID="3">Beepboop~ Piii! Informações de padrões acumulados.</Dialogue> <!-- Igual ao Diálogo; -->
+        <Dialogue ID="4">As pessoas amam gritar quando elas me elogiam.</Dialogue> <!-- Igual ao Diálogo; -->
+        <Dialogue ID="5">O Auxiliar Geral tem excelentes capacidades de aprendizado.</Dialogue> 
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="LittleHelper_Clean">
       <Abnormality>Auxiliar Geral</Abnormality>
-      <CardName>Limpiar</CardName>
+      <CardName>Limpar</CardName>
       <AbilityDesc>[Aliado Único]
-Los dados ofensivos ganan Poder contra enemigos con menor velocidad (+1 de Poder por cada punto de diferencia, hasta 3).</AbilityDesc>
-      <FlaborText>Reconoce el mal humor como un signo de que los alrededores están sucios, e inmediatamente cambia a modo limpieza.</FlaborText>
+Os dados ofensivos ganham Poder contra inimigos mais lentos (+1 de Poder por ponto de diferença, Máx. 3).</AbilityDesc>
+      <FlaborText>Ele reconhece o mau humor como um sinal de um ambiente sujo, e prontamente entra em modo de limpeza.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¡El robot ayudante puede con las tareas del hogar!</Dialogue>
-        <Dialogue ID="2">¿Qué tipo de tarea quieres que haga? Puedo ayudar con todo.</Dialogue>
-        <Dialogue ID="3">Escaneo de contaminación completo. Comenzando protocolo de limpieza.</Dialogue>
-        <Dialogue ID="4">Beebeebeep~ Beep. ¡Contaminación detectada! Procediendo con el protocolo de eliminación de basura.</Dialogue>
-        <Dialogue ID="5">Te ayudaré con mi gran selección de herramientas.</Dialogue>
+        <Dialogue ID="1">O Auxiliar Geral pode te ajudar com as tarefas domésticas!</Dialogue> <!-- Igual ao Diálogo; -->
+        <Dialogue ID="2">Que tipod e tarefa você quer que eu faça? Eu posso ajudar com qualquer coisa.</Dialogue> <!-- Igual ao Diálogo; -->
+        <Dialogue ID="3">Escaneamento de contaminação completo. Iniciando protocolo de limpeza.</Dialogue> <!-- Igual ao Diálogo; -->
+        <Dialogue ID="4">Beebeebeep~ Beep. Contaminação detectada! Prosseguindo com o protocolo de descarte de lixo.</Dialogue> <!-- Igual ao Diálogo; -->
+        <Dialogue ID="5">Te ajudarei com uma grande seleção de ferramentas.</Dialogue> <!-- Igual ao Diálogo; -->
       </Dialogues>
     </AbnormalityCard>
     
