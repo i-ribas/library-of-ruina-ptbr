@@ -328,16 +328,16 @@ Os dados ofensivos ganham Poder contra inimigos mais lentos (+1 de Poder por pon
 	  <AbnormalityCard ID="SingingMachine_Music">
 		  <Abnormality>Máquina Cantora</Abnormality>
 		  <CardName>Música</CardName>
-		  <AbilityDesc>[Todos los personajes]
-Todos los personajes hacen +4-8 de daño con sus ataques esta recepción. También sufren +4-8 de daño de aturdimiento al recibir un golpe.
-Cuando un aliado derrota a un enemigo, ellos recuperan 15 de HP y resistencia al aturdimiento.</AbilityDesc>
-		  <FlaborText>Pero nada puede compararse a la música que hace cuando se come un humano.</FlaborText>
+		  <AbilityDesc>[Todos os Personagens]
+Todos os Personagens causam +4-8 de dano com seus ataques durante essa Recepção. Eles também sofrem +4-8 de dano de atordoamento ao serem golpeados.
+Quando um aliado derrotar um inimigo, ele recupera 15 de HP e Resistência de Atordoamento.</AbilityDesc>
+		  <FlaborText>Mas nada podia se comparar a música que ela tocava quando ela comia um humano.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Nada hace tan fantástica música como un humano.</Dialogue>
-        <Dialogue ID="2">¿No quieres escuchar una canción hermosa? Ya sabes como.</Dialogue>
-        <Dialogue ID="3">No te preocupes. Estoy seguro de que uno también quiere ser un gran instrumento.</Dialogue>
-        <Dialogue ID="4">Todas las personas llevan talento musical en ellos.</Dialogue>
-        <Dialogue ID="5">Aquellos que son valientes, vengan a mí. Únanse a mí..</Dialogue>
+        <Dialogue ID="1">Nada faz uma música tão facinante quando um humano.</Dialogue>
+        <Dialogue ID="2">Você não quer ouvir essa linda canção? Você já sabe como.</Dialogue>
+        <Dialogue ID="3">Não se preocupe. Eu tenho certeza que você também quer ser um instrumento belo.</Dialogue>
+        <Dialogue ID="4">Todas as pessoas carregam talento musical dentro de si.</Dialogue>
+        <Dialogue ID="5">Aqueles que são fortuitos, venham até mim. Juntem-se a mim.</Dialogue>
       </Dialogues>
 	  </AbnormalityCard>
     
@@ -345,122 +345,122 @@ Cuando un aliado derrota a un enemigo, ellos recuperan 15 de HP y resistencia al
 		  <Abnormality>Máquina Cantora</Abnormality>
 		  <CardName>Ritmo</CardName>
 		  <AbilityDesc>[Aliado Único]
-Por la duración de la batalla, gana 1 de Ritmo al comienzo de cada escena. Siempre que un personaje con 'Ritmo' realiza con éxito un ataque, otro personaje aleatorio gana 1 de Ritmo con una probabilidad del 25% la siguiente escena.
-(Ritmo: Gana 1 Fuerza, recibe daño de aturdimiento adicional de los golpes, dura 1 escena)</AbilityDesc>
-		  <FlaborText>Estaba creando un Ritmo.</FlaborText>
+Pela duração da batalha, ganha 1 Ritmo no começo de cada Cena. Quanto um personagem com Ritmo faz um ataque bem sucedido, tem 25% de chance de um personagem aleatório receber 1 Ritmo 
+(Ritmo: Ganhe 1 Força, receba dano adicional de Atordoamento de ataques, dura uma Cena)</AbilityDesc>
+		  <FlaborText>Estava criando Ritmo.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Todos quieren escuchar mi canción de nuevo.</Dialogue>
-        <Dialogue ID="2">Varios sonidos vienen juntos para crear música.</Dialogue>
-        <Dialogue ID="3">Todos ellos ofreciéndose como voluntarios para ser instrumentos…</Dialogue>
-        <Dialogue ID="4">Si todos lanzaran sus cuerpos dentro mío. Esto ciertamente crearía una melodía incluso más dulce.</Dialogue>
-        <Dialogue ID="5">No quieres escuchar ningún otro músico nunca más.</Dialogue>
+        <Dialogue ID="1">Todos querem ouvir minha canção novamente.</Dialogue>
+        <Dialogue ID="2">Varios sons se juntam para criar música.</Dialogue>
+        <Dialogue ID="3">Todos eles estão se voluntariando para se tornarem instrumentos…</Dialogue>
+        <Dialogue ID="4">Se todos jogarem seus corpos em mim, certamente criarei uma doce melodia .</Dialogue>
+        <Dialogue ID="5">Você nunca mais vai querer ouvir nenhuma outra música.</Dialogue>
       </Dialogues>
 	  </AbnormalityCard>
     
     <AbnormalityCard ID="SingingMachine_Atk">
       <Abnormality>Máquina Cantora</Abnormality>
-      <CardName>Adicción músical</CardName>
+      <CardName>Vício Musical</CardName>
       <AbilityDesc>[Aliado Único]
-Los dados ofensivos ganan 1-3 de Poder.
-Los dados defensivos sacan un 1.</AbilityDesc>
-      <FlaborText>Después de todo, el arte es un regalo del diablo, nacido de la desesperación y sufrimiento. Nunca parar de actuar hasta que el cuerpo se convierta en polvo.</FlaborText>
+Todos os dados ofensivos ganham 1-3 de Poder
+Todos os dados defensivos rolam 1.</AbilityDesc>
+      <FlaborText>No fim das contas, arte é um presente do diabo, nascido de desespero e sofrimento. Uma performace sem pausas até o corpo se tornar pó.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Toda la otra música no es más que ruido para mí…</Dialogue>
-        <Dialogue ID="2">¡Haz que me mueva… Ilumina mi camino con las canciones!</Dialogue>
-        <Dialogue ID="3">Hahaha… Ha… ¿Qué haré? ¿Qué puedo hacer? Haha…</Dialogue>
-        <Dialogue ID="4">La Felicidad eterna podría ser mía si esta nota durará para siempre…</Dialogue>
-        <Dialogue ID="5">¡Si! ¡Es esto… Contemplad esta poderosa melodía!</Dialogue>
+        <Dialogue ID="1">Todas as outras música não são mais do que barulho para mim…</Dialogue>
+        <Dialogue ID="2">Faça um movimento... Ilumine meu caminho com canções!</Dialogue>
+        <Dialogue ID="3">Hahaha… Ha… O que eu vou fazer? O que eu posso fazer? Haha…</Dialogue>
+        <Dialogue ID="4">Felicidade Eterna seria minha se esse tom durasse para sempre…</Dialogue>
+        <Dialogue ID="5">Sim! É isso... Contemple essa poderosa melodia!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
         <AbnormalityCard ID="Butterfly_White">
       <Abnormality>O Funeral das Borboletas Mortas</Abnormality>
-      <CardName>Descanso eterno</CardName>
+      <CardName>Descanso Eterno</CardName>
       <AbilityDesc>[Aliado Único]
-Haz +2-7 de daño y +2-5 de daño de aturdimiento contra el enemigo con menos HP actualmente.</AbilityDesc>
-      <FlaborText>La gente cree que ellos se pueden convertir en seres hermosos con pequeñas alas cuando mueran. Es una historia tonta, Absurda también..</FlaborText>
+Cause +2-7 de Dano e +2-5 de Dano de Atordoamento contra o inimigo com a menor quantidade de HP.</AbilityDesc>
+      <FlaborText>Pessoas acreditavam que elas se tornariam criaturinhas belas com pequenas asas assim que morressem. É uma história boba. Sem sentido também..</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Un descanso eterno… Que descanse en paz.</Dialogue>
-        <Dialogue ID="2">Ellos creen que se pueden convertir en seres hermosos con pequeñas alas cuando mueran.</Dialogue>
-        <Dialogue ID="3">Te ayudaré a liberarte de atormentarte a ti mismo.</Dialogue>
-        <Dialogue ID="4">Ellos necesitan regresar a casa, habiendo ganado lo que ellos querían y estando llenos de esperanza.</Dialogue>
-        <Dialogue ID="5">La muerte puede parecer tenebrosa, pero no se compara con el terror de la realidad. Se sentiría liberadora, mejor dicho.</Dialogue>
+        <Dialogue ID="1">Um descanso eterno... Que você descanse em paz.</Dialogue>
+        <Dialogue ID="2">Eles acreditavam que elas se tornariam criaturinhas belas com pequenas asas assim que morressem.</Dialogue>
+        <Dialogue ID="3">Te ajudarei a se libertarem do tormento que vocês causam a si mesmos.</Dialogue>
+        <Dialogue ID="4">Eles devem ter voltado para casa, tendo ganhado o que queriam e estando cheios de esperança.</Dialogue>
+        <Dialogue ID="5">Morte parece assustadora, ela não se compara ao terror da realidade. Ao invés, ela se liberadora.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Butterfly_Fly">
       <Abnormality>O Funeral das Borboletas Mortas</Abnormality>
       <CardName>Lamento</CardName>
       <AbilityDesc>[Aliado Único]
-Haz +2-4 de daño a un enemigo con un efecto de estado.
-Si el bibliotecario tiene un efecto de estado al comienzo de una escena, gana 1-2 de Fuerza.</AbilityDesc>
-      <FlaborText>Ellos dicen que alguien con un gran equipaje en su espalda ha venido para ser un salvador para todos.</FlaborText>
+Causa +2-4 de dano contra inimigos que tenham um status de efeito negativo.
+Se o bibliotecário tem um efeito negativo no começo da cena, ganhe 1-2 de Força</AbilityDesc>
+      <FlaborText>Eles dizem que o lamentador com uma grande bagagem em suas costas veio para ser o salvador de todos.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Para las pobres almas que no pueden parar de lamentarse, ofrezco mis condolencias.</Dialogue>
-        <Dialogue ID="2">Pena por el muerto, un lamento temprano para el vivo.</Dialogue>
-        <Dialogue ID="3">Formas de tristeza como las lágrimas solo mojarán las alas.</Dialogue>
-        <Dialogue ID="4">No se permite ni una pizca de impureza para la mente de aquellos que lloran, ya que debe permanecer reverente y solemne.</Dialogue>
-        <Dialogue ID="5">No hay ni una sola flor floreciendo en honor de las mariposas.</Dialogue>
+        <Dialogue ID="1">Para as pobres almas que não conseguem parar de se lamentar... Eu ofereço minhas condolências.</Dialogue>
+        <Dialogue ID="2">Mágoas para os mortos, e lamento próximo para os vivos.</Dialogue>
+        <Dialogue ID="3">Formas frívolas de tristeza, lágrimas que apenas irão molhar as asas.</Dialogue>
+        <Dialogue ID="4">Nenhum traço de impuridade é permitido na mente daqueles que lamentam, pois elas precisam se manter reverentes e solenes.</Dialogue>
+        <Dialogue ID="5">Nenhuma própria flor florece para honras as borboletas.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Butterfly_Casket">
       <Abnormality>O Funeral das Borboletas Mortas</Abnormality>
-      <CardName>Ataúd</CardName>
+      <CardName>Caixão</CardName>
       <AbilityDesc>[Aliado Único]
-Al golpear a un enemigo que tenga 50% o menos de HP, sella un dado de velocidad de el objetivo (Dos veces por escena, excluye ataques en masa).</AbilityDesc>
-      <FlaborText>Él está llevando un ataúd. Un gran ataúd para pagar tributo a los empleados que no tienen lugar donde ir. Aún es muy pequeño para confortar a esos inocentes sacrificios.</FlaborText>
+Ao golpear um inimigo que esteja com 50% de HP ou menos, Sele um dos Dados de Velocidade do alvo (Duas vezes por cena, Exclui Ataques em Massa).</AbilityDesc>
+      <FlaborText>Ele está levando um caixão. Um grande caixão para pagar tributo aos funcionários que não tinham para onde ir. Ainda assim, é pequeno demais para confortar os sacrifícios inocentes.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Un solo ataúd para pagar tributo a aquellos que no tienen donde ir, errantes con la memoria de una fe vacía…</Dialogue>
-        <Dialogue ID="2">¿Dónde va uno cuando muere?</Dialogue>
-        <Dialogue ID="3">El peso de las mariposas que murieron en vano sería demasiado bueno para cargar.</Dialogue>
-        <Dialogue ID="4">Ese gran ataúd. simplemente muy pequeño para confortar a los sacrificios inocentes.</Dialogue>
-        <Dialogue ID="5">Las frágiles alas siguieron aleteando, esperando por el momento de caer dormidas.</Dialogue>
+        <Dialogue ID="1">Um único caixão para pagar tributo para aqueles que não tinham para onde ir, vagando com a memória de uma fé vazia…</Dialogue>
+        <Dialogue ID="2">Para onde eles vão quando morrem?</Dialogue>
+        <Dialogue ID="3">O peso das borboletas que morreram em vão seria demais para carregar.</Dialogue>
+        <Dialogue ID="4">Esse caixão enorme, simplesmente pequeno demais para confortar os sacrifícios inocentes..</Dialogue>
+        <Dialogue ID="5">As asas frágeis se mantém abanando, esperando pelo momento de dormir.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Matan_Request">
       <Abnormality>Der Freischütz</Abnormality>
-      <CardName>Solicitud</CardName>
+      <CardName>Solicitar</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando no hay un 'Objetivo solicitado' presente, el primer enemigo golpeado por el bibliotecario seleccionado es Marcado como uno. 
-Haz +3-5 de daño con el objetivo solicitado.
-Cuando el bibliotecario seleccionado derrota al objetivo solicitado, recupera completamente la resistencia al aturdimiento y consigue el doble de libros.</AbilityDesc>
-      <FlaborText>Justo como el Diablo dijo, las balas atravesarán todo lo que tú quieras. Por siempre.</FlaborText>
+Se não há um 'Alvo Solicitado' presente, o primeiro inimigo que o bibliotecário selecionar será marcado como alvo.
+Causa +3-5 de dano ao 'Alvo Solicitado'
+Quando o bibliotecário selecionado mata o Alvo Solicitado, recupere totalmente a Resistência de Atordoamento, e recupere duas vezes mais livros.</AbilityDesc>
+      <FlaborText>Assim como o Diabo disse, as balas vão perfurar qualquer coisa que você quiser. Para sempre.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Algunos lo llaman un cazador honrado, mientras otros lo llaman un pistolero manchado de sangre.</Dialogue>
-        <Dialogue ID="2">Las balas siempre atraviesan en línea recta, a lo largo del horizonte.</Dialogue>
-        <Dialogue ID="3">Yo simplemente sigo mis impulsos, apuntando mi rifle como me gusta.</Dialogue>
-        <Dialogue ID="4">Las balas que avanzan no tienen morales, ni buenas o malas intenciones.</Dialogue>
-        <Dialogue ID="5">Algunas veces ayudé a los que lo necesitaban o peleaban contra la maldad.</Dialogue>
+        <Dialogue ID="1">Alguns chamavam ele de caçador honrado, outros o chamavam de um pistoleiro manchado de sangue.</Dialogue>
+        <Dialogue ID="2">As balas sempre seguiam em linha reta, ao longo do horizonte.</Dialogue>
+        <Dialogue ID="3">Eu simpesmente sigo meus impulsos, apontando meu rifle como eu quiser.</Dialogue>
+        <Dialogue ID="4">As balas não tinham moral, nenhuma intenção boa ou ruim.</Dialogue>
+        <Dialogue ID="5">Algumas vezes eu ajudei aqueles que precisavam ou lutei contra o mal.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Matan_Seven">
       <Abnormality>Der Freischütz</Abnormality>
-      <CardName>La séptima bala</CardName>
+      <CardName>A Sétima Bala</CardName>
       <AbilityDesc>[Aliado Único]
-Haz +1-7 de daño con dados ofensivos.
-Cuando un dado ofensivo empata o pierde un choque, haz un daño igual al resultado del dado del oponente.
-Cada 7 páginas Melee o Rango se apunta a un objetivo aleatorio, incluyendo aliados.</AbilityDesc>
-      <FlaborText>El Diablo propuso un contrato infantil: La última bala atravesará la cabeza de tu amada. En el momento que él escucho esto, buscó y disparó a todas las personas que amaba.</FlaborText>
+Cause +1-7 de Dano com dados Ofensivos
+Quando um dado Ofensivo empata ou perde um Embate, cause dano igual ao valor do Dado ao oponente.
+A Sérima Página Corpo-a-Corpo ou A Distância, tem como alvo um personagem aleatório, incluindo aliados .</AbilityDesc>
+      <FlaborText>O Diabo propós um contrato infantil: A última bala iria perfurar a cabeça de quem ele mais ama. E mo momento que ele ouviu isso, ele procurou e atirou em todas as pessoas que ele amava.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">La última bala atravesará la cabeza de tu amada.</Dialogue>
-        <Dialogue ID="2">Tienes razón… Esta bala mágica puede realmente golpear a cualquiera como dijiste.</Dialogue>
-        <Dialogue ID="3">Las balas atravesarán cualquier cosa que quieras. Por siempre.</Dialogue>
-        <Dialogue ID="4">Ninguna bala será nunca la última.</Dialogue>
+        <Dialogue ID="1">A última bala vai perfurar a cabeça de sua amada..</Dialogue>
+        <Dialogue ID="2">Tem razão... Essa bala mágica pode atingir qualquer pessoa, do jeito que você disse.</Dialogue>
+        <Dialogue ID="3">As balas vão perfurar qualquer coisa que você quiser. Para sempre</Dialogue>
+        <Dialogue ID="4">Nenhuma bala será a última.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Matan_Flame">
       <Abnormality>Der Freischütz</Abnormality>
-      <CardName>Flama negra</CardName>
+      <CardName>Chama Negra</CardName>
       <AbilityDesc>[Aliado Único]
-Por la duracion de la recepción, las resistencias 'Resistente/Inefectivo' de todos los personajes cambian a 'Débil/Fatal'.
-Gana 1-2 de Prisa y 2-4 de Fuerza cada escena.</AbilityDesc>
-      <FlaborText>Un día, el tirador se dio cuenta de que el Diablo ya no le seguía. Se preguntó por qué y se dio cuenta que su alma ya había caído al infierno desde el comienzo.</FlaborText>
+Pela duração da recepção, as resistências 'Resistentes/Inefetivo' de todos os personagens trocam para 'Fraco/Fatal'.
+Ganhe 1-2 de Celeridade e 2-4 de Força toda Cena.</AbilityDesc>
+      <FlaborText>Um dia, o franco atirador percebeu que o Diabo não o seguia mais. Ele se perguntou o porquê, então realizou que sua alma já tinha caío no inferno desde o começo</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¿Era esta la desesperación que él deseaba?</Dialogue>
-        <Dialogue ID="2">Mi alma comienza a quemarse poco a poco, hasta que finalmente descienda al Infierno.</Dialogue>
-        <Dialogue ID="3">Cuando uno siente que ya no queda nada más a lo que apuntar, su alma descenderá al Infierno.</Dialogue>
-        <Dialogue ID="4">El corazón desesperado no pudo extinguirse en una llama apasionada. Este solo podía quemarse con un fuego frío.</Dialogue>
-        <Dialogue ID="5">La desesperación estará al lado tuyo en todo momento.</Dialogue>
+        <Dialogue ID="1">É esse desespero que ele desejou por?</Dialogue>
+        <Dialogue ID="2">Minha alma começou a queimar pouco-a-pouco, até que no fim eu desça ao inferno.</Dialogue>
+        <Dialogue ID="3">Quando alguém sente que não tem nada mais para mirar, sua alma caí para o inferno.</Dialogue>
+        <Dialogue ID="4">O coração desesperado não conseguia se apagar em uma chama apaixonada. Ela iria apenas queimar com fogo frio.</Dialogue>
+        <Dialogue ID="5">Esse desespero irá estar ao seu lado, a todos o momento.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
@@ -469,28 +469,28 @@ Gana 1-2 de Prisa y 2-4 de Fuerza cada escena.</AbilityDesc>
   <Sephirah SephirahType="Hod">
     <AbnormalityCard ID="ShyLookToday_Face">
       <Abnormality>Expressão Tímida de Hoje</Abnormality>
-      <CardName>Mirada del día</CardName>
+      <CardName>Expressão do dia.</CardName>
       <AbilityDesc>[Aliado Único]
-La cara del bibliotecario cambia constantemente.
-Los dados ganan diferentes cantidades de Poder dependiendo de la cara actual. (Min. -2, Máx. +2)
-La ira es feroz.</AbilityDesc>
-      <FlaborText>Un día soleado, justo como ese día donde ellos secaron la colada, ellos secaron su propia piel.</FlaborText>
+O rosto do bibliotecário muda constantemente
+Os dados ganham uma quantidade de Poder dependendo da face atual. (Min. -2, Máx. +2)
+A Raiva é poderosa.</AbilityDesc>
+      <FlaborText>Um dia ensolarado, assim como o dia que eles sinceramente secaram a roupa, eles secaram a própria pele.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Soy solo tímido, eso es todo. Solo tímido…</Dialogue>
-        <Dialogue ID="2">Una mirada triste no encaja en la Ciudad.</Dialogue>
-        <Dialogue ID="3">Es muy importante expresarse uno mismo… Supongo que lo es.</Dialogue>
-        <Dialogue ID="4">¿Sabes qué tipo de cara deberías estar haciendo?</Dialogue>
-        <Dialogue ID="5">Pon una gran sonrisa en tu cara, como la mía. ¿No es muy difícil, verdad?</Dialogue>
+        <Dialogue ID="1">É timidez, só isso. Só tímidez…</Dialogue>
+        <Dialogue ID="2">Por que um olhar triste não combina com a Cidade…</Dialogue>
+        <Dialogue ID="3">É muito importante se expressar... Eu acho que é.</Dialogue>
+        <Dialogue ID="4">Você sabe que tipo de cara você deveria estar fazendo?</Dialogue>
+        <Dialogue ID="5">Coloque um grande sorriso no seu rosto, como o meu. Não é tão difícil, é?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="ShyLookToday_Shy">
       <Abnormality>Expressão Tímida de Hoje</Abnormality>
-      <CardName>Distanciamiento social</CardName>
+      <CardName>Distanciamento Social</CardName>
       <AbilityDesc>[Aliado Único]
-Los dados de bloqueo ganan 1-2 de Poder.
-Haz +2-7 de daño de aturdimiento al desviar daño.</AbilityDesc>
-      <FlaborText>Si uno intenta mirar la cara detrás de la piel, el resultado no será muy bonito. El espacio entre su piel es el único espacio personal que le queda. Dejarlo sin invadir es el último poco de generosidad que la Ciudad puede ofrecer.</FlaborText>
+Os dados de Bloqueio ganham 1-2 de Poder.
+Cause +2-7 de dano de Atordoamento quando defender.</AbilityDesc>
+      <FlaborText>Se alguém tentar olhar para o rosto atrás da pele, o resultado não vai ser bonito. O espaço atrás da pele é o único espaço pessoal que elas tem sobrando. Deixar esse espaço sem ser invadido é o último fragmento de generosidade que a Cidade pode oferecer. </FlaborText>
       <Dialogues>
         <Dialogue ID="1">Por favor no mires detrás de esto. Es lo menos que puedes hacer…</Dialogue>
         <Dialogue ID="2">Necesitamos mantener la distancia apropiada. Lo suficientemente lejos para que todos estén confortables.</Dialogue>
@@ -534,8 +534,8 @@ Pronto se volverán rojos.</FlaborText>
     <AbnormalityCard ID="RedShoes_Desire">
       <Abnormality>Los Os Saltos Vermelhos</Abnormality>
       <CardName>Obsesión</CardName>
-      <AbilityDesc>[Todos los personajes]
-Todos los personajes aplican el doble de Sangrado.</AbilityDesc>
+      <AbilityDesc>[Todos os Personagens]
+Todos os Personagens aplican el doble de Sangrado.</AbilityDesc>
       <FlaborText>Romperé tus piernas, entonces no serás capaz de bailar nunca más.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">¡Yo debería ser quien destaque!</Dialogue>
@@ -700,7 +700,7 @@ Gana 6 de 'Ropa de Ortiga', que dan Protección igual a la cantidad que tengas c
     <AbnormalityCard ID="UniverseZogak_Echo">
       <Abnormality>Fragmento do Universo</Abnormality>
       <CardName>Ecos del más allá</CardName>
-      <AbilityDesc>[Todos los personajes]
+      <AbilityDesc>[Todos os Personagens]
 Haz 5-10 de daño de aturdimiento a todos los enemigos. Todos os Aliados recuperan 5-10 de resistencia al aturdimiento.</AbilityDesc>
       <FlaborText>Tú ves una canción frente tuyo. Está acercándose, volviéndose más colorido por el segundo.</FlaborText>
       <Dialogues>
@@ -745,7 +745,7 @@ La probabilidad incrementa en 10% por cada ataque exitoso. (Tres veces por encue
       <Abnormality>Criança da Galáxia</Abnormality>
       <CardName>Lágrima</CardName>
       <AbilityDesc>[Aliado Único]
-Poder del dado +1. Al morir, Todos los personajes reciben 50% del HP máximo como daño. (Máx. 60)</AbilityDesc>
+Poder del dado +1. Al morir, Todos os Personagens reciben 50% del HP máximo como daño. (Máx. 60)</AbilityDesc>
       <FlaborText>Yo escucho sus susurros y respiración. Una oscuridad completamente negra sigue… justo como la noche que lo conocí…</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Camina a través de la Vía Láctea conmigo.</Dialogue>
@@ -866,7 +866,7 @@ Al ser golpeado, inflige 1 de Aroma.
       <CardName>Génesis de primavera</CardName>
       <AbilityDesc>[Aliado Único]
 Cada escena, un 'Pétalo' se añade a un enemigo aleatorio.
-Después que un personaje con 'Pétalo' reciba 4 golpes en una sola escena, Todos los personajes reciben 3-7 de daño de aturdimiento y el bibliotecario no se puede seleccionar en la siguiente escena.</AbilityDesc>
+Después que un personaje con 'Pétalo' reciba 4 golpes en una sola escena, Todos os Personagens reciben 3-7 de daño de aturdimiento y el bibliotecario no se puede seleccionar en la siguiente escena.</AbilityDesc>
       <FlaborText>Flores que no se marchitan florecieron violentamente.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">¿Tú eres quien me concederá mi deseo?</Dialogue>
@@ -1099,7 +1099,7 @@ Al final de cada escena, personajes con 3 o más Astilla de hielo quedan Inmovil
       <Abnormality>A Rainha da Neve</Abnormality>
       <CardName>Tormenta de nieve</CardName>
       <AbilityDesc>[Aliado Único]
-Todos los personajes excepto el bibliotecario seleccionado quedan Inmovilizados por esta escena.
+Todos os Personagens excepto el bibliotecario seleccionado quedan Inmovilizados por esta escena.
 La siguiente escena, todos los enemigos reciben 6 de Atadura.</AbilityDesc>
       <FlaborText>La primavera llega con el florecimiento de las rosas. Su calor derritió el palacio de A Rainha da Neve. Nadie la recordó, durmiendo debajo.</FlaborText>
       <Dialogues>
@@ -1366,7 +1366,7 @@ Añade una página 'Todo Regresa al Vacío' a la mano: ‘Coste 3 - [Comienzo de
       <CardName>Nada</CardName>
       <AbilityDesc>[Aliado Único]
 Esta página solo es efectiva si el bibliotecario posee las cuatro páginas de Anormalidad siguientes: 'Codicia', 'Odio', 'Desesperación', e 'Ira'.
-Al comienzo de una escena, inflige 5 de Endeble, Desarmar y Atadura a todos los personajes. 'Codicia', 'Odio', e 'Ira' pierden sus inconvenientes.</AbilityDesc>
+Al comienzo de una escena, inflige 5 de Endeble, Desarmar y Atadura a Todos os Personagens. 'Codicia', 'Odio', e 'Ira' pierden sus inconvenientes.</AbilityDesc>
       <FlaborText>Habiendo decidido en confiar en su propia intuición, el bufón dijo los nombres de todos los que había conocido en el camino con cada paso que tomó..</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Liderando el camino con tonterías, no hay nada que me guie.</Dialogue>
@@ -1934,7 +1934,7 @@ Después de atacar al enemigo con más HP, recupera el HP del aliado con menos H
       <Abnormality>Pássaro do Julgamento</Abnormality>
       <CardName>Juicio</CardName>
       <AbilityDesc>[Aliado Único]
-Al comienzo de una escena, Todos los personajes ganan 1 de 'Pecado' con una probabilidad del 50%.
+Al comienzo de una escena, Todos os Personagens ganan 1 de 'Pecado' con una probabilidad del 50%.
 Si un personaje tiene 5+ de 'Pecado', recibe daño igual al 10% de su HP máxima al comienzo de una escena y todo el 'Pecado' es removido.
 'Pecado' puede ser transferido al atacar y dañar a otro personaje. (Una vez por página)</AbilityDesc>
       <FlaborText>Entonces alguien dijo, “Pero qué pasa si la Balanza no se inclina a ninguna dirección algún día?” Preocupado, El Ave hizo que la Balanza siempre se inclinara a un lado. De esa manera todos los juicios darían un veredicto claro.</FlaborText>
@@ -1995,7 +1995,7 @@ No recibes daño de ciertos efectos de estado (Quemadura, Sangrado, Hada, Pecado
       <AbilityDesc>[Aliado Único]
 Se Activa cuando el bibliotecario seleccionado posee todas estas páginas de Anormalidad: 'Ojos grandes', 'Pico Ppqueño', 'Brazos largos'.
 Todos los dados de los personajes que son objetivos o tienen de objetivo a este personaje no son afectado por el aumento o reducción de Poder y el valor minimo y máximo de sus resultados es reducido en 3.
-Al final de una escena, todos los personajes reciben 15 de daño y este personaje restaura toda la Luz.</AbilityDesc>
+Al final de una escena, Todos os Personagens reciben 15 de daño y este personaje restaura toda la Luz.</AbilityDesc>
       <FlaborText>El día cuando los ojos del Pájaro grande puedan ver cientos de kilómetros lejos, Pájaro Largo pueda juzgar cualquier pecado y la boca de Pájaro Pequeño pueda devorar todo, la oscuridad caerá en el bosque.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">No puedo dejar que el mal me quite todas mis cosas preciosas.</Dialogue>
