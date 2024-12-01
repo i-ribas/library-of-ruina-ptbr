@@ -149,7 +149,7 @@
 	<text id="ui_battleresult_empty">Nenhum</text>
 	<text id="ui_battleresult_emptybookname">Nenhum Livro Selecionado</text>
 	<text id="ui_battleresult_returnrewadlist">Voltar</text>
-	<text id="ui_popup_levelup_floor">A Realização {0} subiu de Nível!</text>
+	<text id="ui_popup_levelup_floor">A Realização do {0} Subiu de Nível!</text>
 	<text id="ui_popup_opensephirah_questalarm">Uma Nova Tarefa Surgiu</text>
 	<text id="ui_popup_opensephirah_title">Foi aberto o {0}</text>
 	<text id="ui_popup_librarygradeup_title">Grau da Biblioteca</text>
@@ -402,7 +402,7 @@ A Habilidade original do espaço irá se perder.</text>
 	<text id="ui_buf_endurance">Defesa</text>
 	<text id="ui_buf_quickness">Rapidez</text>
 	<text id="ui_ability_energy">Recuperação de Luz</text>
-	<text id="ui_ability_drawcard">Tirar Páginas</text>
+	<text id="ui_ability_drawcard">Comprar Páginas</text>
 	<text id="ui_customize_hairstyle">Estilo de Penteado</text>
 	<text id="ui_customize_facestyle">Face &amp; Expressão</text>
 	<text id="ui_customize_previewappearance">Visão prévia</text>
@@ -443,7 +443,7 @@ Não afetará os Dados de Velocidade que já possuem Páginas de Combate.</text>
 
   <text id="ui_ability_speeddicenumber">Caixa do Dado de Velocidade</text>
 
-  <text id="ui_dice_standby">Parado</text>
+  <text id="ui_dice_standby">Contra-ataque</text>
   <text id="ui_dice_onlyone">Único</text>
   <text id="ui_dice_charge">Carga</text>
   <text id="ui_dice_smoke">Fumaça</text>
@@ -474,7 +474,7 @@ Deseja desequipar essa página?
   <text id ="ui_bookinfo_attachedbookalarm">Atualmente em outra Página Chave</text>
 
   <text id ="ui_bookinventory_equipbook">Equipar</text>
-  <text id ="ui_bookinventory_givepassiverelease">Tirar Página Chave</text>
+  <text id ="ui_bookinventory_givepassiverelease">Reverter Atribuição</text>
   <text id ="ui_bookinventory_receivepassiverelease">Remover Páginas Chave</text>
 
   <text id="ui_popup_release_all">Desequipar todas as Páginas Chave atualmente equipadas?</text>
@@ -484,7 +484,7 @@ Deseja desequipar essa página?
   <text id="ui_save">Salvar</text>
   <text id="ui_deck_apply_assure">Importar o baralho selecionado para o Bibliotecário?</text>
   <text id="ui_deck_save_assure">Um baralho já existe neste espaço.
-Deseja sobrescrever con un baralho novo?</text>
+Você deseja sobrescrever con um baralho novo?</text>
   <text id="ui_deck_save">Salvar Baralho Atual</text>
   <text id="ui_show_decklist">Mostrar Baralho</text>
   <text id="ui_apply_deck">Importar</text>
