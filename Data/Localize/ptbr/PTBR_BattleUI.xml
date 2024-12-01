@@ -41,5 +41,5 @@
 
   <text id="BattleUI_Speed_Max">Velocidade Máxima</text>
 
-  <text id="BattleUI_debuf">Status Negativo</text>
+  <text id="BattleUI_debuf">Efeito Negativo</text>
 </localize>

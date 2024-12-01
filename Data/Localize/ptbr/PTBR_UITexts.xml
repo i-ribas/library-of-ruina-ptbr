@@ -186,7 +186,7 @@
 	<text id="ui_floormain_questalarm_queststate">Tarefas Restantes: {0}</text>
 	<text id="ui_gift_title_getcondition">Condição para Obter</text>
 	<text id="ui_tooltip_floor_1">Visualização de Informação para o {0}.</text>
-	<text id="ui_tooltip_floor_2">O status da Realização do Andar foi Aumentado.</text>
+	<text id="ui_tooltip_floor_2">O Status da Realização do Andar foi Aumentado.</text>
 	<text id="ui_tooltip_floor_3">Revisar a Informação do Andar Atual.</text>
 	<text id="ui_tooltip_floor_4">Checar o perfil do bibliotecário.</text>
 	<text id="ui_tooltip_librarian_1">Trocar Página Chave.</text>

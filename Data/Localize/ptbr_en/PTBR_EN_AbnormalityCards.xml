@@ -36,7 +36,7 @@ Ao ser Golpeado, Inflige 1-3 de Queimadura ao atacante e tem 40% de chance de ga
       <Abnormality>Garota Queimada</Abnormality>
       <CardName>Fósforo</CardName>
       <AbilityDesc>[Aliado Único]
-As duas primeias Páginas de Combate que esse bibliotecário usar após essa página de Anormalidade ser selecionada ganham o status de 'Fósforo' (Exclui páginas [Ao Jogar])
+As duas primeias Páginas de Combate que esse bibliotecário usar após essa página de Anormalidade ser selecionada ganham o efeito 'Fósforo' (Exclui páginas [Ao Jogar])
 Sempre que o bibliotecário usar uma página com 'Fósforo', ganhe 1 'Brasas'
 Páginas com 'Fósforo' se tornam mais fortes com base na quantidade de 'Brasas'; Mas elas tem 25% de chance de causar dano ao usuário se 'Brasas' está em 4 ou mais.
       </AbilityDesc>
@@ -329,12 +329,12 @@ Os dados ofensivos ganham Poder contra inimigos mais lentos (+1 de Poder por pon
 		  <Abnormality>Máquina Cantora</Abnormality>
 		  <CardName>Música</CardName>
 		  <AbilityDesc>[Todos os Personagens]
-Todos os Personagens causam +4-8 de dano com seus ataques durante essa Recepção. Eles também sofrem +4-8 de dano de atordoamento ao serem golpeados.
-Quando um aliado derrotar um inimigo, ele recupera 15 de HP e Resistência de Atordoamento.</AbilityDesc>
+Todos os personagens causam +4-8 de dano com seus ataques durante essa Recepção. Eles também sofrem +4-8 dano de atordoamento ao serem golpeados.
+Quando um aliado derrotar um inimigo, eles recuperam 15 de HP e Resistência à Atordoamento.</AbilityDesc>
 		  <FlaborText>Mas nada podia se comparar a música que ela tocava quando ela comia um humano.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Nada faz uma música tão facinante quando um humano.</Dialogue>
-        <Dialogue ID="2">Você não quer ouvir essa linda canção? Você já sabe como.</Dialogue>
+        <Dialogue ID="1">Nada faz uma música tão fascinante quanto um humano.</Dialogue>
+        <Dialogue ID="2">Você não quer ouvir uma linda canção? Você já sabe como.</Dialogue>
         <Dialogue ID="3">Não se preocupe. Eu tenho certeza que você também quer ser um instrumento belo.</Dialogue>
         <Dialogue ID="4">Todas as pessoas carregam talento musical dentro de si.</Dialogue>
         <Dialogue ID="5">Aqueles que são fortuitos, venham até mim. Juntem-se a mim.</Dialogue>
@@ -346,13 +346,13 @@ Quando um aliado derrotar um inimigo, ele recupera 15 de HP e Resistência de At
 		  <CardName>Ritmo</CardName>
 		  <AbilityDesc>[Aliado Único]
 Pela duração da batalha, ganha 1 Ritmo no começo de cada Cena. Quanto um personagem com Ritmo faz um ataque bem sucedido, tem 25% de chance de um personagem aleatório receber 1 Ritmo 
-(Ritmo: Ganhe 1 Força, receba dano adicional de Atordoamento de ataques, dura uma Cena)</AbilityDesc>
+(Ritmo: Ganhe 1 Força, receba dano adicional de Atordoamento de ataques, dura 1 Cena)</AbilityDesc>
 		  <FlaborText>Estava criando Ritmo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Todos querem ouvir minha canção novamente.</Dialogue>
         <Dialogue ID="2">Varios sons se juntam para criar música.</Dialogue>
         <Dialogue ID="3">Todos eles estão se voluntariando para se tornarem instrumentos…</Dialogue>
-        <Dialogue ID="4">Se todos jogarem seus corpos em mim, certamente criarei uma doce melodia .</Dialogue>
+        <Dialogue ID="4">Se todos jogarem seus corpos em mim, certamente criarei uma doce melodia.</Dialogue>
         <Dialogue ID="5">Você nunca mais vai querer ouvir nenhuma outra música.</Dialogue>
       </Dialogues>
 	  </AbnormalityCard>
@@ -365,10 +365,10 @@ Todos os dados ofensivos ganham 1-3 de Poder
 Todos os dados defensivos rolam 1.</AbilityDesc>
       <FlaborText>No fim das contas, arte é um presente do diabo, nascido de desespero e sofrimento. Uma performace sem pausas até o corpo se tornar pó.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Todas as outras música não são mais do que barulho para mim…</Dialogue>
-        <Dialogue ID="2">Faça um movimento... Ilumine meu caminho com canções!</Dialogue>
+        <Dialogue ID="1">Todas as outras músicas não são mais do que barulho para mim…</Dialogue>
+        <Dialogue ID="2">Faça eu me mexer... Ilumine meu caminho com canções!</Dialogue>
         <Dialogue ID="3">Hahaha… Ha… O que eu vou fazer? O que eu posso fazer? Haha…</Dialogue>
-        <Dialogue ID="4">Felicidade Eterna seria minha se esse tom durasse para sempre…</Dialogue>
+        <Dialogue ID="4">Felicidade eterna seria minha se esse tom durasse para sempre…</Dialogue>
         <Dialogue ID="5">Sim! É isso... Contemple essa poderosa melodia!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -378,20 +378,20 @@ Todos os dados defensivos rolam 1.</AbilityDesc>
       <CardName>Descanso Eterno</CardName>
       <AbilityDesc>[Aliado Único]
 Cause +2-7 de Dano e +2-5 de Dano de Atordoamento contra o inimigo com a menor quantidade de HP.</AbilityDesc>
-      <FlaborText>Pessoas acreditavam que elas se tornariam criaturinhas belas com pequenas asas assim que morressem. É uma história boba. Sem sentido também..</FlaborText>
+      <FlaborText>Pessoas acreditavam que elas se tornariam criaturinhas belas com pequenas asas assim que morressem. É uma história boba. Sem sentido também.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Um descanso eterno... Que você descanse em paz.</Dialogue>
         <Dialogue ID="2">Eles acreditavam que elas se tornariam criaturinhas belas com pequenas asas assim que morressem.</Dialogue>
         <Dialogue ID="3">Te ajudarei a se libertarem do tormento que vocês causam a si mesmos.</Dialogue>
         <Dialogue ID="4">Eles devem ter voltado para casa, tendo ganhado o que queriam e estando cheios de esperança.</Dialogue>
-        <Dialogue ID="5">Morte parece assustadora, ela não se compara ao terror da realidade. Ao invés, ela se liberadora.</Dialogue>
+        <Dialogue ID="5">Morte parece assustadora, ela não se compara ao terror da realidade. Ao invés, ela será liberadora.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Butterfly_Fly">
       <Abnormality>O Funeral das Borboletas Mortas</Abnormality>
       <CardName>Lamento</CardName>
       <AbilityDesc>[Aliado Único]
-Causa +2-4 de dano contra inimigos que tenham um status de efeito negativo.
+Causa +2-4 de dano contra inimigos que tenham um efeito negativo.
 Se o bibliotecário tem um efeito negativo no começo da cena, ganhe 1-2 de Força</AbilityDesc>
       <FlaborText>Eles dizem que o lamentador com uma grande bagagem em suas costas veio para ser o salvador de todos.</FlaborText>
       <Dialogues>
@@ -399,7 +399,7 @@ Se o bibliotecário tem um efeito negativo no começo da cena, ganhe 1-2 de For�
         <Dialogue ID="2">Mágoas para os mortos, e lamento próximo para os vivos.</Dialogue>
         <Dialogue ID="3">Formas frívolas de tristeza, lágrimas que apenas irão molhar as asas.</Dialogue>
         <Dialogue ID="4">Nenhum traço de impuridade é permitido na mente daqueles que lamentam, pois elas precisam se manter reverentes e solenes.</Dialogue>
-        <Dialogue ID="5">Nenhuma própria flor florece para honras as borboletas.</Dialogue>
+        <Dialogue ID="5">Nenhuma própria flor floresce para honras as borboletas.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Butterfly_Casket">
@@ -422,8 +422,8 @@ Ao golpear um inimigo que esteja com 50% de HP ou menos, Sele um dos Dados de Ve
       <CardName>Solicitar</CardName>
       <AbilityDesc>[Aliado Único]
 Se não há um 'Alvo Solicitado' presente, o primeiro inimigo que o bibliotecário selecionar será marcado como alvo.
-Causa +3-5 de dano ao 'Alvo Solicitado'
-Quando o bibliotecário selecionado mata o Alvo Solicitado, recupere totalmente a Resistência de Atordoamento, e recupere duas vezes mais livros.</AbilityDesc>
+Causa +3-5 de dano ao 'Alvo Solicitado'.
+Quando o bibliotecário selecionado mata o Alvo Solicitado, recupere totalmente a Resistência à Atordoamento, e recupere duas vezes mais livros.</AbilityDesc>
       <FlaborText>Assim como o Diabo disse, as balas vão perfurar qualquer coisa que você quiser. Para sempre.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Alguns chamavam ele de caçador honrado, outros o chamavam de um pistoleiro manchado de sangue.</Dialogue>
@@ -439,7 +439,7 @@ Quando o bibliotecário selecionado mata o Alvo Solicitado, recupere totalmente 
       <AbilityDesc>[Aliado Único]
 Cause +1-7 de Dano com dados Ofensivos
 Quando um dado Ofensivo empata ou perde um Embate, cause dano igual ao valor do Dado ao oponente.
-A Sérima Página Corpo-a-Corpo ou A Distância, tem como alvo um personagem aleatório, incluindo aliados .</AbilityDesc>
+A Sérima Página Corpo-a-Corpo ou A Distância, tem como alvo um personagem aleatório, incluindo aliados.</AbilityDesc>
       <FlaborText>O Diabo propós um contrato infantil: A última bala iria perfurar a cabeça de quem ele mais ama. E mo momento que ele ouviu isso, ele procurou e atirou em todas as pessoas que ele amava.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A última bala vai perfurar a cabeça de sua amada..</Dialogue>
@@ -454,13 +454,13 @@ A Sérima Página Corpo-a-Corpo ou A Distância, tem como alvo um personagem ale
       <AbilityDesc>[Aliado Único]
 Pela duração da recepção, as resistências 'Resistentes/Inefetivo' de todos os personagens trocam para 'Fraco/Fatal'.
 Ganhe 1-2 de Celeridade e 2-4 de Força toda Cena.</AbilityDesc>
-      <FlaborText>Um dia, o franco atirador percebeu que o Diabo não o seguia mais. Ele se perguntou o porquê, então realizou que sua alma já tinha caío no inferno desde o começo</FlaborText>
+      <FlaborText>Um dia, o franco-atirador percebeu que o Diabo não o seguia mais. Ele se perguntou o porquê, então realizou que sua alma já tinha caído pro Inferno desde o começo.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">É esse desespero que ele desejou por?</Dialogue>
-        <Dialogue ID="2">Minha alma começou a queimar pouco-a-pouco, até que no fim eu desça ao inferno.</Dialogue>
-        <Dialogue ID="3">Quando alguém sente que não tem nada mais para mirar, sua alma caí para o inferno.</Dialogue>
+        <Dialogue ID="1">Era desespero o que ele desejava?</Dialogue>
+        <Dialogue ID="2">Minha alma começou a queimar pouco-a-pouco, até que no fim ela desceu pro Inferno.</Dialogue>
+        <Dialogue ID="3">Quando alguém sente que não tem nada mais a almejar, sua alma cai para o inferno.</Dialogue>
         <Dialogue ID="4">O coração desesperado não conseguia se apagar em uma chama apaixonada. Ela iria apenas queimar com fogo frio.</Dialogue>
-        <Dialogue ID="5">Esse desespero irá estar ao seu lado, a todos o momento.</Dialogue>
+        <Dialogue ID="5">Esse desespero irá estar ao seu lado, a todos os momento.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
@@ -469,15 +469,15 @@ Ganhe 1-2 de Celeridade e 2-4 de Força toda Cena.</AbilityDesc>
   <Sephirah SephirahType="Hod">
     <AbnormalityCard ID="ShyLookToday_Face">
       <Abnormality>Expressão Tímida de Hoje</Abnormality>
-      <CardName>Expressão do dia.</CardName>
+      <CardName>Expressão do dia</CardName>
       <AbilityDesc>[Aliado Único]
 O rosto do bibliotecário muda constantemente
-Os dados ganham uma quantidade de Poder dependendo da face atual. (Min. -2, Máx. +2)
+Os dados ganham uma quantidade de Poder dependendo da face atual. (Mín. -2, Máx. +2)
 A Raiva é poderosa.</AbilityDesc>
       <FlaborText>Um dia ensolarado, assim como o dia que eles sinceramente secaram a roupa, eles secaram a própria pele.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">É timidez, só isso. Só tímidez…</Dialogue>
-        <Dialogue ID="2">Por que um olhar triste não combina com a Cidade…</Dialogue>
+        <Dialogue ID="2">Um olhar triste não combina com a Cidade.</Dialogue>
         <Dialogue ID="3">É muito importante se expressar... Eu acho que é.</Dialogue>
         <Dialogue ID="4">Você sabe que tipo de cara você deveria estar fazendo?</Dialogue>
         <Dialogue ID="5">Coloque um grande sorriso no seu rosto, como o meu. Não é tão difícil, é?</Dialogue>
@@ -488,9 +488,9 @@ A Raiva é poderosa.</AbilityDesc>
       <Abnormality>Expressão Tímida de Hoje</Abnormality>
       <CardName>Distanciamento Social</CardName>
       <AbilityDesc>[Aliado Único]
-Os dados de Bloqueio ganham 1-2 de Poder.
-Cause +2-7 de dano de Atordoamento quando defender.</AbilityDesc>
-      <FlaborText>Se alguém tentar olhar para o rosto atrás da pele, o resultado não vai ser bonito. O espaço atrás da pele é o único espaço pessoal que elas tem sobrando. Deixar esse espaço sem ser invadido é o último fragmento de generosidade que a Cidade pode oferecer. </FlaborText>
+Os Dados de Bloqueio ganham 1-2 de Poder.
+Cause +2-7 de dano de Atordoamento ao defletir.</AbilityDesc>
+      <FlaborText>Se alguém tentar olhar para o rosto atrás da pele, o resultado não vai ser bonito. O espaço atrás da pele é o único espaço pessoal que restou. Deixar esse espaço sem ser invadido é o último fragmento de generosidade que a Cidade pode oferecer.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Por favor no mires detrás de esto. Es lo menos que puedes hacer…</Dialogue>
         <Dialogue ID="2">Necesitamos mantener la distancia apropiada. Lo suficientemente lejos para que todos estén confortables.</Dialogue>
