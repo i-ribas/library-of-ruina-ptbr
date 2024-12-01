@@ -140,10 +140,10 @@ O bibliotecário escolhido recupera a mesma quantidade de HP que os outros perde
       <FlaborText>Seu estômago e seu rosto foram arrancados, e seus olhos e orgãos foram danificados como se tivessem sido devorados por algo. Enquanto isso, as fadas tinham o sangue e carne de alguém lambuzando em suas bocas.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Minhas fadas estão diminuindo em número... Mas não há nada que se possa fazer.</Dialogue>
-        <Dialogue ID="2">Carne podre e cicatrizada não é gostosa!</Dialogue>
+        <Dialogue ID="2">Carne podre e cicatrizada não é saborosa!</Dialogue>
         <Dialogue ID="3">Eu preciso de algo fresco. Carne vencida não é nutritiva.</Dialogue>
         <Dialogue ID="4">Eu preciso comer antes que estrague, hm?</Dialogue>
-        <Dialogue ID="5">Carne podre e cicatrizada não é gostosa.</Dialogue>
+        <Dialogue ID="5">Carne podre e cicatrizada não é saborosa.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -352,7 +352,7 @@ Pela duração da batalha, ganha 1 Ritmo no começo de cada Cena. Quanto um pers
         <Dialogue ID="1">Todos querem ouvir minha canção novamente.</Dialogue>
         <Dialogue ID="2">Varios sons se juntam para criar música.</Dialogue>
         <Dialogue ID="3">Todos eles estão se voluntariando para se tornarem instrumentos…</Dialogue>
-        <Dialogue ID="4">Se todos jogarem seus corpos em mim, certamente criarei uma doce melodia.</Dialogue>
+        <Dialogue ID="4">Se todos jogassem seus corpos em mim, certamente criarei uma doce melodia.</Dialogue>
         <Dialogue ID="5">Você nunca mais vai querer ouvir nenhuma outra música.</Dialogue>
       </Dialogues>
 	  </AbnormalityCard>

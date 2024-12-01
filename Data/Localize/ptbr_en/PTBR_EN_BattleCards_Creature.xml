@@ -147,7 +147,7 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="901201">
-      <LocalizedName>Sorriso Amplo</LocalizedName>
+      <LocalizedName>Sorriso Largo</LocalizedName>
       <Ability />
       <Behaviour ID="1">[Al golpear] Añade una copia de 'Placer' a la mano del objetivo</Behaviour>
     </BattleCardDesc>
