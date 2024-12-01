@@ -105,82 +105,94 @@
 	<text id="Spacepiece_understand_2">Quando o sol forte se põe, imagens etéreas se mostrarão.</text>
 	<text id="Spacepiece_understand_3">O vasto e brilhante eco que se aproxima, balançando a cabeça; se você pode ouvi-lo, vamos cantá-lo juntos.</text>
   <!-- Child of the Galaxy -->
-	<text id="Kid_nomal_1">Estamos juntos por siempre. Los mejores amigos siempre se mantienen unidos.</text>
-	<text id="Kid_nomal_2">Los amigos siempre se mantienen a tu lado. No olvides la promisa, ¿vale?</text>
-	<text id="Kid_nomal_3">Si nadie se mantiene a mi lado, Seré abrumado con tristeza.</text>
-	<text id="Kid_nomal_4">Nunca dejes mi lado. Tienes que estar conmigo por siempre.</text>
-	<text id="Kid_nomal_5">Si mi amigo se hiere… estaré tan triste.</text>
+	<text id="Kid_nomal_1">Estamos juntos pra sempre. Amiguinhos sempre ficam juntos.</text>
+	<text id="Kid_nomal_2">Amigos sempre ficam um ao lado do outro. Não esqueçe a promessa, tá?</text>
+	<text id="Kid_nomal_3">Se ninguém permanecer ao meu lado, ficarei muito triste.</text>
+	<text id="Kid_nomal_4">Nunca saia do meu lado. Você tem que ficar comigo para sempre.</text>
+	<text id="Kid_nomal_5">Se meu amigo se machucar… Isso seria triste.</text>
 
-	<text id="Kid_cry_1">Tú eres malo… Intentas arrebatarme a todos mis amigos.</text>
-	<text id="Kid_cry_2">Por favor, no te lleves a mis amigos lejos…</text>
-	<text id="Kid_cry_3">Ahora lo entiendo… Tú también tienes amigos. Me los llevaré exactamente como haces conmigo ahora…</text>
+	<text id="Kid_cry_1">Vocês são cruéis… Vocês estão tentando tirar todos os meus amigos de mim.</text>
+	<text id="Kid_cry_2">Por favor, não leve meus amigos embora…</text>
+	<text id="Kid_cry_3">Agora eu entendi… Você também tem amigos. Eu posso levá-los embora, como você está fazendo agora…</text>
   <!-- Fairy Festival -->
-  <text id="Fairy_nomal_1">Necesito algo fresco… He estado muriendo de hambre por un rato…</text>
-  <text id="Fairy_nomal_2">Solo unas pocas hagas me protegen ahora…</text>
-  <text id="Fairy_nomal_3">Sé gentil con mis hadas… Son seres preciosos…</text>
-  <text id="Fairy_nomal_4">Quiero carne… fresca… e impoluta…</text>
-  <text id="Fairy_nomal_5">Solo carne suave y fresca puede llenar este estómago vacio…</text>
-  <text id="Fairy_care_1">Te concederé el placer de recibir mis cuidados…</text>
-  <text id="Fairy_care_2">Disfruta el cuidado de las hadas hasta que tu corazón este contento…</text>
-  <text id="Fairy_care_3">Sé agradecido de que estás bajo mi cuidado…</text>
-  <text id="Fairy_eat_1">La carne asustada no es sabrosa…</text>
-  <text id="Fairy_eat_2">La carne tiene que mantenerse fresca, Tengo que comerla antes que se estropeé…</text>
-  <text id="Fairy_eat_3">Mis hadas están disminuyendo en número… Las necesito para que me sirvan y me protejan…</text>
-  <text id="Fairy_alleat_1">Me he estado muriendo de hambre por tanto rato, Es muy dificil resistirme…</text>
-  <text id="Fairy_alleat_2">Es tu deber protegerme…</text>
-  <text id="Fairy_alleat_3">Ven a mí… Es hora de pagar por mi cuidado…</text>
-  <text id="Spider_nomal_1">Los niños pequeños están siempre hambrientos.</text>
-  <text id="Spider_nomal_2">Muy bien, tenemos una carne deliciosa lista para consumir… Vengan, niños.</text>
-  <text id="Spider_nomal_3">Alégrate. Servirás de entretención para mis niños.</text>
-  <text id="Spider_nomal_4">Mis niños tienen que ser alimentados… Los recompensaré con tu carne.</text>
-  <text id="Spider_nomal_5">No sabemos cuando encontraremos otra presa… Vamos a preservar esta.</text>
-  <text id="Spider_killbaby_1">Tú… ¡¿Te atreves a tocar a mis niños?!</text>
-  <text id="Spider_killbaby_2">¡¡¡Pagarás por esto!!! La cacería comienza ahora…</text>
-  <text id="Spider_killbaby_3">Seré precisa esta vez…</text>
-  <text id="Spider_killbaby_4">Adelante, muestra ese coraje sin valor que tenías cuando tomaste a uno de mis niños!</text>
-  <text id="Spider_killbaby_5">Una presa, burlándose de su cazador… Que patético.</text>
-  <text id="Porccubus_nomal_1">Ven aquí. Te liberaré de todo el dolor.</text>
-  <text id="Porccubus_nomal_2">Da miedo al principio, pero el siguiente paso no sera para nada dificil.</text>
-  <text id="Porccubus_nomal_3">¿No quieres sentir esta deslumbrante exhibición de colores?</text>
-  <text id="Porccubus_nomal_4">No puedes tocarme si estás tan lejos. Acércate más.</text>
-  <text id="Porccubus_nomal_5">Tu cabeza pronto será llenada de felicidad.</text>
-  <text id="Porccubus_happy_1">Si pruebas un poco del cielo no hará daño, ¿verdad?</text>
-  <text id="Porccubus_happy_2">Me dan lástima los tontos que no conocen la velocidad~</text>
-  <text id="Porccubus_happy_3">Una vez pruebes un poco de mi dulzura, no podrás parar.</text>
-  <text id="Porccubus_happy_4">Seguro, me inclinaré para ti~ Siéntete libre de darme unas palmaditas.</text>
-  <text id="Porccubus_happy_5">Solo viniste a mí esperando algo, ¿verdad?</text>
+  <text id="Fairy_nomal_1">Preciso de algo fresco… Estou morrendo de fome há muito tempo…</text>
+  <text id="Fairy_nomal_2">Só algumas fadas me protegem agora…</text>
+  <text id="Fairy_nomal_3">Seja gentil com as minhas fadas… Elas são seres preciosos…</text>
+  <text id="Fairy_nomal_4">Eu quero carne… Intacta… E limpa…</text>
+  <text id="Fairy_nomal_5">Somente carne macia e tenra pode preencher esse estômago vazio…</text>
 
-  <text id="Singingmachine_nomal_1">Toda la otra música no es más que ruido para mi…</text>
-  <text id="Singingmachine_nomal_2">Si alguien lanzara su cuerpo dentro mío, esto crearía una dulce melodía…</text>
-  <text id="Singingmachine_nomal_3">Esa música que me envuelve… Quiero escucharla de nuevo… Dejame escucharla una vez más…</text>
-  <text id="Singingmachine_nomal_4">Es porque aún no la has escuchado… Te atragantaras del asombro, Lo apuesto…</text>
-  <text id="Singingmachine_nomal_5">La canción guía mi cuerpo… Me hace levantar mis extremidades…</text>
-  <text id="Singingmachine_music_1">Quiero ser un buen instrumento, ¿no es así?</text>
-  <text id="Singingmachine_music_2">Haz que me mueva… ¡Ilumina mi camino con esta canción!</text>
-  <text id="Singingmachine_music_3">Hahaha… Ha… ¿Qué haré? ¿Qué puedo hacer? Haha…</text>
-  <text id="Singingmachine_music_4">Una música tan hermosa solo puede venir con un precio…</text>
-  <text id="Singingmachine_music_5">El aire está lleno de ruido asqueroso… Necesito timbres hermosos…</text>
-  <text id="Singingmachine_rhythm_1">Nada puede crear música tan fascinante como los humanos…</text>
-  <text id="Singingmachine_rhythm_2">Déjame escuchar esta canción por más tiempo…</text>
-  <text id="Singingmachine_rhythm_3">La felicidad sería eterna si pudiera escuchar esta melodía para siempre…</text>
-  <text id="Singingmachine_rhythm_4">¡Sí! Eso es todo… ¡Contemplad esta hermosa melodía!</text>
-  <text id="Singingmachine_rhythm_5">Si esta melodía que substituye a mi alma se fuera… Entonces yo…</text>
+  <text id="Fairy_care_1">Eu lhe darei o prazer de receber meus cuidados…</text>
+  <text id="Fairy_care_2">Aproveite o cuidado das fadas à vontade…</text>
+  <text id="Fairy_care_3">Agradeça por estar sob meus cuidados sagrados…</text>
+  <text id="Fairy_eat_1">Carne podre e cicatrizada não é saborosa…</text>
+
+  <text id="Fairy_eat_2">Carne tem que ser mantida fresca, devo comê-la antes que apodreça…</text>
+  <text id="Fairy_eat_3">Minhas fadas estão diminuindo em número… Preciso que elas me sirvam e me protejam…</text>
+
+  <text id="Fairy_alleat_1">Estou com fome há tanto tempo, que mal consigo me controlar…</text>
+  <text id="Fairy_alleat_2">É seu dever me proteger…</text>
+  <text id="Fairy_alleat_3">Venha até mim… É hora de pagar pelos meus cuidados…</text>
+  <!-- Spider Bud -->
+  <text id="Spider_nomal_1">Crianças em fase de crescimento estão sempre com fome.</text>
+  <text id="Spider_nomal_2">Bem, agora temos uma refeição saborosa pronta pra comer… Venham, crianças.</text>
+  <text id="Spider_nomal_3">Alegre-se. Você trará alegria às minhas crianças.</text>
+  <text id="Spider_nomal_4">Para que as minhas crianças sejam alimentadas… Você se tornará a refeição deles.</text>
+  <text id="Spider_nomal_5">Nunca sabemos quando encontraremos outra presa… Vamos preservar esta.</text>
+
+  <text id="Spider_killbaby_1">Sua criatura inútil… Você ousa tocar nas minhas crianças?!</text>
+  <text id="Spider_killbaby_2">Você vai pagar!!! A caçada começa agora…</text>
+  <text id="Spider_killbaby_3">Não vou errar dessa vez…</text>
+  <text id="Spider_killbaby_4">Vá em frente, mostre aquela coragem inútil que você teve quando tomou meu filho!</text>
+  <text id="Spider_killbaby_5">Uma presa zombando de seu predador… Que patético.</text>
+  <!-- Porccubus -->
+  <text id="Porccubus_nomal_1">Venha aqui. Eu vou te libertar de todos os tipos de dor.</text>
+  <text id="Porccubus_nomal_2">É assustador no começo, mas o próximo passo não será nada difícil.</text>
+  <text id="Porccubus_nomal_3">Você não quer sentir a exibição deslumbrante e vibrante de cores?</text>
+  <text id="Porccubus_nomal_4">Você não consegue me tocar se estiver tão longe. Chega mais perto.</text>
+  <text id="Porccubus_nomal_5">Sua cabeça logo estará cheia de felicidade.</text>
+
+  <text id="Porccubus_happy_1">Só um gostinho do céu não vai fazer mal, né?</text>
+  <text id="Porccubus_happy_2">Tenho pena dos bobos que não conhecem essa felicidade~</text>
+  <text id="Porccubus_happy_3">Assim que você experimentar, você não vai conseguir parar.</text>
+  <text id="Porccubus_happy_4">Claro, eu vou me abaixar pra você~ Sinta-se à vontade pra me acariciar.</text>
+  <text id="Porccubus_happy_5">Você deve ter vindo até mim esperando alguma coisa, né?</text>
+  <!-- Singing Machine -->
+  <text id="Singingmachine_nomal_1">Todas as outras músicas não são mais do que barulho para mim…</text>
+  <text id="Singingmachine_nomal_2">Se todos jogassem seus corpos em mim, certamente criarei uma doce melodia.</text>
+  <text id="Singingmachine_nomal_3">A música que me envolve… Eu quero ouvi-la novamente… Deixe-me ouvi-la mais uma vez…</text>
+  <text id="Singingmachine_nomal_4">É porque você ainda não ouviu… Você vai chorar de tanta admiração, sabe…?</text>
+  <text id="Singingmachine_nomal_5">A performance guia meu corpo… Ela me faz levantar meu corpo…</text>
+
+  <text id="Singingmachine_music_1">Você quer ser um bom instrumento, não quer?</text>
+  <text id="Singingmachine_music_2">Faça eu me mexer... Ilumine meu caminho com canções!</text>
+  <text id="Singingmachine_music_3">Hahaha… Ha… O que eu vou fazer? O que eu posso fazer? Haha…</text>
+  <text id="Singingmachine_music_4">Uma bela música tem um preço…</text>
+  <text id="Singingmachine_music_5">O ar está cheio de ruídos erráticos e imundos… Preciso de timbres lindos…</text>
+
+  <text id="Singingmachine_rhythm_1">Nada faz uma música tão fascinante quanto um humano…</text>
+  <text id="Singingmachine_rhythm_2">Deixe-me ouvir essa performance por mais tempo...</text>
+  <text id="Singingmachine_rhythm_3">A felicidade eterna seria minha se essa música durasse para sempre…</text>
+  <text id="Singingmachine_rhythm_4">Sim! É isso... Contemple essa poderosa melodia!</text>
+  <text id="Singingmachine_rhythm_5">Se essa performance que substitui minha alma chegar ao fim… Eu vou…</text>
+  <!-- Pinocchio -->
   <text id="Pinocchio_nomal_1">Sueño con convertirme en humano.</text>
   <text id="Pinocchio_nomal_2">¿Puedo ser un humano si los imito?</text>
   <text id="Pinocchio_nomal_3">Es fácil imitar a otros.</text>
   <text id="Pinocchio_nomal_4">Estoy interesado en aprender cómo siempre. ¿Quieres verme aprender?</text>
   <text id="Pinocchio_nomal_5">La gente me enseño como hablar.</text>
+
   <text id="Pinocchio_lie_1">La gente miente todo el tiempo. ¿Por qué es malo hacerlo?</text>
   <text id="Pinocchio_lie_2">Lalala… Yo canto la canción de las mentiras que toda la gente canta.</text>
   <text id="Pinocchio_lie_3">Es culpa de las personas el caer en mis mentiras.</text>
   <text id="Pinocchio_lie_4">No tenía elección, tenía que mentir para volverme humano…</text>
   <text id="Pinocchio_lie_5">¿Me veo cómo un humano? Yo espero que si…</text>
+
   <text id="Pinocchio_fail_1">¿Por qué no has sido engañado…? Era perfecto…</text>
   <text id="Pinocchio_fail_2">¿No puedo… volverme un humano…?</text>
   <text id="Pinocchio_fail_3">Podrías haberte dejado engañar al menos una vez… Eres malo.</text>
   <text id="Pinocchio_fail_4">También me esforcé mucho en imitarte…</text>
   <text id="Pinocchio_fail_5">Estoy tan triste… Quiero ser humano…</text>
-
+  <!-- Queen of Hatred -->
   <text id="Queenofhatred_magical_1">¿Por qué son todos felices? No tendré nada que hacer.</text>
   <text id="Queenofhatred_magical_2">Siempre he creído. El mal debe existir mientras yo exista.</text>
   <text id="Queenofhatred_magical_3">Está finalmente aquí… Alguien malvado que debo derrotar…</text>

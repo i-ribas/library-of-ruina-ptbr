@@ -48,12 +48,12 @@
 	<text id="Spacepiece_netzach_die">Resultados à parte, acho que posso dormir bem agora…</text>
 	<text id="Spacepiece_netzach_kill">…Mas eu não tenho muita vontade de tentar entendê-los.</text>
   <!-- Child of the Galaxy-->
-	<text id="Kid_netzach_start">Parece que está usando otro método, pero… Creo que aún aprecia a sus amigos.</text>
+	<text id="Kid_netzach_start">Parece que ele tá usando um método mais violento agora, mas... Acho que ele ainda valoriza seus amigos.</text>
 	<text id="Kid_netzach_die">Resultados à parte, acho que posso dormir bem agora…</text>
-	<text id="Kid_netzach_kill">No estoy seguro de si aprecia a sus amigos, o solo está desesperado, ya que no hay nadie a su lado…</text>
+	<text id="Kid_netzach_kill">Não sei se isso é valorizar seus amigos, ou só desespero já que ele não tem mais ninguém pra manter compania…</text>
 
-	<text id="Kid_librarian_start">Ese niño siempre me ignoraba, ya que yo no estaba a su cargo…</text>
-	<text id="Kid_librarian_kill">Nadie será amigo de esa cosa…</text>
+	<text id="Kid_librarian_start">Aquela criança sempre me ignorava já que eu não estava responsável por ele…</text>
+	<text id="Kid_librarian_kill">Ninguém vai ser amigo daquela coisa...</text>
   <!-- Fairy Festival -->
   <text id="Fairy_malkuth_start">¡Estas hadas solían tener comida fresca al “Cuidarlos”!</text>
   <text id="Fairy_malkuth_die">¿Talvez eu estava muito entusiasmada…?</text>
@@ -65,33 +65,37 @@
   <text id="Fairy_librarian2_start">Se ha vuelto tan delgada ahora… Solía seguirme y cuidarme.</text>
   <text id="Fairy_librarian2_kill">Hubiera sido comido si bajaba mi guardia…</text>
   <!-- Spider Bud -->
-  <text id="Spider_hod_start">No tenía piedad, pero amaba a sus niños.</text>
+  <text id="Spider_hod_start">Não tinha piedade, mas ainda amava as crianças.</text>
   <text id="Spider_hod_die">Meu corpo está dormente, o que eu faço…</text>
-  <text id="Spider_hod_kill">No me siento feliz, siento como si acabara de arruinar una familia…</text>
+  <text id="Spider_hod_kill">Não me sinto muito bem com isso, parece que acabei de arruinar uma família...</text>
 
-  <text id="Spider_librarian1_start">Yup, desagradable. Nunca baja hasta que alguien lastima a sus niños.</text>
-  <text id="Spider_librarian1_kill">No te molestes. Pudimos ser nosotros quienes terminaran colgando.</text>
-  <text id="Spider_librarian2_start">Nunca me di cuenta, ya que tenía que ser cuidadoso de no pisar a sus niños, pero hombre, es asqueroso.</text>
-  <text id="Spider_librarian2_kill">… Pensar sobre esos capullos me pone la piel de gallina.</text>
-
+  <text id="Spider_librarian1_start">É, nojento. Nunca descia, a menos que alguém machuque seus bebês.</text>
+  <text id="Spider_librarian1_kill">Não dê bola. Poderíamos ter sido nós pendurados lá.</text>
+  <text id="Spider_librarian2_start">Eu nunca tinha reparado, pois tinha que tomar cuidado para não pisar nos filhotes, mas cara, que aparência nojenta.</text>
+  <text id="Spider_librarian2_kill">…Pensar naqueles casulos ainda me dá arrepios.</text>
   <!-- Porccubus -->
-  <text id="Porccubus_netzach_start">No es tan violento como otros y escuché que también puede dar una felicidad inimaginable.</text>
-  <text id="Porccubus_netzach_die">Hah… Hahah. Esta no era el tipo de felicidad que quería sentir.</text>
-  <text id="Porccubus_netzach_kill">Supongo que volverse loco de felicidad no es positivo.</text>
-  <text id="Porccubus_librarian1_start">Pienso que no hay nada de éxtasis en ver una fila de cadáveres sin cabeza.</text>
-  <text id="Porccubus_librarian1_die">Mi cabeza es demasiado pequeña para contener toda esta felicidad… ¡Liberame!</text>
-  <text id="Porccubus_librarian1_kill">Me está trayendo horribles recuerdos… No era satisfactorio para nada.</text>
-  <text id="Porccubus_librarian2_start">Algunos empleados esperaban su turno para ir a la sala de contención de esta cosa.</text>
-  <text id="Porccubus_librarian2_die">Dame más… Quiero más satisfacción…</text>
-  <text id="Porccubus_librarian2_kill">No quiero tener que lidiar con algo como esto nunca más…</text>
+  <text id="Porccubus_netzach_start">Não é tão violento quanto os outros, e ouvi dizer que também pode dar uma felicidade inimaginável.</text>
+  <text id="Porccubus_netzach_die">Hah… Hahah. Esse não era o tipo de felicidade que eu esperava sentir..</text>
+  <text id="Porccubus_netzach_kill">Acho que estar frenético de felicidade nem sempre dá origem a sentimentos positivos.</text>
 
-  <text id="Singingmachine_yesod_start">Todos, manténganse alerta. No se dejen seducir por la música.</text>
-  <text id="Singingmachine_yesod_die"> Foi culpa do meu descuido que eu encontrei esse destino.</text>
-  <text id="Singingmachine_yesod_kill">No puedo entender como todos estaban tan desesperados para escuchar…</text>
-  <text id="Singingmachine_librarian1_start">Solo pensar en los empleados que fueron encantados por esto… Me da escalofríos.</text>
-  <text id="Singingmachine_librarian1_kill">De todos modos, ¿qué es tan bueno sobre esto? Solo me hace sentir enfermo…</text>
-  <text id="Singingmachine_librarian2_start">Yup. Ellos podrían lanzar gente dentro solo para escuchar la melodía.</text>
-  <text id="Singingmachine_librarian2_kill">Ellos están locos…</text>
+  <text id="Porccubus_librarian1_start">Não havia nada de legal em ver uma fila de cadáveres sem cabeça.</text>
+  <text id="Porccubus_librarian1_die">Minha cabeça é pequena demais para conter toda essa alegria… Liberte-me!</text>
+  <text id="Porccubus_librarian1_kill">Isso está trazendo de volta memórias horríveis… Não foi nada prazeroso.</text>
+
+  <text id="Porccubus_librarian2_start">Alguns funcionários esperavam a vez de visitar a contenção daquela coisa o dia todo.</text>
+  <text id="Porccubus_librarian2_die">Me dá mais… Eu quero mais satisfação…</text>
+  <text id="Porccubus_librarian2_kill">Eu nunca mais quero lidar com algo que nem aquilo de novo...</text>
+  <!-- Singing Machine-->
+  <text id="Singingmachine_yesod_start">Fiquem atentos, pessoal. Não deixem que sua música os seduzam.</text>
+  <text id="Singingmachine_yesod_die">Foi culpa do meu descuido que eu encontrei esse destino.</text>
+  <text id="Singingmachine_yesod_kill">Não entendo como alguém pode estar tão desesperado para ouvir essa performance…</text>
+
+  <text id="Singingmachine_librarian1_start">Só de pensar nos funcionários que ficaram viciados nessa música… Me dá calafrios.</text>
+  <text id="Singingmachine_librarian1_kill">O que há de tão bom, afinal? Só me faz sentir mal…</text>
+
+  <text id="Singingmachine_librarian2_start">É. Eles até jogavam pessoas lá dentro só para ouvir a música.</text>
+  <text id="Singingmachine_librarian2_kill">Eles são malucos…</text>
+  <!-- Pinocchio -->
   <text id="Pinocchio_roland_start">Creo que lo leí en algún otro lugar… sobre un muñeco de madera con nariz larga…</text>
   <text id="Pinocchio_roland_die">Eu não esperava morrer para um monstro estranho…</text>
   <text id="Pinocchio_roland_kill">Necesita mentir para volverse humano… Deja un sabor amargo.</text>
@@ -99,13 +103,13 @@
   <text id="Pinocchio_librarian1_kill">Es una lástima que nunca se vuelva humano.</text>
   <text id="Pinocchio_librarian2_start">Ese crujido que hace con la nariz… Es repugnante.</text>
   <text id="Pinocchio_librarian2_kill">¿Está tratando de imitarnos?… Es un poco espeluznante.</text>
-
+  <!-- Queen of Hatred -->
   <text id="Queenofhatred_Tiphereth_start">Fuimos engañados por su linda apariencia y bajamos la guardia.</text>
   <text id="Queenofhatred_Tiphereth_die">Ella ya sabe… mis movimientos…</text>
   <text id="Queenofhatred_Tiphereth_kill">Sigue siendo igual. Bueno, al menos su amor por la justicia.</text>
   <text id="Queenofhatred_librarian1_start">¿No se suponía que era una chica mágica? Es un desastre…</text>
   <text id="Queenofhatred_librarian1_kill">Nunca intentaré probar su versión de paz.</text>
-   <text id="Queenofhatred_librarian2_start">Ella solía venir a ayudarnos, pero era más un problema que ayuda.</text>
+  <text id="Queenofhatred_librarian2_start">Ella solía venir a ayudarnos, pero era más un problema que ayuda.</text>
   <text id="Queenofhatred_librarian2_kill">Ella tiene sus propios estándares para un mundo “pacífico”, ¿eh?…</text>
 
   <text id="KnightOfDespair_Tiphereth_start">Una caballera cuyo orgullo se volvió desesperación…</text>
