@@ -9,9 +9,9 @@ Quando o HP de um bibliotecário está em 20% ou menos, cause 30% do HP máximo 
       <FlaborText>Eu vou com você, que vai ser reduzido a cinzas como eu.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Se eu preciso morrer, então junte-se a mim.</Dialogue>
-        <Dialogue ID="2">É tão triste morrer sozinho... Você conhece esse sentimento bem, não é?</Dialogue>
-        <Dialogue ID="3">Me espere. Eu vou com você, que vai ser reduzido a cinzas...</Dialogue>
-        <Dialogue ID="4">Passo a passo... Queime até virar carvão preto como breu.</Dialogue>
+        <Dialogue ID="2">É tão triste morrer sozinho… Você conhece esse sentimento bem, não é?</Dialogue>
+        <Dialogue ID="3">Me espere. Eu vou com você, que vai ser reduzido a cinzas…</Dialogue>
+        <Dialogue ID="4">Passo a passo… Queime até virar carvão preto como breu.</Dialogue>
         <Dialogue ID="5">Tem qualquer coisa que eu possa fazer, eu, uma Garota Queimada-à-Cinzas?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -26,7 +26,7 @@ Ao ser Golpeado, Inflige 1-3 de Queimadura ao atacante e tem 40% de chance de ga
       <Dialogues>
         <Dialogue ID="1">Para queimar todas as coisas que são brilhantes em cinzas…</Dialogue>
         <Dialogue ID="2">Sei muito bem que meu corpo carbonizado não pode voltar ao normal.</Dialogue>
-        <Dialogue ID="3">É assustador se tornar em cinzas... Mas eu não quero que esse fogo pare de queimar.</Dialogue>
+        <Dialogue ID="3">É assustador se tornar em cinzas… Mas eu não quero que esse fogo pare de queimar.</Dialogue>
         <Dialogue ID="4">Eu consigo sentir a felicidade pelas velas. E o calor…</Dialogue>
         <Dialogue ID="5">Talvez um dia eu irei livrevemente voar pelos céus como cinzas.</Dialogue>
       </Dialogues>
@@ -42,7 +42,7 @@ Páginas com 'Fósforo' se tornam mais fortes com base na quantidade de 'Brasas'
       </AbilityDesc>
       <FlaborText>“Bem, ela é como uma bomba-relógio. Ninguém consegue dizer se ela está de bom humor ou não”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Passo a passo... Queime até virar carvão preto como breu.</Dialogue>
+        <Dialogue ID="1">Passo a passo… Queime até virar carvão preto como breu.</Dialogue>
         <Dialogue ID="2">O que vai aparecer quando eu acender o próximo fósforo?</Dialogue>
         <Dialogue ID="3">Você vai me deixar quando a luz do último fósforo se apagar, não vai?</Dialogue>
         <Dialogue ID="4">Essa luz é minha única esperança…</Dialogue>
@@ -94,7 +94,7 @@ Todos os dados perdem 1-2 de Poder em um ataque unilateral.
       <Dialogues>
         <Dialogue ID="1">Estou tão feliz que você está brincando comigo.</Dialogue>
         <Dialogue ID="2">Você é muito gentil, não é? Vamos fazer de novo, ok?</Dialogue>
-        <Dialogue ID="3">Você estava tão ansioso para brincar comigo. Estou tocado...</Dialogue>
+        <Dialogue ID="3">Você estava tão ansioso para brincar comigo. Estou tocado…</Dialogue>
         <Dialogue ID="4">Venha aqui e sinta esse sentimento felpudo e caloroso de amor com meu abraço.</Dialogue>
         <Dialogue ID="5">Não se preocupe. Não é nada assustador. Tudo o que eu faço é te envolver com meus braços.</Dialogue>
       </Dialogues>
@@ -127,7 +127,7 @@ Quando atacar um alvo que já tenha recebido dano na mesma Cena, cause +1-3 de d
         <Dialogue ID="2">Aproveite o cuidado das fadas até não aguentar mais.</Dialogue>
         <Dialogue ID="3">Uma pessoa boa como você não deveria morrer nas mãos de mais ninguém.</Dialogue>
         <Dialogue ID="4">Nós não vamos te machucar, contanto que você não faça nada do mal.</Dialogue>
-        <Dialogue ID="5">Você está duvidando de nós? Você tem um pensamento do mal...</Dialogue>
+        <Dialogue ID="5">Você está duvidando de nós? Você tem um pensamento do mal…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -139,7 +139,7 @@ Todos os Aliados exceto o bibliotecário escolhido perdem 10 de HP.
 O bibliotecário escolhido recupera a mesma quantidade de HP que os outros perderam para esse efeito, e ganha 3 de Poder e 3 de Celeridade essa Cena.</AbilityDesc>
       <FlaborText>Seu estômago e seu rosto foram arrancados, e seus olhos e orgãos foram danificados como se tivessem sido devorados por algo. Enquanto isso, as fadas tinham o sangue e carne de alguém lambuzando em suas bocas.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Minhas fadas estão diminuindo em número... Mas não há nada que se possa fazer.</Dialogue>
+        <Dialogue ID="1">Minhas fadas estão diminuindo em número… Mas não há nada que se possa fazer.</Dialogue>
         <Dialogue ID="2">Carne podre e cicatrizada não é saborosa!</Dialogue>
         <Dialogue ID="3">Eu preciso de algo fresco. Carne vencida não é nutritiva.</Dialogue>
         <Dialogue ID="4">Eu preciso comer antes que estrague, hm?</Dialogue>
@@ -155,7 +155,7 @@ Ao ser golpeado, inflige 1-3 de Queimadura e 1-3 de Sangramento ao atacante na p
       <FlaborText>Foi confirmado que os esporos carregam ovos de zangões que eclodem dentro de um hospedeiro vivo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Mesmo se um zangão morrer, eu sempre posso fazer mais para substituir.</Dialogue>
-        <Dialogue ID="2">Para levar meu reino à grandeza... Eu preciso de mais abelhas.</Dialogue>
+        <Dialogue ID="2">Para levar meu reino à grandeza… Eu preciso de mais abelhas.</Dialogue>
         <Dialogue ID="3">Você sabe para onde meus zangões foram?</Dialogue>
         <Dialogue ID="4">Olhe para o grande céu azul enquanto você pode.</Dialogue>
       </Dialogues>
@@ -169,9 +169,9 @@ O inimigo que causou mais dano ao biblioteário selecionado é marcado. Outros a
       <FlaborText>Elas mostram apenas dois comportamentos: Entregar nutrientes à Rainha, e proliferar.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Minhas abelhas. É hora de atacar.</Dialogue>
-        <Dialogue ID="2">Suas asas, pernas e mandíbulas... Coloque cada parte do seu corpo para trabalhar. Antes que eles saqueiem nosso mel.</Dialogue>
+        <Dialogue ID="2">Suas asas, pernas e mandíbulas… Coloque cada parte do seu corpo para trabalhar. Antes que eles saqueiem nosso mel.</Dialogue>
         <Dialogue ID="3">Sejam rápidos, meus lacaios. Não podemos desperdiçar um minuto.</Dialogue>
-        <Dialogue ID="4">Quem vai lembrar das abelhas que morreram pelo reino...</Dialogue>
+        <Dialogue ID="4">Quem vai lembrar das abelhas que morreram pelo reino…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -198,7 +198,7 @@ Pelo resto do Ato, inflige 6 Amarrado em um inimigo aleatório no começo da Cen
 Dados Perfurantes ganham 1-2 de Poder atacando esse inimigo.</AbilityDesc>
       <FlaborText>Um dia, um galho cresceu dele. As folhas e galhos já estavam secas e definhadas, mas continuaram a crescer.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">A maçã ficou sozinha por tanto tempo. Apenas corpos apodrecidos ficaram a seu lado...</Dialogue>
+        <Dialogue ID="1">A maçã ficou sozinha por tanto tempo. Apenas corpos apodrecidos ficaram a seu lado…</Dialogue>
         <Dialogue ID="2">As vinhas estavam secas e definhadas, mas sempre abraçando a maçã.</Dialogue>
         <Dialogue ID="3">Como eu desejo amarrar os dois pés da pessoa que foi abençoada com minha existência e logo foi embora.</Dialogue>
         <Dialogue ID="4">Aqueles que morderam a maçã cairam no sono como a princesa o fez, exceto que eles nunca conseguiriam acordar.</Dialogue>
@@ -214,7 +214,7 @@ Se 3 de Amarrado foi infligido, recupere HP igual a quantidade de dano causado p
       <FlaborText>A maçã que caiu das mãos da Branca de Neve depois de uma única mordida nunca poderia ser feliz. 
       A maçã, cheia de solidão e ódio pela princesa, esperou pelo dia que iria apodrecer e voltar à terra.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Uma maçã bonita, abandonada em um lugar desamparado. Oh, maçã bonita...</Dialogue>
+        <Dialogue ID="1">Uma maçã bonita, abandonada em um lugar desamparado. Oh, maçã bonita…</Dialogue>
         <Dialogue ID="2">A maçã não pode retornar à terra, e apenas impuridades apodrecidas estavam ao seu redor.</Dialogue>
         <Dialogue ID="3">A maçã que foi derrubada no chão de terra não poderia ser feliz.</Dialogue>
         <Dialogue ID="4">Vinhas espinhosas cresceram do coração ferido.</Dialogue>
@@ -230,7 +230,7 @@ No começo dessa Cena, todos os inimigos recebem dano inversamente proporcional 
       <Dialogues>
         <Dialogue ID="1">Minha existência nasceu de raiva e uma maldição, ainda assim eu servi como a bênção para outra pessoa.</Dialogue>
         <Dialogue ID="2">As vinhas sem vida continuam a crescer.</Dialogue>
-        <Dialogue ID="3">Ela cresceu, engolindo os pensamentos desesperados de vingança, de raiva a si mesma... E solidão.</Dialogue>
+        <Dialogue ID="3">Ela cresceu, engolindo os pensamentos desesperados de vingança, de raiva a si mesma… E solidão.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
@@ -257,9 +257,9 @@ Dados contundentes ganham 1-3 de Poder. Velocidade é fixada em 1.</AbilityDesc>
       <CardName>Eco Metálico</CardName>
 		<AbilityDesc>[Aliado Único]
 Ao realizar um ataque contundente bem sucedido, inflige 1 Amarrado e 1 Paralisado na próxima Cena (Excluí Ataques em Massa)</AbilityDesc>
-		<FlaborText>“Minha cabeça... Se tornando metal... As dobras no meu cérebro, sendo achatadas...”</FlaborText>
+		<FlaborText>“Minha cabeça… Se tornando metal… As dobras no meu cérebro, sendo achatadas…”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Minha cabeça está ecoando. Eu consigo ouvir o som do metal, claro e barulhento...</Dialogue>
+        <Dialogue ID="1">Minha cabeça está ecoando. Eu consigo ouvir o som do metal, claro e barulhento…</Dialogue>
         <Dialogue ID="2">É como se minha cabeça estivesse virando aço frio.</Dialogue>
         <Dialogue ID="3">A minha cabeça está realmente virando metal?</Dialogue>
         <Dialogue ID="4">Quando eu bato minha cabeça na parede, ela faz um som refrescante.</Dialogue>
@@ -274,7 +274,7 @@ Ao realizar um ataque contundente bem sucedido, inflige 1 Amarrado e 1 Paralisad
 Reduz o valor mínimo de todos os Dados em 1, e aumenta o valor máximo em 3.</AbilityDesc>
       <FlaborText>“O que realmente é lamentável são pessoas como você morrendo para pessoas como eu.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Não pense que venceu por me acorrentar...</Dialogue>
+        <Dialogue ID="1">Não pense que venceu por me acorrentar…</Dialogue>
         <Dialogue ID="2">………</Dialogue>
         <Dialogue ID="3">Termina… Começa. Termina de novo, começa mais uma vez…</Dialogue>
         <Dialogue ID="4">Quando eu bato minha cabeça na parede, ela faz um som refrescante.</Dialogue>
@@ -366,10 +366,10 @@ Todos os dados defensivos rolam 1.</AbilityDesc>
       <FlaborText>No fim das contas, arte é um presente do diabo, nascido de desespero e sofrimento. Uma performace sem pausas até o corpo se tornar pó.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Todas as outras músicas não são mais do que barulho para mim…</Dialogue>
-        <Dialogue ID="2">Faça eu me mexer... Ilumine meu caminho com canções!</Dialogue>
+        <Dialogue ID="2">Faça eu me mexer… Ilumine meu caminho com canções!</Dialogue>
         <Dialogue ID="3">Hahaha… Ha… O que eu vou fazer? O que eu posso fazer? Haha…</Dialogue>
         <Dialogue ID="4">Felicidade eterna seria minha se esse tom durasse para sempre…</Dialogue>
-        <Dialogue ID="5">Sim! É isso... Contemple essa poderosa melodia!</Dialogue>
+        <Dialogue ID="5">Sim! É isso… Contemple essa poderosa melodia!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -380,7 +380,7 @@ Todos os dados defensivos rolam 1.</AbilityDesc>
 Cause +2-7 de Dano e +2-5 de Dano de Atordoamento contra o inimigo com a menor quantidade de HP.</AbilityDesc>
       <FlaborText>Pessoas acreditavam que elas se tornariam criaturinhas belas com pequenas asas assim que morressem. É uma história boba. Sem sentido também.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Um descanso eterno... Que você descanse em paz.</Dialogue>
+        <Dialogue ID="1">Um descanso eterno… Que você descanse em paz.</Dialogue>
         <Dialogue ID="2">Eles acreditavam que elas se tornariam criaturinhas belas com pequenas asas assim que morressem.</Dialogue>
         <Dialogue ID="3">Te ajudarei a se libertarem do tormento que vocês causam a si mesmos.</Dialogue>
         <Dialogue ID="4">Eles devem ter voltado para casa, tendo ganhado o que queriam e estando cheios de esperança.</Dialogue>
@@ -395,7 +395,7 @@ Causa +2-4 de dano contra inimigos que tenham um efeito negativo.
 Se o bibliotecário tem um efeito negativo no começo da cena, ganhe 1-2 de Força</AbilityDesc>
       <FlaborText>Eles dizem que o lamentador com uma grande bagagem em suas costas veio para ser o salvador de todos.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Para as pobres almas que não conseguem parar de se lamentar... Eu ofereço minhas condolências.</Dialogue>
+        <Dialogue ID="1">Para as pobres almas que não conseguem parar de se lamentar… Eu ofereço minhas condolências.</Dialogue>
         <Dialogue ID="2">Mágoas para os mortos, e lamento próximo para os vivos.</Dialogue>
         <Dialogue ID="3">Formas frívolas de tristeza, lágrimas que apenas irão molhar as asas.</Dialogue>
         <Dialogue ID="4">Nenhum traço de impuridade é permitido na mente daqueles que lamentam, pois elas precisam se manter reverentes e solenes.</Dialogue>
@@ -443,7 +443,7 @@ A Sérima Página Corpo-a-Corpo ou A Distância, tem como alvo um personagem ale
       <FlaborText>O Diabo propós um contrato infantil: A última bala iria perfurar a cabeça de quem ele mais ama. E mo momento que ele ouviu isso, ele procurou e atirou em todas as pessoas que ele amava.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A última bala vai perfurar a cabeça de sua amada..</Dialogue>
-        <Dialogue ID="2">Tem razão... Essa bala mágica pode atingir qualquer pessoa, do jeito que você disse.</Dialogue>
+        <Dialogue ID="2">Tem razão… Essa bala mágica pode atingir qualquer pessoa, do jeito que você disse.</Dialogue>
         <Dialogue ID="3">As balas vão perfurar qualquer coisa que você quiser. Para sempre</Dialogue>
         <Dialogue ID="4">Nenhuma bala será a última.</Dialogue>
       </Dialogues>
@@ -478,7 +478,7 @@ A Raiva é poderosa.</AbilityDesc>
       <Dialogues>
         <Dialogue ID="1">É timidez, só isso. Só tímidez…</Dialogue>
         <Dialogue ID="2">Um olhar triste não combina com a Cidade.</Dialogue>
-        <Dialogue ID="3">É muito importante se expressar... Eu acho que é.</Dialogue>
+        <Dialogue ID="3">É muito importante se expressar… Eu acho que é.</Dialogue>
         <Dialogue ID="4">Você sabe que tipo de cara você deveria estar fazendo?</Dialogue>
         <Dialogue ID="5">Coloque um grande sorriso no seu rosto, como o meu. Não é tão difícil, é?</Dialogue>
       </Dialogues>
@@ -489,13 +489,13 @@ A Raiva é poderosa.</AbilityDesc>
       <CardName>Distanciamento Social</CardName>
       <AbilityDesc>[Aliado Único]
 Os Dados de Bloqueio ganham 1-2 de Poder.
-Cause +2-7 de dano de Atordoamento ao defletir.</AbilityDesc>
+Cause +2-7 de Dano de Atordoamento ao defletir.</AbilityDesc>
       <FlaborText>Se alguém tentar olhar para o rosto atrás da pele, o resultado não vai ser bonito. O espaço atrás da pele é o único espaço pessoal que restou. Deixar esse espaço sem ser invadido é o último fragmento de generosidade que a Cidade pode oferecer.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Por favor no mires detrás de esto. Es lo menos que puedes hacer…</Dialogue>
-        <Dialogue ID="2">Necesitamos mantener la distancia apropiada. Lo suficientemente lejos para que todos estén confortables.</Dialogue>
-        <Dialogue ID="3">Hay una línea entre nosotros, por aquí. Por favor mantente al otro lado de esta línea, por lo menos.</Dialogue>
-        <Dialogue ID="4">No vengas más cerca. No cruces mi línea…</Dialogue>
+        <Dialogue ID="1">Por favor, não olhe para o que está por trás. É o mínimo que você pode fazer…</Dialogue>
+        <Dialogue ID="2">Precisamos manter uma distância apropriada. O suficiente para todo mundo se sentir confortável.</Dialogue>
+        <Dialogue ID="3">Tem um linha entre nós. Por favor, pelo menos fique do outro lado dessa linha</Dialogue>
+        <Dialogue ID="4">Não chegue mais perto. Não atravesse minha linha…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -503,75 +503,75 @@ Cause +2-7 de dano de Atordoamento ao defletir.</AbilityDesc>
       <Abnormality>Expressão Tímida de Hoje</Abnormality>
       <CardName>Timidez</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando usas una página, todos los dados de bloqueo en esa página ganan Poder igual a la cantidad de dados defensivos en dicha página.</AbilityDesc>
-      <FlaborText>La incapacidad de morar la cara es quizás una forma de timidez. Cuando fuertes emociones surgen de vez en cuando. Lo mejor es simplemente cubrir la cara..</FlaborText>
+Ao usar uma página, todos os dados de Bloqueio dessa página ganham Poder igual ao número de dados Defensivos dessa página.</AbilityDesc>
+      <FlaborText>A incapacidade de mostrar o seu rosto é uma forma de timidez. Quando emoções pulsantes surgem de tempos em tempos, é melhor simplesmente cobrir o rosto.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Soy solo tímido, eso es todo. Solo tímido…</Dialogue>
-        <Dialogue ID="2">Lo siento. Te acostumbrarás con el tiempo…</Dialogue>
-        <Dialogue ID="3">Quizás es para protegerme a mí mismo.</Dialogue>
-        <Dialogue ID="4">A veces, Me estoy ahogando en sentimientos que no puedo describir.</Dialogue>
+        <Dialogue ID="1">É timidez, só isso. Só tímidez…</Dialogue>
+        <Dialogue ID="2">Desculpe. Em algum tempo, você vai se acostumar…</Dialogue>
+        <Dialogue ID="3">Talvez seja só pra me proteger.</Dialogue>
+        <Dialogue ID="4">As vezes, eu me engasgo com sentimentos que não consigo descrever.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="RedShoes_Kirakira">
-      <Abnormality>Los Os Saltos Vermelhos</Abnormality>
-      <CardName>Brillantina</CardName>
+      <Abnormality>Os Saltos Vermelhos</Abnormality>
+      <CardName>Brilhante</CardName>
       <AbilityDesc>[Aliado Único]
-Al comienzo de una escena, cada enemigo es Seducido con una probabilidad del 50%.
-Los enemigos con estado Seducido priorizan a este bibliotecario como objetivo y hacen +2-4 de daño con los ataques.
-Gana 1-2 de Poder en choques contra enemigos con estado Seducido.</AbilityDesc>
-      <FlaborText>Los zapatos no tenían color. 
-Pronto se volverán rojos.</FlaborText>
+Ao começo da cena, cada inimigo tem 50% de chance de ser Seduzido.
+Inimigos Seduzidos priorizam esse bibliotecário como alvo e causam +2-4 de dano com ataques.
+Ganha 1-2 de poder em Embates contra inimigos Seduzidos</AbilityDesc>
+      <FlaborText>Os sapatos eram sem cor. 
+Logo eles se tornarão vermelhos.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">El rojo es tan vivido, ¿no es simplemente deslumbrante?</Dialogue>
-        <Dialogue ID="2">Una vez te libres de esa persona… Los Zapatos son todo tuyos.</Dialogue>
-        <Dialogue ID="3">Está bien. No será difícil tomar los Zapatos de sus pies si les cortas los tobillos.</Dialogue>
-        <Dialogue ID="4">¿No quieres ser quien más brille aquí?</Dialogue>
-        <Dialogue ID="5">Este glamur debería ser solo tuyo.</Dialogue>
+        <Dialogue ID="1">Esse vermelho é tão vívido, não é simplesmente deslumbrante?</Dialogue>
+        <Dialogue ID="2">Assim que você se livrar dele… Os sapatos serão seus.</Dialogue>
+        <Dialogue ID="3">Está tudo bem. Não vai ser difícil pegar os sapatos dos pés deles quando você cortar os tornozelos deles deles.</Dialogue>
+        <Dialogue ID="4">Você não quer ser a pessoa com o brilho mais brilhante daqui?</Dialogue>
+        <Dialogue ID="5">Esse glamour deveria ser só meu.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="RedShoes_Desire">
-      <Abnormality>Los Os Saltos Vermelhos</Abnormality>
-      <CardName>Obsesión</CardName>
+      <Abnormality>Os Saltos Vermelhos</Abnormality>
+      <CardName>Obssessão</CardName>
       <AbilityDesc>[Todos os Personagens]
-Todos os Personagens aplican el doble de Sangrado.</AbilityDesc>
-      <FlaborText>Romperé tus piernas, entonces no serás capaz de bailar nunca más.</FlaborText>
+Todos os Personagens aplicam o dobro de Sangramento.</AbilityDesc>
+      <FlaborText>Eu vou quebrar suas pernas, então você nunca mais vai conseguir dançar.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¡Yo debería ser quien destaque!</Dialogue>
-        <Dialogue ID="2">Si solo pudiera realizar una danza elegante…</Dialogue>
-        <Dialogue ID="3">Haré que no puedas bailar nunca más.</Dialogue>
-        <Dialogue ID="4">¿Si dejará esas piernas inutilizables, podría tomar la posición del protagonista?</Dialogue>
-        <Dialogue ID="5">Muéstrame tu última danza.</Dialogue>
+        <Dialogue ID="1">Eu quem deveria ser o destaque!</Dialogue>
+        <Dialogue ID="2">Só eu deveria performar essa dança elegante…</Dialogue>
+        <Dialogue ID="3">Eu farei que você não consiga dançar para sempre</Dialogue>
+        <Dialogue ID="4">Se eu deixar essas pernas inutilizaveis, será que eu posso ser o protagonista?</Dialogue>
+        <Dialogue ID="5">Mostre-me sua última dança.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="RedShoes_Cut">
-      <Abnormality>Los Os Saltos Vermelhos</Abnormality>
-      <CardName>Hacha</CardName>
+      <Abnormality>Os Saltos Vermelhos</Abnormality>
+      <CardName>Machado</CardName>
       <AbilityDesc>[Aliado Único]
-Los dados cortantes ganan 1-3 de Poder.
-Recibe 2-5 de daño de aturdimiento cuando un dado cortante no acierta. (Excluye ataques en masa)</AbilityDesc>
-      <FlaborText>En algún punto, &lt;Censurado&gt; estaba usando los zapatos, sonriendo de oreja a oreja. Esto fue uh, esto fue muy raro. Esa no era una sonrisa. Eso era…</FlaborText>
+Os dados Cortantes ganham 1-3 de Poder
+Recebe 2-5 de dano de Atordoamento quando um ataqe Cortante não acerta (Exclui Ataques em Massa) </AbilityDesc>
+      <FlaborText>Em algum momento, &lt;Censurado&gt; estava usando os sapatos, sorrindo de orelha-a-orelha. Era uh, bem, era bem estranho. Aquilo não era um sorriso. Era…</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Afila el hacha más y más… Así podrá cortarlos de un solo golpe.</Dialogue>
-        <Dialogue ID="2">Los deseos que has acumulado… Libera las emociones que has ocultado y reprimido…</Dialogue>
-        <Dialogue ID="3">La sanguinaria hacha roja… Nada podría ser más hermoso.</Dialogue>
+        <Dialogue ID="1">Afie o machado de novo e de novo… Para que ele possa corta-los com um golpe só.</Dialogue>
+        <Dialogue ID="2">Os desejos que você acumulou… Revele as emoções que você escondeu e reprimiu…</Dialogue>
+        <Dialogue ID="3">O machado vermelho sanguíneo… Nada pode ser mais bonito.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="SpiderBud_Cocoon">
       <Abnormality>Casulo Aracnídeo</Abnormality>
-      <CardName>Capullo</CardName>
+      <CardName>Casulo</CardName>
       <AbilityDesc>[Aliado Único]
-Al golpear, Si el resultado del dado es el valor máximo: inflige 1-2 de Parálisis, Atadura y Frágil la siguiente escena.(Excluye ataques en masa)</AbilityDesc>
-      <FlaborText>Como era de esperarse, ningún empleado se ofreció de voluntario para recuperar los cuerpos de los colegas.</FlaborText>
+Ao Golpear, se o dado rolou seu valor máximo: Inflige 1-2 de Paralisia, Amarrado e Frágil na próxima cena.(Excluí Ataques Em Massa)</AbilityDesc>
+      <FlaborText>Como esperado, nenhum funcionário se voluntariou para recurerar os corpos de seus colegas encasulados.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¿Qué idiota sin cuidado pisó a mis bebes?</Dialogue>
-        <Dialogue ID="2">Pocos se dan cuenta de que la comida dentro de mis capullos no estaban muertas.</Dialogue>
-        <Dialogue ID="3">El veneno de araña es único, Evita que su víctima muera muy rápidamente.</Dialogue>
-        <Dialogue ID="4">Ten cuidado donde pisas. Si no lo haces, entonces ten cuidado con tu cabeza.</Dialogue>
-        <Dialogue ID="5">Nadie se atreve a salvar a mi presa.</Dialogue>
+        <Dialogue ID="1">Que idiota descuidado pisou no meu bebê?</Dialogue>
+        <Dialogue ID="2">Poucos perceberam que a comida dentro dos casulos não estavam mortos.</Dialogue>
+        <Dialogue ID="3">O veneno de aranha é único, ele previne que a vítima morra rápido demais.</Dialogue>
+        <Dialogue ID="4">Tenha cuidado onde pisa. Se não tiver, cuide da sua cabeça.</Dialogue>
+        <Dialogue ID="5">Ninguém se atreve a salvar minhas presas.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -579,61 +579,63 @@ Al golpear, Si el resultado del dado es el valor máximo: inflige 1-2 de Paráli
       <Abnormality>Casulo Aracnídeo</Abnormality>
       <CardName>Comida</CardName>
       <AbilityDesc>[Aliado Único]
-Al golpear a un enemigo aturdido, Todos os Aliados recuperan 2-4 de HP.(Excluye ataques en masa)</AbilityDesc>
-      <FlaborText>Peter fue arrastrado al techo en unos segundos. El empleado colgando del techo en la unidad de contención será una comida nutritiva para los descendientes de la araña.</FlaborText>
+Ao Golpear um inimigo atordoado, Todos os Aliados recuperam 2-4 de HP.(Excluí Ataques Em Massa)</AbilityDesc>
+      <FlaborText>Peter foi arrastado para o teto apenas por um momento. O funcionário encasulado pendurado no teto da Cela de Contenção será uma refeição saudável para as ninfas da aranha.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Alégrate. Les darás diversión a mis pequeñas.</Dialogue>
-        <Dialogue ID="2">Los niños en crecimiento están siempre hambrientos.</Dialogue>
-        <Dialogue ID="3">Es por nuestra supervivencia, no se puede evitar.</Dialogue>
-        <Dialogue ID="4">Es un alivio tener un montón de comida.</Dialogue>
-        <Dialogue ID="5">Bueno, ahora tenemos una comida sabrosa lista para consumir… Vengan, niños.</Dialogue>
+        <Dialogue ID="1">Alegre-se. Você trará alegria às minhas crianças.</Dialogue>
+        <Dialogue ID="2">Crianças em fase de crescimento estão sempre com fome.</Dialogue>
+        <Dialogue ID="3">É tudo pela nossa sobrevivência, não posso evitar.</Dialogue>
+        <Dialogue ID="4">É um alívio ter um monte de comida.</Dialogue>
+        <Dialogue ID="5">Bem, agora temos uma refeição saborosa pronta pra comer… Venham, crianças.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="SpiderBud_Dinner">
       <Abnormality>Casulo Aracnídeo</Abnormality>
-      <CardName>Vigilancia</CardName>
+      <CardName>Vigilância</CardName>
       <AbilityDesc>[Aliado Único]
-Los enemigos pierden 1 de Poder en choques contra el bibliotecario seleccionado.
-Al ganar un choque, inflige 1 de Atadura y Frágil la siguiente escena con una probabilidad del 50%.</AbilityDesc>
-      <FlaborText>Los ojos brillaban en la oscuridad, buscando por presas para alimentar a sus descendientes.</FlaborText>
+Inimigos perdem 1 de Poder em Embates contra o bibliotecário selecionado.
+Ao vencer um Embate, 50% de chance de infigir 1 de Amarrado e Frágil na próxima Cena</AbilityDesc>
+      <FlaborText>Os olhos brilhavam na escuridão, procurando uma presa para alimentar suas aranhinhas.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Para ver claramente en la oscuridad…</Dialogue>
-        <Dialogue ID="2">Podría ser un problema perder a mi presa.</Dialogue>
-        <Dialogue ID="3">No puedo quitar mis ojos de ellos. Uno nunca sabe qué puede pasarle a mis pequeños…</Dialogue>
-        <Dialogue ID="4">Debo ser precisa esta vez…</Dialogue>
+        <Dialogue ID="1">Posso ver claramente na escuridão…</Dialogue>
+        <Dialogue ID="2">Seria problemático perder minha presa.</Dialogue>
+        <Dialogue ID="3">Nunca posso tirar meus olhos deles. Você nunca sabe o que vai acontecer com minhas aranhinhas…</Dialogue>
+        <Dialogue ID="4">Serei precisa dessa vez…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Laetitia_Present">
       <Abnormality>Laetitia</Abnormality>
-      <CardName>Regalo sorpresa</CardName>
+      <CardName>Presente Surpresa</CardName>
       <AbilityDesc>[Aliado Único]
-El primer oponente que realice un choque contra el bibliotecario seleccionado gana el estado 'Regalado'.
-Si el personaje 'Regalado' realiza un choque contra un Persona que no sea el bibliotecario seleccionado, el 'Regalo' explota con una probabilidad del 40%, haz 2-7 de daño e inflige 2 de Sangrado la siguiente escena.
-Cuando el personaje 'Regalado' muere, Un nuevo 'Regalo' puede darse.</AbilityDesc>
-      <FlaborText>Y cuando la niña encuentra alguien que le gusta, le dará un regalo hecho por ella misma. Aunque el contenido del regalo es un secreto!</FlaborText>
+O primeiro oponente a entrar em um Embate com o bibliotecário selecionado ganha o efeito de 'Presenteado'.
+Se o 'Presenteado' entrar em um Embate com outro personagem que não seja o bibliotecário seleciondo, o 'Presente' tem 40% de chance de explodir, causando 2-7 de dano e infligindo 2 de Sangramento na próxima Cena.
+Quando o 'Presenteado' morrer, um novo 'Presente' pode ser dado.</AbilityDesc>
+      <FlaborText>E quando a criança conhece alguém que ela gosta, ela da um presente que ela mesmo fez. Mas, o conteúdo do presente é um segredo!</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Cuando abras el regalo, te sorprenderás, así como ¡WHOA!!</Dialogue>
-        <Dialogue ID="2">¿Qué hay dentro del regalo? ¡Es un secreto! Es aburrido revelarlo.</Dialogue>
-        <Dialogue ID="3">Es un regalo del corazón que hice yo misma. ¡Quiero que lo tengas!</Dialogue>
-        <Dialogue ID="4">Whoops… Ahí va el secreto del regalo.</Dialogue>
+        <Dialogue ID="1">Quando você abre o presente, você vai ficar surpreso, tipo WHOA!!</Dialogue>
+        <Dialogue ID="2">O que tem dentro do presente? É um segredo! É chato estragar a surpresa.</Dialogue>
+        <Dialogue ID="3">É um presente de coração que eu mesma fiz. Eu quero dar ele pra você!</Dialogue>
+        <Dialogue ID="4">Whoops… Ai se foi o segredo do presente.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
+
     <AbnormalityCard ID="Laetitia_HeartGift">
       <Abnormality>Laetitia</Abnormality>
-      <CardName>Broma divertida</CardName>
+      <CardName>Pegadinha Divertida</CardName>
       <AbilityDesc>[Aliado Único]
-El primer dado que cada página de combate que un bibliotecario juega siempre será el resultado máximo o el minimo.
-Recibe 2-7 de daño si el resultado es el minimo.</AbilityDesc>
-      <FlaborText>¡Así que esta señorita ha hecho una decisión! ¡Seguir aquí y nunca irme hasta que las sonrisas vuelvan a este lugar!</FlaborText>
+O primeiro dado de qualquer Página de Combate que o bibliotecário usar sempre vai rolar o valor mínimo ou máximo
+Recebe 2-7 de dano se rolar o valor mínimo.</AbilityDesc>
+      <FlaborText>Então essa senhorita tomou uma decisão! Ficar aqui e nunca ir embora até as risadas serem restauradas nesse lugar! </FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Juega conmigo! Únete a mis amigos y riamos juntos.</Dialogue>
-        <Dialogue ID="2">¿Cómo fue mi broma? ¿Fue divertida, verdad? ¡Tu cara lo dice!</Dialogue>
-        <Dialogue ID="3">No escucho ninguna risa… todos se ven tan tristes.</Dialogue>
-        <Dialogue ID="4">¡Quiero que te diviertas con mis bromas!</Dialogue>
+        <Dialogue ID="1">Jogue comigo! Junte-se a meus amigos e venha rir com a gente!.</Dialogue>
+        <Dialogue ID="2">Como foi minha pegadinha? Foi divertida, não foi? A sua cara diz que sim!</Dialogue>
+        <Dialogue ID="3">Não escutei nenhuma risada… Eles parecem tão tristes.</Dialogue>
+        <Dialogue ID="4">Tudo o que eu quero é que você se divirta com minhas pegadinhas!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
+
     <AbnormalityCard ID="Laetitia_Friend">
       <Abnormality>Laetitia</Abnormality>
       <CardName>Amigo</CardName>
@@ -642,21 +644,21 @@ Al comienzo de una escena, coloca un 'Amigo' en una de tus páginas de combate e
 No se activa cuando ya existe una página con 'Amigo' en la mano.
 La página con el 'Amigo' gana 2-4 de Poder.
 Sin embargo, si la página no es usada en 2 escenas, se agota, haciendo 2-7 de daño al bibliotecario.</AbilityDesc>
-      <FlaborText>¡Ella estaba tan triste de dejar a sus amigos atrás, así que se le ocurrió una brillante idea!</FlaborText>
+      <FlaborText>Ela estava tão triste quando ela tinha que deixar os amigos para trás, então ela teve uma ideia brilhante!</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¡No podría dejar a mis amigos atrás… así que se me ocurrió una brillante idea!</Dialogue>
-        <Dialogue ID="2">No te preocupes~ Solo los malos lastiman a sus amigos.</Dialogue>
-        <Dialogue ID="3">¡Este lugar estará más vivo cuanto más amigos tenga!</Dialogue>
-        <Dialogue ID="4">Espero encontrar un montón de amigos también aquí~</Dialogue>
+        <Dialogue ID="1">Eu não podia deixar meus amigos para trás, então tive uma ideia brilhante!!</Dialogue>
+        <Dialogue ID="2">Não se preocupe~ Apenas os malvados machucam os amigos.</Dialogue>
+        <Dialogue ID="3">Esse lugar ficará mais animado quanto mais amigos eu tiver!</Dialogue>
+        <Dialogue ID="4">Espero encontrar um montão de amigos aqui~</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
       <AbnormalityCard ID="BlackSwan_Feather">
-      <Abnormality>Sueño del cisne negro</Abnormality>
-      <CardName>Residuos pegajosos</CardName>
+      <Abnormality>Sonho do Cisne Negro</Abnormality>
+      <CardName>Residuos Pegajosos</CardName>
       <AbilityDesc>[Aliado Único]
-Al ganar un choque, inflige 1 de Atadura, Frágil, Sangrado y Parálisis a todos los enemigos la siguiente escena. (Dos veces por escena)</AbilityDesc>
-      <FlaborText>Elijah cayó de rodillas y finalmente comenzó a vomitar lo que todos estaban también vomitando.</FlaborText>
+Ao ganhar um Embate, inflige 1 de Amarrado, Frágil, Sangramento e Paralisia a todos os inimigos na próxima Cena. (Duas vezes por Cena)</AbilityDesc>
+      <FlaborText>Elijah se ajoelhou e sua familia começou a vomitar tudo o que todos os outros estavam vomitando.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">El Lago se mueve gentilmente. Como si algunos Cisnes acabarán de emprender el vuelo.</Dialogue>
         <Dialogue ID="2">Fui enfrentado a la realidad. Las cosas hinchándose por dentro y soltándolo de inmediato.</Dialogue>
@@ -666,7 +668,7 @@ Al ganar un choque, inflige 1 de Atadura, Frágil, Sangrado y Parálisis a todos
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="BlackSwan_Umbrella">
-      <Abnormality>Sueño del cisne negro</Abnormality>
+      <Abnormality>Sonho do Cisne Negro</Abnormality>
       <CardName>Sombrilla gastada</CardName>
       <AbilityDesc>[Aliado Único]
 Gana 2-3 de velocidad.
@@ -680,7 +682,7 @@ Al ser golpeado, nulifica el daño con una probabilidad del 30% y regresa el dob
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="BlackSwan_Family">
-      <Abnormality>Sueño del cisne negro</Abnormality>
+      <Abnormality>Sonho do Cisne Negro</Abnormality>
       <CardName>Familia amada</CardName>
       <AbilityDesc>[Aliado Único]
 Gana 6 de 'Ropa de Ortiga', que dan Protección igual a la cantidad que tengas cada escena. Pierdes uno de 'Ropa de Ortiga' al final de cada escena.</AbilityDesc>
@@ -793,7 +795,7 @@ Pierde 1-3 de HP al usar páginas sin el 'Token'.</AbilityDesc>
       <CardName>Espinas</CardName>
       <AbilityDesc>[Aliado Único]
 En un ataque perforante exitoso, inflige 1 de emoción a un objetivo.
-Contra objetivos con 3+ de 'Emoción', haz 2-7 de daño y daño de aturdimiento adicional, entonces remueve todo la 'Emoción'.(Excluye ataques en masa)</AbilityDesc>
+Contra objetivos con 3+ de 'Emoción', haz 2-7 de daño y daño de aturdimiento adicional, entonces remueve todo la 'Emoción'.(Excluí Ataques Em Massa)</AbilityDesc>
       <FlaborText>Al comienzo, todo lo que tenía que hacer era ser ligeramente pinchado por una de las espinas. Ahora tengo que frotar todo mi cuerpo para tener el mismo subidón.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Seguro, me inclinaré por ti~ Siéntente libre de darme palmaditas.</Dialogue>
@@ -1517,7 +1519,7 @@ El bibliotecario seleccionado gana la capacidad máxima de Luz, restauración de
       <Abnormality>Nosferatu</Abnormality>
       <CardName>Miedo al agua</CardName>
       <AbilityDesc>[Aliado Único]
-Al golpear, inflige de 1 Sangrado la siguiente escena y gana 1 de Sangre.(Excluye ataques en masa)
+Al golpear, inflige de 1 Sangrado la siguiente escena y gana 1 de Sangre.(Excluí Ataques Em Massa)
 La 'Sangre' da varios efectos dependiento de la cantidad, tales como incrementar el daño del ataque al coste de HP, recibiendo daño de aturdimiento al comienzo de una escena y otorgando Fuerza.</AbilityDesc>
       <FlaborText>Parece perdido. Estaba buscando algo, pero no sabe lo que quiere encontrar.</FlaborText>
       <Dialogues>
@@ -1544,7 +1546,7 @@ Al derrotar a un enemigo con 'Sangre', Todos os Aliados recuperan 10 HP y el bib
       <Abnormality>Nosferatu</Abnormality>
       <CardName>Vampirismo</CardName>
       <AbilityDesc>[Aliado Único]
-Haz +2-4 de daño y recupera 2-5 de HP al atacar a un enemigo con 'Sangre'.(Excluye ataques en masa)</AbilityDesc>
+Haz +2-4 de daño y recupera 2-5 de HP al atacar a un enemigo con 'Sangre'.(Excluí Ataques Em Massa)</AbilityDesc>
       <FlaborText>…Y la sed nunca podría ser verdaderamente saciada.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">¡La muerte tiene una danza macabra con todos! ¡Todos tienen la posibilidad de ser comidos!</Dialogue>
@@ -1616,7 +1618,7 @@ Cuando el bibliotecario utiliza una página, descarta una página aleatoria de l
       <Abnormality>Espantapájaro buscando por sabiduría</Abnormality>
       <CardName>Cosecha</CardName>
       <AbilityDesc>[Aliado Único]
-Después de atacar a un enemigo con una cantidad mayor de resistencia al aturdimiento, haz 2-4 de daño de aturdimiento adicional y recupera 2-5 de resistencia al aturdimiento.(Excluye ataques en masa)</AbilityDesc>
+Después de atacar a un enemigo con una cantidad mayor de resistencia al aturdimiento, haz 2-4 de daño de aturdimiento adicional y recupera 2-5 de resistencia al aturdimiento.(Excluí Ataques Em Massa)</AbilityDesc>
       <FlaborText>Se muestra agresivo contra ciertos empleados, intentando tomar sus cerebros. Esos empleados son aquellos que consiguieron un “Excelente” en el examen de inteligencia.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Me siento más listo… Puedo saberlo todo ahora…</Dialogue>
@@ -2022,7 +2024,7 @@ Si los cinco bibliotecarios tiene una página de Anormalidad, también ganan 1-2
       <Abnormality>Ave del apocalipsis</Abnormality>
       <CardName>Paz</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando no hay 'Intrusos' presente, el primer enemigo que el bibliotecario seleccionado ataca es marcado como 'Intruso'.(Excluye ataques en masa)
+Cuando no hay 'Intrusos' presente, el primer enemigo que el bibliotecario seleccionado ataca es marcado como 'Intruso'.(Excluí Ataques Em Massa)
 Todos los ataques del 'Intruso' hacen 2-4 menos de daño y daño de aturdimiento; también, el 'Intruso' recibe 1-2 de daño adicional de los ataques.</AbilityDesc>
       <FlaborText>El Pájaro comenzó a deambular por el bosque, buscando por la bestia. Pero no había nada. No había criaturas, no había Sol ni Luna. Todo lo que queda era un Pájaro y el Bosque Oscuro.</FlaborText>
       <Dialogues>
