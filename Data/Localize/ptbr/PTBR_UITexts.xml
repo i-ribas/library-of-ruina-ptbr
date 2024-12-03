@@ -435,8 +435,8 @@ Quando o Modo Rápido está em "Não", dados serão lançados manualmente.</text
   <text id="ui_library_abilitycontent_17">Agora pode usar Páginas E.G.O.</text>
   <text id="ui_library_abilitycontent_18">O Nível de Emoção foi aumentado até o nível {0}.</text>
   <text id="ui_popup_creature_bossbattle_start">Você está preparado para ver o episódio final da história do {0}?</text>
-  <text id="ui_getegocard">Página E.G.O. Obtida</text>
-  <text id="ui_egocard">Página E.G.O.</text>
+  <text id="ui_getegocard">Página E.G.O Obtida</text>
+  <text id="ui_egocard">Página E.G.O</text>
 
   <text id="ui_newtooltip_battle_18">Coloca Páginas de Combate aleatórias em Dados de Velocidade vazios.
 Não afetará os Dados de Velocidade que já possuem Páginas de Combate.</text>
