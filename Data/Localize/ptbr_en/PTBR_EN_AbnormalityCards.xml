@@ -660,39 +660,39 @@ Sin embargo, si la página no es usada en 2 escenas, se agota, haciendo 2-7 de d
 Ao ganhar um Embate, inflige 1 de Amarrado, Frágil, Sangramento e Paralisia a todos os inimigos na próxima Cena. (Duas vezes por Cena)</AbilityDesc>
       <FlaborText>Elijah se ajoelhou e sua familia começou a vomitar tudo o que todos os outros estavam vomitando.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">El Lago se mueve gentilmente. Como si algunos Cisnes acabarán de emprender el vuelo.</Dialogue>
-        <Dialogue ID="2">Fui enfrentado a la realidad. Las cosas hinchándose por dentro y soltándolo de inmediato.</Dialogue>
-        <Dialogue ID="3">Comencé a vomitar lo que todos estaban vomitando.</Dialogue>
-        <Dialogue ID="4">Como si mis pulmones fueran apuñalados, quemaba mientras respiraba.</Dialogue>
-        <Dialogue ID="5">Vomité una mezcla de sangre y desperdicios verdes.</Dialogue>
+        <Dialogue ID="1">O lago ondulava gentilmente. Como se alguns cisneis tivessem voado.</Dialogue>
+        <Dialogue ID="2">Fui enfrentado pela realidade. As coisas acumulando dentro e sendo cuspidas.</Dialogue>
+        <Dialogue ID="3">Comecei a vomitar tudo o que todos os outros estavam vomitando.</Dialogue>
+        <Dialogue ID="4">Como se meus pulmões tivessem sido esfaqueados, explodiu conforme eu respirava.</Dialogue>
+        <Dialogue ID="5">Vomitei uma mistura de sangue e resíduo verde.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="BlackSwan_Umbrella">
       <Abnormality>Sonho do Cisne Negro</Abnormality>
-      <CardName>Sombrilla gastada</CardName>
+      <CardName>Sombrinha desgastada</CardName>
       <AbilityDesc>[Aliado Único]
-Gana 2-3 de velocidad.
-Al ser golpeado, nulifica el daño con una probabilidad del 30% y regresa el doble del daño al atacante como daño de aturdimiento.</AbilityDesc>
-      <FlaborText>Creyendo que se volvería blanco, el Cisne negro quería librarse de la maldición tejiendo ortigas juntas. Todo lo que quedo fue un parasol gastado que una vez atesoró.</FlaborText>
+Ganha 2-3 de Velocidade.
+Ao ser golpeado, tem 30% de chance de nulificar o dano e retornar ao atacante o dobro como Dano de Atordoamento.</AbilityDesc>
+      <FlaborText>Acreditando que se tornaria branco, o cisne negro queria acabar com a maldição tecendo as urtigas. Tudo o que sobrou foi a sombrinha que ele tanto adorava.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¿Qué sucede cuando el Cine Negro despierta de soñar con un Cisne Blanco?</Dialogue>
-        <Dialogue ID="2">Todo lo que me queda es el parasol y este broche.</Dialogue>
-        <Dialogue ID="3">El sol estaba muy brillante, Tuve que usar el parasol.</Dialogue>
-        <Dialogue ID="4">Anhelaba tener un sueño del que nunca me despertara, pero la realidad fue tan cruel como siempre.</Dialogue>
+        <Dialogue ID="1">O que acontece quando o Cisne Negro acorda depois de sonhar com um Cisne Branco?</Dialogue>
+        <Dialogue ID="2">Tudo o que me restou foi a sombrinha e esse croche.</Dialogue>
+        <Dialogue ID="3">O Sol era brilhante demais, tive que cobri-lo.</Dialogue>
+        <Dialogue ID="4">Eu ansiava em ter um sonho do qual eu nunca ia acordar, mas a realidade foi cruel como sempre.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="BlackSwan_Family">
       <Abnormality>Sonho do Cisne Negro</Abnormality>
       <CardName>Familia amada</CardName>
       <AbilityDesc>[Aliado Único]
-Gana 6 de 'Ropa de Ortiga', que dan Protección igual a la cantidad que tengas cada escena. Pierdes uno de 'Ropa de Ortiga' al final de cada escena.</AbilityDesc>
-      <FlaborText>Ella comenzó a mirar por sus hermanos. Su familia que necesitaba vestir ropa de ortigas para ser libre de la maldición. Aquellos con quien ella compartió sueños felices.</FlaborText>
+Ganha 6 'Roupa de Urtiga', que concede Proteção igual a sua quantidade no começo de cada Cena. Um acumulo de 'Roupa de Urtiga' é perdido no começo de cada Cena.</AbilityDesc>
+      <FlaborText>Ela começou a procurar por seus irmãos. A família dela que precisava usar as roupas de urtiga para serem livres da maldição. Aqueles que ela compartilhou seus sonhos felizes</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Aunque ellos no tenían nada para darle a ella, ellos tenían su honestidad y diligencia como su más valioso tesoro.</Dialogue>
-        <Dialogue ID="2">Yo creía… que había que existir una manera para todos para ser feliz.</Dialogue>
-        <Dialogue ID="3">Pensaba que si trabajaba un poco más duro, las cosas serian mejores para nosotros.</Dialogue>
-        <Dialogue ID="4">Mi familia, quienes deberían ser libres de vestir ropa de ortigas…</Dialogue>
-        <Dialogue ID="5">Nosotros compartimos sueños felices con cada uno.</Dialogue>
+        <Dialogue ID="1">Apesar de que eles não tivessem nada a dar para ela, eles tinham honestidade e diligência como seus tesouros mais valiosos.</Dialogue>
+        <Dialogue ID="2">Eu acreditei… Que tinha algum jeito de todos serem felizes.</Dialogue>
+        <Dialogue ID="3">Pensei que se eu me esforçace um pouquinho mais, as coisas iriam funcionar no fim.</Dialogue>
+        <Dialogue ID="4">Minha família, que deveria ser livre quando usassem as roupas de urtiga…</Dialogue>
+        <Dialogue ID="5">Nós compartilhamos sonhos felizes uns com os outros.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
