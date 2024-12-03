@@ -55,15 +55,15 @@
 	<text id="Kid_librarian_start">Aquela criança sempre me ignorava já que eu não estava responsável por ele…</text>
 	<text id="Kid_librarian_kill">Ninguém vai ser amigo daquela coisa...</text>
   <!-- Fairy Festival -->
-  <text id="Fairy_malkuth_start">¡Estas hadas solían tener comida fresca al “Cuidarlos”!</text>
-  <text id="Fairy_malkuth_die">¿Talvez eu estava muito entusiasmada…?</text>
-  <text id="Fairy_malkuth_kill">Está comiendo a sus propios súbditos para saciar su hambre…</text>
+  <text id="Fairy_malkuth_start">Essas fadas costumavam manter a comida fresca “cuidando” dela!</text>
+  <text id="Fairy_malkuth_die">Talvez eu estava muito entusiasmada…?</text>
+  <text id="Fairy_malkuth_kill">Tá comendo seus próprios súditos para saciar sua fome…</text>
 
-  <text id="Fairy_librarian1_start">¿Sigues pensando que nos cuidaba por nuestro beneficio?</text>
-  <text id="Fairy_librarian1_kill">Si, sigue comiendo a su presa mientras está fresca.</text>
+  <text id="Fairy_librarian1_start">Você ainda acha que elas estavam fazendo isso para nosso benefício?</text>
+  <text id="Fairy_librarian1_kill">Sim, continuam comendo a presa enquanto ela tá fresca.</text>
 
-  <text id="Fairy_librarian2_start">Se ha vuelto tan delgada ahora… Solía seguirme y cuidarme.</text>
-  <text id="Fairy_librarian2_kill">Hubiera sido comido si bajaba mi guardia…</text>
+  <text id="Fairy_librarian2_start">Ficou tão magra agora… Elas costumavam me seguir e cuidar de mim.</text>
+  <text id="Fairy_librarian2_kill">Eu teria sido comido daquele jeito se tivesse baixado a guarda…</text>
   <!-- Spider Bud -->
   <text id="Spider_hod_start">Não tinha piedade, mas ainda amava as crianças.</text>
   <text id="Spider_hod_die">Meu corpo está dormente, o que eu faço…</text>
@@ -96,24 +96,28 @@
   <text id="Singingmachine_librarian2_start">É. Eles até jogavam pessoas lá dentro só para ouvir a música.</text>
   <text id="Singingmachine_librarian2_kill">Eles são malucos…</text>
   <!-- Pinocchio -->
-  <text id="Pinocchio_roland_start">Creo que lo leí en algún otro lugar… sobre un muñeco de madera con nariz larga…</text>
+  <text id="Pinocchio_roland_start">Eu acho que li sobre isso em algum lugar… Um boneco de madeira com um nariz comprido…</text>
   <text id="Pinocchio_roland_die">Eu não esperava morrer para um monstro estranho…</text>
-  <text id="Pinocchio_roland_kill">Necesita mentir para volverse humano… Deja un sabor amargo.</text>
-  <text id="Pinocchio_librarian1_start">Pinóquio. ¿Era un cuento infantil sobre un niño que le crecía la nariz al mentir?</text>
-  <text id="Pinocchio_librarian1_kill">Es una lástima que nunca se vuelva humano.</text>
-  <text id="Pinocchio_librarian2_start">Ese crujido que hace con la nariz… Es repugnante.</text>
-  <text id="Pinocchio_librarian2_kill">¿Está tratando de imitarnos?… Es un poco espeluznante.</text>
-  <!-- Queen of Hatred -->
-  <text id="Queenofhatred_Tiphereth_start">Fuimos engañados por su linda apariencia y bajamos la guardia.</text>
-  <text id="Queenofhatred_Tiphereth_die">Ella ya sabe… mis movimientos…</text>
-  <text id="Queenofhatred_Tiphereth_kill">Sigue siendo igual. Bueno, al menos su amor por la justicia.</text>
-  <text id="Queenofhatred_librarian1_start">¿No se suponía que era una chica mágica? Es un desastre…</text>
-  <text id="Queenofhatred_librarian1_kill">Nunca intentaré probar su versión de paz.</text>
-  <text id="Queenofhatred_librarian2_start">Ella solía venir a ayudarnos, pero era más un problema que ayuda.</text>
-  <text id="Queenofhatred_librarian2_kill">Ella tiene sus propios estándares para un mundo “pacífico”, ¿eh?…</text>
+  <text id="Pinocchio_roland_kill">Ele precisa contar mentiras para se tornar humano… Deixa um gosto amargo.</text>
+  
+  <text id="Pinocchio_librarian1_start">Pinóquio. Era um conto infantil sobre uma criança cujo nariz ficou comprido depois de contar uma mentira, eu acho?</text>
+  <text id="Pinocchio_librarian1_kill">Uma pena que ele nunca teve chance de ser humano.</text>
 
+  <text id="Pinocchio_librarian2_start">Aquele rangido de madeira que ele faz… Que desagradável.</text>
+  <text id="Pinocchio_librarian2_kill">Essa coisa tá nos imitando? …É meio assustador.</text>
+  <!-- Queen of Hatred -->
+  <text id="Queenofhatred_Tiphereth_start">Fomos enganados por aquela aparência fofa e abaixamos a guarda.</text>
+  <text id="Queenofhatred_Tiphereth_die">Eu fui muito… previsível…</text>
+  <text id="Queenofhatred_Tiphereth_kill">Ela continua a mesma. Bem, pelo menos o amor dela pela justiça é.</text>
+
+  <text id="Queenofhatred_librarian1_start">Ela não era para ser uma garota mágica? Ela é uma bagunça total…</text>
+  <text id="Queenofhatred_librarian1_kill">Nunca mais vou tentar a versão dela de paz…</text>
+
+  <text id="Queenofhatred_librarian2_start">Ela sempre vinha nos ajudar, mas ela era mais problema do que ajuda.</text>
+  <text id="Queenofhatred_librarian2_kill">Ela tem seus próprios padrões sobre o que torna um mundo “pacífico”, hein…</text>
+  <!-- Knight of Despair -->
   <text id="KnightOfDespair_Tiphereth_start">Una caballera cuyo orgullo se volvió desesperación…</text>
-  <text id="KnightOfDespair_Tiphereth_die">Ella ya sabe… mis movimientos…</text>
+  <text id="KnightOfDespair_Tiphereth_die">Eu fui muito… previsível…</text>
   <text id="KnightOfDespair_Tiphereth_kill">Apuñalándose espadas a ella misma… … Da un poco de lástima.</text>
   <text id="KnightOfDespair_librarian1_start">Mhm. Ella cayó en desesperación después de darse cuenta que no podía defender lo que juró proteger.</text>
   <text id="KnightOfDespair_librarian1_kill">Estoy seguro de que no fue su culpa, pero tuvo un final triste.</text>
@@ -239,7 +243,7 @@
   <text id="Wolf_librarian2_kill">No es lamentable para mí. Estaba destinado a ser el malo.</text>
   
   <text id="GreedKing_Tiphereth_start">Cuidado. Es imprudente meterse en su camino sin ningún plan.</text>
-  <text id="GreedKing_Tiphereth_die">Ella ya sabe… mis movimientos…</text>
+  <text id="GreedKing_Tiphereth_die">Eu fui muito… previsível…</text>
   <text id="GreedKing_Tiphereth_kill">… Es lo mismo. Ella ya no era una chica mágica.</text>
   <text id="GreedKing_librarian1_start">Es el mismo resplandor dorado que antes…</text>
   <text id="GreedKing_librarian1_kill">Bueno… No tiene sentido desear la felicidad de los otros sin contarte a ti mismo.</text>
@@ -389,7 +393,7 @@ pero mantengamos la calma y comencemos~</text>
   <text id="Waygohome_librarian3_kill">Estamos viendo muchas cosas nuevas aquí.</text>
 
   <text id="Servant_Tiphereth_start">Podríamos manejar esto si descubrimos por qué está siendo consumida por la ira.</text>
-  <text id="Servant_Tiphereth_die">Ella ya sabe… mis movimientos…</text>
+  <text id="Servant_Tiphereth_die">Eu fui muito… previsível…</text>
   <text id="Servant_Tiphereth_kill">Manteniendo el equilibrio, ¿eh?…</text>
   <text id="Servant_librarian1_start">Entonces… ¿Tenemos que matar a esos titeres de madera?</text>
   <text id="Servant_librarian1_kill">Yeesh… Están todos locos…</text>
