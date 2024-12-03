@@ -20,7 +20,7 @@ Quando o HP de um bibliotecário está em 20% ou menos, cause 30% do HP máximo 
       <Abnormality>Garota Queimada</Abnormality>
       <CardName>Cinzas</CardName>
       <AbilityDesc>[Aliado Único]
-Ao ser Golpeado, Inflige 1-3 de Queimadura ao atacante e tem 40% de chance de ganhar um buff na próxima Cena: 'Dados ofensivos infligem 1 de Queimadura ao golpear' (Não acumula)
+Ao ser Golpeado, Inflige 1-3 de Queimadura ao atacante e tem 40% de chance de ganhar um efeito positivo na próxima Cena: 'Dados ofensivos infligem 1 de Queimadura ao golpear' (Não acumula)
       </AbilityDesc>
       <FlaborText>“O corpo carbonizado representa a esperança desmoronada da criança, enquanto as chamas ardentes representam a obsessão por afeto.”</FlaborText>
       <Dialogues>
@@ -469,9 +469,9 @@ Ganhe 1-2 de Celeridade e 2-4 de Força toda Cena.</AbilityDesc>
   <Sephirah SephirahType="Hod">
     <AbnormalityCard ID="ShyLookToday_Face">
       <Abnormality>Expressão Tímida de Hoje</Abnormality>
-      <CardName>Expressão do dia</CardName>
+      <CardName>Expressão do Dia</CardName>
       <AbilityDesc>[Aliado Único]
-O rosto do bibliotecário muda constantemente
+O rosto do bibliotecário muda constantemente.
 Os dados ganham uma quantidade de Poder dependendo da face atual. (Mín. -2, Máx. +2)
 A Raiva é poderosa.</AbilityDesc>
       <FlaborText>Um dia ensolarado, assim como o dia que eles sinceramente secaram a roupa, eles secaram a própria pele.</FlaborText>
@@ -658,7 +658,7 @@ Porém, se a página não for usada em 2 Cenas, ela se esgota, causando 2-7 de d
       <CardName>Residuos Pegajosos</CardName>
       <AbilityDesc>[Aliado Único]
 Ao ganhar um Embate, inflige 1 de Amarrado, Frágil, Sangramento e Paralisia a todos os inimigos na próxima Cena. (Duas vezes por Cena)</AbilityDesc>
-      <FlaborText>Elijah caiu de joelhos e sua familia começou a vomitar tudo o que todos os outros estavam vomitando.</FlaborText>
+      <FlaborText>Elijah caiu de joelhos e sua família começou a vomitar tudo o que todos os outros estavam vomitando.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">O lago ondulava gentilmente. Como se alguns cisneis tivessem voado.</Dialogue>
         <Dialogue ID="2">Eu encarei a realidade. As coisas acumuladas foram cuspidas.</Dialogue>
