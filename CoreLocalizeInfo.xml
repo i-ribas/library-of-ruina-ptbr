@@ -4,9 +4,8 @@
     <Language>ptbr_en</Language>
 	<LanguageName>Português do Brasil</LanguageName>
 	<SharedLanguage>ptbr</SharedLanguage>
-	<HeadFont>Resource/Fonts/FallbackFontHead</HeadFont>
-	<BodyFont>Resource/Fonts/FallbackFontBody</BodyFont>
-	<OptionFont>Resource/Fonts/FallbackNotoSans</OptionFont>
+	<!-- No fonts specified -->
+	<!-- Defaults to EN font -->
 	<HeadIsStory>true</HeadIsStory>
 	<DataPath>Data</DataPath>
 	<ResourcePath>Resource</ResourcePath>
