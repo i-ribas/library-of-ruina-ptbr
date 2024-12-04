@@ -69,7 +69,7 @@
   <text id="Spider_hod_die">Meu corpo está dormente, o que eu faço…</text>
   <text id="Spider_hod_kill">Não me sinto muito bem com isso, parece que acabei de arruinar uma família...</text>
 
-  <text id="Spider_librarian1_start">É, nojento. Nunca descia, a menos que alguém machuque seus bebês.</text>
+  <text id="Spider_librarian1_start">É, nojento. Nunca descia, a menos que alguém machucava seus bebês.</text>
   <text id="Spider_librarian1_kill">Não dê bola. Poderíamos ter sido nós pendurados lá.</text>
   <text id="Spider_librarian2_start">Eu nunca tinha reparado, pois tinha que tomar cuidado para não pisar nos filhotes, mas cara, que aparência nojenta.</text>
   <text id="Spider_librarian2_kill">…Pensar naqueles casulos ainda me dá arrepios.</text>
@@ -93,7 +93,7 @@
   <text id="Singingmachine_librarian1_start">Só de pensar nos funcionários que ficaram viciados nessa música… Me dá calafrios.</text>
   <text id="Singingmachine_librarian1_kill">O que há de tão bom, afinal? Só me faz sentir mal…</text>
 
-  <text id="Singingmachine_librarian2_start">É. Eles até jogavam pessoas lá dentro só para ouvir a música.</text>
+  <text id="Singingmachine_librarian2_start">É. Eles jogavam pessoas lá dentro só para ouvir a música.</text>
   <text id="Singingmachine_librarian2_kill">Eles são malucos…</text>
   <!-- Pinocchio -->
   <text id="Pinocchio_roland_start">Eu acho que li sobre isso em algum lugar… Um boneco de madeira com um nariz comprido…</text>
@@ -116,47 +116,59 @@
   <text id="Queenofhatred_librarian2_start">Ela sempre vinha nos ajudar, mas ela era mais problema do que ajuda.</text>
   <text id="Queenofhatred_librarian2_kill">Ela tem seus próprios padrões sobre o que torna um mundo “pacífico”, hein…</text>
   <!-- Knight of Despair -->
-  <text id="KnightOfDespair_Tiphereth_start">Una caballera cuyo orgullo se volvió desesperación…</text>
+  <text id="KnightOfDespair_Tiphereth_start">Uma cavaleira cujo orgulho se transformou em desespero…</text>
   <text id="KnightOfDespair_Tiphereth_die">Eu fui muito… previsível…</text>
-  <text id="KnightOfDespair_Tiphereth_kill">Apuñalándose espadas a ella misma… … Da un poco de lástima.</text>
-  <text id="KnightOfDespair_librarian1_start">Mhm. Ella cayó en desesperación después de darse cuenta que no podía defender lo que juró proteger.</text>
-  <text id="KnightOfDespair_librarian1_kill">Estoy seguro de que no fue su culpa, pero tuvo un final triste.</text>
-  <text id="KnightOfDespair_librarian2_start">Era genial tener su bendición.</text>
-  <text id="KnightOfDespair_librarian2_kill">Una desesperación sin fin causada por fallar al proteger… ¿Eh?</text>
-  <text id="KnightOfDespair_librarian3_start">¿Q-que c… Está esa persona bien…? Se ve terrorífica…</text>
-  <text id="KnightOfDespair_librarian3_kill">… Me da escalofríos…</text>
+  <text id="KnightOfDespair_Tiphereth_kill">Enfiando espadas em si mesma… …É um pouco lamentável.</text>
 
-  <text id="M_Angela_ScorchedGirl_malkuth_start">¡Cuidado! Centrémonos en salvar a Angela.</text>
-  <text id="M_Angela_ScorchedGirl_malkuth_die">… Hablé demasiado y no estuve a la altura una vez más</text>
-  <text id="M_Angela_ScorchedGirl_librarian1_start">Whoa, ¿qué le sucedió para estar así?</text>
-  <text id="M_Angela_ScorchedGirl_librarian2_start">Ella parece un ser completamente distinto… ¿Es posible salvarla?</text>
-  <text id="M_Angela_ScorchedGirl_librarian3_start">¿Qué más podemos hacer? Tenemos que confiar en Malkuth y hacerlo a su manera.</text>
-  <text id="M_Angela_ScorchedGirl_librarian4_start">Bien… Vamos a intentarlo. ¿Están todos listos?</text>
-  <text id="M_Angela_Teddy_malkuth_start">¿Recuerdan lo básico? ¡Hagámoslo sin dudar!</text>
-  <text id="M_Angela_Teddy_malkuth_die">… Hablé demasiado y no estuve a la altura una vez más</text>
-  <text id="M_Angela_Teddy_librarian1_start">Esta vez… Se ve como un oso de peluche.</text>
-  <text id="M_Angela_Teddy_librarian2_start">Esto era ansia por afecto.</text>
-  <text id="M_Angela_Teddy_librarian3_start">No puedo creer que la señorita Angela esté tomando… una forma como esa.</text>
-  <text id="M_Angela_Teddy_librarian4_start">No sé qué está pasando… Pero mantengámonos alerta.</text>
-  <text id="M_Angela_Fairy_malkuth_start">¡Está bien! Angela volverá a la normalidad si la desatamos.</text>
-  <text id="M_Angela_Fairy_malkuth_die">… Hablé demasiado y no estuve a la altura una vez más</text>
-  <text id="M_Angela_Fairy_librarian1_start">U-un segundo. ¿No vamos a ser mordidos como entonces, verdad?</text>
-  <text id="M_Angela_Fairy_librarian2_start">Me asusta… Me da miedo pensar que ella lo comerá todo…</text>
-  <text id="M_Angela_Fairy_librarian3_start">Okay… ¿Ella volverá a la normalidad si seguimos?</text>
-  <text id="M_Angela_Fairy_librarian4_start">En cualquier caso… ¿supongo que sí?</text>
-  <text id="M_Angela_QueenBee_malkuth_start">Tenemos que tener un mejor enfoque.</text>
-  <text id="M_Angela_QueenBee_malkuth_die">… Hablé demasiado y no estuve a la altura una vez más</text>
-  <text id="M_Angela_QueenBee_librarian1_start">Pelea tras pelea… Me estoy cansando.</text>
-  <text id="M_Angela_QueenBee_librarian2_start">¿Cuánto ha reprimido ella sola…?</text>
-  <text id="M_Angela_QueenBee_librarian3_start">Sigamos por un poco más.</text>
-  <text id="M_Angela_QueenBee_librarian4_start">Ella debió pasar por muchas cosas de las que no sabemos nada…</text>
-  <text id="M_Angela_SnowWhite_malkuth_start">Pienso que nos acercamos al final. ¡Todos, aguanten un poco más!</text>
-  <text id="M_Angela_SnowWhite_malkuth_die">… Hablé demasiado y no estuve a la altura una vez más</text>
-  <text id="M_Angela_SnowWhite_librarian1_start">No sé si pueda aguantar más… Bueno, debería al menos intentarlo.</text>
-  <text id="M_Angela_SnowWhite_librarian2_start">Solíamos tropezar con las enredaderas que plantaba en los pasillos.</text>
-  <text id="M_Angela_SnowWhite_librarian3_start">Está marchita y sin vida; Ya no parece una planta…</text>
-  <text id="M_Angela_SnowWhite_librarian4_start">… Marchita, ¿eh? ¿Quizás es para mostrar la angustia por la que ella ha pasado?</text>
-  
+  <text id="KnightOfDespair_librarian1_start">Mhm. Ela ficou desesperada depois de perceber que não conseguiria manter o que jurou proteger.</text>
+  <text id="KnightOfDespair_librarian1_kill">Tenho certeza de que não foi culpa dela, mas ela teve um final triste.</text>
+
+  <text id="KnightOfDespair_librarian2_start">Era maravilhoso ter a bênção dela.</text>
+  <text id="KnightOfDespair_librarian2_kill">Desespero sem fim causado por fracassar em proteger… Hm.</text>
+
+  <text id="KnightOfDespair_librarian3_start">Hã. Aquela pessoa está bem…? Ela é aterrorizante…</text>
+  <text id="KnightOfDespair_librarian3_kill">…Me deu arrepios…</text>
+  <!-- Floor of History Realization -->
+  <text id="M_Angela_ScorchedGirl_malkuth_start">Cuidado! Vamos nos concentrar em salvar a Angela.</text>
+  <text id="M_Angela_ScorchedGirl_malkuth_die">…Eu prometi muito e entreguei nada, de novo.</text>
+
+  <text id="M_Angela_ScorchedGirl_librarian1_start">Eita, o que aconteceu com ela para se meter numa confusão dessas?</text>
+  <text id="M_Angela_ScorchedGirl_librarian2_start">Ela tá totalmente diferente… É realmente possível salvar ela?</text>
+  <text id="M_Angela_ScorchedGirl_librarian3_start">O que mais podemos fazer? Temos que confiar na Malkuth e fazer do jeito dela.</text>
+  <text id="M_Angela_ScorchedGirl_librarian4_start">Tá… Vamos tentar. Tão pronto?</text>
+
+  <text id="M_Angela_Teddy_malkuth_start">Lembram do básico, pessoal? Vamos fazer isso sem hesitação!</text>
+  <text id="M_Angela_Teddy_malkuth_die">…Eu prometi muito e entreguei nada, de novo.</text>
+
+  <text id="M_Angela_Teddy_librarian1_start">Dessa vez… Parece aquele ursinho de pelúcia.</text>
+  <text id="M_Angela_Teddy_librarian2_start">Ele desejava afeição.</text>
+  <text id="M_Angela_Teddy_librarian3_start">Não acredito que a Dona Angela tá tomando… una forma como essa.</text>
+  <text id="M_Angela_Teddy_librarian4_start">Eu sei lá o que tá rolando, também… Mas vamos ficar atentos.</text>
+
+  <text id="M_Angela_Fairy_malkuth_start">Tá tudo bem! A Angela vai voltar ao normal se a desenrolarmos passo a passo.</text>
+  <text id="M_Angela_Fairy_malkuth_die">…Eu prometi muito e entreguei nada, de novo.</text>
+
+  <text id="M_Angela_Fairy_librarian1_start">P-Peraí. Não vamos ser mordidos que nem antes, né?</text>
+  <text id="M_Angela_Fairy_librarian2_start">Isso é assustador… Me dá arrepios pensar que ela vai comer tudo…</text>
+  <text id="M_Angela_Fairy_librarian3_start">Okay… Ela vai voltar ao normal se continuarmos com isso?</text>
+  <text id="M_Angela_Fairy_librarian4_start">De qualquer maneira… Eu acho que sim?</text>
+
+  <text id="M_Angela_QueenBee_malkuth_start">Precisamos adotar uma abordagem mais ousada.</text>
+  <text id="M_Angela_QueenBee_malkuth_die">…Eu prometi muito e entreguei nada, de novo.</text>
+
+  <text id="M_Angela_QueenBee_librarian1_start">Luta atrás de luta… Tô começando a cansar.</text>
+  <text id="M_Angela_QueenBee_librarian2_start">Mas quanto que ela engarrafou…?</text>
+  <text id="M_Angela_QueenBee_librarian3_start">Vamos aguentar só mais um pouco.</text>
+  <text id="M_Angela_QueenBee_librarian4_start">Deve ter havido algumas circunstâncias sérias que ela passou que não sabíamos…</text>
+
+  <text id="M_Angela_SnowWhite_malkuth_start">Acho que estamos chegando perto do fim. Aguentem firme, pessoal!</text>
+  <text id="M_Angela_SnowWhite_malkuth_die">…Eu prometi muito e entreguei nada, de novo.</text>
+
+  <text id="M_Angela_SnowWhite_librarian1_start">Não tenho certeza se aguento mais… Bem, eu deveria pelo menos tentar.</text>
+  <text id="M_Angela_SnowWhite_librarian2_start">Costumávamos tropeçar nas vinhas que aquela coisa plantava nos corredores.</text>
+  <text id="M_Angela_SnowWhite_librarian3_start">Está murcho e sem vida; não parece mais uma planta…</text>
+  <text id="M_Angela_SnowWhite_librarian4_start">…Murchou, né. Talvez seja para mostrar a angústia pela qual ela passou?</text>
+  <!-- Queen Bee -->
   <text id="QueenBee_Malkuth_start">¡Tengan cuidado, no inhalen las esporas!</text>
   <text id="QueenBee_Malkuth_die">¿Talvez eu estava muito entusiasmada…?</text>
   <text id="QueenBee_Malkuth_kill">No tuvimos otra elección que romperla…</text>
