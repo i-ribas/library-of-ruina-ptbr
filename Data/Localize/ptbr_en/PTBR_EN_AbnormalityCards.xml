@@ -701,16 +701,16 @@ Ganha 6 'Roupa de Urtiga', que concede Proteção igual a sua quantidade no come
   <Sephirah SephirahType="Netzach">
     <AbnormalityCard ID="UniverseZogak_Echo">
       <Abnormality>Fragmento do Universo</Abnormality>
-      <CardName>Ecos del más allá</CardName>
+      <CardName>Ecos do Além</CardName>
       <AbilityDesc>[Todos os Personagens]
-Haz 5-10 de daño de aturdimiento a todos los enemigos. Todos os Aliados recuperan 5-10 de resistencia al aturdimiento.</AbilityDesc>
-      <FlaborText>Tú ves una canción frente tuyo. Está acercándose, volviéndose más colorido por el segundo.</FlaborText>
+Causa 5-10 de Dano de Atordoamento a todos os inimigos. Aliados recuperam 5-10 de Resistência de Atordoamento.</AbilityDesc>
+      <FlaborText>Você vê a canção na sua frente. Está se aproximando, ficando mais colorida a cada segundo</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Cantar. Actuación. Humano. Canción. Oreja. Escuchar.</Dialogue>
-        <Dialogue ID="2">Cantos. Nervios. Centrarse. Momento. Ver. Existir.</Dialogue>
-        <Dialogue ID="3">Ojo. Cerrado. Sentir. Grandeza. Venir. Felicidad. Más allá.</Dialogue>
-        <Dialogue ID="4">Entiendo. Perfección. Momento. Saber. Conocimiento. Nuestro. Significado. Entregar.</Dialogue>
-        <Dialogue ID="5">Nosotros. Juntos. Canto. Canción. Iluminación.</Dialogue>
+        <Dialogue ID="1">Cante. Performe. Humano. Canção. Orelha. Ouvir.</Dialogue>
+        <Dialogue ID="2">Cantos. Nervos. Foco. Movimento. Ver. Existir.</Dialogue>
+        <Dialogue ID="3">Olhos. Fechar. Sentir. Grandeza. Venha. Felicidade. Além.</Dialogue>
+        <Dialogue ID="4">Entender. Perfeição. Movimentar. Conhecer. Conhecimento. Nosso. Sentido. Entregar.</Dialogue>
+        <Dialogue ID="5">Fazer. Juntos. Cântico. Canção. Iluminação.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -718,28 +718,28 @@ Haz 5-10 de daño de aturdimiento a todos los enemigos. Todos os Aliados recuper
       <Abnormality>Fragmento do Universo</Abnormality>
       <CardName>Tentáculos</CardName>
       <AbilityDesc>[Aliado Único]
-En un ataque perforante exitoso, reduce la resistencia al aturdimiento máxima del objetivo en 5%. (Hasta 50%, excluye ataques en masa)</AbilityDesc>
-      <FlaborText>El momento en que sus tentáculos te atraviesan, esto drenará todo el interés en la vida fuera de ti.</FlaborText>
+Em um ataque Perfurante bem sucedido, reduz a Resistência de Atordoamento máxima do alvo em 5% (Max 50%, Excluí Ataques em Massa )</AbilityDesc>
+      <FlaborText>No momento em que seus tentáculos te atravessarem, ele vai drenar todo o interesse pela vida que você está vivendo agora.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Negativo. Ataque. Venir. Ayuda. Dar.</Dialogue>
-        <Dialogue ID="2">Conocimiento. Nuestro. Simple. Dar. Entregar. Ninguno.</Dialogue>
-        <Dialogue ID="3">Humano. Ataque. Yo. Proteger. Junto. Ataque.</Dialogue>
+        <Dialogue ID="1">Negativo. Ataquar. Venha. Ajudar. Dar.</Dialogue>
+        <Dialogue ID="2">Conhecimento. Nosso. Simples. Transmitir. Nenhum.</Dialogue>
+        <Dialogue ID="3">Humano. Ataque. Eu. Proteger. Junto. Atacar.</Dialogue>
         <Dialogue ID="4">Ataque. Pronto. Atravesar.</Dialogue>
-        <Dialogue ID="5">Humano. Ataque. Alma. Desaparecer. Ido. Querer.</Dialogue>
+        <Dialogue ID="5">Humano. Ataqque. Alma. Desaparecer. Embora. Querer.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="UniverseZogak_Sing">
       <Abnormality>Fragmento do Universo</Abnormality>
-      <CardName>Incomprensible</CardName>
+      <CardName>Incompreensível</CardName>
       <AbilityDesc>[Aliado Único]
-En un ataque de un solo-lado, inflige 1 de Endeble y Desarmar la siguiente escena con una probabilidad del 50%. 
-La probabilidad incrementa en 10% por cada ataque exitoso. (Tres veces por encuentro, excluye ataques en masa)</AbilityDesc>
-      <FlaborText>Eventualmente, él tuvo éxito al entrar en el dominio de ‘Fragmento do Universo’. Sin embargo, estaba claro que su pequeño cerebro no podría resistirlo.</FlaborText>
+Em um ataque unilateral, tem 50% de chance de infligir 1 de Fraqueza e 1 Desarme. 
+A chance aumenta em 10% para cada ataque bem sucedido. (Três vezes por ataque, Excluí Ataques em Massa)</AbilityDesc>
+      <FlaborText>Eventualmente, ele foi bem sucedido em entrar no domínio do ‘Fragmento do Universo’. Porém, era óbvio que seu cérebro pequeno não conseguia aguentar .</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Entiendo. Tú. Juntos. Humano. Yo.</Dialogue>
-        <Dialogue ID="2">Quiero. Entiendo. Yo. Tú, Estudiar.</Dialogue>
-        <Dialogue ID="3">Yo. Contar. Historia. Tú, Entender. Intentar.</Dialogue>
+        <Dialogue ID="1">Entender. Você. Juntos. Humano. Eu.</Dialogue>
+        <Dialogue ID="2">Querer. Entender. Eu. Você. Estudar.</Dialogue>
+        <Dialogue ID="3">Eu. Contar. História. Você. Entender. Tentar.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -747,14 +747,14 @@ La probabilidad incrementa en 10% por cada ataque exitoso. (Tres veces por encue
       <Abnormality>Criança da Galáxia</Abnormality>
       <CardName>Lágrima</CardName>
       <AbilityDesc>[Aliado Único]
-Poder del dado +1. Al morir, Todos os Personagens reciben 50% del HP máximo como daño. (Máx. 60)</AbilityDesc>
-      <FlaborText>Yo escucho sus susurros y respiración. Una oscuridad completamente negra sigue… justo como la noche que lo conocí…</FlaborText>
+Poder de todos os dados +1. Ao morrer, todos os personagens recebem 50% da vida máxima desse bibliotecário como dano. (Máx. 60)</AbilityDesc>
+      <FlaborText>Eu escuto seus sussurros e respiração. Escuridão absoluta então segue… Aassim como a noite que eu o conheci.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Camina a través de la Vía Láctea conmigo.</Dialogue>
-        <Dialogue ID="2">Te volverás un Token y te unirás a mí.</Dialogue>
-        <Dialogue ID="3">Vamos de vuelta, justo como esa noche.</Dialogue>
-        <Dialogue ID="4">Estoy feliz de conocerte.</Dialogue>
-        <Dialogue ID="5">Si me encuentras llorando, limpia las lágrimas de mí.</Dialogue>
+        <Dialogue ID="1">Caminhe pela Via Láctea comigo.</Dialogue>
+        <Dialogue ID="2">Você vai se tornar uma pedrinha e se juntar a mim.</Dialogue>
+        <Dialogue ID="3">Vamos voltar, como se fosse aquela noite.</Dialogue>
+        <Dialogue ID="4">Estou feliz em te conhecer.</Dialogue>
+        <Dialogue ID="5">Se você me ver chorando, limpe as minhas lágrimas.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
