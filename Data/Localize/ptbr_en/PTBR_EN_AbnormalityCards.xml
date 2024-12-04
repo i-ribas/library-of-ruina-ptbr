@@ -168,7 +168,7 @@ Ao ser golpeado, inflige 1-3 de Queimadura e 1-3 de Sangramento ao atacante na p
 O inimigo que causou mais dano ao biblioteário selecionado é marcado. Outros aliados causam 2-4 a mais de dano ao alvo marcado com seus ataques</AbilityDesc>
       <FlaborText>Elas mostram apenas dois comportamentos: Entregar nutrientes à Rainha, e proliferar.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Minhas abelhas. É hora de atacar.</Dialogue>
+        <Dialogue ID="1">Minhas abelhas. É hora de mover.</Dialogue>
         <Dialogue ID="2">Suas asas, pernas e mandíbulas… Coloque cada parte do seu corpo para trabalhar. Antes que eles saqueiem nosso mel.</Dialogue>
         <Dialogue ID="3">Sejam rápidos, meus lacaios. Não podemos desperdiçar um minuto.</Dialogue>
         <Dialogue ID="4">Quem vai lembrar das abelhas que morreram pelo reino…</Dialogue>

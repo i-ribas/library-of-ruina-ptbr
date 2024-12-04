@@ -430,9 +430,9 @@ Quando o Modo Rápido está em "Não", dados serão lançados manualmente.</text
 
 
   <!--8/05-->
-  <text id ="ui_popup_opencomplete_floor">{0} realização completada</text>
-  <text id ="ui_popup_openuncomplete_floor">{0} realização fracassada</text>
-  <text id="ui_library_abilitycontent_17">Agora pode usar Páginas E.G.O.</text>
+  <text id ="ui_popup_opencomplete_floor">Realização do {0} completada</text>
+  <text id ="ui_popup_openuncomplete_floor">Realização do {0} fracassada</text>
+  <text id="ui_library_abilitycontent_17">Agora pode usar Páginas E.G.O</text>
   <text id="ui_library_abilitycontent_18">O Nível de Emoção foi aumentado até o nível {0}.</text>
   <text id="ui_popup_creature_bossbattle_start">Você está preparado para ver o episódio final da história do {0}?</text>
   <text id="ui_getegocard">Página E.G.O Obtida</text>

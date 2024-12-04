@@ -13,7 +13,7 @@
   <text id="BattleUI_Light">Luz</text>
   <text id="BattleUI_Ability">Efeito</text>
   <text id="BattleUI_Passive">Habilidade Passiva</text>
-  <text id="BattleUI_SelectAbnormality">Selecione uma Página de Anormalidade</text>
+  <text id="BattleUI_SelectAbnormality">Selecione Página de Anormalidade</text>
   <text id="BattleUI_Get_Emotion_Positive">Emoção Positiva Acumulada</text>
   <text id="BattleUI_Get_Emotion_Negative">Emoção Negativa Acumulada</text>
   <text id="BattleUI_Quick_Mode">Modo Rápido</text>
