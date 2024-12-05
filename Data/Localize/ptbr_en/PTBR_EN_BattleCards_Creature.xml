@@ -661,7 +661,7 @@
       <Behaviour ID="2">[Al golpear] Inflige 1 de Aroma la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902612">
-      <LocalizedName>Um Rachadura no Coração</LocalizedName>
+      <LocalizedName>Uma Rachadura no Coração</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="1">[Al golpear] La resistencia al daño de aturdimiento del objetivo cambia a "Fatal" por la siguiente escena</Behaviour>
     </BattleCardDesc>
@@ -1045,7 +1045,7 @@
     <Behaviour ID="2">[Al golpear] Recupera 8 de HP; Gana 2 de Sangre la siguiente escena</Behaviour>
   </BattleCardDesc>  
   <BattleCardDesc ID="960435">
-    <LocalizedName>Desejo por Sangre</LocalizedName>
+    <LocalizedName>Desejo por Sangue</LocalizedName>
     <Ability>[Al usar] Todos los aliados ganan 1 de Fuerza la siguiente escena</Ability>
     <Behaviour ID="0">[Al golpear] Inflige 'Miedo al Agua'; inflige 2 de Endeble y Frágil la siguiente escena</Behaviour>
   </BattleCardDesc>  

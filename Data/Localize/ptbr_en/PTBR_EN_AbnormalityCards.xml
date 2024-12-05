@@ -256,7 +256,7 @@ Dados contundentes ganham 1-3 de Poder. Velocidade é fixada em 1.</AbilityDesc>
       <Abnormality>Assassino Abandonado</Abnormality>
       <CardName>Eco Metálico</CardName>
 		<AbilityDesc>[Aliado Único]
-Ao realizar um ataque contundente bem sucedido, inflige 1 Amarrado e 1 Paralisado na próxima Cena (Exclui Ataques em Massa)</AbilityDesc>
+Ao realizar um ataque contundente bem sucedido, inflige 1 Amarrado e 1 Paralisado na próxima Cena (Exclui Ataques Em Massa)</AbilityDesc>
 		<FlaborText>“Minha cabeça… Se tornando metal… As dobras no meu cérebro, sendo achatadas…”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Minha cabeça está ecoando. Eu consigo ouvir o som do metal, claro e barulhento…</Dialogue>
@@ -551,7 +551,7 @@ Todos os Personagens aplicam o dobro de Sangramento.</AbilityDesc>
       <CardName>Machado</CardName>
       <AbilityDesc>[Aliado Único]
 Os dados Cortantes ganham 1-3 de Poder
-Recebe 2-5 de dano de Atordoamento quando um ataqe Cortante não acerta (Exclui Ataques em Massa) </AbilityDesc>
+Recebe 2-5 de dano de Atordoamento quando um ataqe Cortante não acerta (Exclui Ataques Em Massa) </AbilityDesc>
       <FlaborText>Em algum momento, &lt;Censurado&gt; estava usando os saltos, sorrindo de orelha a orelha. Era uh, bem, era bem estranho. Aquilo não era um sorriso. Era…</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Afie o machado de novo e de novo… Para que ele possa corta-los com um golpe só.</Dialogue>
@@ -760,162 +760,162 @@ Poder de todos os dados +1. Ao morrer, todos os personagens recebem 50% da vida 
     
     <AbnormalityCard ID="ChildofGalaxy_Friend">
       <Abnormality>Criança da Galáxia</Abnormality>
-      <CardName>Un símbolo de amistad</CardName>
+      <CardName>Um Símbolo de Amizade</CardName>
       <AbilityDesc>[Todos os Aliados]
-Por 3 escenas, Todos os Aliados recuperan 10% del HP máximo al comienzo de una escena. (Máx. 12)</AbilityDesc>
-      <FlaborText>El Token que cae en tus manos brilla, se sacude, hace cosquillas y eventualmente se vuelve el universo.</FlaborText>
+Por 3 Cenas, Todos os Aliados recuperam 10% do HP máximo no começo da Cena. (Máx. 12)</AbilityDesc>
+      <FlaborText>A pedrinha que caiu nas suas mãos faíscou, balançou, formigou, e eventualmente se tornou o Universo  .</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">No lo pierdas y no se lo des a nadie más.</Dialogue>
-        <Dialogue ID="2">Es mi regalo para celebrar nuestra amistad. Por favor atesóralo.</Dialogue>
-        <Dialogue ID="3">Mientras sigas sosteniéndolo. Yo estaré junto a ti.</Dialogue>
-        <Dialogue ID="4">Tienes que estar a mi lado por siempre, ¿lo prometes? No lo olvides.</Dialogue>
-        <Dialogue ID="5">Si mis amigos se lastimarán… Estaría triste.</Dialogue>
+        <Dialogue ID="1">Não perca, e não dê isso pra ninguém.</Dialogue>
+        <Dialogue ID="2">Esse é meu presente para celebrar nossa amizade. Por favor, cuide dele.</Dialogue>
+        <Dialogue ID="3">Enquanto você estiver segurando isso, eu estarei logo ao seu lado.</Dialogue>
+        <Dialogue ID="4">Você tem que estar do meu lado para sempre, promete? Não esqueça disso.</Dialogue>
+        <Dialogue ID="5">Se meu amigo se machucar… Seria muito triste.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="ChildofGalaxy_Token">
       <Abnormality>Criança da Galáxia</Abnormality>
-      <CardName>Token</CardName>
+      <CardName>Pedrinha</CardName>
       <AbilityDesc>[Aliado Único]
-Al comienzo de cada escena, tres páginas aleatorias en la mano ganan el estado 'Token'. Todos os Aliados
-Recupera 3-7 de HP al usar páginas con el 'Token'.
-Pierde 1-3 de HP al usar páginas sin el 'Token'.</AbilityDesc>
-      <FlaborText>“¿Te gusta? ¿más de lo que te gusto yo? ¿No es obvio? Lo sé todo. Cualquier cosa que hagas, Donde sea que vayas.”</FlaborText>
+No começo de cada Cena, três páginas aleatórias na mão ganham o efeito de 'Pedrinha'. (Excluí páginas com [Ao Jogar] )
+Recupera 3-7 de HP ao usar páginas com 'Pedrinha'.
+Perde 1-3 de HP ao usar páginas sem 'Pedrinha'.</AbilityDesc>
+      <FlaborText>“Você gostou? Mais do que gosta de mim? Não é óbvio? Eu sei de tudo. O que quer que você faça, onde quer que você vá.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¿Por qué visitaste a ese amigo en lugar de a mí… Te gustan más de lo que yo te gusto?</Dialogue>
-        <Dialogue ID="2">Yo te atesoro, pero tú nunca me atesorarás a mí…</Dialogue>
-        <Dialogue ID="3">Cualquier cosa que hagas, donde sea que vayas… Yo estoy siempre mirándolo todo.</Dialogue>
-        <Dialogue ID="4">Si tú no te quedarás a mi lado, entonces no te necesito.</Dialogue>
-        <Dialogue ID="5">Adiós y no vuelvas nunca.</Dialogue>
+        <Dialogue ID="1">Por que você visitou aquele amigo ao invés de mim… Você gosta dele mais do que você gosta de mim?</Dialogue>
+        <Dialogue ID="2">Eu te valorizo, mas você não me valoriza…</Dialogue>
+        <Dialogue ID="3">O que quer que você faça, onde quer que você vá… Eu sempre estou olhando. </Dialogue>
+        <Dialogue ID="4">Se você não vai me dar companhia, então eu não preciso de você.</Dialogue>
+        <Dialogue ID="5">Tchau, e não volte nunca mais.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Porccubus_Thorn">
       <Abnormality>Porccubus</Abnormality>
-      <CardName>Espinas</CardName>
+      <CardName>Espinhos</CardName>
       <AbilityDesc>[Aliado Único]
-En un ataque perforante exitoso, inflige 1 de emoción a un objetivo.
-Contra objetivos con 3+ de 'Emoción', haz 2-7 de daño y daño de aturdimiento adicional, entonces remueve todo la 'Emoción'.(Exclui Ataques Em Massa)</AbilityDesc>
-      <FlaborText>Al comienzo, todo lo que tenía que hacer era ser ligeramente pinchado por una de las espinas. Ahora tengo que frotar todo mi cuerpo para tener el mismo subidón.</FlaborText>
+Em um ataque Perfurante bem sucedido, inflige 1 de 'Emoção'
+Contra inimigos com 3+ 'Emoção' causa +2-7 de Dano e Dano de Atordoamento, então remove todos os acúmulos de 'Emoção' .(Exclui Ataques Em Massa)</AbilityDesc>
+      <FlaborText>No começo, tudo o que eu tinha que fazer era ser picado levemente por um desses espinhos. Agora eu tenho que esfregar meu corpo inteiro nele pra ter a mesma brisa.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Seguro, me inclinaré por ti~ Siéntente libre de darme palmaditas.</Dialogue>
-        <Dialogue ID="2">Al principio da miedo, pero los siguientes pasos no serán para nada difíciles.</Dialogue>
-        <Dialogue ID="3">Ven bajo mío, te liberaré de todo tipo de dolor.</Dialogue>
-        <Dialogue ID="4">¿Solo una pequeña muestra del paraíso no hará daño, verdad?</Dialogue>
-        <Dialogue ID="5">Tengo lástima de los tontos que no conocen esta felicidad~</Dialogue>
+        <Dialogue ID="1">Ok, eu vou me abaixar para você~ Sinta-se livre pra me acariciar.</Dialogue>
+        <Dialogue ID="2">É assustador no começo, mas o próximo passo não é difícil.</Dialogue>
+        <Dialogue ID="3">Vennha até mim. Eu te libertarei de todas as dores.</Dialogue>
+        <Dialogue ID="4">Só um gostinho do paraíso não machuca, certo?</Dialogue>
+        <Dialogue ID="5">Eu tenho pena dos otários que não conhecem essa felicidade~</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Porccubus_Boom">
       <Abnormality>Pórcubo</Abnormality>
-      <CardName>Júbilo</CardName>
+      <CardName>Exaltação</CardName>
       <AbilityDesc>[Aliado Único]
-Poder del dado +1. Reduce la resistencia máxima al aturdimiento en 50%.</AbilityDesc>
-      <FlaborText>Es hora de que mi cabeza estalle. Buen día.</FlaborText>
+Poder de todos os Dados +1. Reduz a Resistência de Atodoamento máxima em 50%.</AbilityDesc>
+      <FlaborText>Hora de Minha Cabeça Estourar. Bom Dia.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Si deseas tener un placer inaguantable, Te romperás eventualmente.</Dialogue>
-        <Dialogue ID="2">Solo te estoy dando sonrisas, tantas que podrías morir riendo~</Dialogue>
-        <Dialogue ID="3">Comenzarás con una y seguirás queriendo más.</Dialogue>
-        <Dialogue ID="4">Tu cabeza pronto se llenará de felicidad, casi tanta para reventar tu cabeza.</Dialogue>
-        <Dialogue ID="5">Una vez has saboreado esta dulzura, no puedes irte.</Dialogue>
+        <Dialogue ID="1">Se você desejar por prazer imensurável, você vai quebrar eventualmente.</Dialogue>
+        <Dialogue ID="2">Só estou te dando risadas, tanto qeu talvez você morra rindo~</Dialogue>
+        <Dialogue ID="3">Você começa com um, e então querendo mais.</Dialogue>
+        <Dialogue ID="4">Sua cabeça ficará cheia de felicidade, quase o bastante para explodi-la.</Dialogue>
+        <Dialogue ID="5">Assim que você provar desse doce, você não pode parar.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Porccubus_Happy">
       <Abnormality>Pórcubo</Abnormality>
-      <CardName>Polvo para reir</CardName>
+      <CardName>Pó do Riso</CardName>
       <AbilityDesc>[Todos os Aliados]
-Al ser golpeado, recupera 2-4 de resistencia al aturdimiento si el personaje no está aturdido.</AbilityDesc>
-      <FlaborText>Cuando el polvo que caía de las espinas se dio a conocer al mundo, las personas podrían hundirse en la intoxicación.</FlaborText>
+Ao ser Golpeado, recupere 2-4 de Resistência de Atordoamento se não estiver Atodoado.</AbilityDesc>
+      <FlaborText>Quando o pó que caiu dos espinhos ficar conhecido pelo mundo, talvez as pessoas afundem para sempre nesse pântano de intoxicação.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Tu cabeza pronto se llenará de felicidad.</Dialogue>
-        <Dialogue ID="2">Caerás enfermo si mantienes tu risa dentro. ¿Por qué no sonríes hasta estés satisfecho?</Dialogue>
-        <Dialogue ID="3">Las risas te hacen feliz~ Las bendiciones te seguirán, ¿lo sabías?</Dialogue>
-        <Dialogue ID="4">Si todos ríen juntos, tienen que estar en un lugar dichoso, ¿verdad?</Dialogue>
-        <Dialogue ID="5">Venga, vamos a reír juntos~ Gira tu boca completamente hacia arriba~</Dialogue>
+        <Dialogue ID="1">Sua cabeça ficará cheia de felicidade.</Dialogue>
+        <Dialogue ID="2">Você vai adoecer se segurar o seu riso. Por que você não ri o quanto seu coração desejar?</Dialogue>
+        <Dialogue ID="3">As risadas te farão feliz~ Uma benção indo até você, você sabe?</Dialogue>
+        <Dialogue ID="4">Se todos rirem juntos, eles estarão em um lugar feliz, certo?</Dialogue>
+        <Dialogue ID="5">Qual é, venha rir junto~ Gire essa boca para cima e sorria~</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
         <AbnormalityCard ID="Alriune_flower">
       <Abnormality>Alriune</Abnormality>
-      <CardName>Pétalos de flores</CardName>
+      <CardName>Pétalas de Flores</CardName>
       <AbilityDesc>[Aliado Único]
-Cada vez que el bibliotecario sufra un daño mayor al 10% de su HP máximo, todos los enemigos recibirán 4-8 de daño de aturdimiento y el bibliotecario recupera 5-10 de HP.</AbilityDesc>
-      <FlaborText>Derramando pétalos de flores en lugar de lágrimas, tú me hablaste. “Nosotras fuimos parte de la tierra una vez, así que te pido que no hables del final aquí y ahora.”</FlaborText>
+Sempre que esse bibliotecário sofrer dano maior que 10% de seu HP máximo, todos os inimigos recebem 2-4 de Dano de Atodoamento, e o bibliotecário recupera 5-10 de HP.</AbilityDesc>
+      <FlaborText>Derramando pétalas ao invés de lágrimas, você falou comigo. “Todos nós já fomos parte da terra uma vez, então eu peço que não fale do fim aqui e agora.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">No tengo ojos, pero puedo verlo todo.</Dialogue>
-        <Dialogue ID="2">Déjanos volver a la tumba con todas esas vidas y alientos.</Dialogue>
-        <Dialogue ID="3">Estas flores floreciendo sin final y ninguna de ellas se marchitan.</Dialogue>
-        <Dialogue ID="4">Estoy agrietada… pero aun así hermosas flores llenan ese lugar.</Dialogue>
+        <Dialogue ID="1">Não tenho olhos, mas eu posso ver tudo.</Dialogue>
+        <Dialogue ID="2">Nos deixe voltar para a cova com todos que vivem e respiram.</Dialogue>
+        <Dialogue ID="3">Essas flores florecerão sem fim, e nenhuma delas irá definhar.</Dialogue>
+        <Dialogue ID="4">Estou rachada… Mas essas lindas flores encherão a rachadura.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Alriune_Bush">
       <Abnormality>Alriune</Abnormality>
-      <CardName>Paso del otoño</CardName>
+      <CardName>Passar do Outono</CardName>
       <AbilityDesc>[Aliado Único]
-Al ser golpeado, inflige 1 de Aroma.
-(Aroma: Al comienzo de una escena, recibe daño de aturdimiento igual a la cantidad de Aroma y reducela a la mitad.)</AbilityDesc>
-      <FlaborText>Llevando la esperanza de regresar al polvo, volverá a la tumba con todo ese deseo de vivir.</FlaborText>
+Ao ser Golpeado, inflige 1 Aroma
+(Aroma: No Começo da Cena, receba Dano de Atordoamento igual a quantidade de Aroma e então reduza os acúmulos pela metade.)</AbilityDesc>
+      <FlaborText>Levando a esperança de voltar ao pó, eu irei voltar a minha cova com todo esse desejo de viver.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Mi expiación terminó con un aliento pesado en el frío.</Dialogue>
-        <Dialogue ID="2">Fui abandonada en el bosque oscuro; Mi mente, vida y corazón se marchitaron.</Dialogue>
-        <Dialogue ID="3">Nací en la tierra, así que anhelo regresar a ella.</Dialogue>
-        <Dialogue ID="4">Por favor no pienses en esto como nuestro último momento.</Dialogue>
+        <Dialogue ID="1">Minha reparação terminou com um suspiro pesado no frio.</Dialogue>
+        <Dialogue ID="2">Fui abandonada em uma floresta escura; Minha mente, vida e coração definharam.</Dialogue>
+        <Dialogue ID="3">Nasci da terra, então eu quero retornar a ela.</Dialogue>
+        <Dialogue ID="4">Por favor não pense nisso como nossos últimos momentos.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Alriune_Doll">
       <Abnormality>Alriune</Abnormality>
-      <CardName>Génesis de primavera</CardName>
+      <CardName>Gênesis da Primavera</CardName>
       <AbilityDesc>[Aliado Único]
-Cada escena, un 'Pétalo' se añade a un enemigo aleatorio.
-Después que un personaje con 'Pétalo' reciba 4 golpes en una sola escena, Todos os Personagens reciben 3-7 de daño de aturdimiento y el bibliotecario no se puede seleccionar en la siguiente escena.</AbilityDesc>
-      <FlaborText>Flores que no se marchitan florecieron violentamente.</FlaborText>
+A cada Cena, uma 'Pétala' se prende a um inimigo aleatório.
+Depois que o personagem com 'Pétala' recever 4 golpes em uma única Cena, Todos os Personagens recebem 3-7 de Dano de Atordoamento e o bibliotecário se torna intangível pela próxima Cena.</AbilityDesc>
+      <FlaborText>Flores que não definham florecem violentamente.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¿Tú eres quien me concederá mi deseo?</Dialogue>
-        <Dialogue ID="2">Con flores que no se marchitan comenzó mi magnífico descenso a la desesperación.</Dialogue>
-        <Dialogue ID="3">Primavera es una temporada cuando los pecados cometidos son perdonados otra vez.</Dialogue>
-        <Dialogue ID="4">Solo seguimos en este mundo por un momento fugaz.</Dialogue>
+        <Dialogue ID="1">Você que concederá meu desejo?</Dialogue>
+        <Dialogue ID="2">Com flores qeu não definham comecei minha magnífica descida para o desespero.</Dialogue>
+        <Dialogue ID="3">Primavera é uma estação onde pecados são cometidos de novo e perdoados novamente.</Dialogue>
+        <Dialogue ID="4">Só estamos nesse mundo por um momento fugaz.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="SilentOrchestra_Music">
-      <Abnormality>La orquesta silenciosa</Abnormality>
-      <CardName>Actuación eterna</CardName>
+      <Abnormality>A Orquestra Silenciosa</Abnormality>
+      <CardName>Performance Eterna</CardName>
       <AbilityDesc>[Aliado Único]
-Añade una página de 'Actuación eterna' a la mano: ‘Cuesta 3 - [Al usar] Termina la escena. Al comienzo de la siguiente escena, el HP y resistencia al aturdimiento del usuario regresan a los valores que tenían cuando adquirieron esta página y restaura toda la Luz.’
-Esta página es también incluida en el mazo al comienzo de los siguientes actos.</AbilityDesc>
-      <FlaborText>La actuación no termina y Da Capo. Y, Da capo al Fine</FlaborText>
+Adiciona uma 'Performance Eterna' à mão: ‘Custo 3 - [Uso Único][Ao Usar] Termina Cena. Ao começo da próxima Cena, o HP e Resistência de Atodoamento do biblitotecário selecionado retornam aos valores que estavam quando adiquiriu essa página, e restaura completamente a Luz.’
+Esta página também estará no baralho no começo dos Atos subsequentes.</AbilityDesc>
+      <FlaborText>A performance não termina. E Da Capo. E, Da capo al Fine</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">De lo roto y la ruina, Yo comienzo la actuación más hermosa</Dialogue>
-        <Dialogue ID="2">Un solo intérprete de pie en medio de una partitura silenciosa. Él crea sonidos donde no hay ninguno.</Dialogue>
-        <Dialogue ID="3">Incluso si mis manos tuvieran que detenerse, surgiría de tu mente.</Dialogue>
-        <Dialogue ID="4">Este escenario deslumbrante estará listo de nuevo pronto.</Dialogue>
+        <Dialogue ID="1">De quebras e ruiná, eu começo a performance mais bela</Dialogue>
+        <Dialogue ID="2">Um único performista parado na frente de uma banda silenciosa. Ele cria sons onde não há nenhum.</Dialogue>
+        <Dialogue ID="3">Mesmo que minhas mãos parem, ela se levantaria de minha mente.</Dialogue>
+        <Dialogue ID="4">Esse estágio de entrada cegante estará, em breve, pronta novamente.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
  <AbnormalityCard ID="SilentOrchestra_Affect">
-      <Abnormality>La orquesta silenciosa</Abnormality>
-      <CardName>Adoración ferviente</CardName>
+      <Abnormality>A Orquestra Silenciosa</Abnormality>
+      <CardName>Adoração Fervenete</CardName>
       <AbilityDesc>[Aliado Único]
-Todos los enemigos eligen a un objetivo aleatorio incluyendo sus propios aliados por 2 escenas. Los enemigos hacen +2-4 de daño de daño mientras este efecto dure.</AbilityDesc>
-      <FlaborText>La orquesta da ímpetu a la música, llevando a todo el apartamento a su muerte. Cuando todos los artistas se juntan, la música que nadie puede oír, pero todos pueden escuchar comienza.</FlaborText>
+Todos os inimigos miram em personagens aleatórios, incluindo os próprios aliados, por duas Cenas. Inimigos causam +2-4 de dano com ataques enquanto esse efeito durar.</AbilityDesc>
+      <FlaborText>A Orquestra da ímpeto para a música, trazendo o departamento inteiro a sua destruição. Quando todos os performistas se juntara, a música que ninguém podia ouvir mas todos podiam escutar, começa.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">La música que nadie puede oír, pero todos pueden escuchar…</Dialogue>
-        <Dialogue ID="2">A la audiencia que irá a sus asientos para escuchar una actuación silenciosa.</Dialogue>
-        <Dialogue ID="3">La tonada impregna a la música y la música impregna a la gente.</Dialogue>
-        <Dialogue ID="4">No te encierres, abre tus ojos para contemplar la música gloriosa.</Dialogue>
+        <Dialogue ID="1">A música que ninguém podia ouvir mas todos podiam escutar…</Dialogue>
+        <Dialogue ID="2">Para a audiência que deve andar até suas cadeiras ao ouvir a performance engasgada.</Dialogue>
+        <Dialogue ID="3">O tom permeia a música, e música permeia pessoas.</Dialogue>
+        <Dialogue ID="4">Não se prenda, abra seus olhos e contemple música gloriosa.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="SilentOrchestra_Finale">
-      <Abnormality>La orquesta silenciosa</Abnormality>
-      <CardName>The finale</CardName>
+      <Abnormality>A Orquestra Silenciosa</Abnormality>
+      <CardName>The Finale</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando el bibliotecario seleccionado deja a un enemigo aturdido, todos los enemigos pierden 1-6 de Luz al comienzo de la siguiente escena.</AbilityDesc>
-      <FlaborText>“La música atravesará todo tu ser.”</FlaborText>
+Quando o bibliotecário selecionado Atodoa um inimigo, todos os inimigos perdem 1-6 de Luz no começo da próxima Cena.</AbilityDesc>
+      <FlaborText>“A música atravessará todo o seu ser.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">La música atravesará todo tu ser.</Dialogue>
-        <Dialogue ID="2">Si puedes mantenerte de pie con tus dos piernas, entonces te enviaré mis elogios.</Dialogue>
-        <Dialogue ID="3">Un aplauso sin fin, para inspirar al Director para levantar su batuta una vez más.</Dialogue>
-        <Dialogue ID="4">La hermosa melodía rodea al escenario vacío.</Dialogue>
+        <Dialogue ID="1">A música atravessará todo o seu ser.</Dialogue>
+        <Dialogue ID="2">Se você conseguir levantar com suas duas pernas, esteja disposto a mandar seus aplausos.</Dialogue>
+        <Dialogue ID="3">Aplausos sem fim, para inspirar o condutor a levantar seu bastão uma vez mais.</Dialogue>
+        <Dialogue ID="4">A bela melodia circula o estágio vazio.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
