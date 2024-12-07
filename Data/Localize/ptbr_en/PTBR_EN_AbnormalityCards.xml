@@ -151,7 +151,7 @@ O bibliotecário escolhido recupera a mesma quantidade de HP que os outros perde
       <Abnormality>Abelha Rainha</Abnormality>
       <CardName>Esporos</CardName>
       <AbilityDesc>[Aliado Único]
-Ao ser golpeado, inflige 1-3 de Queimadura e 1-3 de Sangramento ao atacante na próxima cena.</AbilityDesc>
+Ao ser Golpeado, inflige 1-3 de Queimadura e 1-3 de Sangramento ao atacante na próxima cena.</AbilityDesc>
       <FlaborText>Foi confirmado que os esporos carregam ovos de zangões que eclodem dentro de um hospedeiro vivo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Mesmo se um zangão morrer, eu sempre posso fazer mais para substituir.</Dialogue>
@@ -209,7 +209,7 @@ Dados Perfurantes ganham 1-2 de Poder atacando esse inimigo.</AbilityDesc>
       <Abnormality>Maçã da Branca de Neve</Abnormality>
       <CardName>Barreira de Espinhos</CardName>
       <AbilityDesc>[Aliado Único]
-Ao ser golpeado, inflige 2-8 de dano e 1-3 de Amarrado ao atacante.
+Ao ser Golpeado, inflige 2-8 de dano e 1-3 de Amarrado ao atacante.
 Se 3 de Amarrado foi infligido, recupere HP igual a quantidade de dano causado por esse efeito.</AbilityDesc>
       <FlaborText>A maçã que caiu das mãos da Branca de Neve depois de uma única mordida nunca poderia ser feliz. 
       A maçã, cheia de solidão e ódio pela princesa, esperou pelo dia que iria apodrecer e voltar à terra.</FlaborText>
@@ -256,7 +256,7 @@ Dados contundentes ganham 1-3 de Poder. Velocidade é fixada em 1.</AbilityDesc>
       <Abnormality>Assassino Abandonado</Abnormality>
       <CardName>Eco Metálico</CardName>
 		<AbilityDesc>[Aliado Único]
-Ao realizar um ataque contundente bem sucedido, inflige 1 Amarrado e 1 Paralisado na próxima Cena (Exclui Ataques Em Massa)</AbilityDesc>
+Ao realizar um ataque contundente bem sucedido, inflige 1 Amarrado e 1 Paralisado na próxima Cena (Exclui Ataques em Massa)</AbilityDesc>
 		<FlaborText>“Minha cabeça… Se tornando metal… As dobras no meu cérebro, sendo achatadas…”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Minha cabeça está ecoando. Eu consigo ouvir o som do metal, claro e barulhento…</Dialogue>
@@ -551,7 +551,7 @@ Todos os Personagens aplicam o dobro de Sangramento.</AbilityDesc>
       <CardName>Machado</CardName>
       <AbilityDesc>[Aliado Único]
 Os dados Cortantes ganham 1-3 de Poder
-Recebe 2-5 de dano de Atordoamento quando um ataqe Cortante não acerta (Exclui Ataques Em Massa) </AbilityDesc>
+Recebe 2-5 de dano de Atordoamento quando um ataqe Cortante não acerta (Exclui Ataques em Massa) </AbilityDesc>
       <FlaborText>Em algum momento, &lt;Censurado&gt; estava usando os saltos, sorrindo de orelha a orelha. Era uh, bem, era bem estranho. Aquilo não era um sorriso. Era…</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Afie o machado de novo e de novo… Para que ele possa corta-los com um golpe só.</Dialogue>
@@ -564,7 +564,7 @@ Recebe 2-5 de dano de Atordoamento quando um ataqe Cortante não acerta (Exclui 
       <Abnormality>Casulo Aracnídeo</Abnormality>
       <CardName>Casulo</CardName>
       <AbilityDesc>[Aliado Único]
-Ao golpear, se o dado rolou seu valor máximo: Inflige 1-2 de Paralisia, Amarrado e Frágil na próxima cena. (Exclui Ataques Em Massa)</AbilityDesc>
+Ao golpear, se o dado rolou seu valor máximo: Inflige 1-2 de Paralisia, Amarrado e Frágil na próxima cena. (Exclui Ataques em Massa)</AbilityDesc>
       <FlaborText>Como esperado, nenhum funcionário se voluntariou para recurerar o corpo do seus colegas encasulados.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Que idiota descuidado pisou no meu bebê?</Dialogue>
@@ -579,7 +579,7 @@ Ao golpear, se o dado rolou seu valor máximo: Inflige 1-2 de Paralisia, Amarrad
       <Abnormality>Casulo Aracnídeo</Abnormality>
       <CardName>Comida</CardName>
       <AbilityDesc>[Aliado Único]
-Ao golpear um inimigo atordoado, Todos os Aliados recuperam 2-4 de HP. (Exclui Ataques Em Massa)</AbilityDesc>
+Ao golpear um inimigo atordoado, Todos os Aliados recuperam 2-4 de HP. (Exclui Ataques em Massa)</AbilityDesc>
       <FlaborText>Peter foi arrastado para o teto apenas por um momento. O funcionário encasulado pendurado no teto da Cela de Contenção será uma refeição saudável para as ninfas da aranha.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Alegre-se. Você trará alegria às minhas crianças.</Dialogue>
@@ -703,7 +703,7 @@ Ganha 6 'Roupa de Urtiga', que concede Proteção igual a sua quantidade no come
       <Abnormality>Fragmento do Universo</Abnormality>
       <CardName>Ecos do Além</CardName>
       <AbilityDesc>[Todos os Personagens]
-Causa 5-10 de Dano de Atordoamento a todos os inimigos. Aliados recuperam 5-10 de Resistência de Atordoamento.</AbilityDesc>
+Causa 5-10 de Dano de Atordoamento a todos os inimigos. Aliados recuperam 5-10 de Resistência à Atodoamento.</AbilityDesc>
       <FlaborText>Você vê a canção na sua frente. Está se aproximando, ficando mais colorida a cada segundo</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Cante. Performe. Humano. Canção. Orelha. Ouvir.</Dialogue>
@@ -718,14 +718,14 @@ Causa 5-10 de Dano de Atordoamento a todos os inimigos. Aliados recuperam 5-10 d
       <Abnormality>Fragmento do Universo</Abnormality>
       <CardName>Tentáculos</CardName>
       <AbilityDesc>[Aliado Único]
-Em um ataque Perfurante bem sucedido, reduz a Resistência de Atordoamento máxima do alvo em 5% (Max 50%, Excluí Ataques em Massa )</AbilityDesc>
+Em um ataque Perfurante bem sucedido, reduz a Resistência à Atodoamento máxima do alvo em 5% (Max 50%, Exclui Ataques em Massa )</AbilityDesc>
       <FlaborText>No momento em que seus tentáculos te atravessarem, ele vai drenar todo o interesse pela vida que você está vivendo agora.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Negativo. Ataquar. Venha. Ajudar. Dar.</Dialogue>
+        <Dialogue ID="1">Negativo. Atacar. Venha. Ajuda. Dar.</Dialogue>
         <Dialogue ID="2">Conhecimento. Nosso. Simples. Transmitir. Nenhum.</Dialogue>
         <Dialogue ID="3">Humano. Ataque. Eu. Proteger. Junto. Atacar.</Dialogue>
-        <Dialogue ID="4">Ataque. Pronto. Atravesar.</Dialogue>
-        <Dialogue ID="5">Humano. Ataqque. Alma. Desaparecer. Embora. Querer.</Dialogue>
+        <Dialogue ID="4">Atacar. Rápido. Empalar.</Dialogue>
+        <Dialogue ID="5">Humano. Atacar. Alma. Desaparecer. Embora. Querer.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -734,7 +734,7 @@ Em um ataque Perfurante bem sucedido, reduz a Resistência de Atordoamento máxi
       <CardName>Incompreensível</CardName>
       <AbilityDesc>[Aliado Único]
 Em um ataque unilateral, tem 50% de chance de infligir 1 de Fraqueza e 1 Desarme. 
-A chance aumenta em 10% para cada ataque bem sucedido. (Três vezes por ataque, Excluí Ataques em Massa)</AbilityDesc>
+A chance aumenta em 10% para cada ataque bem sucedido. (Três vezes por batalha, Exclui Ataques em Massa)</AbilityDesc>
       <FlaborText>Eventualmente, ele foi bem sucedido em entrar no domínio do ‘Fragmento do Universo’. Porém, era óbvio que seu cérebro pequeno não conseguia aguentar .</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Entender. Você. Juntos. Humano. Eu.</Dialogue>
@@ -763,7 +763,7 @@ Poder de todos os dados +1. Ao morrer, todos os personagens recebem 50% da vida 
       <CardName>Um Símbolo de Amizade</CardName>
       <AbilityDesc>[Todos os Aliados]
 Por 3 Cenas, Todos os Aliados recuperam 10% do HP máximo no começo da Cena. (Máx. 12)</AbilityDesc>
-      <FlaborText>A pedrinha que caiu nas suas mãos faíscou, balançou, formigou, e eventualmente se tornou o Universo  .</FlaborText>
+      <FlaborText>A pedrinha que caiu nas suas mãos faíscou, balançou, formigou, e eventualmente se tornou o Universo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Não perca, e não dê isso pra ninguém.</Dialogue>
         <Dialogue ID="2">Esse é meu presente para celebrar nossa amizade. Por favor, cuide dele.</Dialogue>
@@ -777,9 +777,9 @@ Por 3 Cenas, Todos os Aliados recuperam 10% do HP máximo no começo da Cena. (M
       <Abnormality>Criança da Galáxia</Abnormality>
       <CardName>Pedrinha</CardName>
       <AbilityDesc>[Aliado Único]
-No começo de cada Cena, três páginas aleatórias na mão ganham o efeito de 'Pedrinha'. (Excluí páginas com [Ao Jogar] )
-Recupera 3-7 de HP ao usar páginas com 'Pedrinha'.
-Perde 1-3 de HP ao usar páginas sem 'Pedrinha'.</AbilityDesc>
+No começo de cada Cena, três páginas aleatórias na mão ganham o efeito de 'Pedrinha'. (Exclui páginas [Ao Jogar])
+Recupere 3-7 de HP ao usar páginas com 'Pedrinha'.
+Perca 1-3 de HP ao usar páginas sem 'Pedrinha'.</AbilityDesc>
       <FlaborText>“Você gostou? Mais do que gosta de mim? Não é óbvio? Eu sei de tudo. O que quer que você faça, onde quer que você vá.”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Por que você visitou aquele amigo ao invés de mim… Você gosta dele mais do que você gosta de mim?</Dialogue>
@@ -794,15 +794,15 @@ Perde 1-3 de HP ao usar páginas sem 'Pedrinha'.</AbilityDesc>
       <Abnormality>Porccubus</Abnormality>
       <CardName>Espinhos</CardName>
       <AbilityDesc>[Aliado Único]
-Em um ataque Perfurante bem sucedido, inflige 1 de 'Emoção'
-Contra inimigos com 3+ 'Emoção' causa +2-7 de Dano e Dano de Atordoamento, então remove todos os acúmulos de 'Emoção' .(Exclui Ataques Em Massa)</AbilityDesc>
+Em um ataque Perfurante bem sucedido, inflige 1 de 'Euforia'
+Contra inimigos com 3+ 'Euforia' causa +2-7 de Dano e Dano de Atordoamento, então remove todos os acúmulos de 'Euforia'. (Exclui Ataques em Massa)</AbilityDesc>
       <FlaborText>No começo, tudo o que eu tinha que fazer era ser picado levemente por um desses espinhos. Agora eu tenho que esfregar meu corpo inteiro nele pra ter a mesma brisa.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Ok, eu vou me abaixar para você~ Sinta-se livre pra me acariciar.</Dialogue>
+        <Dialogue ID="1">Claro, eu vou me abaixar para você~ Sinta-se livre pra me acariciar.</Dialogue>
         <Dialogue ID="2">É assustador no começo, mas o próximo passo não é difícil.</Dialogue>
-        <Dialogue ID="3">Vennha até mim. Eu te libertarei de todas as dores.</Dialogue>
+        <Dialogue ID="3">Venha aqui. Eu te libertarei de todas as dores.</Dialogue>
         <Dialogue ID="4">Só um gostinho do paraíso não machuca, certo?</Dialogue>
-        <Dialogue ID="5">Eu tenho pena dos otários que não conhecem essa felicidade~</Dialogue>
+        <Dialogue ID="5">Tenho pena dos otários que não conhecem essa felicidade~</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -810,7 +810,7 @@ Contra inimigos com 3+ 'Emoção' causa +2-7 de Dano e Dano de Atordoamento, ent
       <Abnormality>Pórcubo</Abnormality>
       <CardName>Exaltação</CardName>
       <AbilityDesc>[Aliado Único]
-Poder de todos os Dados +1. Reduz a Resistência de Atodoamento máxima em 50%.</AbilityDesc>
+Poder de todos os Dados +1. Reduz a Resistência de Atodoamento Máxima em 50%.</AbilityDesc>
       <FlaborText>Hora de Minha Cabeça Estourar. Bom Dia.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Se você desejar por prazer imensurável, você vai quebrar eventualmente.</Dialogue>
@@ -825,7 +825,7 @@ Poder de todos os Dados +1. Reduz a Resistência de Atodoamento máxima em 50%.<
       <Abnormality>Pórcubo</Abnormality>
       <CardName>Pó do Riso</CardName>
       <AbilityDesc>[Todos os Aliados]
-Ao ser Golpeado, recupere 2-4 de Resistência de Atordoamento se não estiver Atodoado.</AbilityDesc>
+Ao ser Golpeado, recupere 2-4 de Resistência à Atodoamento se não estiver Atodoado.</AbilityDesc>
       <FlaborText>Quando o pó que caiu dos espinhos ficar conhecido pelo mundo, talvez as pessoas afundem para sempre nesse pântano de intoxicação.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Sua cabeça ficará cheia de felicidade.</Dialogue>
@@ -836,7 +836,7 @@ Ao ser Golpeado, recupere 2-4 de Resistência de Atordoamento se não estiver At
       </Dialogues>
     </AbnormalityCard>
     
-        <AbnormalityCard ID="Alriune_flower">
+    <AbnormalityCard ID="Alriune_flower">
       <Abnormality>Alriune</Abnormality>
       <CardName>Pétalas de Flores</CardName>
       <AbilityDesc>[Aliado Único]
@@ -845,7 +845,7 @@ Sempre que esse bibliotecário sofrer dano maior que 10% de seu HP máximo, todo
       <Dialogues>
         <Dialogue ID="1">Não tenho olhos, mas eu posso ver tudo.</Dialogue>
         <Dialogue ID="2">Nos deixe voltar para a cova com todos que vivem e respiram.</Dialogue>
-        <Dialogue ID="3">Essas flores florecerão sem fim, e nenhuma delas irá definhar.</Dialogue>
+        <Dialogue ID="3">Essas flores florescerão sem fim, e nenhuma delas irá definhar.</Dialogue>
         <Dialogue ID="4">Estou rachada… Mas essas lindas flores encherão a rachadura.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -882,11 +882,11 @@ Depois que o personagem com 'Pétala' recever 4 golpes em uma única Cena, Todos
       <Abnormality>A Orquestra Silenciosa</Abnormality>
       <CardName>Performance Eterna</CardName>
       <AbilityDesc>[Aliado Único]
-Adiciona uma 'Performance Eterna' à mão: ‘Custo 3 - [Uso Único][Ao Usar] Termina Cena. Ao começo da próxima Cena, o HP e Resistência de Atodoamento do biblitotecário selecionado retornam aos valores que estavam quando adiquiriu essa página, e restaura completamente a Luz.’
+Adiciona uma 'Performance Eterna' à mão: ‘Custo 3 - [Uso Único][Ao Usar] Termina a Cena. Ao começo da próxima Cena, o HP e Resistência à Atordoamento do biblitotecário selecionado retornam aos valores que estavam quando adiquiriu essa página, e restaura completamente a Luz.’
 Esta página também estará no baralho no começo dos Atos subsequentes.</AbilityDesc>
       <FlaborText>A performance não termina. E Da Capo. E, Da capo al Fine</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">De quebras e ruiná, eu começo a performance mais bela</Dialogue>
+        <Dialogue ID="1">De quebras e ruína, eu começo a performance mais bela.</Dialogue>
         <Dialogue ID="2">Um único performista parado na frente de uma banda silenciosa. Ele cria sons onde não há nenhum.</Dialogue>
         <Dialogue ID="3">Mesmo que minhas mãos parem, ela se levantaria de minha mente.</Dialogue>
         <Dialogue ID="4">Esse estágio de entrada cegante estará, em breve, pronta novamente.</Dialogue>
@@ -894,7 +894,7 @@ Esta página também estará no baralho no começo dos Atos subsequentes.</Abili
     </AbnormalityCard>
  <AbnormalityCard ID="SilentOrchestra_Affect">
       <Abnormality>A Orquestra Silenciosa</Abnormality>
-      <CardName>Adoração Fervenete</CardName>
+      <CardName>Adoração Fervente</CardName>
       <AbilityDesc>[Aliado Único]
 Todos os inimigos miram em personagens aleatórios, incluindo os próprios aliados, por duas Cenas. Inimigos causam +2-4 de dano com ataques enquanto esse efeito durar.</AbilityDesc>
       <FlaborText>A Orquestra da ímpeto para a música, trazendo o departamento inteiro a sua destruição. Quando todos os performistas se juntara, a música que ninguém podia ouvir mas todos podiam escutar, começa.</FlaborText>
@@ -909,13 +909,13 @@ Todos os inimigos miram em personagens aleatórios, incluindo os próprios aliad
       <Abnormality>A Orquestra Silenciosa</Abnormality>
       <CardName>The Finale</CardName>
       <AbilityDesc>[Aliado Único]
-Quando o bibliotecário selecionado Atodoa um inimigo, todos os inimigos perdem 1-6 de Luz no começo da próxima Cena.</AbilityDesc>
+Quando o bibliotecário selecionado Atordoa um inimigo, todos os inimigos perdem 1-6 de Luz no começo da próxima Cena.</AbilityDesc>
       <FlaborText>“A música atravessará todo o seu ser.”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A música atravessará todo o seu ser.</Dialogue>
         <Dialogue ID="2">Se você conseguir levantar com suas duas pernas, esteja disposto a mandar seus aplausos.</Dialogue>
         <Dialogue ID="3">Aplausos sem fim, para inspirar o condutor a levantar seu bastão uma vez mais.</Dialogue>
-        <Dialogue ID="4">A bela melodia circula o estágio vazio.</Dialogue>
+        <Dialogue ID="4">A bela melodia circula o palco vazio.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
@@ -1519,7 +1519,7 @@ El bibliotecario seleccionado gana la capacidad máxima de Luz, restauración de
       <Abnormality>Nosferatu</Abnormality>
       <CardName>Miedo al agua</CardName>
       <AbilityDesc>[Aliado Único]
-Al golpear, inflige de 1 Sangrado la siguiente escena y gana 1 de Sangre.(Exclui Ataques Em Massa)
+Al golpear, inflige de 1 Sangrado la siguiente escena y gana 1 de Sangre.(Exclui Ataques em Massa)
 La 'Sangre' da varios efectos dependiento de la cantidad, tales como incrementar el daño del ataque al coste de HP, recibiendo daño de aturdimiento al comienzo de una escena y otorgando Fuerza.</AbilityDesc>
       <FlaborText>Parece perdido. Estaba buscando algo, pero no sabe lo que quiere encontrar.</FlaborText>
       <Dialogues>
@@ -1546,7 +1546,7 @@ Al derrotar a un enemigo con 'Sangre', Todos os Aliados recuperan 10 HP y el bib
       <Abnormality>Nosferatu</Abnormality>
       <CardName>Vampirismo</CardName>
       <AbilityDesc>[Aliado Único]
-Haz +2-4 de daño y recupera 2-5 de HP al atacar a un enemigo con 'Sangre'.(Exclui Ataques Em Massa)</AbilityDesc>
+Haz +2-4 de daño y recupera 2-5 de HP al atacar a un enemigo con 'Sangre'.(Exclui Ataques em Massa)</AbilityDesc>
       <FlaborText>…Y la sed nunca podría ser verdaderamente saciada.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">¡La muerte tiene una danza macabra con todos! ¡Todos tienen la posibilidad de ser comidos!</Dialogue>
@@ -1618,7 +1618,7 @@ Cuando el bibliotecario utiliza una página, descarta una página aleatoria de l
       <Abnormality>Espantapájaro buscando por sabiduría</Abnormality>
       <CardName>Cosecha</CardName>
       <AbilityDesc>[Aliado Único]
-Después de atacar a un enemigo con una cantidad mayor de resistencia al aturdimiento, haz 2-4 de daño de aturdimiento adicional y recupera 2-5 de resistencia al aturdimiento.(Exclui Ataques Em Massa)</AbilityDesc>
+Después de atacar a un enemigo con una cantidad mayor de resistencia al aturdimiento, haz 2-4 de daño de aturdimiento adicional y recupera 2-5 de resistencia al aturdimiento.(Exclui Ataques em Massa)</AbilityDesc>
       <FlaborText>Se muestra agresivo contra ciertos empleados, intentando tomar sus cerebros. Esos empleados son aquellos que consiguieron un “Excelente” en el examen de inteligencia.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Me siento más listo… Puedo saberlo todo ahora…</Dialogue>
@@ -2024,7 +2024,7 @@ Si los cinco bibliotecarios tiene una página de Anormalidad, también ganan 1-2
       <Abnormality>Ave del apocalipsis</Abnormality>
       <CardName>Paz</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando no hay 'Intrusos' presente, el primer enemigo que el bibliotecario seleccionado ataca es marcado como 'Intruso'.(Exclui Ataques Em Massa)
+Cuando no hay 'Intrusos' presente, el primer enemigo que el bibliotecario seleccionado ataca es marcado como 'Intruso'.(Exclui Ataques em Massa)
 Todos los ataques del 'Intruso' hacen 2-4 menos de daño y daño de aturdimiento; también, el 'Intruso' recibe 1-2 de daño adicional de los ataques.</AbilityDesc>
       <FlaborText>El Pájaro comenzó a deambular por el bosque, buscando por la bestia. Pero no había nada. No había criaturas, no había Sol ni Luna. Todo lo que queda era un Pájaro y el Bosque Oscuro.</FlaborText>
       <Dialogues>
