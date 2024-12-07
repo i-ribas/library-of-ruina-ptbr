@@ -37,11 +37,11 @@
   <text id="Shy_hod_kill">Felizmente consegui lidar com isso sozinha.</text>
 
   <!-- Red Shoes -->
-  <text id="Redshoes_hod_start">Aqueles que viam os sapatos cortavam os tornozelos uns dos outros para usá-los, cegos pelo desejo…</text>
+  <text id="Redshoes_hod_start">Aqueles que viam os saltos cortavam os tornozelos uns dos outros para usá-los, cegos pelo desejo…</text>
   <text id="Redshoes_hod_die">Meu corpo está dormente, o que eu faço…</text>
   <text id="Redshoes_hod_kill">Foi arriscado, mas eu consigo aguentar.</text>
 
-	<text id="Redshoes_librarian_start">Esses sapatos malditos ficavam mais vermelhos com o sangue das pessoas.</text>
+	<text id="Redshoes_librarian_start">Esses saltos malditos ficavam mais vermelhos com o sangue das pessoas.</text>
 	<text id="Redshoes_librarian_kill">Eu quase fiquei encantado por um momento ali. Eu quase enlouqueci.</text>
   <!-- Fragment of the Universe -->
 	<text id="Spacepiece_netzach_start">Os ecos vindos de algum lugar… Ainda não consigo esquecer o zumbido.</text>
@@ -71,7 +71,7 @@
 
   <text id="Spider_librarian1_start">É, nojento. Nunca descia, a menos que alguém machucava seus bebês.</text>
   <text id="Spider_librarian1_kill">Não dê bola. Poderíamos ter sido nós pendurados lá.</text>
-  <text id="Spider_librarian2_start">Eu nunca tinha reparado, pois tinha que tomar cuidado para não pisar nos filhotes, mas cara, que aparência nojenta.</text>
+  <text id="Spider_librarian2_start">Eu nunca reparei, já que eu tinha que tomar cuidado para não pisar nos filhotes, mas cara, que aparência nojenta.</text>
   <text id="Spider_librarian2_kill">…Pensar naqueles casulos ainda me dá arrepios.</text>
   <!-- Porccubus -->
   <text id="Porccubus_netzach_start">Não é tão violento quanto os outros, e ouvi dizer que também pode dar uma felicidade inimaginável.</text>
@@ -116,7 +116,7 @@
   <text id="Queenofhatred_librarian2_start">Ela sempre vinha nos ajudar, mas ela era mais problema do que ajuda.</text>
   <text id="Queenofhatred_librarian2_kill">Ela tem seus próprios padrões sobre o que torna um mundo “pacífico”, hein…</text>
   <!-- Knight of Despair -->
-  <text id="KnightOfDespair_Tiphereth_start">Uma cavaleira cujo orgulho se transformou em desespero…</text>
+  <text id="KnightOfDespair_Tiphereth_start">Uma cavalheira cujo orgulho se transformou em desespero…</text>
   <text id="KnightOfDespair_Tiphereth_die">Eu fui muito… previsível…</text>
   <text id="KnightOfDespair_Tiphereth_kill">Enfiando espadas em si mesma… …É um pouco lamentável.</text>
 
@@ -142,7 +142,7 @@
 
   <text id="M_Angela_Teddy_librarian1_start">Dessa vez… Parece aquele ursinho de pelúcia.</text>
   <text id="M_Angela_Teddy_librarian2_start">Ele desejava afeição.</text>
-  <text id="M_Angela_Teddy_librarian3_start">Não acredito que a Dona Angela tá tomando… una forma como essa.</text>
+  <text id="M_Angela_Teddy_librarian3_start">Não acredito que a Dona Angela tá tomando… uma forma como essa.</text>
   <text id="M_Angela_Teddy_librarian4_start">Eu sei lá o que tá rolando, também… Mas vamos ficar atentos.</text>
 
   <text id="M_Angela_Fairy_malkuth_start">Tá tudo bem! A Angela vai voltar ao normal se a desenrolarmos passo a passo.</text>
@@ -172,21 +172,26 @@
   <text id="QueenBee_Malkuth_start">¡Tengan cuidado, no inhalen las esporas!</text>
   <text id="QueenBee_Malkuth_die">¿Talvez eu estava muito entusiasmada…?</text>
   <text id="QueenBee_Malkuth_kill">No tuvimos otra elección que romperla…</text>
+
   <text id="QueenBee_librarian1_start">Parece que quiera más y más obreras para trabajar con ella.</text>
   <text id="QueenBee_librarian1_kill">Lo siento por destruir tu reino… Era una situación de matar o ser matado.</text>
+
   <text id="QueenBee_librarian2_start">Si esos dientes y mandíbula me atraparán…</text>
   <text id="QueenBee_librarian2_kill">Lo siento, no tenía ganar de convertirme en una abeja obrera…</text>
+
   <text id="QueenBee_librarian3_start">¿Qué quieres decir con ‘esporas’, Señorita Malkuth?</text>
   <text id="QueenBee_librarian3_kill">… Tengo picazón en el cuello.</text>
-  
-  <text id="RedMercenary_Gebura_start">… Cuidado. El Lobo es la única razón de existir para la Caperucita Roja.</text>
+  <!-- Red Riding Hooded Mercenary -->
+  <text id="RedMercenary_Gebura_start">…Cuidado. El Lobo es la única razón de existir para la Caperucita Roja.</text>
   <text id="RedMercenary_Gebura_die">Maldita sea, no esperaba retirarme así…</text>
   <text id="RedMercenary_Gebura_kill">Ella seguía cumpliendo su deber.</text>
+
   <text id="RedMercenary_librarian1_start">Amigo, qué tensión… ¿Qué pasa con esos dos?</text>
   <text id="RedMercenary_librarian1_kill">Quedamos atrapados en un fuego cruzado…</text>
+
   <text id="RedMercenary_librarian2_start">Esta es la razón… por la cual los manteníamos separados a toda costa…</text>
   <text id="RedMercenary_librarian2_kill">Se siente más débil que antes… Pero aún da miedo.</text>
-  
+  <!-- Scarecrow Searching for Wisdom -->
   <text id="Wisdom_Chesed_start">Me lo estás diciendo, amigo~ La sabiduría no puede ser todo en la vida.</text>
   <text id="Wisdom_Chesed_die">Supongo que esto es lo más lejos a lo que puedo llegar…</text>
   <text id="Wisdom_Chesed_kill">… Que lastima~ Después de todo, La sabiduría que tomo no le termino perteneciendo.</text>

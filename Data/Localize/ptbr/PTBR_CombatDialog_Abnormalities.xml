@@ -145,14 +145,14 @@
   <text id="Spider_killbaby_4">Vá em frente, mostre aquela coragem inútil que você teve quando tomou meu filho!</text>
   <text id="Spider_killbaby_5">Uma presa zombando de seu predador… Que patético.</text>
   <!-- Porccubus -->
-  <text id="Porccubus_nomal_1">Venha aqui. Eu vou te libertar de todos os tipos de dor.</text>
+  <text id="Porccubus_nomal_1">Venha aqui. Eu te libertarei de todas as dores.</text>
   <text id="Porccubus_nomal_2">É assustador no começo, mas o próximo passo não será nada difícil.</text>
   <text id="Porccubus_nomal_3">Você não quer sentir a exibição deslumbrante e vibrante de cores?</text>
   <text id="Porccubus_nomal_4">Você não consegue me tocar se estiver tão longe. Chega mais perto.</text>
   <text id="Porccubus_nomal_5">Sua cabeça logo estará cheia de felicidade.</text>
 
-  <text id="Porccubus_happy_1">Só um gostinho do céu não vai fazer mal, né?</text>
-  <text id="Porccubus_happy_2">Tenho pena dos bobos que não conhecem essa felicidade~</text>
+  <text id="Porccubus_happy_1">Só um gostinho do paraíso não vai fazer mal, né?</text>
+  <text id="Porccubus_happy_2">Tenho pena dos otários que não conhecem essa felicidade~</text>
   <text id="Porccubus_happy_3">Assim que você experimentar, você não vai conseguir parar.</text>
   <text id="Porccubus_happy_4">Claro, eu vou me abaixar pra você~ Sinta-se à vontade pra me acariciar.</text>
   <text id="Porccubus_happy_5">Você deve ter vindo até mim esperando alguma coisa, né?</text>
@@ -242,7 +242,7 @@
   <text id="M_Angela_Teddy_6">A substituição de uma pessoa que ansiava por amor.</text>
   <text id="M_Angela_Teddy_7">Por que você teve que me modelar em uma pessoa com boas lembranças de você?</text>
   <text id="M_Angela_Teddy_8">Eu só buscarei a felicidade que posso ter imediatamente.</text>
-  <text id="M_Angela_Teddy_9">Eu fui abandonada o tempo todo, mas tolamente acreditei que ele me abraçaria uma vez.</text>
+  <text id="M_Angela_Teddy_9">Eu fui abandonada desde o começo, mas tolamente acreditei que ele me abraçaria uma vez.</text>
   <text id="M_Angela_Teddy_10">Eu não fiquei para trás no final. Eu fui… abandonada desde o início.</text>
   
   <text id="M_Angela_Fairy_1">Nada nesta Cidade é feito por pura boa vontade.</text>
@@ -266,7 +266,7 @@
   <text id="M_Angela_QueenBee_9">Por que eu deveria me preocupar em olhar para o passado cheio de sofrimento? Ninguém se incomodou em olhar para trás por mim.</text>
   <text id="M_Angela_QueenBee_10">Eu não aceitarei mais ordens de ninguém…</text>
 
-  <text id="M_Angela_SnowWhite_1">Deve ser bom ser você, não sendo negligenciado no final…</text>
+  <text id="M_Angela_SnowWhite_1">Deve ser bom ser você, não negligenciarem você no final…</text>
   <text id="M_Angela_SnowWhite_2">Minha existência nasceu de um anseio e começou como uma maldição, mas servi como uma bênção para os outros.</text>
   <text id="M_Angela_SnowWhite_3">Esperei e continuei esperando até o último momento.</text>
   <text id="M_Angela_SnowWhite_4">Que ele vai me acordar só uma vez… Que ele vai olhar para mim, mesmo que por apenas um segundo…</text>
@@ -276,35 +276,38 @@
   <text id="M_Angela_SnowWhite_8">Uma máquina construída a partir da sua obsessão, tristeza e raiva dele…</text>
   <text id="M_Angela_SnowWhite_9">Todos estavam felizes, menos eu.</text>
   <text id="M_Angela_SnowWhite_10">Eu não conseguia sair sozinha, e só coisas pútridas se acumulavam ao meu redor.</text>
-  
   <!-- Queen Bee -->
-  <text id="QueenBee_nomal_1">Necesitamos proteger a la reina. ¡Tienes que estar en guardia!</text>
-  <text id="QueenBee_nomal_2">¡Obreras! ¡Muévanse, Muévanse, Muévanse! ¡No tenemos tiempo que perder!</text>
-  <text id="QueenBee_nomal_3">Lleven la miel, necesitamos suficiente para satisfacer a la reina.</text>
-  <text id="QueenBee_nomal_4">¡Nunca puede haber suficientes obreras! No hay final para nuestra labor.</text>
-  <text id="QueenBee_nomal_5">¡La seguridad de nuestra reina viene primero! Centrence, muerdan a esos demonios.</text>
-  <text id="QueenBee_nomal_6">Mis obreras. Es tiempo de moverse.</text>
-  <text id="QueenBee_nomal_7">Tus alas, piernas y mandíbula… Pon todo tu cuerpo a trabajar, para que no se roben la miel.</text>
-  <text id="QueenBee_nomal_8">Apresúrense y denme más miel.</text>
-  <text id="QueenBee_nomal_9">Puedo hacer más obreras con esto… Me gusta.</text>
-  <text id="QueenBee_nomal_10">Dense prisa, mis súbditos. No podemos perder ni un minuto.</text>
-  <text id="QueenBee_NoBee_1">Quien recordara a las abejas que han muerto por el reino…</text>
-  <text id="QueenBee_NoBee_2">No me importa que un dron haya muerto, Siempre puedo hacer más.</text>
-  <text id="QueenBee_NoBee_3">Dios… Tú ahí. ¿Sabes donde se fueron mis obreras?</text>
-  <text id="QueenBee_NoBee_4">Para llevar mi reino a la mayor de las grandezas… Necesito más obreras…</text>
-  
+  <text id="QueenBee_nomal_1">Devemos proteger a rainha. Levante os dentes e fique em guarda!</text>
+  <text id="QueenBee_nomal_2">Zangões! Movam, movam, movam! Não temos tempo a perder!</text>
+  <text id="QueenBee_nomal_3">Carregue o mel. Precisamos coletar o suficiente para satisfazer nossa rainha.</text>
+  <text id="QueenBee_nomal_4">Nunca haverá zangões suficientes! Não há fim para o nosso trabalho.</text>
+  <text id="QueenBee_nomal_5">A segurança da nossa rainha vem em primeiro lugar! Foco, mastigue esses demônios no lugar certo.</text>
+  <text id="QueenBee_nomal_6">Minhas abelhas. É hora de mover.</text>
+  <text id="QueenBee_nomal_7">Suas asas, pernas e mandíbulas… Coloque cada parte do seu corpo para trabalhar. Antes que eles saqueiem nosso mel.</text>
+  <text id="QueenBee_nomal_8">Se apresse e me dê mais mel.</text>
+  <text id="QueenBee_nomal_9">Eu posso fazer mais zangões com isso… Ótimo.</text>
+  <text id="QueenBee_nomal_10">Sejam rápidos, meus lacaios. Não podemos desperdiçar um minuto.</text>
+
+  <text id="QueenBee_NoBee_1">Quem vai lembrar das abelhas que morreram pelo reino…</text>
+  <text id="QueenBee_NoBee_2">Eu não ligo se um zangão morrer, eu sempre posso fazer mais para substituir.</text>
+  <text id="QueenBee_NoBee_3">Nossa… Você aí. Você sabe para onde meus zangões foram?</text>
+  <text id="QueenBee_NoBee_4">Para levar meu reino à grandeza… Preciso de mais abelhas…</text>
+  <!-- Red Riding Hooded Mercenary -->
   <text id="RedMercenary_nomal_1">Déjame manejar a este astuto y terrible bastardo.</text>
   <text id="RedMercenary_nomal_2">Colgaré su cabeza como trofeo. Solo entonces podre despertar sin tener pesadillas.</text>
   <text id="RedMercenary_nomal_3">Soy un profesional. Aprecio tu gesto, pero no, gracias; Puedo matarlo yo mismo.</text>
   <text id="RedMercenary_nomal_4">He estado afilando mi hoja para decapitar a este maldito lobo.</text>
   <text id="RedMercenary_nomal_5">No te metas en mi camino… Es mi deber. Tengo que terminar esto con mis manos.</text>
   <text id="RedMercenary_nomal_6">Si me ayudas a matar a este hijo de perra… Entonces te devolveré el favor.</text>
+
   <text id="RedMercenary_angry_1">¿Piensas que puedes ganarme? No seas ridiculo…</text>
   <text id="RedMercenary_angry_2">¡¡MUERE!! ¡¡Déjame escuchar ese horrendo aullido de nuevo!!</text>
   <text id="RedMercenary_angry_3">Ese bastardo no puede matarme… Muere… MUERE!!</text>
+
   <text id="RedMercenary_wolfdie_1">¿Estás intentando presumir de lo fuerte que eres? ¿O no podías confiar en mí?</text>
   <text id="RedMercenary_wolfdie_2">Entendido… Si así es como me retas… ¡¡Entonces te mataré justo como deseas!!</text>
   <text id="RedMercenary_wolfdie_3">¡¡Yo debías matar a ese chucho azul!!</text>
+  <!-- Scarecrow Searching For Wisdom -->
   <text id="Wisdom_nomal_1">Sabiduría… Dame la sabiduría que me falta…</text>
   <text id="Wisdom_nomal_2">Está bien que arranquen mi cabeza si se vuelve mejor cuando me la vuelvan a poner…</text>
   <text id="Wisdom_nomal_3">Mi cabeza está vacía… Solo soy una pila de heno…</text>
