@@ -794,8 +794,8 @@ Perde 1-3 de HP ao usar páginas sem 'Pedrinha'.</AbilityDesc>
       <Abnormality>Porccubus</Abnormality>
       <CardName>Espinhos</CardName>
       <AbilityDesc>[Aliado Único]
-Em um ataque Perfurante bem sucedido, inflige 1 de 'Regojizo'
-Contra inimigos com 3+ 'Regojizo' causa +2-7 de Dano e Dano de Atordoamento, então remove todos os acúmulos de 'Regojizo'. (Exclui Ataques Em Massa)</AbilityDesc>
+Em um ataque Perfurante bem sucedido, inflige 1 de 'Excitação'
+Contra inimigos com 3+ 'Excitação' causa +2-7 de Dano e Dano de Atordoamento, então remove todos os acúmulos de 'Excitação'. (Exclui Ataques Em Massa)</AbilityDesc>
       <FlaborText>No começo, tudo o que eu tinha que fazer era ser picado levemente por um desses espinhos. Agora eu tenho que esfregar meu corpo inteiro nele pra ter a mesma brisa.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Ok, eu vou me abaixar para você~ Sinta-se livre pra me acariciar.</Dialogue>
@@ -869,7 +869,7 @@ Ao ser Golpeado, inflige 1 Aroma
       <AbilityDesc>[Aliado Único]
 A cada Cena, uma 'Pétala' se prende a um inimigo aleatório.
 Depois que o personagem com 'Pétala' recever 4 golpes em uma única Cena, Todos os Personagens recebem 3-7 de Dano de Atordoamento e o bibliotecário se torna intangível pela próxima Cena.</AbilityDesc>
-      <FlaborText>Flores que não definham florecem violentamente.</FlaborText>
+      <FlaborText>Flores que não definham florescem violentamente.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Você que concederá meu desejo?</Dialogue>
         <Dialogue ID="2">Com flores qeu não definham comecei minha magnífica descida para o desespero.</Dialogue>
@@ -886,15 +886,15 @@ Adiciona uma 'Performance Eterna' à mão: ‘Custo 3 - [Uso Único][Ao Usar] Te
 Esta página também estará no baralho no começo dos Atos subsequentes.</AbilityDesc>
       <FlaborText>A performance não termina. E Da Capo. E, Da capo al Fine</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">De quebras e ruiná, eu começo a performance mais bela</Dialogue>
+        <Dialogue ID="1">De quebras e ruína, eu começo a performance mais bela.</Dialogue>
         <Dialogue ID="2">Um único performista parado na frente de uma banda silenciosa. Ele cria sons onde não há nenhum.</Dialogue>
         <Dialogue ID="3">Mesmo que minhas mãos parem, ela se levantaria de minha mente.</Dialogue>
-        <Dialogue ID="4">Esse estágio de entrada cegante estará, em breve, pronta novamente.</Dialogue>
+        <Dialogue ID="4">Esse palco de entrada cegante estará, em breve, pronta novamente.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
  <AbnormalityCard ID="SilentOrchestra_Affect">
       <Abnormality>A Orquestra Silenciosa</Abnormality>
-      <CardName>Adoração Fervenete</CardName>
+      <CardName>Adoração Fervente</CardName>
       <AbilityDesc>[Aliado Único]
 Todos os inimigos miram em personagens aleatórios, incluindo os próprios aliados, por duas Cenas. Inimigos causam +2-4 de dano com ataques enquanto esse efeito durar.</AbilityDesc>
       <FlaborText>A Orquestra da ímpeto para a música, trazendo o departamento inteiro a sua destruição. Quando todos os performistas se juntara, a música que ninguém podia ouvir mas todos podiam escutar, começa.</FlaborText>
@@ -909,13 +909,13 @@ Todos os inimigos miram em personagens aleatórios, incluindo os próprios aliad
       <Abnormality>A Orquestra Silenciosa</Abnormality>
       <CardName>The Finale</CardName>
       <AbilityDesc>[Aliado Único]
-Quando o bibliotecário selecionado Atodoa um inimigo, todos os inimigos perdem 1-6 de Luz no começo da próxima Cena.</AbilityDesc>
+Quando o bibliotecário selecionado Atordoa um inimigo, todos os inimigos perdem 1-6 de Luz no começo da próxima Cena.</AbilityDesc>
       <FlaborText>“A música atravessará todo o seu ser.”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A música atravessará todo o seu ser.</Dialogue>
         <Dialogue ID="2">Se você conseguir levantar com suas duas pernas, esteja disposto a mandar seus aplausos.</Dialogue>
         <Dialogue ID="3">Aplausos sem fim, para inspirar o condutor a levantar seu bastão uma vez mais.</Dialogue>
-        <Dialogue ID="4">A bela melodia circula o estágio vazio.</Dialogue>
+        <Dialogue ID="4">A bela melodia circula o palco vazio.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
@@ -926,7 +926,7 @@ Quando o bibliotecário selecionado Atodoa um inimigo, todos os inimigos perdem 
       <Abnormality>Banho de Sangue</Abnormality>
       <CardName>Sangue</CardName>
       <AbilityDesc>[Aliado Único]
-Os dados defensivos vanham 1-2 de Poder.
+Dados defensivos ganham 1-2 de Poder.
 Recebe +3-5 de Dano de Atordoamento ao ser golpeado.</AbilityDesc>
       <FlaborText>Uma depressão insuportável sobrepuja todos que olham a essa banheira.</FlaborText>
       <Dialogues>
@@ -942,9 +942,9 @@ Recebe +3-5 de Dano de Atordoamento ao ser golpeado.</AbilityDesc>
       <Abnormality>Banho de Sangue</Abnormality>
       <CardName>Cicatrizes</CardName>
       <AbilityDesc>[Aliado Único]
-Recebe 2-5 menos de dano Cortante
+Recebe 2-5 menos de dano Cortante.
 Ao ser Golpeado, tem 20% de chance de reduzir o dano a 0.</AbilityDesc>
-      <FlaborText>Quando eu vi as cicatrizes entrelaçadas nos pulsos cortados dela, eu me lembrei do nosso armário de vinhos. Naquele dia, eu tirei a rolha do último. </FlaborText>
+      <FlaborText>Quando eu vi as cicatrizes entrelaçadas nos pulsos cortados dela, eu me lembrei do nosso armário de vinhos. Naquele dia, eu tirei a rolha do último.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">É preciso de muita força de vontade e coragem para cortar os próprios pulsos.</Dialogue>
         <Dialogue ID="2">Não chame essas pessoas de idiotas. Você é o maior dos covardes.</Dialogue>
@@ -964,24 +964,24 @@ Depois de 3 ataques bem sucedidos no mesmo alvo, cause 3-10 de Dano de Atordoame
 São as mãos daques que um dia eu amei.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">As mãos das pessoas que você, ou talvez nós, já amamos, estão esperando lá dentro.</Dialogue>
-        <Dialogue ID="2">Essas mãos estão esperando alguém para segura-las, você vai conceder o desejo delas?</Dialogue>
+        <Dialogue ID="2">Essas mãos estão esperando alguém para segurá-las, você vai conceder o desejo delas?</Dialogue>
         <Dialogue ID="3">Não importa o quanto você deseje agarrar algo que sempre escapa entre os seus dedos…</Dialogue>
         <Dialogue ID="4">Essas mãos sinceramente querem ajuda, mas ninguém se importa em sequer olhar para elas.</Dialogue>
-        <Dialogue ID="5">Ela deveria tremer bastante, a faca podia escapar da mão dela a qualquer momento.</Dialogue>
+        <Dialogue ID="5">Ela deve ter tremido bastante, a faca podia escapar da mão dela a qualquer momento.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="HeartofAspiration_Heart">
       <Abnormality>Coração da Aspiração</Abnormality>
       <CardName>Pulsação</CardName>
-       <AbilityDesc>[Todos os Aliados]
+      <AbilityDesc>[Todos os Aliados]
 Ganha 1-2 de Força no final de cada Cena.
 Ao final de cada Cena, se o bibliotecário não causou dano com um dado Ofensivo, ele perde 25% de seu HP máximo. (Máx. 30)</AbilityDesc>
       <FlaborText>Aspiração excessiva pode trazer um frenesi injustificavel.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Aspiração avassaladora é o que te leva a um frenesi equivocado.</Dialogue>
         <Dialogue ID="2">Por que você não deseja por qualquer coisa quando você conseguiu tanto poder?</Dialogue>
-        <Dialogue ID="3">Ele que detém poder deveria usá-lo com justiça.</Dialogue>
+        <Dialogue ID="3">Ele que detém poder deve exercê-lo por direito.</Dialogue>
         <Dialogue ID="4">Sim, sinta o bater rápido do seu coração.</Dialogue>
         <Dialogue ID="5">Parece que temos um objetivo em comum que nós desesperadamente queremos, permita-nos ajudar.</Dialogue>
       </Dialogues>
@@ -989,16 +989,16 @@ Ao final de cada Cena, se o bibliotecário não causou dano com um dado Ofensivo
     
     <AbnormalityCard ID="HeartofAspiration_Doki">
       <Abnormality>Coração da Aspiração</Abnormality>
-      <CardName>Incitar</CardName>
-     <AbilityDesc>[Aliado Único]
-Aumenta o HP máximo em 15% (O HP atual aumenta de acordo)
+      <CardName>Incitação</CardName>
+      <AbilityDesc>[Aliado Único]
+Aumenta o HP máximo em 15%. (O HP atual aumenta de acordo)
 Ganha 1-2 de Velocidade.</AbilityDesc>
       <FlaborText>Quando emprestado, o ritmo das contrações irão dobrar, aumentando o vigor e força do portador.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Nunca pare de desejar-lo, até os batimentos darem uma resposta.</Dialogue>
-        <Dialogue ID="2">Você não quer ver o fim dessa euforia que está prester a explodir?</Dialogue>
-        <Dialogue ID="3">Dale un significado a todas las cosas que he deseado.</Dialogue>
-        <Dialogue ID="4">Junte-se a mim nessa pulsação fervente.</Dialogue>
+        <Dialogue ID="2">Você não quer ver o fim dessa euforia que está prestes a explodir?</Dialogue>
+        <Dialogue ID="3">Dê um significado a todas as coisas desejamos.</Dialogue>
+        <Dialogue ID="4">Junte-se a mim a essa pulsação febril.</Dialogue>
         <Dialogue ID="5">Os seus anseios fazem os batimentos se acelerarem.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -1021,11 +1021,11 @@ Ganha 4 de Força, Dureza, Celeridade e Proteção todas as Cenas até a morte. 
     
     <AbnormalityCard ID="Pinocchio_Learn">
       <Abnormality>Pinóquio</Abnormality>
-      <CardName>Aprendiendo</CardName>
+      <CardName>Aprendendo</CardName>
       <AbilityDesc>[Aliado Único]
-Adicione uma página'Aprender' à mão: ‘Custo 2 - [No Começo do Embate] Copie os Dados da página do oponente’.
+Adicione uma página 'Aprender' à mão: ‘Custo 2 - [Começo do Embate] Copie todos os Dados da página do oponente.’
 Essa página está inclusa no baralho no começo dos Atos subsequentes.</AbilityDesc>
-      <FlaborText>Tudo o que as crianças podiam fazer era “Aprender” ao observar os outros e mimetizando seu coportamento. E esse era o problema.</FlaborText>
+      <FlaborText>Tudo que a criança podia fazer era “Aprender” ao observar os outros e mimetizando seus comportamentos. E esse era o problema.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Estou ansioso para aprender como sempre. Você quer ver eu aprender?</Dialogue>
         <Dialogue ID="2">As pessoas me ensinaram a falar.</Dialogue>
@@ -1042,7 +1042,7 @@ Essa página está inclusa no baralho no começo dos Atos subsequentes.</Ability
 No começo da Cena, aleatorize o preço das cartas cujo custo original é 4 ou menos.</AbilityDesc>
       <FlaborText>As pessoas mentem o tempo todo. Por que isso é uma coisa ruim?</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Pessoam amam falar coisas do outro jeito.</Dialogue>
+        <Dialogue ID="1">Pessoam amam falar conversa fiada.</Dialogue>
         <Dialogue ID="2">Eles disseram que não era para eles. Eles estavam mentindo pelo bem de todos…</Dialogue>
         <Dialogue ID="3">Lalala… Eu canto a canção das mentiras que todas as pessoas cantam.</Dialogue>
         <Dialogue ID="4">Eu vejo o mundo de ponta cabeça, assim como me ensinaram.</Dialogue>
@@ -1052,9 +1052,9 @@ No começo da Cena, aleatorize o preço das cartas cujo custo original é 4 ou m
     
     <AbnormalityCard ID="Pinocchio_Curious">
       <Abnormality>Pinóquio</Abnormality>
-      <CardName>Curiosidad</CardName>
+      <CardName>Curiosidade</CardName>
       <AbilityDesc>[Aliado Único]
-Al comienzo de una escena, baraja todas tus páginas en el mazo y roba 4 páginas.</AbilityDesc>
+No começo da Cena, baralhe todas as suas páginas na sua mão e compre 4 páginas.</AbilityDesc>
       <FlaborText>Estou ansioso para aprender como sempre. Você quer ver eu aprender?</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Eu tenho um monte de coisas que eu quero saber. Tem um monte de coisas para aprender.</Dialogue>
