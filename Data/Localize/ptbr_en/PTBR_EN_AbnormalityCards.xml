@@ -382,7 +382,7 @@ Cause +2-7 de Dano e +2-5 de Dano de Atordoamento contra o inimigo com a menor q
       <Dialogues>
         <Dialogue ID="1">Um descanso eterno… Que você descanse em paz.</Dialogue>
         <Dialogue ID="2">Eles acreditavam que elas se tornariam criaturinhas belas com pequenas asas assim que morressem.</Dialogue>
-        <Dialogue ID="3">Te ajudarei a se libertarem do tormento que vocês causam a si mesmos.</Dialogue>
+        <Dialogue ID="3">Ajudarei-los a se libertarem do tormento que vocês causam a si mesmos.</Dialogue>
         <Dialogue ID="4">Eles devem ter voltado para casa, tendo ganhado o que queriam e estando cheios de esperança.</Dialogue>
         <Dialogue ID="5">Morte parece assustadora, ela não se compara ao terror da realidade. Ao invés, ela será liberadora.</Dialogue>
       </Dialogues>
@@ -393,13 +393,13 @@ Cause +2-7 de Dano e +2-5 de Dano de Atordoamento contra o inimigo com a menor q
       <AbilityDesc>[Aliado Único]
 Causa +2-4 de dano contra inimigos que tenham um efeito negativo.
 Se o bibliotecário tem um efeito negativo no começo da cena, ganhe 1-2 de Força</AbilityDesc>
-      <FlaborText>Eles dizem que o lamentador com uma grande bagagem em suas costas veio para ser o salvador de todos.</FlaborText>
+      <FlaborText>Eles dizem que o enlutado com uma enorme bagagem em suas costas tinha vindo para ser o salvador de todos.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Para as pobres almas que não conseguem parar de se lamentar… Eu ofereço minhas condolências.</Dialogue>
-        <Dialogue ID="2">Mágoas para os mortos, e lamento próximo para os vivos.</Dialogue>
+        <Dialogue ID="2">Luto pelos mortos, e lamento precoce pelos vivos.</Dialogue>
         <Dialogue ID="3">Formas frívolas de tristeza, lágrimas que apenas irão molhar as asas.</Dialogue>
         <Dialogue ID="4">Nenhum traço de impuridade é permitido na mente daqueles que lamentam, pois elas precisam se manter reverentes e solenes.</Dialogue>
-        <Dialogue ID="5">Nenhuma própria flor floresce para honras as borboletas.</Dialogue>
+        <Dialogue ID="5">Nenhuma flor adequada floresce para homenagear as borboletas.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Butterfly_Casket">
@@ -409,10 +409,10 @@ Se o bibliotecário tem um efeito negativo no começo da cena, ganhe 1-2 de For�
 Ao golpear um inimigo que esteja com 50% de HP ou menos, Sele um dos Dados de Velocidade do alvo (Duas vezes por cena, Exclui Ataques em Massa).</AbilityDesc>
       <FlaborText>Ele está levando um caixão. Um grande caixão para pagar tributo aos funcionários que não tinham para onde ir. Ainda assim, é pequeno demais para confortar os sacrifícios inocentes.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Um único caixão para pagar tributo para aqueles que não tinham para onde ir, vagando com a memória de uma fé vazia…</Dialogue>
+        <Dialogue ID="1">Um único caixão para prestar homenagem àqueles que não tinham para onde ir, vagando com a memória de uma fé vazia…</Dialogue>
         <Dialogue ID="2">Para onde eles vão quando morrem?</Dialogue>
         <Dialogue ID="3">O peso das borboletas que morreram em vão seria demais para carregar.</Dialogue>
-        <Dialogue ID="4">Esse caixão enorme, simplesmente pequeno demais para confortar os sacrifícios inocentes..</Dialogue>
+        <Dialogue ID="4">Aquele caixão enorme, simplesmente pequeno demais para confortar esses sacrifícios inocentes.</Dialogue>
         <Dialogue ID="5">As asas frágeis se mantém abanando, esperando pelo momento de dormir.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
