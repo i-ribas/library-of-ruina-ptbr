@@ -21,8 +21,8 @@
 	<text id="Heart_Beat_1">Junte-se a mim nesta pulsação rápida e febril.</text>
 	<text id="Heart_Beat_2">Mesmo que isso signifique que um dia eu tenha que explodir, eu quero ver o fim.</text>
   <!-- Scorched Girl -->
-	<text id="ScorchedGirl_nomal_1">Passo a passo... Queime até virar carvão preto como breu.</text>
-	<text id="ScorchedGirl_nomal_2">Uma lareira aconchegante... Um jantar farto... Decorações extravagantes... O que aparecerá quando eu acender o próximo fósforo?</text>
+	<text id="ScorchedGirl_nomal_1">Passo a passo… Queime até virar carvão preto como breu.</text>
+	<text id="ScorchedGirl_nomal_2">Uma lareira aconchegante… Um jantar farto… Decorações extravagantes… O que aparecerá quando eu acender o próximo fósforo?</text>
 	<text id="ScorchedGirl_nomal_3">Você vai me deixar quando a luz do último fósforo se apagar, não é?</text>
 	<text id="ScorchedGirl_nomal_4">A luz desses fósforos é minha única esperança…</text>
 	<text id="ScorchedGirl_nomal_5">Quando uma estrela cadente cai dos céus, significa que alguém foi para o céu. Eu me pergunto de quem é aquela estrela…</text>
@@ -30,7 +30,7 @@
 	<text id="ScorchedGirl_hopedie_1">Não… Não tire a esperança de mim.</text>
 	<text id="ScorchedGirl_hopedie_2">O calor, a festa, a beleza… Tudo se foi. Não sobrou nada agora…</text>
 
-	<text id="ScorchedGirl_4fire_1">Se eu preciso morrer... Vou fazer que você junte-se a mim.</text>
+	<text id="ScorchedGirl_4fire_1">Se eu preciso morrer… Vou fazer que você junte-se a mim.</text>
 	<text id="ScorchedGirl_4fire_2">Me espere. Eu vou com você, que vai ser reduzido a cinzas.</text>
 	<text id="ScorchedGirl_4fire_3">Para queimar todas as coisas que são brilhantes em cinzas…</text>
   <!-- Happy Teddy Bear -->
@@ -39,7 +39,7 @@
 	<text id="Teady_nomal_3">Você não quer sentir essa sensação felpuda e aconchegante?</text>
 	<text id="Teady_nomal_4">Seria tão bom se você pudesse segurar minha mão e dançar comigo…</text>
 	<text id="Teady_nomal_5">Você é a única pessoa com quem eu quero falar…</text>
-	<text id="Teady_nomal_6">Não me bata, por favor... Já estou desgastado e rasgado, meu enchimento de algodão está aparecendo.</text>
+	<text id="Teady_nomal_6">Não me bata, por favor… Já estou desgastado e rasgado, meu enchimento de algodão está aparecendo.</text>
 
 	<text id="Teady_heart_1">Estou tão feliz que você está brincando comigo.</text>
 	<text id="Teady_heart_2">Você é bem gentil, não é? Vamos brincar de novo, ok?</text>
@@ -164,15 +164,15 @@
   <text id="Singingmachine_nomal_5">A performance guia meu corpo… Ela me faz levantar meu corpo…</text>
 
   <text id="Singingmachine_music_1">Você quer ser um bom instrumento, não quer?</text>
-  <text id="Singingmachine_music_2">Faça eu me mexer... Ilumine meu caminho com canções!</text>
+  <text id="Singingmachine_music_2">Faça eu me mexer… Ilumine meu caminho com canções!</text>
   <text id="Singingmachine_music_3">Hahaha… Ha… O que eu vou fazer? O que eu posso fazer? Haha…</text>
   <text id="Singingmachine_music_4">Uma bela música tem um preço…</text>
   <text id="Singingmachine_music_5">O ar está cheio de ruídos erráticos e imundos… Preciso de timbres lindos…</text>
 
   <text id="Singingmachine_rhythm_1">Nada faz uma música tão fascinante quanto um humano…</text>
-  <text id="Singingmachine_rhythm_2">Deixe-me ouvir essa performance por mais tempo...</text>
+  <text id="Singingmachine_rhythm_2">Deixe-me ouvir essa performance por mais tempo…</text>
   <text id="Singingmachine_rhythm_3">A felicidade eterna seria minha se essa música durasse para sempre…</text>
-  <text id="Singingmachine_rhythm_4">Sim! É isso... Contemple essa poderosa melodia!</text>
+  <text id="Singingmachine_rhythm_4">Sim! É isso… Contemple essa poderosa melodia!</text>
   <text id="Singingmachine_rhythm_5">Se essa performance que substitui minha alma chegar ao fim… Eu vou…</text>
   <!-- Pinocchio -->
   <text id="Pinocchio_nomal_1">Eu sonho em virar humano.</text>
@@ -292,51 +292,56 @@
   <text id="QueenBee_NoBee_2">Eu não ligo se um zangão morrer, eu sempre posso fazer mais para substituir.</text>
   <text id="QueenBee_NoBee_3">Nossa… Você aí. Você sabe para onde meus zangões foram?</text>
   <text id="QueenBee_NoBee_4">Para levar meu reino à grandeza… Preciso de mais abelhas…</text>
-  <!-- Red Riding Hooded Mercenary -->
-  <text id="RedMercenary_nomal_1">Déjame manejar a este astuto y terrible bastardo.</text>
-  <text id="RedMercenary_nomal_2">Colgaré su cabeza como trofeo. Solo entonces podre despertar sin tener pesadillas.</text>
-  <text id="RedMercenary_nomal_3">Soy un profesional. Aprecio tu gesto, pero no, gracias; Puedo matarlo yo mismo.</text>
-  <text id="RedMercenary_nomal_4">He estado afilando mi hoja para decapitar a este maldito lobo.</text>
-  <text id="RedMercenary_nomal_5">No te metas en mi camino… Es mi deber. Tengo que terminar esto con mis manos.</text>
-  <text id="RedMercenary_nomal_6">Si me ayudas a matar a este hijo de perra… Entonces te devolveré el favor.</text>
+  <!-- Little Red Riding Hooded Mercenary -->
+  <text id="RedMercenary_nomal_1">Deixa que eu cuido desse bastardo astuto e terrível.</text>
+  <text id="RedMercenary_nomal_2">Vou pendurar a cabeça dele sobre a minha cama. Só então poderei levantar de manhã sem ter pesadelos.</text>
+  <text id="RedMercenary_nomal_3">Sou profissional. Aprecio seu gesto, mas não, obrigada; deixa que eu consigo matar.</text>
+  <text id="RedMercenary_nomal_4">Estive afiando a lâmina para decapitar aquele maldito lobo.</text>
+  <text id="RedMercenary_nomal_5">Sai do meu caminho… É o meu dever. Tenho que terminar esse trabalho com minhas próprias mãos.</text>
+  <text id="RedMercenary_nomal_6">Se você me ajudar a matar aquele filho da puta… Então estou disposta a retribuir o favor.</text>
 
-  <text id="RedMercenary_angry_1">¿Piensas que puedes ganarme? No seas ridiculo…</text>
-  <text id="RedMercenary_angry_2">¡¡MUERE!! ¡¡Déjame escuchar ese horrendo aullido de nuevo!!</text>
-  <text id="RedMercenary_angry_3">Ese bastardo no puede matarme… Muere… MUERE!!</text>
+  <text id="RedMercenary_angry_1">Você acha que pode ganhar de mim? Não seja ridículo…</text>
+  <text id="RedMercenary_angry_2">MORRE!!! Deixa eu ouvir seu uivo horrendo de novo!!!</text>
+  <text id="RedMercenary_angry_3">Eu não posso morrer para aquele desgraçado… Morre… MORRE!!!</text>
 
-  <text id="RedMercenary_wolfdie_1">¿Estás intentando presumir de lo fuerte que eres? ¿O no podías confiar en mí?</text>
-  <text id="RedMercenary_wolfdie_2">Entendido… Si así es como me retas… ¡¡Entonces te mataré justo como deseas!!</text>
-  <text id="RedMercenary_wolfdie_3">¡¡Yo debías matar a ese chucho azul!!</text>
+  <text id="RedMercenary_wolfdie_1">Tá tentando mostrar que você é mais forte do que eu? Ou não confiou em mim?</text>
+  <text id="RedMercenary_wolfdie_2">Tudo bem… Se é assim que você me desafia… Então eu vou te massacrar assim como você quis!!!</text>
+  <text id="RedMercenary_wolfdie_3">Aquele vira-lata azul era meu!!</text>
   <!-- Scarecrow Searching For Wisdom -->
-  <text id="Wisdom_nomal_1">Sabiduría… Dame la sabiduría que me falta…</text>
-  <text id="Wisdom_nomal_2">Está bien que arranquen mi cabeza si se vuelve mejor cuando me la vuelvan a poner…</text>
-  <text id="Wisdom_nomal_3">Mi cabeza está vacía… Solo soy una pila de heno…</text>
-  <text id="Wisdom_nomal_4">La gente suele hablar sin pensar… Yo podría hacer mejor uso de esos cerebros…</text>
-  <text id="Wisdom_nomal_5">Me pregunto como se siente ser sabio… el saberlo todo…</text>
-  <text id="Wisdom_wantwisdom_1">Dame tu sabiduría…</text>
-  <text id="Wisdom_wantwisdom_2">Quiero ser listo como los demás…</text>
-  <text id="Wisdom_wantwisdom_3">¡La sabiduría para continuar! ¡Dámela!</text>
-  <text id="Wisdom_eatwisdom_1">Me siento más inteligente… Puedo saberlo todo ahora…</text>
-  <text id="Wisdom_eatwisdom_2">Bien… Muy bien… Seré más listo mientras más coma, ¿no es así…?</text>
-  <text id="Wisdom_eatwisdom_3">¿Me he vuelto más listo…? Quizás seré más que una pila de heno…</text>
-  <text id="Wisdom_nowisdom_1">¡¡Mentiroso… Prometiste hacerme más inteligente!!</text>
-  <text id="Wisdom_nowisdom_2">¡Tú… no parece como que necesites más sabiduría… solo dámela a mí…!</text>
-  <text id="Wisdom_nowisdom_3">Por qué tú… no me estás dando ninguna sabiduría…</text>
+  <text id="Wisdom_nomal_1">Sabedoria… Dê-me a sabedoria que me falta…</text>
+  <text id="Wisdom_nomal_2">Não tenho problema em arrancar minha cabeça se ela melhorar quando eu colocá-la de volta…</text>
+  <text id="Wisdom_nomal_3">Minha cabeça está toda vazia… Sou apenas uma pilha de feno desleixada…</text>
+  <text id="Wisdom_nomal_4">Pessoas costumam falar sem pensar… Eu poderia aproveitar melhor desses cérebros…</text>
+  <text id="Wisdom_nomal_5">Gostaria de saber como é ser sábio… Ser sabe-tudo…</text>
 
-  <text id="Woodsman_nomal_1">Un corazón hecho de plomo… era rígido y frío.</text>
-  <text id="Woodsman_nomal_2">No quiero sentir este vacío y solitario sentimiento nunca más…</text>
-  <text id="Woodsman_nomal_3">Agarré mi vacío pecho y me apené…</text>
-  <text id="Woodsman_nomal_4">Esa mujer… dijo que las máquinas fueron construidas para servir a los humanos… así que no necesitan corazón…</text>
-  <text id="Woodsman_nomal_5">Yo requiero un objetivo… para llenar este vacío…</text>
-  <text id="Woodsman_getheart_1">Esto es… como se siente tener un corazón latiendo…</text>
-  <text id="Woodsman_getheart_2">Mientras más rápido son mis latidos… más rápido me muevo…</text>
-  <text id="Woodsman_getheart_3">Mientras más amable es el propietario de este corazón… más calido mi interior se vuelve…</text>
-  <text id="Woodsman_getheart_4">El corazón es algo particular… Ahora puedo sonreir…</text>
-  <text id="Woodsman_heartbeat_1">Puedo cortar más y más árboles… Pero este bosque… es aún tan denso…</text>
-  <text id="Woodsman_heartbeat_2">Metí todo lo que pude en esta lata… pero aun así… es tan frío…</text>
-  <text id="Woodsman_heartbeat_3">Si quiero estar cálido… Necesito algo más fuerte…</text>
-  <text id="Woodsman_heartbeat_4">Mi pecho no deja de latir… Este es el corazón que quería.</text>
+  <text id="Wisdom_wantwisdom_1">Me dá sua sabedoria…</text>
+  <text id="Wisdom_wantwisdom_2">Eu quero ser esperto como os outros…</text>
+  <text id="Wisdom_wantwisdom_3">A sabedoria para seguir em frente! Me dá!</text>
 
+  <text id="Wisdom_eatwisdom_1">Eu me sinto muito mais esperto… Posso saber de tudo agora…</text>
+  <text id="Wisdom_eatwisdom_2">Ótimo… Muito bom… Eu serei mais esperto quanto mais eu comer, certo…?</text>
+  <text id="Wisdom_eatwisdom_3">Será que eu fiquei mais esperto…? Talvez eu seja mais que um monte de feno…</text>
+  
+  <text id="Wisdom_nowisdom_1">Você mentiu… Você prometeu me fazer mais sábio!!!</text>
+  <text id="Wisdom_nowisdom_2">Você… não parece que precisa da sua sabedoria… me dê logo…!</text>
+  <text id="Wisdom_nowisdom_3">Por que você… não está me dando nenhuma da sua sabedoria…</text>
+  <!-- Warm-hearted Woodsman -->
+  <text id="Woodsman_nomal_1">O coração de chumbo… era frio e rígido.</text>
+  <text id="Woodsman_nomal_2">Eu não quero mais sentir esse sentimento vazio e solitário…</text>
+  <text id="Woodsman_nomal_3">Eu agarrei meu peito vazio e lamentei…</text>
+  <text id="Woodsman_nomal_4">Aquela mulher… disse que as máquinas são construídas para servir os humanos… então um coração não é necessário…</text>
+  <text id="Woodsman_nomal_5">Eu preciso de um objeto… para preencher esse vazio…</text>
+
+  <text id="Woodsman_getheart_1">É essa… a sensação de ter um coração que bate…</text>
+  <text id="Woodsman_getheart_2">Quanto mais alto o coração ecoa… mais rápido eu movo…</text>
+  <text id="Woodsman_getheart_3">Quanto mais gentil era o dono do coração… mais quente meu corpo fica…</text>
+  <text id="Woodsman_getheart_4">O coração é algo peculiar… Eu consigor rir agora…</text>
+
+  <text id="Woodsman_heartbeat_1">Eu corto mais e mais árvores… Mas essa floresta… ainda está densa…</text>
+  <text id="Woodsman_heartbeat_2">Eu enfiei tudo que pude encontrar nessa lata… mas mesmo assim… está tão frio…</text>
+  <text id="Woodsman_heartbeat_3">Eu quero calor… Preciso de algo mais forte…</text>
+  <text id="Woodsman_heartbeat_4">Meu peito não para de bater… Esse é o coração que eu queria.</text>
+  <!-- Funeral of the Dead Butterflies -->
 	<text id="Butterflies_nomal_1">Hace mucho tiempo, la gente creía que serían seres hermosos si tuvieran unas pequeñas alas cuando murieran.</text>
 	<text id="Butterflies_nomal_2">Un pequeño ataúd para rendir homenaje a los que no tuvieron donde ir, cargando las memorias de una fe vacía…</text>
 	<text id="Butterflies_nomal_3">Te liberaré de seguir atormentándote a ti mismo.</text>

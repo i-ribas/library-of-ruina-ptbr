@@ -169,47 +169,52 @@
   <text id="M_Angela_SnowWhite_librarian3_start">Está murcho e sem vida; não parece mais uma planta…</text>
   <text id="M_Angela_SnowWhite_librarian4_start">…Murchou, né. Talvez seja para mostrar a angústia pela qual ela passou?</text>
   <!-- Queen Bee -->
-  <text id="QueenBee_Malkuth_start">¡Tengan cuidado, no inhalen las esporas!</text>
-  <text id="QueenBee_Malkuth_die">¿Talvez eu estava muito entusiasmada…?</text>
-  <text id="QueenBee_Malkuth_kill">No tuvimos otra elección que romperla…</text>
+  <text id="QueenBee_Malkuth_start">Tenham cuidado pra não inalar os esporos!</text>
+  <text id="QueenBee_Malkuth_die">Talvez eu estava muito entusiasmada…?</text>
+  <text id="QueenBee_Malkuth_kill">Não tivemos escolha a não ser quebrá-lo…</text>
 
-  <text id="QueenBee_librarian1_start">Parece que quiera más y más obreras para trabajar con ella.</text>
-  <text id="QueenBee_librarian1_kill">Lo siento por destruir tu reino… Era una situación de matar o ser matado.</text>
+  <text id="QueenBee_librarian1_start">Parece que ela quer mais e mais zangões trabalhando pra ela.</text>
+  <text id="QueenBee_librarian1_kill">Desculpa por arruinar seu reino… Era uma situação de vida ou morte.</text>
 
-  <text id="QueenBee_librarian2_start">Si esos dientes y mandíbula me atraparán…</text>
-  <text id="QueenBee_librarian2_kill">Lo siento, no tenía ganar de convertirme en una abeja obrera…</text>
+  <text id="QueenBee_librarian2_start">Se aqueles dentes e aquela mandíbula me esmagassem…</text>
+  <text id="QueenBee_librarian2_kill">Desculpe, não tava com vontade de virar uma abelha ocupada…</text>
 
-  <text id="QueenBee_librarian3_start">¿Qué quieres decir con ‘esporas’, Señorita Malkuth?</text>
-  <text id="QueenBee_librarian3_kill">… Tengo picazón en el cuello.</text>
-  <!-- Red Riding Hooded Mercenary -->
-  <text id="RedMercenary_Gebura_start">…Cuidado. El Lobo es la única razón de existir para la Caperucita Roja.</text>
-  <text id="RedMercenary_Gebura_die">Maldita sea, no esperaba retirarme así…</text>
-  <text id="RedMercenary_Gebura_kill">Ella seguía cumpliendo su deber.</text>
+  <text id="QueenBee_librarian3_start">O que você quer dizer com 'esporos', Srta. Malkuth?</text>
+  <text id="QueenBee_librarian3_kill">…Meu pescoço tá coçando.</text>
+  <!-- Little Red Riding Hooded Mercenary -->
+  <text id="RedMercenary_Gebura_start">…Fiquem atentos. O Lobo é, de certa forma, a única razão da existência da Chapeuzinho Vermelho.</text>
+  <text id="RedMercenary_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
+  <text id="RedMercenary_Gebura_kill">Ela ainda estava dedicada ao seu único dever.</text>
 
-  <text id="RedMercenary_librarian1_start">Amigo, qué tensión… ¿Qué pasa con esos dos?</text>
-  <text id="RedMercenary_librarian1_kill">Quedamos atrapados en un fuego cruzado…</text>
+  <text id="RedMercenary_librarian1_start">Mano, é tenso… Qual é o problema desses dois, afinal?</text>
+  <text id="RedMercenary_librarian1_kill">Ficamos no meio de um fogo cruzado…</text>
 
-  <text id="RedMercenary_librarian2_start">Esta es la razón… por la cual los manteníamos separados a toda costa…</text>
-  <text id="RedMercenary_librarian2_kill">Se siente más débil que antes… Pero aún da miedo.</text>
+  <text id="RedMercenary_librarian2_start">É por isso… que tínhamos que impedir que os dois se enfrentassem de qualquer maneira…</text>
+  <text id="RedMercenary_librarian2_kill">Parece mais fraco do que antes… Mas ainda é assustador.</text>
   <!-- Scarecrow Searching for Wisdom -->
-  <text id="Wisdom_Chesed_start">Me lo estás diciendo, amigo~ La sabiduría no puede ser todo en la vida.</text>
-  <text id="Wisdom_Chesed_die">Supongo que esto es lo más lejos a lo que puedo llegar…</text>
-  <text id="Wisdom_Chesed_kill">… Que lastima~ Después de todo, La sabiduría que tomo no le termino perteneciendo.</text>
-  <text id="Wisdom_librarian1_start">Podría ser mejor si se aceptara como es.</text>
-  <text id="Wisdom_librarian1_kill">Así no es como te vuelves más listo, compañero…</text>
-  <text id="Wisdom_librarian2_start">Una lástima que no lo supiera. Muchos empleados murieron en su rastrillo.</text>
-  <text id="Wisdom_librarian2_kill">Nunca se hubiera vuelto una persona sabia, incluso con todo el conocimiento.</text>
+  <text id="Wisdom_Chesed_start">Eu estou bem ciente, amigo~ Certamente, a sabedoria não pode ser tudo na vida.</text>
+  <text id="Wisdom_Chesed_die">Parece que eu cheguei no meu limite…</text>
+  <text id="Wisdom_Chesed_kill">…Que pena~ A sabedoria que ele tomou não lhe pertencia, afinal.</text>
 
-  <text id="Woodsman_Chesed_start">Ya veo, su pecho sigue estando hueco~</text>
-  <text id="Woodsman_Chesed_die">Supongo que esto es lo más lejos a lo que puedo llegar…</text>
-  <text id="Woodsman_Chesed_kill">Me hace preguntarme qué le dio vida a este montón de acero.</text>
-  <text id="Woodsman_librarian1_start">… Mmh. ¿Sigue anhelando un corazón para llenar ese vacio, verdad?</text>
-  <text id="Woodsman_librarian1_kill">Como con la mayoría de las Anormalidades… el último momento es triste.</text>
-  <text id="Woodsman_librarian2_start">Eh, por cierto… Recuerdo que eras alguien cálido.</text>
-  <text id="Woodsman_librarian2_kill">Tengo que decirlo, no se siente bien arrebatarlo su… cosa preciada.</text>
-  <text id="Woodsman_librarian3_start">… No hagas bromas como esas y concéntrate en la pelea, por favor…</text>
-  <text id="Woodsman_librarian3_kill">No sé por ustedes, pero yo no siento ninguna simpatía por esa cosa…</text>
+  <text id="Wisdom_librarian1_start">Ele poderia ser mais dócil se ele se aceitasse do jeito que ele é.</text>
+  <text id="Wisdom_librarian1_kill">Não é assim que você fica mais esperto, amigão…</text>
 
+  <text id="Wisdom_librarian2_start">Pena que ele não sabia o que ele tava fazendo. Muitos funcionários coitados morreram pro ancinho dele.</text>
+  <text id="Wisdom_librarian2_kill">Eu acho que ele não teria se tornado uma pessoa sábia, mesmo com todo o conhecimento.</text>
+  <!-- Warm-hearted Woodsman -->
+  <text id="Woodsman_Chesed_start">O peito do colega ainda está vazio, entendi~</text>
+  <text id="Woodsman_Chesed_die">Parece que eu cheguei no meu limite…</text>
+  <text id="Woodsman_Chesed_kill">Realmente me faz perguntar o que deu vida a esse pedaço de aço.</text>
+
+  <text id="Woodsman_librarian1_start">…É. Acho que ele ainda anseia por um coração caloroso pra preencher o vazio, né?</text>
+  <text id="Woodsman_librarian1_kill">Como a maioria das Anormalidades… o último momento é sempre o mais triste.</text>
+
+  <text id="Woodsman_librarian2_start">Aí, aliás… Eu lembro de você ser uma pessoa de um coração bem caloroso.</text>
+  <text id="Woodsman_librarian2_kill">Vô falar, não é muito legal ter que tirar o… bem precioso dele.</text>
+  <!-- Unused? -->
+  <text id="Woodsman_librarian3_start">… Não faça piadas desagradáveis como essa e concentra na luta, por favor…</text>
+  <text id="Woodsman_librarian3_kill">Não sei vocês, mas eu realmente não sinto simpatia por essa coisa…</text>
+  <!-- Funeral of the Dead Butterflies -->
 	<text id="Butterflies_yesod_start">Manténganse alerta. No dudaré en explotar su debilidad.</text>
 	<text id="Butterflies_yesod_die"> Foi culpa do meu descuido que eu encontrei esse destino.</text>
 	<text id="Butterflies_yesod_kill">… Una muerte en paz… Nuestro trabajo ha acabado, regresemos.</text>
@@ -252,7 +257,7 @@
 	<text id="Y_Angela_Der_librarian4_start">… Se está volviendo más duro aguantar los golpes. Solo falta un último empujon, ¿verdad?</text>
 
   <text id="Wolf_Gebura_start">Cuidado, no es tan débil como parece.</text>
-  <text id="Wolf_Gebura_die">Maldita sea, no esperaba retirarme así…</text>
+  <text id="Wolf_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
   <text id="Wolf_Gebura_kill">Un ser que estaba destinado a ser malvado… Bien, regresemos.</text>
   <text id="Wolf_librarian1_start">¿Este chico se ve bastante dócil? Quizás el lobo aterrador fue solo una ilusión de la Caperucita Roja.</text>
   <text id="Wolf_librarian1_kill">… En general, esto es muy lamentable.</text>
@@ -389,7 +394,7 @@
   <text id="Heaven_Hokma_kill">… La Victoria está a nuestro alcance. Les insto a todos a seguir así.</text>
 
   <text id="SmilingMountain_Gebura_start">Debemos acabar con eso lo más rápido posible.</text>
-  <text id="SmilingMountain_Gebura_die">Maldita sea, no esperaba retirarme así…</text>
+  <text id="SmilingMountain_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
   <text id="SmilingMountain_Gebura_kill">Al final solo ha quedado una pila de cuerpos muertos.</text>
   <text id="SmilingMountain_librarian1_start">… Uf, este lugar apesta.</text>
   <text id="SmilingMountain_librarian1_kill">Asqueroso… Era solo un bulto grande después de todo</text>
@@ -400,7 +405,7 @@
 
   <text id="Waygohome_Chesed_start">Puede parecer que no estamos en nuestro hogar,
 pero mantengamos la calma y comencemos~</text>
-  <text id="Waygohome_Chesed_die">Supongo que esto es lo más lejos a lo que puedo llegar…</text>
+  <text id="Waygohome_Chesed_die">Parece que eu cheguei no meu limite…</text>
   <text id="Waygohome_Chesed_kill">Quizás es su apariencia… Mi corazón duele~</text>
   <text id="Waygohome_librarian1_start">… ¿No recuerdo haberlo visto antes?</text>
   <text id="Waygohome_librarian1_kill">Nos encantaría volver a casa si pudiéramos.</text>
@@ -479,7 +484,7 @@ pero mantengamos la calma y comencemos~</text>
   <text id="LongBird_librarian3_kill">Justicia… Qué es la justicia, Me pregunto.</text>
 
   <text id="Nos_Gebura_start">Parece que tiene demasiada hambre… Tengamos cuidado.</text>
-  <text id="Nos_Gebura_die">Maldita sea, no esperaba retirarme así…</text>
+  <text id="Nos_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
   <text id="Nos_Gebura_kill">… Un vampiro, ¿eh? Creo que escuché de ellos en algún lugar.</text>
   <text id="Nos_librarian1_start">Parece que quiere algo… Es un poco horrible.</text>
   <text id="Nos_librarian1_kill">Anormalidades nuevas aparecen cada vez que pensamos que las vimos todas…</text>
@@ -489,38 +494,38 @@ pero mantengamos la calma y comencemos~</text>
   <text id="Nos_librarian3_kill">Mi cuerpo se siente débil por alguna razón…</text>
   
   <text id="G_Roland_Red_Gebura_start">… Okay, hagamos esto.</text>
-  <text id="G_Roland_Red_Gebura_die">Maldita sea, no esperaba retirarme así…</text>
+  <text id="G_Roland_Red_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
   <text id="G_Roland_Red_librarian1_start">¡Sra. Gebura! ¡Todos estamos preparados!</text>
   <text id="G_Roland_Red_librarian2_start">Bueno. Si otros pisos pudieron con esto, nosotros también podemos.</text>
   <text id="G_Roland_Red_librarian3_start">Así que esto es de lo que hablaban los otros bibliotecarios…</text>
   <text id="G_Roland_Red_librarian4_start">Eso se ve terrible…</text>
   <text id="G_Roland_Wolf_Gebura_start">Todos los recuerdan bien. Vamos a intentarlo entonces.</text>
-  <text id="G_Roland_Wolf_Gebura_die">Maldita sea, no esperaba retirarme así…</text>
+  <text id="G_Roland_Wolf_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
   <text id="G_Roland_Wolf_librarian1_start">¡Eso es lo que la Sra. Gebura nos enseñó!</text>
   <text id="G_Roland_Wolf_librarian2_start">Bien. Cuando uno empuña una espada, debe tener un objetivo claro…</text>
   <text id="G_Roland_Wolf_librarian3_start">Actuar con dolor e ira no es más que una muestra de frustración.</text>
   <text id="G_Roland_Wolf_librarian4_start">Una matanza que ha perdido todo significado…</text>
   <text id="G_Roland_Smile_Gebura_start">Podemos discutir si perdonar o no las atrocidades una vez hayamos acabado con esto.</text>
-  <text id="G_Roland_Smile_Gebura_die">Maldita sea, no esperaba retirarme así…</text>
+  <text id="G_Roland_Smile_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
   <text id="G_Roland_Smile_librarian1_start">Quizás lo que hizo es imperdonable…</text>
   <text id="G_Roland_Smile_librarian2_start">¿Cuantas personas ha matado…? Me está asustando.</text>
   <text id="G_Roland_Smile_librarian3_start">Una vez comienzas a mirar hacia atrás, es difícil detenerse.</text>
   <text id="G_Roland_Smile_librarian4_start">Una montaña de cuerpos…</text>
   <text id="G_Roland_Nos_Gebura_start">No le haría ningún bien forzarlo a encontrar consuelo.</text>
-  <text id="G_Roland_Nos_Gebura_die">Maldita sea, no esperaba retirarme así…</text>
+  <text id="G_Roland_Nos_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
   <text id="G_Roland_Nos_librarian1_start">Espero que esto haga que se sienta mejor…</text>
   <text id="G_Roland_Nos_librarian2_start">Creo que esto dice demasiado de las emociones encerradas en su corazón.</text>
   <text id="G_Roland_Nos_librarian3_start">Todos son violentos…</text>
   <text id="G_Roland_Nos_librarian4_start">Eh, eso es… Esa cosa que vimos por primera vez hace poco.</text>
   <text id="G_Roland_Nothing_Gebura_start">… Quizás pueda entenderte un poco, Roland.</text>
-  <text id="G_Roland_Nothing_Gebura_die">Maldita sea, no esperaba retirarme así…</text>
+  <text id="G_Roland_Nothing_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
   <text id="G_Roland_Nothing_librarian1_start">De todos modos… Pienso que casi hemos terminado.</text>
   <text id="G_Roland_Nothing_librarian2_start">Escucharlo reproducir la voz de mi compañero casi me hace vomitar.</text>
   <text id="G_Roland_Nothing_librarian3_start">Esa es la forma que recuerdo… Una criatura que intentaba copiar a los humanos…</text>
   <text id="G_Roland_Nothing_librarian4_start">Uf… Las pesadillas están volviendo…</text>
 
   <text id="Ozma_Chesed_start">Esa calabaza debe ser lo único que le queda.</text>
-  <text id="Ozma_Chesed_die">Supongo que esto es lo más lejos a lo que puedo llegar…</text>
+  <text id="Ozma_Chesed_die">Parece que eu cheguei no meu limite…</text>
   <text id="Ozma_Chesed_kill">No puedo decir que me guste mucho esté final~</text>
   <text id="Ozma_librarian1_start">No sé cómo adivinar las preferencias de cosas que veo por primera vez…</text>
   <text id="Ozma_librarian1_kill">Se siente incómodo… Lo único que quería era un poco de felicidad.</text>
@@ -530,31 +535,31 @@ pero mantengamos la calma y comencemos~</text>
   <text id="Ozma_librarian3_kill">No me siento… tan bien ganando ahora.</text>
   
   <text id="C_roland_Wisdom_Chesed_start">Como sea que esto termine, intentémoslo~ Todos saben cómo, ¿verdad?</text>
-  <text id="C_roland_Wisdom_Chesed_die">Supongo que esto es lo más lejos a lo que puedo llegar…</text>
+  <text id="C_roland_Wisdom_Chesed_die">Parece que eu cheguei no meu limite…</text>
   <text id="C_roland_Wisdom_librarian1_start">Eh, los consejos no siempre funcionan.</text>
   <text id="C_roland_Wisdom_librarian2_start">No estoy seguro de que esta sea una buena forma de resolver los sentimientos negativos…</text>
   <text id="C_roland_Wisdom_librarian3_start">¿Qué está pasando? Nunca lo vi tan enojado antes…</text>
   <text id="C_roland_Wisdom_librarian4_start">… He escuchado un montón sobre esto, pero aun así mi mente no está preparada.</text>
   <text id="C_roland_Woodsman_Chesed_start">Ese ‘bosque’ nunca se irá.</text>
-  <text id="C_roland_Woodsman_Chesed_die">Supongo que esto es lo más lejos a lo que puedo llegar…</text>
+  <text id="C_roland_Woodsman_Chesed_die">Parece que eu cheguei no meu limite…</text>
   <text id="C_roland_Woodsman_librarian1_start">Y eso podría incluirnos.</text>
   <text id="C_roland_Woodsman_librarian2_start">Podría ser la gente que él acusó de que le arrebataron su felicidad…</text>
   <text id="C_roland_Woodsman_librarian3_start">¿Qué es lo que le representan estos árboles a Roland?</text>
   <text id="C_roland_Woodsman_librarian4_start">Eso da miedo…</text>
   <text id="C_roland_Waygohome_Chesed_start">… Estoy seguro de que todos tienen un hogar en el cual descansar~</text>
-  <text id="C_roland_Waygohome_Chesed_die">Supongo que esto es lo más lejos a lo que puedo llegar…</text>
+  <text id="C_roland_Waygohome_Chesed_die">Parece que eu cheguei no meu limite…</text>
   <text id="C_roland_Waygohome_librarian1_start">¿Tiene Roland un lugar donde regresar, Sr. Chesed?</text>
   <text id="C_roland_Waygohome_librarian2_start">No tener ningún lugar para que descanse tu mente debe ser triste.</text>
   <text id="C_roland_Waygohome_librarian3_start">Un lugar en el cual uno pueda descansar es el hogar.</text>
   <text id="C_roland_Waygohome_librarian4_start">Volviendo a casa, ¿eh?…</text>
   <text id="C_roland_Ozma_Chesed_start">No nos entrometamos demasiado. Que él llegue a una conclusión por su cuenta es la parte más vital</text>
-  <text id="C_roland_Ozma_Chesed_die">Supongo que esto es lo más lejos a lo que puedo llegar…</text>
+  <text id="C_roland_Ozma_Chesed_die">Parece que eu cheguei no meu limite…</text>
   <text id="C_roland_Ozma_librarian1_start">Yeah. Nosotros nunca lograremos entender completamente a otra persona.</text>
   <text id="C_roland_Ozma_librarian2_start">… No estamos tratando de compadecernos de Roland ni nada parecido.</text>
   <text id="C_roland_Ozma_librarian3_start">Me contaron que esa Anormalidad era un ser que se convirtió en un monstruo…</text>
   <text id="C_roland_Ozma_librarian4_start">Es muy diferente de la horrible forma que vimos la última vez.</text>
   <text id="C_roland_Oz_Chesed_start">Yep. Y nos daremos cuenta de eso a su tiempo… Roland también lo hará.</text>
-  <text id="C_roland_Oz_Chesed_die">Supongo que esto es lo más lejos a lo que puedo llegar…</text>
+  <text id="C_roland_Oz_Chesed_die">Parece que eu cheguei no meu limite…</text>
   <text id="C_roland_Oz_librarian1_start">¿Tenemos siquiera esas cosas?</text>
   <text id="C_roland_Oz_librarian2_start">Sabiduría… Corazón… Coraje… Y un lugar donde calmarse.</text>
   <text id="C_roland_Oz_librarian3_start">Esas son cosas que son buenas de acuerdo a sus estándares…</text>
