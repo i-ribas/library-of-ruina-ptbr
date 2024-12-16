@@ -215,47 +215,59 @@
   <text id="Woodsman_librarian3_start">… Não faça piadas desagradáveis como essa e concentra na luta, por favor…</text>
   <text id="Woodsman_librarian3_kill">Não sei vocês, mas eu realmente não sinto simpatia por essa coisa…</text>
   <!-- Funeral of the Dead Butterflies -->
-	<text id="Butterflies_yesod_start">Manténganse alerta. No dudaré en explotar su debilidad.</text>
-	<text id="Butterflies_yesod_die"> Foi culpa do meu descuido que eu encontrei esse destino.</text>
-	<text id="Butterflies_yesod_kill">… Una muerte en paz… Nuestro trabajo ha acabado, regresemos.</text>
-	<text id="Butterflies_librarian1_start">Es muy frío el tocar esas mariposas, se me pone la piel de gallina.</text>
-	<text id="Butterflies_librarian1_kill">¿Esto liberará a nuestro último bibliotecario, verdad? ¿Deberíamos darle una cálida bienvenida?</text>
-	<text id="Butterflies_librarian2_start">Muchos de mis compañeros han acabado dentro de ese ataúd.</text>
-	<text id="Butterflies_librarian2_kill">Todavía se siente frío… Me deja un sabor amargo. Regresemos ahora.</text>
-	<text id="Butterflies_librarian3_start">Me da un escalofrío cada vez que veo al enjambre de mariposas pasar a mi lado…</text>
-	<text id="Butterflies_librarian3_kill">Me pregunto si es cómodo dentro de ese ataúd…</text>
-  
-	<text id="Y_Angela_Murder_yesod_start">Estará bien si logramos traerla de vuelta. Preparense.</text>
-	<text id="Y_Angela_Murder_yesod_die">… No sucumban al pánico y centrense en la tarea que tienen delante.</text>
-	<text id="Y_Angela_Murder_librarian1_start">Te preocupas demasiado. Respira profundamente primero.</text>
-	<text id="Y_Angela_Murder_librarian2_start">Escuché que algo similar paso antes. Así que estoy seguro de que podemos superarlo.</text>
-	<text id="Y_Angela_Murder_librarian3_start">¿Ella está bien…? ¿Qué pasará si no regresa a la normalidad?…</text>
-	<text id="Y_Angela_Murder_librarian4_start">Hahaa… Esto es raro. Tengo que estar bien despierto en momentos así.</text>
-	<text id="Y_Angela_Helper_yesod_start">¿Están todos bien? Háganme saber si sus cuerpos tienen problemas.</text>
-	<text id="Y_Angela_Helper_yesod_die">… No sucumban al pánico y centrense en la tarea que tienen delante.</text>
-	<text id="Y_Angela_Helper_librarian1_start">Ya sabes, esa máquina que se ponía a girar como loca y se detenia.</text>
-	<text id="Y_Angela_Helper_librarian2_start">No hay problema por mi parte. Por cierto, se ve familiar…</text>
-	<text id="Y_Angela_Helper_librarian3_start">Así que ella seguirá cambiando su forma… Estoy comenzando a entender el patrón.</text>
-	<text id="Y_Angela_Helper_librarian4_start">Estoy bien. Pero aun así, es mejor que tengamos cuidado.</text>
-	<text id="Y_Angela_Sing_yesod_start">… Espero que vuelva a sus sentidos lo más rápido posible, así podremos conversar al respecto.</text>
-	<text id="Y_Angela_Sing_yesod_die">… No sucumban al pánico y centrense en la tarea que tienen delante.</text>
-	<text id="Y_Angela_Sing_librarian1_start">Esta es una oportunidad para que entendamos sus problemas juntos.</text>
-	<text id="Y_Angela_Sing_librarian2_start">Es natural sentirte perdido, incluso nosotros lo experimentamos a veces. No es algo fácil…</text>
-	<text id="Y_Angela_Sing_librarian3_start">No es como si nosotros fuéramos mucho mejores…</text>
-	<text id="Y_Angela_Sing_librarian4_start">Todo lo que podemos hacer es ayudarla a enfrentarlo en lugar de evitarlo.</text>
-	<text id="Y_Angela_Butterflies_yesod_start">No creo que haya algo como estar bien o mal en este asunto, depende como uno lo acepte.</text>
-	<text id="Y_Angela_Butterflies_yesod_die">… No sucumban al pánico y centrense en la tarea que tienen delante.</text>
-	<text id="Y_Angela_Butterflies_librarian1_start">Bueno, deberíamos centrarnos en la pelea por ahora.</text>
-	<text id="Y_Angela_Butterflies_librarian2_start">El grado de perdón y comprensión que uno puede mostrar es diferente para cada persona.</text>
-	<text id="Y_Angela_Butterflies_librarian3_start">Aun así, no todo el mundo mostrará comprensión por todo lo que ella hizo.</text>
-	<text id="Y_Angela_Butterflies_librarian4_start">Quizás Angela no tuvo otra opción…</text>
-	<text id="Y_Angela_Der_yesod_start">… Parece que hemos llegado al final. Todos, aún no aflojen su agarre.</text>
-	<text id="Y_Angela_Der_yesod_die">… No sucumban al pánico y centrense en la tarea que tienen delante.</text>
-	<text id="Y_Angela_Der_librarian1_start">Esa bala imparable mató a muchos de mis compañeros.</text>
-	<text id="Y_Angela_Der_librarian2_start">Aún lo recuerdo. Esa bala volando en una precisa línea recta…</text>
-	<text id="Y_Angela_Der_librarian3_start">Supongo que sí… Sigamos concentrados hasta el final…</text>
-	<text id="Y_Angela_Der_librarian4_start">… Se está volviendo más duro aguantar los golpes. Solo falta un último empujon, ¿verdad?</text>
+	<text id="Butterflies_yesod_start">Fiquem alerta. Ele não hesitará em explorar sua vulnerabilidade.</text>
+	<text id="Butterflies_yesod_die">Foi culpa do meu descuido que eu encontrei esse destino.</text>
+	<text id="Butterflies_yesod_kill">…Uma morte pacífica… Nosso trabalho está concluído, então vamos retornar.</text>
 
+	<text id="Butterflies_librarian1_start">Aquelas borboletas são tão geladas, me dá calafrios.</text>
+	<text id="Butterflies_librarian1_kill">Isso libera nosso último bibliotecário, né? Vamos comemorar a chegada?</text>
+
+	<text id="Butterflies_librarian2_start">Muitos dos meus colegas de trabalho se deitaram naquele caixão, é.</text>
+	<text id="Butterflies_librarian2_kill">Ainda tá frio… Deixou um gosto amargo. Vamos voltar agora.</text>
+
+	<text id="Butterflies_librarian3_start">O enxame de borboletas me deu um arrepio nas costas quando passou por mim…</text>
+	<text id="Butterflies_librarian3_kill">Eu me pergunto se é mesmo confortável dentro daquele caixão…</text>
+  <!-- Floor of Tecnology Realization -->
+	<text id="Y_Angela_Murder_yesod_start">Vai ficar tudo bem se conseguirmos fazê-la voltar ao normal. Estejam preparados.</text>
+	<text id="Y_Angela_Murder_yesod_die">…Por favor, não entrem em pânico; quero que vocês permaneçam focados na batalha.</text>
+
+	<text id="Y_Angela_Murder_librarian1_start">Você tá se preocupando demais. Respira profundo primeiro.</text>
+	<text id="Y_Angela_Murder_librarian2_start">Ouvi dizer que uma situação parecida aconteceu antes, então tenho certeza de que podemos superá-la da mesma forma.</text>
+	<text id="Y_Angela_Murder_librarian3_start">Ela tá bem…? E se ela não mudar de volta…</text>
+	<text id="Y_Angela_Murder_librarian4_start">Hahaa… Isso é loucura. Tenho que estar bem de pé nessas horas.</text>
+
+	<text id="Y_Angela_Helper_yesod_start">Todos estão bem? Me avisem se seu corpo estiver com problemas.</text>
+	<text id="Y_Angela_Helper_yesod_die">…Por favor, não entrem em pânico; quero que vocês permaneçam focados na batalha.</text>
+
+	<text id="Y_Angela_Helper_librarian1_start">Se sabe, aquele robô estranho girava que nem louco e travava sozinho.</text>
+	<text id="Y_Angela_Helper_librarian2_start">Não há problema na minha parte. A propósito, isso parece familiar…</text>
+	<text id="Y_Angela_Helper_librarian3_start">Então ela continuará mudando de forma… Tô começando a entender o padrão.</text>
+	<text id="Y_Angela_Helper_librarian4_start">Acho que estou bem até agora. Ainda assim, é melhor tomarmos cuidado.</text>
+
+	<text id="Y_Angela_Sing_yesod_start">…Espero que ela volte a si o mais rápido possível para que possamos conversar sobre o assunto.</text>
+	<text id="Y_Angela_Sing_yesod_die">…Por favor, não entrem em pânico; quero que vocês permaneçam focados na batalha.</text>
+
+	<text id="Y_Angela_Sing_librarian1_start">Esta pode ser uma oportunidade para entendermos os problemas dela juntos.</text>
+	<text id="Y_Angela_Sing_librarian2_start">É natural nos sentirmos perdidos, até nós podemos passar por isso às vezes. Não é algo fácil…</text>
+	<text id="Y_Angela_Sing_librarian3_start">Não que sejamos melhores em ter bom senso…</text>
+	<text id="Y_Angela_Sing_librarian4_start">Tudo o que podemos fazer é ajudá-la a enfrentar isso em vez de evitá-lo.</text>
+
+	<text id="Y_Angela_Butterflies_yesod_start">Não acredito que haja certo ou errado neste assunto, o que importa é como alguém o aceita.</text>
+	<text id="Y_Angela_Butterflies_yesod_die">…Por favor, não entrem em pânico; quero que vocês permaneçam focados na batalha.</text>
+
+	<text id="Y_Angela_Butterflies_librarian1_start">Bem, devemos nos concentrar na batalha por enquanto.</text>
+	<text id="Y_Angela_Butterflies_librarian2_start">Afinal, o grau de compreensão e perdão que alguém pode demonstrar é diferente para cada pessoa.</text>
+	<text id="Y_Angela_Butterflies_librarian3_start">Ainda assim, nem todos vão demonstrar compreensão por todas as coisas que ela fez.</text>
+	<text id="Y_Angela_Butterflies_librarian4_start">Talvez a Angela não teve escolha…</text>
+
+	<text id="Y_Angela_Der_yesod_start">Parece que chegamos ao fim. Não percam a compostura, pessoal..</text>
+	<text id="Y_Angela_Der_yesod_die">…Por favor, não entrem em pânico; quero que vocês permaneçam focados na batalha.</text>
+
+	<text id="Y_Angela_Der_librarian1_start">A bala imparável também matou muitos dos meus colegas de trabalho.</text>
+	<text id="Y_Angela_Der_librarian2_start">Ainda me lembro disso. A bala voando em uma linha reta e precisa…</text>
+	<text id="Y_Angela_Der_librarian3_start">Pois é… Vamos manter o foco até o fim…</text>
+	<text id="Y_Angela_Der_librarian4_start">…Tá ficando mais difícil aguentar as pancadas. Parece que só resta um pouquinho, né?</text>
+  <!-- Big and Will be Bad Wolf -->
   <text id="Wolf_Gebura_start">Cuidado, no es tan débil como parece.</text>
   <text id="Wolf_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
   <text id="Wolf_Gebura_kill">Un ser que estaba destinado a ser malvado… Bien, regresemos.</text>
