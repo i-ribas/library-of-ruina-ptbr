@@ -407,123 +407,140 @@
 	<text id="Y_Angela_Der_8">No dia em que coloquei as mãos nessa bala, eu caí no chão. Era desespero que o Diabo desejava?</text>
 	<text id="Y_Angela_Der_9">Então pensei, finalmente, fui deixada sozinho. Neste poço do Inferno.</text>
 	<text id="Y_Angela_Der_10">Cheguei à conclusão; talvez a última bala fosse destinada a perfurar mais ninguém além de mim.</text>
-  <!-- Big and Will be Bad Wolf -->
-  <text id="Wolf_nomal_1">No hay necesidad de ser bueno conmigo… Estoy destinado a ser un gran lobo malo…</text>
-  <text id="Wolf_nomal_2">Mírame… Estoy intentándolo mucho…</text>
-  <text id="Wolf_nomal_3">No te acerques más… o serás comido…</text>
-  <text id="Wolf_nomal_4">Todos me llamaron eso, así que debe ser verdad… Los cuentos viejos nunca se equivocan…</text>
-  <text id="Wolf_nomal_5">Un lobo no necesita un nombre, un lobo solo obedece el rol por el cual nació…</text>
-  <text id="Wolf_eat_1">Fui predestinado a ser malo… No importa… Y no tengo que preocuparme…</text>
-  <text id="Wolf_eat_2">Yo… Acabo de comerme a alguien… Lastimo a los otros de nuevo…</text>
-  <text id="Wolf_eat_3">La luna no se llenaba… Estaba menguante, volviéndose vacía… Pronto… Yo voy a…</text>
-  <text id="Wolf_change_1">Este lugar apesta a un hedor horrible… Me está llamando…</text>
-  <text id="Wolf_change_2">Como una luna vacía llenada con oscuridad, mi vientre debe ser llenado con carne…</text>
-  <text id="Wolf_change_3">Mirarte hace que me ponga a babear…</text>
-  <text id="Wolf_change_4">Si puedo llenar mi estómago… Estaré satisfecho…</text>
+  <!-- Big and Will be Bad Wolf -->,
+  <text id="Wolf_nomal_1">Não precisa ser legal comigo… Eu sou destinado a ser um grande lobo mau…</text>
+  <text id="Wolf_nomal_2">Cuidado em… Estou me esforçando bastante…</text>
+  <text id="Wolf_nomal_3">Não chegue mais perto… ou eu vou comer você também…</text>
+  <text id="Wolf_nomal_4">Todos me chamavam assim, então deve ser verdade… Velhos contos nunca estão errados…</text>
+  <text id="Wolf_nomal_5">Um lobo não precisa de nome, ele apenas obedece ao papel para o qual nasceu…</text>
 
-  <text id="GreedKing_reasonNomal_1">Ha pasado mucho tiempo… desde que luche en esta forma.</text>
-  <text id="GreedKing_reasonNomal_2">¿Estás listo? Vamos a comenzar.</text>
-  <text id="GreedKing_reasonNomal_3">Oh, como extrañe este sentimiento… Vamos a disfrutarlo un poco más, ¿vale?</text>
-  <text id="GreedKing_reasonAttack_1">Está bien, Voy a ponerme sería, intenta detenerme.</text>
-  <text id="GreedKing_reasonAttack_2">La puerta de color ámbar brilla con codicia… ¡Aquí viene!</text>
-  <text id="GreedKing_reasonAttackFail_1">Pensé que eran un grupo de debiluchos… No esta mal, ¿eh?</text>
-  <text id="GreedKing_reasonAttackFail_2">No pensé que pudieras pararme… Seré más sería la próxima vez.</text>
-  <text id="GreedKing_reasonAttackFail_3">Impresionante… ¿Pero puedes detenerme una segunda vez?</text>
-  <text id="GreedKing_reasonAttackWin_1">No puedes vencerme. ¡Fue tan fácil!</text>
-  <text id="GreedKing_reasonAttackWin_2">¿Cómo se siente recibir este golpe? Duele un montón, ¿no es así?</text>
-  <text id="GreedKing_reasonAttackWin_3">Aún no me he puesto seria… ¿No fue solo un empujón?</text>
-  <text id="GreedKing_noreasonNomal_1">No me di cuenta… que desear la felicidad de todos también me incluye…</text>
-  <text id="GreedKing_noreasonNomal_2">Me siento vacía por dentro… Hambrienta… Quiero más cosas…</text>
-  <text id="GreedKing_noreasonNomal_3">Seré feliz si mi estómago está lleno… Quiero ser feliz…</text>
-  <text id="GreedKing_noreasonAttack_1">Estoy tan hambrienta… No puedo soportarlo…</text>
-  <text id="GreedKing_noreasonAttack_2">Lo devoraré… todo…</text>
-  <text id="GreedKing_noreasonAttack_3">Esta hambre insaciable contaminada por la codicia… Es insoportarle…</text>
+  <text id="Wolf_eat_1">Eu estava fadado a ser mau… Não importa… Eu não tenho que ligar…</text>
+  <text id="Wolf_eat_2">Eu… Eu devorei alguém… Eu machuquei outros de novo…</text>
+  <text id="Wolf_eat_3">A lua não estava ficando cheia… Estava minguante, ficando vazia… Então logo eu vou… Eu vou…</text>
+
+  <text id="Wolf_change_1">Este lugar tem um cheiro horrível… Ele me chama…</text>
+  <text id="Wolf_change_2">Como a lua vazia cheia de escuridão, minha barriga deveria estar cheia de carne…</text>
+  <text id="Wolf_change_3">Olhar para você me dá água na boca…</text>
+  <text id="Wolf_change_4">Se eu puder encher meu estômago… Ficarei satisfeito…</text>
+  <!-- The King of Greed -->
+  <text id="GreedKing_reasonNomal_1">Faz muito tempo… desde que eu lutei nessa forma.</text>
+  <text id="GreedKing_reasonNomal_2">Preparados? Vamos começar.</text>
+  <text id="GreedKing_reasonNomal_3">Ah, como eu senti falta desse sentimento… Vamos aproveitar um pouco, ok?</text>
+
+  <text id="GreedKing_reasonAttack_1">Tudo bem, eu vou levar a sério agora, então tente me impedir.</text>
+  <text id="GreedKing_reasonAttack_2">O portão âmbar brilhando com ganância se abre… Aqui vou eu!</text>
+
+  <text id="GreedKing_reasonAttackFail_1">Eu pensei que vocês fossem um bando de fracotes… Nada mal, em?</text>
+  <text id="GreedKing_reasonAttackFail_2">Eu não pensei que vocês pudessem me impedir… Vou levar mais a sério na próxima.</text>
+  <text id="GreedKing_reasonAttackFail_3">Impressionante… Mas você consegue me parar uma segunda vez?</text>
+
+  <text id="GreedKing_reasonAttackWin_1">Você não consegue me derrotar. Essa foi fácil!</text>
+  <text id="GreedKing_reasonAttackWin_2">Como foi a sensação de tomar porrada? Dói muito, né?</text>
+  <text id="GreedKing_reasonAttackWin_3">Eu ainda nem peguei pesado… Isso não é moleza?</text>
+
+  <text id="GreedKing_noreasonNomal_1">Eu não percebi… que desejar a felicidade de todos também me inclui…</text>
+  <text id="GreedKing_noreasonNomal_2">Eu me sinto vazia por dentro… Fome… Eu quero mais coisas…</text>
+  <text id="GreedKing_noreasonNomal_3">Eu ficarei feliz se meu estômago estiver cheio… Quero ser feliz…</text>
+
+  <text id="GreedKing_noreasonAttack_1">Eu estou com tanta fome… Eu não estou aguentando…</text>
+  <text id="GreedKing_noreasonAttack_2">Eu vou devorar… tudo…</text>
+  <text id="GreedKing_noreasonAttack_3">Essa fome desagradável contaminada pela ganância… É insuportável…</text>
+
   <text id="GreedKing_noreasonAttackFail_1">………</text>
-  <text id="GreedKing_noreasonAttackFail_2">…… Uf.</text>
-  <text id="GreedKing_noreasonAttackFail_3">…… Haah…</text>
-  <text id="GreedKing_noreasonAttackWin_1">Lo devoraré… todo esto… Devoraré todo lo que esté en mi camino…</text>
-  <text id="GreedKing_noreasonAttackWin_2">¡No puedo escuchar nada…! Finalmente… es mi turno…</text>
-  <text id="GreedKing_noreasonAttackWin_3">Vuélvete carne para mí… Sacia mis deseos…</text>
-
-  <text id="Laetitia_nomal_1">No podía dejar a mis amigos atrás… ¡Así que tuve una brillante idea!</text>
-  <text id="Laetitia_nomal_2">No te preocupes~ Solo los malos lastiman a sus amigos.</text>
-  <text id="Laetitia_nomal_3">Cuando abras el regalo, te sorprenderás mucho, así como ¡WHOA!</text>
-  <text id="Laetitia_nomal_4">¿Qué hay dentro del regalo? ¡Es un secreto! Es aburrido revelarlo.</text>
-  <text id="Laetitia_nomal_5">Los amigos no pelean entre ellos. ¡Nope!</text>
-  <text id="Laetitia_nomal_6">¡Juega conmigo! Únete a mis amigos y juguemos juntos.</text>
-  <text id="Laetitia_friend_1">¡Este lugar será más animado mientras más amigos tenga!</text>
-  <text id="Laetitia_friend_2">Espero que este lugar se llene de sonrisas!</text>
-  <text id="Laetitia_friend_3">Espero encontrar muchos amigos aquí~</text>
-  <text id="Laetitia_friend_4">¿Cómo fue mi broma? Fue divertida, ¿verdad? ¡Tu cara me lo dice!</text>
-  <text id="Laetitia_friend_5">Eres feliz de que seamos amigos, ¿verdad? ¿Verdad? ¡Estoy super-duper-mega feliz!</text>
-  <text id="Laetitia_deadfrien_1">¡¡La gente aquí no sonríe!! Eso es tan sombrío.</text>
-  <text id="Laetitia_deadfrien_2">Mis amigos… ¿Dónde se fueron…?</text>
-  <text id="Laetitia_deadfrien_3">¿Me dejaron por qué me odiaban…? ¿No puedes ser mi amigo en mi lugar?</text>
-  <text id="Laetitia_deadfrien_4">Todos somos amigos… ¿Verdad?</text>
-  <text id="Laetitia_deadfrien_5">Las despedidas son tristes y me hacen sentir sola… Sé mi amigo. ¿Porfavorsito?</text>
+  <text id="GreedKing_noreasonAttackFail_2">……Uf.</text>
+  <text id="GreedKing_noreasonAttackFail_3">……Haah…</text>
   
-  <text id="H_Angela_BlackSwan_1">Pensé que las cosas funcionarían si trabajaba más duro…</text>
-  <text id="H_Angela_BlackSwan_2">Mi ropa hecha de ortigas… que está aún incompleta…</text>
-  <text id="H_Angela_BlackSwan_3">Un poco más… Solo un poco más. Casi estoy ahí. Solo intento un poco más… Aguanta solo un poco más…</text>
-  <text id="H_Angela_BlackSwan_4">Abrí mi boca. Llenada de cosas repugnantes que derramaron de inmediato.</text>
-  <text id="H_Angela_BlackSwan_5">¿Qué sucede cuando un ser de ensueño se enfrenta a la realidad?</text>
-  <text id="H_Angela_BlackSwan_6">Una vez, Intenté soñar con un final feliz para todos.</text>
-  <text id="H_Angela_BlackSwan_7">Los veo a todos a la distancia. Los seres que no pude evitar amar.</text>
-  <text id="H_Angela_BlackSwan_8">No quiero despertar… Me da miedo enfrentarme a la realidad.</text>
-  <text id="H_Angela_BlackSwan_9">Si pudiera ver el futuro que soñé solo por un momento…</text>
-  <text id="H_Angela_BlackSwan_10">Palabras como “Algún día” solo traerá malestar y nada más.</text>
-  <text id="H_Angela_Laetitia_1">Qué me obligo a traerlos conmigo, Me pregunto.</text>
-  <text id="H_Angela_Laetitia_2">No pude simplemente dejarlos pudrirse…</text>
-  <text id="H_Angela_Laetitia_3">Nunca podría construir una relación con ellos.</text>
-  <text id="H_Angela_Laetitia_4">¿Fue por qué estaba sola? Nunca pensé que estuviera atada a tales sentimientos.</text>
-  <text id="H_Angela_Laetitia_5">Deseo encontrar muchos amigos en este lugar. ¿No piensas lo mismo?</text>
-  <text id="H_Angela_Laetitia_6">El contenido de los regalos es un secreto.</text>
-  <text id="H_Angela_Laetitia_7">Preparé esto para ti. Quiero que lo aceptes.</text>
-  <text id="H_Angela_Laetitia_8">No veo ninguna sonrisa. Todo se ve tan sombrío. Incluyendome.</text>
-  <text id="H_Angela_Laetitia_9">No había nada que pudiera hacer, solo mirar desde lejos.</text>
-  <text id="H_Angela_Bug_1">Esto es para proteger el lugar donde pertenezco…</text>
-  <text id="H_Angela_Bug_2">Sí… Quizás no tenga el corazón para deshacerme de ti…</text>
-  <text id="H_Angela_Bug_3">Para asegurarme que nada escape de mi mirada, mis ojos se movieron sin parar…</text>
-  <text id="H_Angela_Bug_4">Ustedes perderán lentamente la esperanza.</text>
-  <text id="H_Angela_Bug_5">Dejando escapar débiles suspiros, esperando por una próxima vez que podría nunca venir…</text>
-  <text id="H_Angela_Bug_6">Para engordar a un ser aún incompleto… Mucho es necesario.</text>
-  <text id="H_Angela_Bug_7">No se puede evitar. El libro final me liberará… es mi todo.</text>
-  <text id="H_Angela_Bug_8">Tener que contemplar toda la desesperación de principio a fin… Yo colapsé al final.</text>
-  <text id="H_Angela_Bug_9">Solo deseaba cerrar mis ojos. Por qué me molesté en intentar llegar a ti algún día. ¿Qué es lo bueno que vi en ti?</text>
-  <text id="H_Angela_Red_1">Mantén tus manos lejos… ¿Ahora estás intentando tomar lo único que tengo?</text>
-  <text id="H_Angela_Red_2">He perdido tanto como para dejar ir lo poco que tengo entre mis manos.</text>
-  <text id="H_Angela_Red_3">Es todo lo que me queda… No hay nada más…</text>
-  <text id="H_Angela_Red_4">Con esta hermosa, brillante cosa en mi poseción, No tengo nada que envidiarle al mundo.</text>
-  <text id="H_Angela_Red_5">Esto es mio… Esto significa todo para mi, ¡¡no te lo lleves!!!</text>
-  <text id="H_Angela_Red_6">Con más sangre pintada encima, estos zapatos y yo… estamos teñidos en belleza.</text>
-  <text id="H_Angela_Red_7">Necesito esto… No sé como volverme mejor yo misma…</text>
-  <text id="H_Angela_Red_8">Solo estos zapatos… pueden hacerme danzar. ¡Ellos hacen que me mueva!</text>
-  <text id="H_Angela_Red_9">Si querías pararme, deberías haberlo hecho desde el comienzo…</text>
-  <text id="H_Angela_Red_10">Estaré encantada de arriesgar que mi pierna sea cortada, sin ser capaz de caminar…</text>
-  <text id="H_Angela_Red_11">El glamour es para mí sola… ¡Nadie puede poner un dedo encima!</text>
-  <text id="H_Angela_Shy_1">Podría tener todo este espacio para mí sola…</text>
-  <text id="H_Angela_Shy_2">Quizás no me hubiera sentido tan mal si no pudiera acercarme a ustedes por mi timidez.</text>
-  <text id="H_Angela_Shy_3">Esta es la última pizca de generosidad que la Ciudad puede ofrecerme.</text>
-  <text id="H_Angela_Shy_4">¿Dónde está el sitio donde puedo descansar con paz en mi mente? ¿No existe tal lugar?</text>
-  <text id="H_Angela_Shy_5">Un hogar… Un lugar donde no tenga que preocuparme de la atención de otros… Eso es lo que deseo.</text>
-  <text id="H_Angela_Shy_6">Este lugar no me permite sonreír o desesperar. ¿Qué expresión debo hacer entonces?</text>
-  <text id="H_Angela_Shy_7">No existe un lugar para mí en ningún lugar. Tuve que hacerlo yo misma, incluso si me costaba mi piel.</text>
-  <text id="H_Angela_Shy_8">Cuando las emociones surgen, lo mejor es cerrar los ojos.</text>
+  <text id="GreedKing_noreasonAttackWin_1">Eu vou… devorar tudo… Devorar tudo que está no meu caminho…</text>
+  <text id="GreedKing_noreasonAttackWin_2">Eu não estou ouvindo nada…! Finalmente… é a minha vez…</text>
+  <text id="GreedKing_noreasonAttackWin_3">Torne-se uma refeição para mim… Sacie meus desejos…</text>
+  <!-- Laetitia -->
+  <text id="Laetitia_nomal_1">Eu não poderia deixar meus amigos para trás… então eu tive uma idéia brilhante!!</text>
+  <text id="Laetitia_nomal_2">Não se preocupe~ Só os malvados machucam os amigos.</text>
+  <text id="Laetitia_nomal_3">Quando você abre o presente, você vai se surpreender, tipo UAU!!</text>
+  <text id="Laetitia_nomal_4">O que tem dentro do presente? É segredo! É chato estragar a surpresa.</text>
+  <text id="Laetitia_nomal_5">Amigos não brigam entre si. Nananinanão!</text>
+  <text id="Laetitia_nomal_6">Brinca comigo! Junte-se a meus amigos e venha rir com a gente.</text>
 
+  <text id="Laetitia_friend_1">Esse lugar ficará mais animado quanto mais amigos eu tiver!</text>
+  <text id="Laetitia_friend_2">Espero que este lugar esteja repleto de risadas!</text>
+  <text id="Laetitia_friend_3">Espero encontrar um montão de amigos aqui~</text>
+  <text id="Laetitia_friend_4">Como foi a minha pegadinha? Foi divertida, não foi? A sua cara diz que sim!</text>
+  <text id="Laetitia_friend_5">Você está feliz por eu ser sua amiga, né? Né? Eu tô super-duper-mega feliz!</text>
+  
+  <text id="Laetitia_deadfrien_1">As pessoas aqui não sorriem!! Isso é tão sombrio.</text>
+  <text id="Laetitia_deadfrien_2">Meus amigos… Pra onde eles foram…?</text>
+  <text id="Laetitia_deadfrien_3">Será que eles partiram porque me odeiam…? Vocês não podem ser meus amigos no lugar deles?</text>
+  <text id="Laetitia_deadfrien_4">Somos todos amigos… Né?</text>
+  <text id="Laetitia_deadfrien_5">Despedidas são tristes e me deixam sozinha… Faz amizade comigo. Por favorzinho?</text>
+  <!-- Floor of History Realization -->
+  <text id="H_Angela_BlackSwan_1">Eu pensei que as coisas iriam se resolver se eu me esforçasse mais…</text>
+  <text id="H_Angela_BlackSwan_2">Minha roupa feita de urtigas… que ainda está incompleta…</text>
+  <text id="H_Angela_BlackSwan_3">Mais um pouco… Só mais um pouquinho. Estou quase lá. Tente apenas um pouco mais… Aguente só um pouco mais…</text>
+  <text id="H_Angela_BlackSwan_4">Eu abri minha boca. Coisas nojentas engarrafadas dentro de mim foram cuspidas.</text>
+  <text id="H_Angela_BlackSwan_5">O que acontece quando um ser sonhador se depara com a realidade?</text>
+  <text id="H_Angela_BlackSwan_6">Uma vez, eu tentei sonhar um sonho feliz com todo mundo.</text>
+  <text id="H_Angela_BlackSwan_7">Eu vejo todos vocês de longe. Os seres que eu não pude deixar de amar.</text>
+  <text id="H_Angela_BlackSwan_8">Eu não quero acordar… Tenho medo de encarar essa realidade.</text>
+  <text id="H_Angela_BlackSwan_9">Se eu pudesse ver o futuro que sonhei por apenas um momento…</text>
+  <text id="H_Angela_BlackSwan_10">Palavras como “algum dia” só trarão desconforto e nada mais.</text>
+
+  <text id="H_Angela_Laetitia_1">Eu devo me perguntar o que me levou a trazer vocês comigo.</text>
+  <text id="H_Angela_Laetitia_2">Eu não poderia deixar todos vocês apodrecendo…</text>
+  <text id="H_Angela_Laetitia_3">Eu nunca poderia ter esperança de construir qualquer tipo de relacionamento com eles.</text>
+  <text id="H_Angela_Laetitia_4">Foi devido à solidão? Eu pensei que nunca tive apego a tal sentimento.</text>
+  <text id="H_Angela_Laetitia_5">Desejo encontrar muitos amigos neste lugar. Você também não acha?</text>
+  <text id="H_Angela_Laetitia_6">O conteúdo do presente é um segredo.</text>
+  <text id="H_Angela_Laetitia_7">Eu preparei isso para você. Quero que você aceite.</text>
+  <text id="H_Angela_Laetitia_8">Eu não vejo nenhum sorriso. Todos parecem tristes. Incluindo eu.</text>
+  <text id="H_Angela_Laetitia_9">Não havia nada que eu pudesse fazer, a não ser observar de longe.</text>
+
+  <text id="H_Angela_Bug_1">É para proteger o lugar onde pertenço…</text>
+  <text id="H_Angela_Bug_2">Sim… Talvez eu não tenha coragem de me livrar de vocês afinal…</text>
+  <text id="H_Angela_Bug_3">Para garantir que nada escapasse à minha atenção, meus olhos se moviam sem parar…</text>
+  <text id="H_Angela_Bug_4">Vocês vão perder a esperança aos poucos.</text>
+  <text id="H_Angela_Bug_5">Soltando suspiros fracos, esperando por uma próxima vez que pode nunca chegar…</text>
+  <text id="H_Angela_Bug_6">Para engordar o ser ainda incompleto… Muito é necessário.</text>
+  <text id="H_Angela_Bug_7">Não tem jeito. O único livro que vai me libertar… é o meu tudo.</text>
+  <text id="H_Angela_Bug_8">Tendo que testemunhar todo o desespero deles do começo ao fim… Eu finalmente desabei.</text>
+  <text id="H_Angela_Bug_9">Eu só queria fechar os olhos. Por que me incomodei em alimentar a esperança vazia de que um dia chegaria até você? Que bem eu vi em você?</text>
+
+  <text id="H_Angela_Red_1">Tira a mão… Agora você está tentando tirar a única coisa que eu tenho?</text>
+  <text id="H_Angela_Red_2">Perdi muito para abrir mão do pouco que me resta em minhas mãos.</text>
+  <text id="H_Angela_Red_3">Isso é tudo o que me resta… Não há nada mais…</text>
+  <text id="H_Angela_Red_4">Com essa coisa linda e brilhante em minha posse, não terei nada a invejar neste mundo.</text>
+  <text id="H_Angela_Red_5">Isso é meu… Isso significa tudo para mim, então não tire isso de mim!!!</text>
+  <text id="H_Angela_Red_6">Com mais sangue pintado, esses saltos e eu… estamos tingidos com beleza.</text>
+  <text id="H_Angela_Red_7">Eu preciso disso… Eu não sei como me tornar melhor sozinha…</text>
+  <text id="H_Angela_Red_8">Apenas esses saltos… podem me fazer dançar. Eles me fazem mover!</text>
+  <text id="H_Angela_Red_9">Se você queria me impedir, deveria ter feito isso desde o começo…</text>
+  <text id="H_Angela_Red_10">Terei prazer em arriscar que meus pés sejam cortados, não podendo mais andar…</text>
+  <text id="H_Angela_Red_11">Esse glamour é só para mim… Ninguém mais pode encostar um dedo nele!</text>
+
+  <text id="H_Angela_Shy_1">Eu poderia ter todo esse espaço para mim…</text>
+  <text id="H_Angela_Shy_2">Talvez eu não me sentiria tão mal se não pudesse me aproximar de vocês por timidez.</text>
+  <text id="H_Angela_Shy_3">É a última gota de generosidade que esta Cidade pode oferecer.</text>
+  <text id="H_Angela_Shy_4">Onde é o lugar onde posso descansar com alguma paz de espírito? Existe mesmo um lugar assim?</text>
+  <text id="H_Angela_Shy_5">Uma casa… Um lugar onde não preciso me importar com a atenção dos outros… É isso que eu estou desejando.</text>
+  <text id="H_Angela_Shy_6">Este lugar não permite nem riso nem desespero. Que tipo de expressão devo fazer, então?</text>
+  <text id="H_Angela_Shy_7">Eu não pertenço em lugar nenhum. Eu tive que fazer um eu mesma, mesmo que isso custasse minha pele.</text>
+  <text id="H_Angela_Shy_8">Quando emoções pulsantes surgem, é melhor fechar meus olhos.</text>
+  <!-- Alriune -->
   <text id="Alriune_nomal_1">Estas flores florecen sin parar, nunca para marchitarse.</text>
   <text id="Alriune_nomal_2">Estas fragantes flores acompañadas por el magnífico comienzo de mi descenso a la desesperación.</text>
   <text id="Alriune_nomal_3">El aroma de los pétalos te invitará a un mundo gentil.</text>
   <text id="Alriune_nomal_4">Si puedes oler la esencia que nunca se irá, tienes que estar en el mismo bosque que yo.</text>
   <text id="Alriune_nomal_5">Ven adelante. Abraza este olor que no se irá y ven a conocerme.</text>
+
   <text id="Alriune_attack_1">Volvamos al polvo con toda esta respiración.</text>
   <text id="Alriune_attack_2">Nací en la tierra, así que anhelo volver a ella.</text>
   <text id="Alriune_attack_3">Mi expiación termino en frialdad, jadeando por respirar.</text>
-  
+  <!-- Floor of Art Realization -->
   <text id="N_Angela_Orchestra_1_1">Legato. Por favor no intentes terminar esta actuación.</text>
   <text id="N_Angela_Orchestra_1_2">Pronto comenzaré una noble actuación, quemando mi vida.</text>
   <text id="N_Angela_Orchestra_1_3">Comencemos esta actuación. El apocalipsis para los pobres tú y yo.</text>
   <text id="N_Angela_Orchestra_1_4">He esperado tanto. Esperando mi turno…</text>
   <text id="N_Angela_Orchestra_1_5">Una actuación reservada para mí… Una que podría hacerme feliz.</text>
+
   <text id="N_Angela_Spacepiece_1">¿Era un esfuerzo inútil el tratar de entenderlo?</text>
   <text id="N_Angela_Spacepiece_2">Pensé que podrían entender mi duro trabajo aunque sea un poco.</text>
   <text id="N_Angela_Spacepiece_3">Grité y grité, pero nadie pudo comprenderme.</text>
@@ -534,6 +551,7 @@
   <text id="N_Angela_Spacepiece_8">Si solo pudiéramos entendernos los unos a los otros.</text>
   <text id="N_Angela_Spacepiece_9">¿Qué me hace tan diferente de ellos?</text>
   <text id="N_Angela_Spacepiece_10">Quería ser como ellos. Intenté serlo.</text>
+
   <text id="N_Angela_Kid_1">En un momento, la negra oscuridad como el carbón me devoró.</text>
   <text id="N_Angela_Kid_2">Pensé que no estaría sola hasta el final.</text>
   <text id="N_Angela_Kid_3">Quería desprenderme de todo, pero entonces me di cuenta que no tenía control sobre eso…</text>
@@ -544,6 +562,7 @@
   <text id="N_Angela_Kid_8">No puedo dejar que esto sea el final…</text>
   <text id="N_Angela_Kid_9">Camina en este cielo nocturno conmigo. La galaxia salpicada con numerosas esperanzas.</text>
   <text id="N_Angela_Kid_10">Quédate conmigo siempre. Nosotros somos… …s. ¿Verdad?</text>
+
   <text id="N_Angela_Porccubus_1">Déjanos hundirnos en la felicidad eterna.</text>
   <text id="N_Angela_Porccubus_2">Déjame ayudarte. Únete a mí y disfruta del placer…</text>
   <text id="N_Angela_Porccubus_3">Puedo disfrutar de todo este placer, ¿no es así?</text>
@@ -553,6 +572,7 @@
   <text id="N_Angela_Porccubus_7">No sería vivir si no tuviera ninguna esperanza de probar un poco del cielo.</text>
   <text id="N_Angela_Porccubus_8">Cuan lamentable y fútil esa vida era…</text>
   <text id="N_Angela_Porccubus_9">Permíteme tener la más mínima felicidad, incluso si es tan poca para apenas mantenerme viva.</text>
+
   <text id="N_Angela_Alriune_1">El mundo que es oscuro, ya que no puede ser visto, se vuelve incluso más oscuro.</text>
   <text id="N_Angela_Alriune_2">Si yo aguanto y aguanto, quizas pueda tener una bocanada de esta escencia.</text>
   <text id="N_Angela_Alriune_3">Una muñeca que anhelaba ser humana…</text>
@@ -562,6 +582,7 @@
   <text id="N_Angela_Alriune_7">Cargando una alma en sus ojos, ella nació con la anticipación de cierta persona.</text>
   <text id="N_Angela_Alriune_8">Tuve que presenciar la génesis y el transcurso de todo.</text>
   <text id="N_Angela_Alriune_9">Anhelé la vida y entonces me di cuenta.</text>
+
   <text id="N_Angela_Orchestra_2_1">Da capo. Volvamos al inicio y comencemos una actuación juntos.</text>
   <text id="N_Angela_Orchestra_2_2">Apláudeme. Dame la prueba de que mi vida tiene significado.</text>
   <text id="N_Angela_Orchestra_2_3">Te abrumaré con la emoción y tendrás que levantarte para gritar.</text>
@@ -571,7 +592,7 @@
   <text id="N_Angela_Orchestra_2_7">Esta melodía será la realización de que en verdad viví.</text>
   <text id="N_Angela_Orchestra_2_8">Si pudiera meterme en los demás y hacerlos vivir una nueva vida, Entonces podría permanecer en las memorias de todos.</text>
   <text id="N_Angela_Orchestra_2_9">Para la audiencia que tendrá un nudo en la garganta por esta actuación.</text>
-
+  <!-- Snow Queen -->
   <text id="Snow_nomal_1">Bueno, entonces… Demuéstrame tu valentía.</text>
   <text id="Snow_nomal_2">A ver si puedes descongelar esta escarcha…</text>
   <text id="Snow_nomal_3">Debo elogiar tu coraje por venir hasta aquí.</text>

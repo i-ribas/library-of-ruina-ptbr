@@ -268,112 +268,144 @@
 	<text id="Y_Angela_Der_librarian3_start">Pois é… Vamos manter o foco até o fim…</text>
 	<text id="Y_Angela_Der_librarian4_start">…Tá ficando mais difícil aguentar as pancadas. Parece que só resta um pouquinho, né?</text>
   <!-- Big and Will be Bad Wolf -->
-  <text id="Wolf_Gebura_start">Cuidado, no es tan débil como parece.</text>
+  <text id="Wolf_Gebura_start">Prestem atenção, ele não é tão fraco quanto ele parece.</text>
   <text id="Wolf_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
-  <text id="Wolf_Gebura_kill">Un ser que estaba destinado a ser malvado… Bien, regresemos.</text>
-  <text id="Wolf_librarian1_start">¿Este chico se ve bastante dócil? Quizás el lobo aterrador fue solo una ilusión de la Caperucita Roja.</text>
-  <text id="Wolf_librarian1_kill">… En general, esto es muy lamentable.</text>
-  <text id="Wolf_librarian2_start">¿Así que nunca viste su otra forma ya que eras un nuevo recluta? Dejame contarte lo feroz que se veía.</text>
-  <text id="Wolf_librarian2_kill">No es lamentable para mí. Estaba destinado a ser el malo.</text>
-  
-  <text id="GreedKing_Tiphereth_start">Cuidado. Es imprudente meterse en su camino sin ningún plan.</text>
+  <text id="Wolf_Gebura_kill">Um ser que estava destinado a ser malvado… Belê, vamos voltar agora.</text>
+
+  <text id="Wolf_librarian1_start">Esse cara parece bem dócil? Talvez aquele lobo assustador fosse apenas uma ilusão da Chapeuzinho Vermelho.</text>
+  <text id="Wolf_librarian1_kill">…Ele era bastante lamentável, no geral.</text>
+
+  <text id="Wolf_librarian2_start">Ahm, então você nunca chegou a ver a forma real dele porque era novato? Deixa eu contar o quão feroz ele era.</text>
+  <text id="Wolf_librarian2_kill">Para mim não é tão lamentável. Ele estava destinado a ser mau, afinal.</text>
+  <!-- The King of Greed -->
+  <text id="GreedKing_Tiphereth_start">Cuidado. É imprudente ficar no caminho dela sem qualquer preparação.</text>
   <text id="GreedKing_Tiphereth_die">Eu fui muito… previsível…</text>
-  <text id="GreedKing_Tiphereth_kill">… Es lo mismo. Ella ya no era una chica mágica.</text>
-  <text id="GreedKing_librarian1_start">Es el mismo resplandor dorado que antes…</text>
-  <text id="GreedKing_librarian1_kill">Bueno… No tiene sentido desear la felicidad de los otros sin contarte a ti mismo.</text>
-  <text id="GreedKing_librarian2_start">Definitivamente. Recuerdo cuando corrí por mi vida…</text>
-  <text id="GreedKing_librarian2_kill">La avaricia nunca cambiará, supongo…</text>
-  <text id="GreedKing_librarian3_start">Siempre que la veía aparecer desde el otro lado del pasillo… Era aterrador.</text>
-  <text id="GreedKing_librarian3_kill">Cómo puede algo como la codicia ser tan deslumbrante…</text>
+  <text id="GreedKing_Tiphereth_kill">…É tudo igual. Ela não era mais uma garota mágica.</text>
 
-  <text id="Laetitia_Hod_start">Me siento mal por ella, pero… ¿Quizás eso podría funcionar?</text>
+  <text id="GreedKing_librarian1_start">O esplendor dourado é o mesmo de antes…</text>
+  <text id="GreedKing_librarian1_kill">Bem… Não faz sentido desejar a felicidade dos outros sem incluir a sua.</text>
+
+  <text id="GreedKing_librarian2_start">Definitivamente. Eu lembro de correr pela minha vida…</text>
+  <text id="GreedKing_librarian2_kill">A avareza endurecida nunca mudará, pelo que parece…</text>
+
+  <text id="GreedKing_librarian3_start">Sempre que eu via ela rastejando do outro lado do corredor… Era aterrorizante.</text>
+  <text id="GreedKing_librarian3_kill">Como pode algo como a ganância ser tão deslumbrante…</text>
+  <!-- Laetitia -->
+  <text id="Laetitia_Hod_start">Sinto muito pela criança, mas… Talvez isso funcione?</text>
   <text id="Laetitia_Hod_die">Meu corpo está dormente, o que eu faço…</text>
-  <text id="Laetitia_Hod_kill">Me siento un poco culpable…</text>
-  <text id="Laetitia_librarian1_start">Escúchenme; ¿y si usamos sus ganas de hacer amigos en nuestro beneficio?…</text>
-  <text id="Laetitia_librarian1_kill">Amigo, ¿eh?… Incluso un monstruo puede ser amigo de alguien.</text>
-  <text id="Laetitia_librarian2_start">… ¿Ese no es el tipo de regalo que querrías, verdad?</text>
-  <text id="Laetitia_librarian2_kill">No se siente bien alejar a este pequeño de ella…</text>
-  <text id="Laetitia_librarian3_start">Por mucho que sea bueno cuidar a tus amigos…</text>
-  <text id="Laetitia_librarian3_kill">La inocencia puede dar mucho miedo… Esto fue simplemente espeluznante.</text>
-  
-  <text id="H_Angela_BlackSwan_Hod_start">Preparémonos. No se agoten rápidamente, ¿okay?</text>
-  <text id="H_Angela_BlackSwan_Hod_die">Yo fui… un problema hasta el final.</text>
-  <text id="H_Angela_BlackSwan_librarian1_start">No se preocupen. Solo tenemos que creer en Hod y seguirla.</text>
-  <text id="H_Angela_BlackSwan_librarian2_start">… Este es el tipo de cosas que yo veía en una unidad de contención.</text>
-  <text id="H_Angela_BlackSwan_librarian3_start">Esto no puede ser real… Que se supone que tenemos que hacer…</text>
-  <text id="H_Angela_BlackSwan_librarian4_start">E-estás diciendo que la Señorita Angela… ¿se transformó en eso…?</text>
-  <text id="H_Angela_Laetitia_Hod_start">Supongo que no podemos entender completamente la historia de los demás.</text>
-  <text id="H_Angela_Laetitia_Hod_die">Yo fui… un problema hasta el final.</text>
-  <text id="H_Angela_Laetitia_librarian1_start">Por eso que es que no podemos ser tan duros con ella.</text>
-  <text id="H_Angela_Laetitia_librarian2_start">Tú dime. Yo no puedo hablar de cosas que nunca experimente.</text>
-  <text id="H_Angela_Laetitia_librarian3_start">Me pregunto que tan solo se debe sentir el no poder construir relaciones, sin importar lo que hagas.</text>
-  <text id="H_Angela_Laetitia_librarian4_start">…Que papel tan cruel tuvo que cumplir.</text>
-  <text id="H_Angela_Bug_Hod_start">… Okay. Tenemos que hacer lo que debemos ahora mismo.</text>
-  <text id="H_Angela_Bug_Hod_die">Yo fui… un problema hasta el final.</text>
-  <text id="H_Angela_Bug_librarian1_start">Tienes razón. No había nada que pudieras hacer en esa situación.</text>
-  <text id="H_Angela_Bug_librarian2_start">Hod… Por favor no te preocupes demasiado por esto.</text>
-  <text id="H_Angela_Bug_librarian3_start">Verdad. … Esto es muy raro. Y aún no entiendo que está pasando.</text>
-  <text id="H_Angela_Bug_librarian4_start">La señorita Angela se está volviendo cada vez más espeluznante…</text>
-  <text id="H_Angela_Red_Hod_start">Ella piensa que no tiene nada para ella misma… Estoy segura.</text>
-  <text id="H_Angela_Red_Hod_die">Yo fui… un problema hasta el final.</text>
-  <text id="H_Angela_Red_librarian1_start">¿Podría ser sobre ese… “Libro perfecto” que estaba buscando?</text>
-  <text id="H_Angela_Red_librarian2_start">Quizás es su propia felicidad…</text>
-  <text id="H_Angela_Red_librarian3_start">No estoy seguro de lo que está deseando.</text>
-  <text id="H_Angela_Red_librarian4_start">Deseo y obsesión empapados en sangre…</text>
-  <text id="H_Angela_Shy_Hod_start">Pienso que casi acabamos… Resistan un poco más.</text>
-  <text id="H_Angela_Shy_Hod_die">Yo fui… un problema hasta el final.</text>
-  <text id="H_Angela_Shy_librarian1_start">Bueno, de todas maneras… Tenemos un trabajo que terminar.</text>
-  <text id="H_Angela_Shy_librarian2_start">Pero… No hay manera que un hogar obtenido de esta manera pueda ser bueno.</text>
-  <text id="H_Angela_Shy_librarian3_start">¿Ella estaba buscando un lugar para descansar?</text>
-  <text id="H_Angela_Shy_librarian4_start">¿Cómo puede verse tan horrible…?</text>
+  <text id="Laetitia_Hod_kill">Eu tô sentindo meio culpada…</text>
 
+  <text id="Laetitia_librarian1_start">Saca só; e se usássemos a hospitalidade dela com os amigos a nosso favor…</text>
+  <text id="Laetitia_librarian1_kill">Amigos, em… Até aquela coisa pode ser amiga de alguém.</text>
+
+  <text id="Laetitia_librarian2_start">…Esse não é o tipo de presente que você gostaria de receber, né?</text>
+  <text id="Laetitia_librarian2_kill">Não me sinto bem em ter que tirar esse bixinho dela…</text>
+
+  <text id="Laetitia_librarian3_start">Por mais que seja agradável cuidar do seu amigo…</text>
+  <text id="Laetitia_librarian3_kill">A inocência realmente pode ser assustadora… Isso foi completamente horripilante.</text>
+  <!-- Floor of History Realization -->
+  <text id="H_Angela_BlackSwan_Hod_start">Vamos nos preparar. Não se cansem rápido, ok?</text>
+  <text id="H_Angela_BlackSwan_Hod_die">…Eu fui nada além de problemas até o fim.</text>
+
+  <text id="H_Angela_BlackSwan_librarian1_start">Não se preocupem, galera. Só precisamos confiar na Hod e segui-la.</text>
+  <text id="H_Angela_BlackSwan_librarian2_start">…Este é o tipo de coisa que eu veria numa unidade de contenção.</text>
+  <text id="H_Angela_BlackSwan_librarian3_start">Isso não é real… O que nós vamos fazer…</text>
+  <text id="H_Angela_BlackSwan_librarian4_start">V-Você tá dizendo que… é aquilo que a senhora Angela se tornou…?</text>
+
+  <text id="H_Angela_Laetitia_Hod_start">Eu acho que nós não conseguimos entender completamente um ao outro.</text>
+  <text id="H_Angela_Laetitia_Hod_die">…Eu fui nada além de problemas até o fim.</text>
+
+  <text id="H_Angela_Laetitia_librarian1_start">É por isso que não podemos ter pressa em compreender ela.</text>
+  <text id="H_Angela_Laetitia_librarian2_start">Pois é. Eu que não vou falar sobre algo que eu nunca passei.</text>
+  <text id="H_Angela_Laetitia_librarian3_start">Imagino o quão solitário deve ter sido ser incapaz de construir relacionamentos, não importa o que você faça.</text>
+  <text id="H_Angela_Laetitia_librarian4_start">…Ela teve que fazer um papel tão cruel.</text>
+
+  <text id="H_Angela_Bug_Hod_start">…Certo. Temos que fazer o que devemos fazer agora mesmo.</text>
+  <text id="H_Angela_Bug_Hod_die">…Eu fui nada além de problemas até o fim.</text>
+
+  <text id="H_Angela_Bug_librarian1_start">Sim, claro. Não havia muito que você pudesse fazer sobre a situação.</text>
+  <text id="H_Angela_Bug_librarian2_start">Hod… Por favor não fique muito preocupada com isso.</text>
+  <text id="H_Angela_Bug_librarian3_start">Verdade. …É bizarro, com certeza. E eu ainda não entendi o que está acontecendo.</text>
+  <text id="H_Angela_Bug_librarian4_start">A senhora Angela está ficando ainda mais assustadora…</text>
+
+  <text id="H_Angela_Red_Hod_start">Ela acha que não tem nada para si… Eu tenho certeza.</text>
+  <text id="H_Angela_Red_Hod_die">…Eu fui nada além de problemas até o fim.</text>
+
+  <text id="H_Angela_Red_librarian1_start">Poderia ser sobre aquele… “livro perfeito” que ela estava procurando?</text>
+  <text id="H_Angela_Red_librarian2_start">Talvez seja a felicidade dela…</text>
+  <text id="H_Angela_Red_librarian3_start">Mas eu não tenho certeza do que ela está desejando.</text>
+  <text id="H_Angela_Red_librarian4_start">Desejo e obsessão encharcados em sangue…</text>
+
+  <text id="H_Angela_Shy_Hod_start">Eu acho que estamos quase no fim… Aguenta aí.</text>
+  <text id="H_Angela_Shy_Hod_die">…Eu fui nada além de problemas até o fim.</text>
+
+  <text id="H_Angela_Shy_librarian1_start">Bem, de qualquer jeito… Temos um trabalho a terminar.</text>
+  <text id="H_Angela_Shy_librarian2_start">Mas… Não há como uma casa conquistada dessa maneira ser reconfortante.</text>
+  <text id="H_Angela_Shy_librarian3_start">Será que ela estava apenas procurando um lugar para descansar?</text>
+  <text id="H_Angela_Shy_librarian4_start">Ela poderia ter uma aparência tão horrível assim…?</text>
+  <!-- Alriune -->
   <text id="Alriune_netzach_start">Quizás… Vamos a necesitar algo que pueda entender a esa cosa.</text>
   <text id="Alriune_netzach_die">Resultados à parte, acho que posso dormir bem agora…</text>
   <text id="Alriune_netzach_kill">… El aroma no se va.</text>
+
   <text id="Alriune_librarian1_start">Eso es horrible… ¿Dónde se supone que está este “bosque profundo”?</text>
   <text id="Alriune_librarian1_kill">Tengo un olor a quemado dentro de mi boca.</text>
+
   <text id="Alriune_librarian2_start">… Su arma también tenía el mismo olor.</text>
   <text id="Alriune_librarian2_kill">Se veía muy elegante…</text>
+
   <text id="Alriune_librarian3_start">Uf… El aroma es tan fuerte como siempre.</text>
   <text id="Alriune_librarian3_kill">Es cierto que era un hermoso paisaje… Pero no era placentero mirarlo.</text>
-  
+  <!-- Floor of Art Realization -->
   <text id="N_Angeala_Orchestra_1_netzach_start">… Una cosa es segura: Podemos salvarla.</text>
   <text id="N_Angeala_Orchestra_1_netzach_die">… Lo siento, no pude ayudar mucho.</text>
+
   <text id="N_Angeala_Orchestra_1_librarian1_start">¿Qué podemos hacer? Tenemos que creer…</text>
   <text id="N_Angeala_Orchestra_1_librarian2_start">Netzach… ¿Dime que hay una manera de salir de esto…?</text>
   <text id="N_Angeala_Orchestra_1_librarian3_start">Creo que escuché sobre esto…</text>
   <text id="N_Angeala_Orchestra_1_librarian4_start">¿Está a punto de suceder de nuevo…?</text>
+
   <text id="N_Angeala_Spacepiece_netzach_start">Tú podría seguridad viene primero… Díganme si estan demasiado exhaustos.</text>
   <text id="N_Angeala_Spacepiece_netzach_die">… Lo siento, no pude ayudar mucho.</text>
+
   <text id="N_Angeala_Spacepiece_librarian1_start">Somos los únicos que podemos ayudarla ahora.</text>
   <text id="N_Angeala_Spacepiece_librarian2_start">Parece que estamos en medio de algo complicado…</text>
   <text id="N_Angeala_Spacepiece_librarian3_start">No estés tan deprimido, ¿okay? Tenemos que darle un intento.</text>
   <text id="N_Angeala_Spacepiece_librarian4_start">No es normal… ¿Podemos siquiera llegar al final de esto…?</text>
+
   <text id="N_Angeala_Kid_netzach_start">Lo que significa que también se está volviendo más peligroso…</text>
   <text id="N_Angeala_Kid_netzach_die">… Lo siento, no pude ayudar mucho.</text>
+
   <text id="N_Angeala_Kid_librarian1_start">… ¿Soy solo yo, o todo está empeorando?</text>
   <text id="N_Angeala_Kid_librarian2_start">Supongo que pedirles prestado su poder no es siempre algo bueno…</text>
   <text id="N_Angeala_Kid_librarian3_start">¿Es… posible ser poseídos de esa manera?</text>
   <text id="N_Angeala_Kid_librarian4_start">Juntos por siempre, ¿eh?… Ella está diciendo las mismas cosas que él decía.</text>
+
   <text id="N_Angeala_Porccubus_netzach_start">… No tienes que intentar entenderlo demasiado.</text>
   <text id="N_Angeala_Porccubus_netzach_die">… Lo siento, no pude ayudar mucho.</text>
+
   <text id="N_Angeala_Porccubus_librarian1_start">¿Cómo se supone que vamos a entendernos los unos a los otros? Es injusto que ella no hable de esto.</text>
   <text id="N_Angeala_Porccubus_librarian2_start">Podemos preocuparnos por esto luego.</text>
   <text id="N_Angeala_Porccubus_librarian3_start">No lo entiendo. Por qué ella tuvo que ir tan lejos…</text>
   <text id="N_Angeala_Porccubus_librarian4_start">Si ella quería vivir tan desesperadamente, ella debería entender como nos sentimos…</text>
+
   <text id="N_Angeala_Alriune_netzach_start">Casi acabamos. Solo un poco más…</text>
   <text id="N_Angeala_Alriune_netzach_die">… Lo siento, no pude ayudar mucho.</text>
+  
   <text id="N_Angeala_Alriune_librarian1_start">Lamento presionarlos tanto, pero animémonos hasta que esto acabe.</text>
   <text id="N_Angeala_Alriune_librarian2_start">Por favor, estaremos bastante jodidos se cualquiera de nosotros es derrotado…</text>
   <text id="N_Angeala_Alriune_librarian3_start">¿Estás bien? ¿Quieres retroceder por un poco?</text>
   <text id="N_Angeala_Alriune_librarian4_start">… Buf, No me estoy sintiendo nada bien.</text>
+
   <text id="N_Angeala_Orchestra_2_netzach_start">Terminemos con esto aquí y ahora, así no volveremos al comienzo.</text>
   <text id="N_Angeala_Orchestra_2_netzach_die">… Lo siento, no pude ayudar mucho.</text>
+
   <text id="N_Angeala_Orchestra_2_librarian1_start">No hicimos nada malo, ¿verdad?</text>
   <text id="N_Angeala_Orchestra_2_librarian2_start">Esa forma…  Parece que somos su audiencia.</text>
+
   <text id="N_Angeala_Orchestra_2_librarian3_start">… Tan jodido como la primera vez.</text>
   <text id="N_Angeala_Orchestra_2_librarian4_start">¿Qué?… ¿Por qué estamos de vuelta?</text>
-
+  <!-- Snow Queen -->
   <text id="Snow_Roland_start">Umh, maldita sea… todo está congelado</text>
   <text id="Snow_Roland_die">… Esta tormenta está demasiado fría.</text>
   <text id="Snow_Roland_SaveLibrarian">Eh, ¿estás despierto?</text>
