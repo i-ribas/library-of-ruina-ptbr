@@ -614,8 +614,8 @@ Se o 'Presenteado' entrar em um Embate com outro personagem que não seja o bibl
 Quando o 'Presenteado' morrer, um novo 'Presente' pode ser dado.</AbilityDesc>
       <FlaborText>E quando a criança conhece alguém que ela gosta, ela da um presente que ela mesmo fez. Mas, o conteúdo do presente é um segredo!</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Quando você abre o presente, você vai ficar surpreso, tipo UAU!!</Dialogue>
-        <Dialogue ID="2">O que tem dentro do presente? É um segredo! É chato estragar a surpresa.</Dialogue>
+        <Dialogue ID="1">Quando você abre o presente, você vai se surpreender, tipo UAU!!</Dialogue>
+        <Dialogue ID="2">O que tem dentro do presente? É segredo! É chato estragar a surpresa.</Dialogue>
         <Dialogue ID="3">É um presente de coração que eu mesma fiz. Eu quero dar ele pra você!</Dialogue>
         <Dialogue ID="4">Ups… Ai se foi o segredo do presente.</Dialogue>
       </Dialogues>
@@ -629,7 +629,7 @@ O primeiro dado de qualquer Página de Combate que o bibliotecário usar sempre 
 Tome 2-7 de dano se rolar o valor mínimo.</AbilityDesc>
       <FlaborText>Então essa senhorita tomou uma decisão! Ficar aqui e nunca ir embora até as risadas serem restauradas nesse lugar! </FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Brinca comigo! Junte-se a meus amigos e venha rir com a gente!.</Dialogue>
+        <Dialogue ID="1">Brinca comigo! Junte-se a meus amigos e venha rir com a gente.</Dialogue>
         <Dialogue ID="2">Como foi a minha pegadinha? Foi divertida, não foi? A sua cara diz que sim!</Dialogue>
         <Dialogue ID="3">Não escutei nenhuma risada… Eles parecem tão tristes.</Dialogue>
         <Dialogue ID="4">Tudo o que eu quero é que você se divirta com minhas pegadinhas!</Dialogue>
@@ -646,7 +646,7 @@ A página com o 'Amigo' ganha 2-4 de Poder.
 Porém, se a página não for usada em 2 Cenas, ela se esgota, causando 2-7 de dano ao bibliotecário.</AbilityDesc>
       <FlaborText>Ela estava tão triste quando ela tinha que deixar os amigos para trás, então ela teve uma ideia brilhante!</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Eu não podia deixar meus amigos para trás, então tive uma ideia brilhante!!</Dialogue>
+        <Dialogue ID="1">Eu não podia deixar meus amigos para trás… então eu tive uma idéia brilhante!!</Dialogue>
         <Dialogue ID="2">Não se preocupe~ Só os malvados machucam os amigos.</Dialogue>
         <Dialogue ID="3">Esse lugar ficará mais animado quanto mais amigos eu tiver!</Dialogue>
         <Dialogue ID="4">Espero encontrar um montão de amigos aqui~</Dialogue>
@@ -661,7 +661,7 @@ Ao ganhar um Embate, inflige 1 de Amarrado, Frágil, Sangramento e Paralisia a t
       <FlaborText>Elijah caiu de joelhos e sua família começou a vomitar tudo o que todos os outros estavam vomitando.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">O lago ondulava gentilmente. Como se alguns cisneis tivessem voado.</Dialogue>
-        <Dialogue ID="2">Eu encarei a realidade. As coisas acumuladas foram cuspidas.</Dialogue>
+        <Dialogue ID="2">Eu encarei a realidade. Todas as coisas engarrafadas dentro de mim foram cuspidas.</Dialogue>
         <Dialogue ID="3">Comecei a vomitar tudo o que todos os outros estavam vomitando.</Dialogue>
         <Dialogue ID="4">Como se meus pulmões tivessem sido esfaqueados, explodiu conforme eu respirava.</Dialogue>
         <Dialogue ID="5">Vomitei uma mistura de sangue e resíduo verde.</Dialogue>
