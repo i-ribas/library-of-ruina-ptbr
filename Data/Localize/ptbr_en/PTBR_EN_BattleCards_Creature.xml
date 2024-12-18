@@ -86,7 +86,7 @@
       <Behaviour ID="2">Gana +5 de Poder si el objetivo está aturdido</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="900801">
-      <LocalizedName>Desejo Sanguíneo</LocalizedName>
+      <LocalizedName>Desejo Sanguinário</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="900802">
       <LocalizedName>Obsessão</LocalizedName>
