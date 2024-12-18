@@ -42,10 +42,10 @@
   <Name ID="9010521">O Esquecido</Name>
   <Name ID="9010531">Bater de Asas</Name>
   <Name ID="9010532">Multidão de Fadas</Name>
-  <Name ID="9010541">Avispón</Name>
+  <Name ID="9010541">Vespa</Name>
   <Name ID="9010542">Abelha-Operária</Name>
-  <Name ID="9010551">Tallo verde</Name>
-  <Name ID="9010552">Pared de vides</Name>
+  <Name ID="9010551">Caule Verde</Name>
+  <Name ID="9010552">Parede de Vinhas</Name>
 <!--                        -->
 
   <Name ID="9060101">Chapeuzinho Vermelha Mercenária</Name>
@@ -61,16 +61,16 @@
   <Name ID="9020403">Caleidoscópio de Borboletas</Name>
 
 <!-- Yesod Floor Realization EGO -->
-  <Name ID="9020511">Arrepentimiento</Name>
-  <Name ID="9020521">Grinder Mk. 5-2</Name>
+  <Name ID="9020511">Arrependimento</Name>
+  <Name ID="9020521">Moedor Mk. 5-2</Name>
   <Name ID="9020522">Auxiliar Geral</Name>
-  <Name ID="9020531">Armonía</Name>
+  <Name ID="9020531">Harmonia</Name>
   <Name ID="9020532">Máquina Cantora</Name>
   <Name ID="9020533">Funcionário Viciado</Name>
-  <Name ID="9020541">Lamento solemne</Name>
+  <Name ID="9020541">Lamento Solene</Name>
   <Name ID="9020542">Caleidoscópio de Borboletas</Name>
   <Name ID="9020543">Caleidoscópio de Borboletas</Name>
-  <Name ID="9020551">Bala mágica</Name>
+  <Name ID="9020551">Bala Mágica</Name>
 <!--                        -->
 
   <Name ID="9060201">Um Lobo</Name>
@@ -86,20 +86,20 @@
   <Name ID="9030403">Amiguinhos da Bruxinha</Name>
 
 <!-- Hod Floor Realization EGO -->
-  <Name ID="9030511">Expresión de hoy</Name>
-  <Name ID="9030521">Deseo sanguíneo</Name>
-  <Name ID="9030531">Ojos rojos</Name>
+  <Name ID="9030511">Expressão de Hoje</Name>
+  <Name ID="9030521">Desejo Sanguinário</Name>
+  <Name ID="9030531">Olhos Vermelhos</Name>
   <Name ID="9030532">Aranhinhas</Name>
   <Name ID="9030541">Laetitia</Name>
   <Name ID="9030542">Amigo Embrulhado</Name>
   <Name ID="9030543">Amiguinhos da Bruxinha</Name>
-  <Name ID="9030551">Cisne negro</Name>
-  <Name ID="9030552">Primer hermano</Name>
-  <Name ID="9030553">Segundo hermano</Name>
-  <Name ID="9030554">Tercer hermano</Name>
-  <Name ID="9030555">Cuarto hermano</Name>
-  <Name ID="9030556">Quinto hermano</Name>
-  <Name ID="9030557">Sexto hermano</Name>
+  <Name ID="9030551">Cisne Negro</Name>
+  <Name ID="9030552">Primeiro Irmão</Name>
+  <Name ID="9030553">Segundo Irmão</Name>
+  <Name ID="9030554">Terceiro Irmão</Name>
+  <Name ID="9030555">Quarto Irmão</Name>
+  <Name ID="9030556">Quinto Irmão</Name>
+  <Name ID="9030557">Sexto Irmão</Name>
 <!--                        -->
 
   <Name ID="9040401">Alriune</Name>
@@ -107,20 +107,20 @@
   <Name ID="9040403">Aquele que Emergiu da Terra</Name>
 
 <!-- Netzach Floor Realization EGO -->
-  <Name ID="9040511">Fragmentos de algún lugar</Name>
-  <Name ID="9040521">Nuestra galaxia</Name>
-  <Name ID="9040522">Amigos de la Galaxia</Name>
-  <Name ID="9040531">Placer</Name>
-  <Name ID="9040541">Aroma tenue</Name>
+  <Name ID="9040511">Fragmentos de Algum Lugar</Name>
+  <Name ID="9040521">Nossa Galáxia</Name>
+  <Name ID="9040522">Amigos da Galáxia</Name>
+  <Name ID="9040531">Prazer</Name>
+  <Name ID="9040541">Aroma Fraco</Name>
   <Name ID="9040542">Aquele que Emergiu da Terra</Name>
   <Name ID="9040543">Aquele que Emergiu da Terra</Name>
   <Name ID="9040551">Da Capo</Name>
   <Name ID="9040552">Intérprete</Name>
   <Name ID="9040561">Da Capo</Name>
-  <Name ID="9040562">Primer asiento</Name>
-  <Name ID="9040563">Segundo asiento</Name>
-  <Name ID="9040564">Tercer asiento</Name>
-  <Name ID="9040565">Cuarto asiento</Name>
+  <Name ID="9040562">Primeiro Assento</Name>
+  <Name ID="9040563">Segundo Assento</Name>
+  <Name ID="9040564">Terceiro Assento</Name>
+  <Name ID="9040565">Quarto Assento</Name>
 <!--                           -->
 
   <Name ID="9080101">Pássaro Grande</Name>
@@ -145,27 +145,27 @@
   <Name ID="9050403">Bastão da Eremita</Name>
 
 <!-- Tiphereth Floor Realization -->
-  <Name ID="9050511">En el nombre del amor y el odio</Name>
-  <Name ID="9050521">La espada afilada con lágrimas</Name>
-  <Name ID="9050522">Espada de una cabellera olvidada</Name>
-  <Name ID="9050531">Carrera dorada</Name>
-  <Name ID="9050532">Carrera dorada</Name>
+  <Name ID="9050511">Em Nome do Amor e Ódio</Name>
+  <Name ID="9050521">A Espada Afiada com Lágrimas</Name>
+  <Name ID="9050522">Espada de uma Cavalheira Esquecida</Name>
+  <Name ID="9050531">Corrida do Ouro</Name>
+  <Name ID="9050532">Corrida do Ouro</Name>
   <Name ID="9050533">Beatitude Brilhante</Name>
-  <Name ID="9050541">Rabia ciega</Name>
+  <Name ID="9050541">Raiva Cega</Name>
   <Name ID="9050542">Eremita da Floresta Azulada</Name>
   <Name ID="9050543">Bastão da Eremita</Name>
 
   <Name ID="9050550">Nihil</Name>
-  <Name ID="9050551">Odio petrificado</Name>
-  <Name ID="9050552">Desesperación endurecida</Name>
-  <Name ID="9050553">Codicia fosilizada</Name>
-  <Name ID="9050554">Ira lapidificada</Name>
-  <Name ID="9050556">Espada sin un dueño</Name>
+  <Name ID="9050551">Ódio Petrificado</Name>
+  <Name ID="9050552">Desespero Ossificado</Name>
+  <Name ID="9050553">Ganância Fossilizada</Name>
+  <Name ID="9050554">Ira Lapidificada</Name>
+  <Name ID="9050556">Espada sem um Dono</Name>
 
-  <Name ID="9050561">Chica magica del amor</Name>
-  <Name ID="9050562">Chica magica de la justicia</Name>
-  <Name ID="9050563">Chica magica de la felicidad</Name>
-  <Name ID="9050564">Chica magica del coraje</Name>
+  <Name ID="9050561">Garota Mágica do Amor</Name>
+  <Name ID="9050562">Garota Mágica da Justiça</Name>
+  <Name ID="9050563">Garota Mágica da Felicidade</Name>
+  <Name ID="9050564">Garota Mágica da Coragem</Name>
 <!--                             -->
 
   <Name ID="9090201">O Preço do Silêncio</Name>
@@ -182,19 +182,19 @@
   <Name ID="9060402">Morcego Sanguíneo</Name>
 
 <!-- Geburah Floor Realization EGO -->
-  <Name ID="9060511">Cicatriz carmesí</Name>
-  <Name ID="9060512">El lobo que lo perdió todo</Name>
-  <Name ID="9060521">Cicatriz de cobalto</Name>
-  <Name ID="9060531">Sonrisa</Name>
-  <Name ID="9060532">Sonrisa</Name>
-  <Name ID="9060533">Sonrisa</Name>
+  <Name ID="9060511">Cicatriz Carmesim</Name>
+  <Name ID="9060512">O Lobo que Perdeu Tudo</Name>
+  <Name ID="9060521">Cicatriz Azul-Cobalto</Name>
+  <Name ID="9060531">Sorriso</Name>
+  <Name ID="9060532">Sorriso</Name>
+  <Name ID="9060533">Sorriso</Name>
   <Name ID="9060534">Corpos Derretidos</Name>
   <Name ID="9060535">Corpos Derretidos</Name>
   <Name ID="9060541">Dipsia</Name>
-  <Name ID="9060542">Muercielago sanguinario</Name>
-  <Name ID="9060551">Imitación</Name>
-  <Name ID="9060552">Imitación</Name>
-  <Name ID="9060553">Imitación</Name>
+  <Name ID="9060542">Morcego Sanguíneo</Name>
+  <Name ID="9060551">Mimetismo</Name>
+  <Name ID="9060552">Mimetismo</Name>
+  <Name ID="9060553">Mimetismo</Name>
 <!--                              -->
 
   <Name ID="9070401">Ozma</Name>
@@ -204,29 +204,29 @@
 
 
 <!-- Chesed Floor Realization EGO -->
-  <Name ID="9070511">Cosecha</Name>
-  <Name ID="9070512">Espantapájaros</Name>
-  <Name ID="9070521">Talar</Name>
-  <Name ID="9070522">Arbol</Name>
-  <Name ID="9070531">El instinto de búsqueda</Name>
+  <Name ID="9070511">Colheita</Name>
+  <Name ID="9070512">Espantalhos</Name>
+  <Name ID="9070521">Lenhar</Name>
+  <Name ID="9070522">Árvore</Name>
+  <Name ID="9070531">O Instinto Caseiro</Name>
   <Name ID="9070532">Gato Medroso</Name>
-  <Name ID="9070533">Casa que no puede ser alcanzada</Name>
-  <Name ID="9070541">Recuerdos desvanecidos</Name>
+  <Name ID="9070533">Casa que Não Pode ser Alcançada</Name>
+  <Name ID="9070541">Memórias Desbotadas</Name>
   <Name ID="9070542">Jack</Name>
-  <Name ID="9070543">Jack revivido</Name>
+  <Name ID="9070543">Jack Revivido</Name>
   <Name ID="9070544">Abóbora Amnésica</Name>
-  <Name ID="9070551">Trono falso</Name>
-  <Name ID="9070552">Cristal esmeralda</Name>
-  <Name ID="9070553">Estatua brillante</Name>
-  <Name ID="9070554">Cara con ceño fruncido</Name>
+  <Name ID="9070551">Trono Falso</Name>
+  <Name ID="9070552">Cristal Esmeralda</Name>
+  <Name ID="9070553">Estátua Brilhante</Name>
+  <Name ID="9070554">Cara Carrancuda</Name>
 <!--                              -->
 
 <!-- Binah Floor Realization EGO -->
-  <Name ID="9080511">Lámpara</Name>
+  <Name ID="9080511">Lâmpada</Name>
   <Name ID="9080512">Olho-Pintinho</Name>
-  <Name ID="9080521">Picotazo</Name>
+  <Name ID="9080521">Bico</Name>
   <Name ID="9080522">Guardião da Floresta Negra</Name>
-  <Name ID="9080531">Justicia</Name>
+  <Name ID="9080531">Justitia</Name>
   <Name ID="9080532">Pássaro Fugitivo</Name>
   <Name ID="9080541">Crepúsculo</Name>
   <!--                          -->
@@ -238,27 +238,27 @@
 
 <!-- Hokma Floor Realization EGO -->
   <Name ID="9090511">Profeta</Name>
-  <Name ID="9090521">Paraíso perdido</Name>
-  <Name ID="9090512">Apóstol guardían</Name>
-  <Name ID="9090513">Apóstol guadaña</Name>
-  <Name ID="9090514">Apóstol bastón</Name>
-  <Name ID="9090515">Apóstol lanza</Name>
+  <Name ID="9090521">Paraíso Perdido</Name>
+  <Name ID="9090512">Apóstolo Guardião</Name>
+  <Name ID="9090513">Apóstolo Foice</Name>
+  <Name ID="9090514">Apóstolo Cajado</Name>
+  <Name ID="9090515">Apóstolo Lança</Name>
 <!--                            -->
 
   <!-- 케테르 완전개방-->
   <!-- Keter Floor Realization EGO -->
   <Name ID="9100501">Angela</Name>
-  <Name ID="9100511">Muñecas cortadas</Name>
-  <Name ID="9100521">Aspiración</Name>
-  <Name ID="9100522">Pulmones de anhelo</Name>
-  <Name ID="9100531">Marioneta</Name>
+  <Name ID="9100511">Cortador de Pulsos</Name>
+  <Name ID="9100521">Aspiração</Name>
+  <Name ID="9100522">Pulmões de Desejo</Name>
+  <Name ID="9100531">Marionete</Name>
   <Name ID="9100532">Pinóquio</Name>
-  <Name ID="9100541">Astilla de hielo</Name>
+  <Name ID="9100541">Lasca de Gelo</Name>
   <Name ID="9100542">Prisão de Gelo</Name>
-  <Name ID="9100551">Remordimiento</Name>
-  <Name ID="9100552">Clavo</Name>
-  <Name ID="9100553">Martillo</Name>
-  <Name ID="9100554">Deseo residual</Name>
-  <Name ID="9100555">Instintos susurrantes</Name>
+  <Name ID="9100551">Remorso</Name>
+  <Name ID="9100552">Prego</Name>
+  <Name ID="9100553">Martelo</Name>
+  <Name ID="9100554">Desejo Residual</Name>
+  <Name ID="9100555">Instintos Sussurrantes</Name>
   <!--                            -->
 </CharactersNameRoot>
