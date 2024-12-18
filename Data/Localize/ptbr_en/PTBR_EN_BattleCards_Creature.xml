@@ -110,7 +110,7 @@
       <Ability>Hace 0 con todos los dados si el objetivo tiene la carta 'Iluminación' en la mano</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="900903">
-      <LocalizedName>Esclarecimento</LocalizedName>
+      <LocalizedName>Iluminismo</LocalizedName>
       <Ability>Mientras está en la mano, reduce tu resistencia al aturdimiento en un 50%</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901001">

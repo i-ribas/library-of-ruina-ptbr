@@ -503,20 +503,20 @@
       <Behaviour ID="0">[Al golpear] Angela gana 1 de Fuerza la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903522">
-      <LocalizedName>Desperdício Verde</LocalizedName>
+      <LocalizedName>Resíduo Verde</LocalizedName>
     </BattleCardDesc>
     <!-- End Hod? -->
 
     <!-- Netzach Realization -->
     <BattleCardDesc ID="9904101">
-      <LocalizedName>Som Fraco da Canção</LocalizedName>
+      <LocalizedName>O Som Abafado do Canto</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9904102">
       <LocalizedName>Penetrar</LocalizedName>
       <Behaviour ID="0">[Al golpear] Añade 'Iluminación' a la mano del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9904103">
-      <LocalizedName>Perfuração de Limites</LocalizedName>
+      <LocalizedName>Atravessação dos Limites</LocalizedName>
       <Behaviour ID="1">[Al golpear] Añade 'Iluminación' a la mano del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9904104">
@@ -524,7 +524,7 @@
       <Ability>Si el objetivo tiene 'Iluminación' en la mano, haz 0 de daño y agota esta carta de la mano</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9904105">
-      <LocalizedName>Esclarecimento</LocalizedName>
+      <LocalizedName>Iluminismo</LocalizedName>
       <Ability>Mientras esté en la mano, reduce la resistencia al aturdimiento Máxima en 50%</Ability>
     </BattleCardDesc>
 
@@ -549,7 +549,7 @@
 
 
     <BattleCardDesc ID="9904301">
-      <LocalizedName>Éxtase Perfurante</LocalizedName>
+      <LocalizedName>Êxtase Perfurante</LocalizedName>
       <Ability />
       <Behaviour ID="0">[Al golpear] Añade dos copias de 'Placer' a la mano del objetivo</Behaviour>
       <Behaviour ID="1">[Al golpear] Añade una copia de 'Placer' a la mano del objetivo</Behaviour>
@@ -577,7 +577,7 @@
     </BattleCardDesc>
 
     <BattleCardDesc ID="9904411">
-      <LocalizedName>Florecer</LocalizedName>
+      <LocalizedName>Florescer</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige 1 de Aroma la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 1 de Aroma la siguiente escena</Behaviour>
@@ -762,7 +762,7 @@
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9905214">
-      <LocalizedName>Orgullo Desgastado</LocalizedName>
+      <LocalizedName>Orgulho Desgastado</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9905215">
@@ -846,20 +846,20 @@
 
     <!-- 분노의 시종-->
     <BattleCardDesc ID="9905411">
-      <LocalizedName>¡Grrhrrr!</LocalizedName>
+      <LocalizedName>Grrhrrr!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige 1 de Erosión al objetivo</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 1 de Erosión al objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9905412">
-      <LocalizedName>¡¡AAACK!!</LocalizedName>
+      <LocalizedName>AAACK!!</LocalizedName>
       <Ability>[Al usar] Haz 10 de daño a ti mismo; gana 2 de Fuerza la siguiente escena</Ability>
       <Behaviour ID="0">[Al golpear] Inflige 2 de Erosión al objetivo</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 2 de Erosión al objetivo</Behaviour>
       <Behaviour ID="2">[Al golpear] Inflige 1 de Erosión al objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9905413">
-      <LocalizedName>¡Aaah!</LocalizedName>
+      <LocalizedName>Aaah!</LocalizedName>
       <Ability></Ability>
      <Behaviour ID="0">[Al golpear] Inflige 1 de Erosión al objetivo</Behaviour>
      <Behaviour ID="1">[Al golpear] Inflige 1 de Erosión al objetivo</Behaviour>
@@ -978,20 +978,20 @@ Si cualquier aliado es golpeado, haz 10 de daño a todos los bibliotecarios y re
     </BattleCardDesc>
     <!-- 광대 - 분노 -->
     <BattleCardDesc ID="9905541">
-      <LocalizedName>¡Grrhrrr!</LocalizedName>
+      <LocalizedName>Grrhrrr!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige 1 de Erosión al objetivo</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 1 de Erosión al objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9905542">
-      <LocalizedName>¡¡AAACK!!</LocalizedName>
+      <LocalizedName>AAACK!!</LocalizedName>
       <Ability>[Al usar] Haz 10 de daño a ti mismo; gana 2 de Fuerza la siguiente escena</Ability>
       <Behaviour ID="0">[Al golpear] Inflige 2 de Erosión al objetivo</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 2 de Erosión al objetivo</Behaviour>
       <Behaviour ID="2">[Al golpear] Inflige 1 de Erosión al objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9905543">
-      <LocalizedName>¡Aaah!</LocalizedName>
+      <LocalizedName>Aaah!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige 1 de Erosión al objetivo</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 1 de Erosión al objetivo</Behaviour>
@@ -1095,7 +1095,7 @@ Si cualquier aliado es golpeado, haz 10 de daño a todos los bibliotecarios y re
     </BattleCardDesc>
     <!-- 분노 사서 -->
     <BattleCardDesc ID="9905641">
-      <LocalizedName>Eu Protegerei meu Amigo</LocalizedName>
+      <LocalizedName>Eu Protegerei Minha Amiga</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige 1 de Erosión al objetivo</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 1 de Erosión al objetivo</Behaviour>

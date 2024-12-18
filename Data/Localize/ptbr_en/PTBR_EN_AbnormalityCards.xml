@@ -795,7 +795,7 @@ Perde 1-3 de HP ao usar páginas sem 'Pedrinha'.</AbilityDesc>
       <CardName>Espinhos</CardName>
       <AbilityDesc>[Aliado Único]
 Em um ataque Perfurante bem sucedido, inflige 1 de 'Excitação'
-Contra inimigos com 3+ 'Excitação' causa +2-7 de Dano e Dano de Atordoamento, então remove todos os acúmulos de 'Excitação'. (Exclui Ataques Em Massa)</AbilityDesc>
+Contra inimigos com 3+ 'Excitação' causa +2-7 de Dano e Dano de Atordoamento, em seguida remove todos os acúmulos de 'Excitação'. (Exclui Ataques Em Massa)</AbilityDesc>
       <FlaborText>No começo, tudo o que eu tinha que fazer era ser picado levemente por um desses espinhos. Agora eu tenho que esfregar meu corpo inteiro nele pra ter a mesma brisa.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Ok, eu vou me abaixar para você~ Sinta-se livre pra me acariciar.</Dialogue>
@@ -810,7 +810,7 @@ Contra inimigos com 3+ 'Excitação' causa +2-7 de Dano e Dano de Atordoamento, 
       <Abnormality>Pórcubo</Abnormality>
       <CardName>Exaltação</CardName>
       <AbilityDesc>[Aliado Único]
-Poder de todos os Dados +1. Reduz a Resistência de Atodoamento máxima em 50%.</AbilityDesc>
+Poder de todos os Dados +1. Reduz a Resistência de Atordoamento máxima em 50%.</AbilityDesc>
       <FlaborText>Hora de Minha Cabeça Estourar. Bom Dia.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Se você desejar por prazer imensurável, você vai quebrar eventualmente.</Dialogue>
@@ -825,7 +825,7 @@ Poder de todos os Dados +1. Reduz a Resistência de Atodoamento máxima em 50%.<
       <Abnormality>Pórcubo</Abnormality>
       <CardName>Pó do Riso</CardName>
       <AbilityDesc>[Todos os Aliados]
-Ao ser Golpeado, recupere 2-4 de Resistência de Atordoamento se não estiver Atodoado.</AbilityDesc>
+Ao ser Golpeado, recupere 2-4 de Resistência de Atordoamento se não estiver Atordoado.</AbilityDesc>
       <FlaborText>Quando o pó que caiu dos espinhos ficar conhecido pelo mundo, talvez as pessoas afundem para sempre nesse pântano de intoxicação.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Sua cabeça ficará cheia de felicidade.</Dialogue>
@@ -840,12 +840,12 @@ Ao ser Golpeado, recupere 2-4 de Resistência de Atordoamento se não estiver At
       <Abnormality>Alriune</Abnormality>
       <CardName>Pétalas de Flores</CardName>
       <AbilityDesc>[Aliado Único]
-Sempre que esse bibliotecário sofrer dano maior que 10% de seu HP máximo, todos os inimigos recebem 2-4 de Dano de Atodoamento, e o bibliotecário recupera 5-10 de HP.</AbilityDesc>
+Sempre que esse bibliotecário sofrer dano maior que 10% de seu HP máximo, todos os inimigos recebem 2-4 de Dano de Atordoamento, e o bibliotecário recupera 5-10 de HP.</AbilityDesc>
       <FlaborText>Derramando pétalas ao invés de lágrimas, você falou comigo. “Todos nós já fomos parte da terra uma vez, então eu peço que não fale do fim aqui e agora.”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Não tenho olhos, mas eu posso ver tudo.</Dialogue>
         <Dialogue ID="2">Nos deixe voltar para a cova com todos que vivem e respiram.</Dialogue>
-        <Dialogue ID="3">Essas flores florecerão sem fim, e nenhuma delas irá definhar.</Dialogue>
+        <Dialogue ID="3">Essas flores florescerão sem fim, e nenhuma delas irá definhar.</Dialogue>
         <Dialogue ID="4">Estou rachada… Mas essas lindas flores encherão a rachadura.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -857,7 +857,7 @@ Ao ser Golpeado, inflige 1 Aroma
 (Aroma: No Começo da Cena, receba Dano de Atordoamento igual a quantidade de Aroma e então reduza os acúmulos pela metade.)</AbilityDesc>
       <FlaborText>Levando a esperança de voltar ao pó, eu irei voltar a minha cova com todo esse desejo de viver.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Minha reparação terminou com um suspiro pesado no frio.</Dialogue>
+        <Dialogue ID="1">Minha expiação terminou com um suspiro pesado no frio.</Dialogue>
         <Dialogue ID="2">Fui abandonada em uma floresta escura; Minha mente, vida e coração definharam.</Dialogue>
         <Dialogue ID="3">Nasci da terra, então eu quero retornar a ela.</Dialogue>
         <Dialogue ID="4">Por favor não pense nisso como nossos últimos momentos.</Dialogue>
