@@ -344,67 +344,66 @@
   <text id="H_Angela_Shy_librarian3_start">Será que ela estava apenas procurando um lugar para descansar?</text>
   <text id="H_Angela_Shy_librarian4_start">Ela poderia ter uma aparência tão horrível assim…?</text>
   <!-- Alriune -->
-  <text id="Alriune_netzach_start">Quizás… Vamos a necesitar algo que pueda entender a esa cosa.</text>
+  <text id="Alriune_netzach_start">Talvez… precisaremos de algo que possa entender essa coisa.</text>
   <text id="Alriune_netzach_die">Resultados à parte, acho que posso dormir bem agora…</text>
-  <text id="Alriune_netzach_kill">… El aroma no se va.</text>
+  <text id="Alriune_netzach_kill">…O aroma não vai embora.</text>
 
-  <text id="Alriune_librarian1_start">Eso es horrible… ¿Dónde se supone que está este “bosque profundo”?</text>
-  <text id="Alriune_librarian1_kill">Tengo un olor a quemado dentro de mi boca.</text>
+  <text id="Alriune_librarian1_start">Isso é horrível… onde será que fica essa "floresta profunda"?</text>
+  <text id="Alriune_librarian1_kill">Tô com um cheiro de queimado na boca.</text>
 
-  <text id="Alriune_librarian2_start">… Su arma también tenía el mismo olor.</text>
-  <text id="Alriune_librarian2_kill">Se veía muy elegante…</text>
+  <text id="Alriune_librarian2_start">…A arma também costumava exalar o mesmo cheiro.</text>
+  <text id="Alriune_librarian2_kill">Parecia bem chique…</text>
 
-  <text id="Alriune_librarian3_start">Uf… El aroma es tan fuerte como siempre.</text>
-  <text id="Alriune_librarian3_kill">Es cierto que era un hermoso paisaje… Pero no era placentero mirarlo.</text>
+  <text id="Alriune_librarian3_start">Uf… O aroma está tão forte como sempre.</text>
+  <text id="Alriune_librarian3_kill">Realmente era uma paisagem linda… Mas não era agradável de se olhar.</text>
   <!-- Floor of Art Realization -->
-  <text id="N_Angeala_Orchestra_1_netzach_start">… Una cosa es segura: Podemos salvarla.</text>
-  <text id="N_Angeala_Orchestra_1_netzach_die">… Lo siento, no pude ayudar mucho.</text>
+  <text id="N_Angeala_Orchestra_1_netzach_start">…Uma coisa é certa: Podemos salvá-la.</text>
+  <text id="N_Angeala_Orchestra_1_netzach_die">…Foi mal por não ter ajudado muito, eu acho.</text>
 
-  <text id="N_Angeala_Orchestra_1_librarian1_start">¿Qué podemos hacer? Tenemos que creer…</text>
-  <text id="N_Angeala_Orchestra_1_librarian2_start">Netzach… ¿Dime que hay una manera de salir de esto…?</text>
-  <text id="N_Angeala_Orchestra_1_librarian3_start">Creo que escuché sobre esto…</text>
-  <text id="N_Angeala_Orchestra_1_librarian4_start">¿Está a punto de suceder de nuevo…?</text>
+  <text id="N_Angeala_Orchestra_1_librarian1_start">O que podemos fazer? Temos que acreditar…</text>
+  <text id="N_Angeala_Orchestra_1_librarian2_start">Netzach… Me diz que há uma saída pra isso…?</text>
+  <text id="N_Angeala_Orchestra_1_librarian3_start">Eu acho que eu já ouvi falar disso…</text>
+  <text id="N_Angeala_Orchestra_1_librarian4_start">Alguma coisa vai acontecer de novo…?</text>
 
-  <text id="N_Angeala_Spacepiece_netzach_start">Tú podría seguridad viene primero… Díganme si estan demasiado exhaustos.</text>
-  <text id="N_Angeala_Spacepiece_netzach_die">… Lo siento, no pude ayudar mucho.</text>
+  <text id="N_Angeala_Spacepiece_netzach_start">A sua própria segurança vem em primeiro lugar… Me digam se vocês estiverem muito exaustos.</text>
+  <text id="N_Angeala_Spacepiece_netzach_die">…Foi mal por não ter ajudado muito, eu acho.</text>
 
-  <text id="N_Angeala_Spacepiece_librarian1_start">Somos los únicos que podemos ayudarla ahora.</text>
-  <text id="N_Angeala_Spacepiece_librarian2_start">Parece que estamos en medio de algo complicado…</text>
-  <text id="N_Angeala_Spacepiece_librarian3_start">No estés tan deprimido, ¿okay? Tenemos que darle un intento.</text>
-  <text id="N_Angeala_Spacepiece_librarian4_start">No es normal… ¿Podemos siquiera llegar al final de esto…?</text>
+  <text id="N_Angeala_Spacepiece_librarian1_start">Somos as únicas pessoas que podem fazer algo a respeito dela aqui.</text>
+  <text id="N_Angeala_Spacepiece_librarian2_start">Parece que estamos no meio de algo complicado…</text>
+  <text id="N_Angeala_Spacepiece_librarian3_start">Não fique tão deprimido, tá? Temos que tentar.</text>
+  <text id="N_Angeala_Spacepiece_librarian4_start">Isso não é normal… A gente pode acabar com isso logo…?</text>
 
-  <text id="N_Angeala_Kid_netzach_start">Lo que significa que también se está volviendo más peligroso…</text>
-  <text id="N_Angeala_Kid_netzach_die">… Lo siento, no pude ayudar mucho.</text>
+  <text id="N_Angeala_Kid_netzach_start">O que significa que também tá ficando mais perigoso…</text>
+  <text id="N_Angeala_Kid_netzach_die">…Foi mal por não ter ajudado muito, eu acho.</text>
 
-  <text id="N_Angeala_Kid_librarian1_start">… ¿Soy solo yo, o todo está empeorando?</text>
-  <text id="N_Angeala_Kid_librarian2_start">Supongo que pedirles prestado su poder no es siempre algo bueno…</text>
-  <text id="N_Angeala_Kid_librarian3_start">¿Es… posible ser poseídos de esa manera?</text>
-  <text id="N_Angeala_Kid_librarian4_start">Juntos por siempre, ¿eh?… Ella está diciendo las mismas cosas que él decía.</text>
+  <text id="N_Angeala_Kid_librarian1_start">…Sou só eu ou as coisas estão piorando?</text>
+  <text id="N_Angeala_Kid_librarian2_start">Acho que pegar emprestado o poder deles nem sempre é coisa boa…</text>
+  <text id="N_Angeala_Kid_librarian3_start">É… possível ser possuído dessa maneira?</text>
+  <text id="N_Angeala_Kid_librarian4_start">Juntos pra sempre, hm… Ela está dizendo as mesmas coisas que ele dizia.</text>
 
-  <text id="N_Angeala_Porccubus_netzach_start">… No tienes que intentar entenderlo demasiado.</text>
-  <text id="N_Angeala_Porccubus_netzach_die">… Lo siento, no pude ayudar mucho.</text>
+  <text id="N_Angeala_Porccubus_netzach_start">…Não é preciso se esforçar muito para entender.</text>
+  <text id="N_Angeala_Porccubus_netzach_die">…Foi mal por não ter ajudado muito, eu acho.</text>
 
-  <text id="N_Angeala_Porccubus_librarian1_start">¿Cómo se supone que vamos a entendernos los unos a los otros? Es injusto que ella no hable de esto.</text>
-  <text id="N_Angeala_Porccubus_librarian2_start">Podemos preocuparnos por esto luego.</text>
-  <text id="N_Angeala_Porccubus_librarian3_start">No lo entiendo. Por qué ella tuvo que ir tan lejos…</text>
-  <text id="N_Angeala_Porccubus_librarian4_start">Si ella quería vivir tan desesperadamente, ella debería entender como nos sentimos…</text>
+  <text id="N_Angeala_Porccubus_librarian1_start">Como vamos nos entender? É injusto que ela nem fale sobre isso.</text>
+  <text id="N_Angeala_Porccubus_librarian2_start">Podemos nos preocupar com isso depois.</text>
+  <text id="N_Angeala_Porccubus_librarian3_start">Eu não entendi. Por que ela teve que ir tão longe?…</text>
+  <text id="N_Angeala_Porccubus_librarian4_start">Se ela queria viver tão desesperadamente, ela deveria entender como nos sentimos…</text>
 
-  <text id="N_Angeala_Alriune_netzach_start">Casi acabamos. Solo un poco más…</text>
-  <text id="N_Angeala_Alriune_netzach_die">… Lo siento, no pude ayudar mucho.</text>
-  
-  <text id="N_Angeala_Alriune_librarian1_start">Lamento presionarlos tanto, pero animémonos hasta que esto acabe.</text>
-  <text id="N_Angeala_Alriune_librarian2_start">Por favor, estaremos bastante jodidos se cualquiera de nosotros es derrotado…</text>
-  <text id="N_Angeala_Alriune_librarian3_start">¿Estás bien? ¿Quieres retroceder por un poco?</text>
-  <text id="N_Angeala_Alriune_librarian4_start">… Buf, No me estoy sintiendo nada bien.</text>
+  <text id="N_Angeala_Alriune_netzach_start">Tá quase no fim. Só mais um pouquinho…</text>
+  <text id="N_Angeala_Alriune_netzach_die">…Foi mal por não ter ajudado muito, eu acho.</text>
 
-  <text id="N_Angeala_Orchestra_2_netzach_start">Terminemos con esto aquí y ahora, así no volveremos al comienzo.</text>
-  <text id="N_Angeala_Orchestra_2_netzach_die">… Lo siento, no pude ayudar mucho.</text>
+  <text id="N_Angeala_Alriune_librarian1_start">Sinto muito pressionar vocês, mas vamos nos esforçar até acabar.</text>
+  <text id="N_Angeala_Alriune_librarian2_start">Por favor, podemos ficar muito ferrados se algum de nós deixar a batalha…</text>
+  <text id="N_Angeala_Alriune_librarian3_start">Você está bem? Quer recuar um pouquinho?</text>
+  <text id="N_Angeala_Alriune_librarian4_start">…Uff, Eu não tô me sentindo bem.</text>
 
-  <text id="N_Angeala_Orchestra_2_librarian1_start">No hicimos nada malo, ¿verdad?</text>
-  <text id="N_Angeala_Orchestra_2_librarian2_start">Esa forma…  Parece que somos su audiencia.</text>
+  <text id="N_Angeala_Orchestra_2_netzach_start">Vamos acabar com isso aqui e agora para não termos que voltar ao início.</text>
+  <text id="N_Angeala_Orchestra_2_netzach_die">…Foi mal por não ter ajudado muito, eu acho.</text>
 
-  <text id="N_Angeala_Orchestra_2_librarian3_start">… Tan jodido como la primera vez.</text>
-  <text id="N_Angeala_Orchestra_2_librarian4_start">¿Qué?… ¿Por qué estamos de vuelta?</text>
+  <text id="N_Angeala_Orchestra_2_librarian1_start">Não fizemos nada de errado, fizemos?</text>
+  <text id="N_Angeala_Orchestra_2_librarian2_start">Essa forma… parece que a audiência dela.</text>
+  <text id="N_Angeala_Orchestra_2_librarian3_start">…Tão esquisito quanto da primeira vez.</text>
+  <text id="N_Angeala_Orchestra_2_librarian4_start">Que?… Por que estamos de volta aqui?</text>
   <!-- Snow Queen -->
   <text id="Snow_Roland_start">Umh, maldita sea… todo está congelado</text>
   <text id="Snow_Roland_die">… Esta tormenta está demasiado fría.</text>
