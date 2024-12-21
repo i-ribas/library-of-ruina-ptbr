@@ -217,7 +217,7 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="502023">
     <Name>Espada que atraviesa la desesperación</Name>
-    <Desc>Si esto falla en hacer daño a su objetivo mientras está en un estado de Desesperación, la espada atravesará a Cavalheira do Desespero, haciendole daño a ella.</Desc>
+    <Desc>Si esto falla en hacer daño a su objetivo mientras está en un estado de Desesperación, la espada atravesará a Cavaleira do Desespero, haciendole daño a ella.</Desc>
   </PassiveDesc>
 
   <!-- 여왕벌 -->

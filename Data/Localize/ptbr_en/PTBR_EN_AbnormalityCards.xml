@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Malkuth -->
 <AbnormalityCardsRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Sephirah SephirahType="Malkuth">
     <AbnormalityCard ID="ScorchedGirl_Walk">
@@ -235,7 +236,7 @@ No começo dessa Cena, todos os inimigos recebem dano inversamente proporcional 
     </AbnormalityCard>
   </Sephirah>
   
-  
+<!-- Yesod -->  
   <Sephirah SephirahType="Yesod">
     <AbnormalityCard ID="ForsakenMurderer_Tie">
       <Abnormality>Assassino Abandonado</Abnormality>
@@ -465,7 +466,7 @@ Ganhe 1-2 de Celeridade e 2-4 de Força toda Cena.</AbilityDesc>
     </AbnormalityCard>
   </Sephirah>
   
-  
+ <!-- Hod --> 
   <Sephirah SephirahType="Hod">
     <AbnormalityCard ID="ShyLookToday_Face">
       <Abnormality>Expressão Tímida de Hoje</Abnormality>
@@ -697,7 +698,7 @@ Ganha 6 'Roupa de Urtiga', que concede Proteção igual a sua quantidade no come
     </AbnormalityCard>
   </Sephirah>
   
-  
+<!-- Netzach -->  
   <Sephirah SephirahType="Netzach">
     <AbnormalityCard ID="UniverseZogak_Echo">
       <Abnormality>Fragmento do Universo</Abnormality>
@@ -920,7 +921,7 @@ Quando o bibliotecário selecionado Atordoa um inimigo, todos os inimigos perdem
     </AbnormalityCard>
   </Sephirah>
   
-  
+<!-- Keter -->  
   <Sephirah SephirahType="Keter">
     <AbnormalityCard ID="Bloodbath_Blood">
       <Abnormality>Banho de Sangue</Abnormality>
@@ -1066,79 +1067,79 @@ No começo da Cena, baralhe todas as suas páginas na sua mão e compre 4 págin
 
     <AbnormalityCard ID="TheSnowQueen_Sord">
       <Abnormality>A Rainha da Neve</Abnormality>
-      <CardName>Astilla de hielo</CardName>
+      <CardName>Espada da Geada </CardName>
       <AbilityDesc>[Aliado Único]
-Al ganar un choque, inflige 1-3 de Atadura la siguiente escena con una probabilidad del 50%.
-Haz +2-5 de daño de aturdimiento contra un enemigo con Atadura.</AbilityDesc>
-      <FlaborText>Una Reina viviendo sola en un bosque helado en inverno.</FlaborText>
+Ao Ganhar um Embate, 50% de chance de Infligir 1-3 de Amarrado na próxima Cena.
+Causa +2-5 de Dano de Atordoamento contra alvos com Amarrado.</AbilityDesc>
+      <FlaborText>A Rainha vive sozinha na gelada floresta de inverno.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">El filo de esta espada es frío y afilado.</Dialogue>
-        <Dialogue ID="2">Solo el calor de la primavera puede descongelar esta espada.</Dialogue>
-        <Dialogue ID="3">La espada conoce exactamente donde apuntar.</Dialogue>
-        <Dialogue ID="4">Un día, cuando el calor sea lo suficiente para que la nieve se descongele, esta espada también se irá.</Dialogue>
-        <Dialogue ID="5">Cuando esta arma atraviese tu corazón, te volverás ajeno de ti mismo por un momento.</Dialogue>
+        <Dialogue ID="1">O fio dessa espada é fria e afiada.</Dialogue>
+        <Dialogue ID="2">Só o calor da primavera pode derreter essa espada.</Dialogue>
+        <Dialogue ID="3">Uma lâmina reta sabe exatamente para onde ela aponta.</Dialogue>
+        <Dialogue ID="4">Um dia, quando ficar quente o bastante para a neve derreter, essa espada também irá se desfazer.</Dialogue>
+        <Dialogue ID="5">Quando essa arma atravessar o seu coração, por apenas um momento, você irá perder a si mesmo.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="TheSnowQueen_Chu">
       <Abnormality>A Rainha da Neve</Abnormality>
-      <CardName>Un beso</CardName>
+      <CardName>Um Beijo</CardName>
       <AbilityDesc>[Aliado Único]
-Después de ganar 2 o más choques con una sola página de combate, inflige Astilla de hielo al oponente.
-Al final de cada escena, personajes con 3 o más Astilla de hielo quedan Inmovilizados por la siguiente escena.
+Depois de ganhar 2 ou mais Embates com uma única Página de Combate, inflige Estilhaços de Gelo ao inimigo.
+No final de cada Cena, personagens com 3 ou mais Estilhaços de Gelo se tornam Imobilizados na próxima cena.
       </AbilityDesc>
-      <FlaborText>El beso de A Rainha da Neve congeló su corazón y él no pudo sentir el frío nunca más.</FlaborText>
+      <FlaborText>O beijo da Rainha da Neve congelou seu coração, e ele não sentia mais frio.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Solo aquellos que conocen el aroma de las rosas pueden traer un final a todo esto.</Dialogue>
-        <Dialogue ID="2">Debes haber tenido un corazón cálido una vez.</Dialogue>
-        <Dialogue ID="3">Olvidando el frío, olvidando las memorias y al último…</Dialogue>
-        <Dialogue ID="4">¿Podría un corazón que se ha vuelto insensible al frío poder descongelarse?</Dialogue>
-        <Dialogue ID="5">Solo un corazón valiente podría ser capaz de rescatar al congelado.</Dialogue>
+        <Dialogue ID="1">Só aqueles que sabem o cheiro de rosas podem trazer o fim a isso.</Dialogue>
+        <Dialogue ID="2">Você deve ter tido um coração caloroso.</Dialogue>
+        <Dialogue ID="3">Esquecer o frio, esquecer as memórias, e no fim…</Dialogue>
+        <Dialogue ID="4">Poderia um coração congelado, que se tornou alheio ao frio, descongelar?</Dialogue>
+        <Dialogue ID="5">Só um coração valente conseguirá resgatar os congelados.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="TheSnowQueen_Snow">
       <Abnormality>A Rainha da Neve</Abnormality>
-      <CardName>Tormenta de nieve</CardName>
+      <CardName>Nevasca</CardName>
       <AbilityDesc>[Aliado Único]
-Todos os Personagens excepto el bibliotecario seleccionado quedan Inmovilizados por esta escena.
-La siguiente escena, todos los enemigos reciben 6 de Atadura.</AbilityDesc>
-      <FlaborText>La primavera llega con el florecimiento de las rosas. Su calor derritió el palacio de A Rainha da Neve. Nadie la recordó, durmiendo debajo.</FlaborText>
+Todos os Personagens exceto o bibliotecário selecionado ficam imobilizados pela próxima Cena.
+Na próxima Cena, todos os inimigos são infligidos com 6 Amarrados.</AbilityDesc>
+      <FlaborText>A primavera chegou com rosas desabroxantes. Seu calor derreteu o palácio da Rainha da Neve. Ninguém se lembrou dela, dormindo logo abaixo.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Nadie se da cuenta de que estoy durmiendo en este lugar.</Dialogue>
-        <Dialogue ID="2">Cuando esta nieve se derrita, yo también seré olvidada.</Dialogue>
-        <Dialogue ID="3">Se está derritiendo mi castillo, ¿ha llegado finalmnete la cálida primavera…?</Dialogue>
-        <Dialogue ID="4">Las rosas florecen completamente señalándome que la primavera ha llegado.</Dialogue>
-        <Dialogue ID="5">Esa persona no debe haber deseado más de este frío.</Dialogue>
+        <Dialogue ID="1">Ninguém sabwe que eu estou dormindo aqui.</Dialogue>
+        <Dialogue ID="2">Quando essa neve derreter, eu também serei esquecida.</Dialogue>
+        <Dialogue ID="3">Meu castelo derreteu, o calor da primavera realmente chegou…?</Dialogue>
+        <Dialogue ID="4">As rosas desabrochadas me sinalizam a chegada da primavera.</Dialogue>
+        <Dialogue ID="5">Essa pessoa não desejou por mais desse frio.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
      <AbnormalityCard ID="QuietKid_Hammer">
       <Abnormality>Garota Silênciosa</Abnormality>
-      <CardName>Martillo y clavo</CardName>
+      <CardName>Martelo e Prego</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando realices un ataque perforante, inflige 1 de 'Clavo' al objetivo.
-Si un personaje con 'Clavos' es golpeado por un ataque Condundente, ellos reciben daño adicional igual a 5x veces la cantidad de Clavos en ellos, entonces todos los Clavos se remueven.</AbilityDesc>
-      <FlaborText>Cuando ella clava el clavo con su martillo, la grieta en la mente crecerá demasiado y se romperá completamente.</FlaborText>
+Ao realizar um ataque Perfurante, Inflige 1 de 'Prego' ao alvo.
+Se um personagem com 'Prego' for golpeado por ataque Contundente, ele recebe dano adicional igual a 5X a quantidade de Pregos nele, então os acumulos de Prego são removidos.</AbilityDesc>
+      <FlaborText>Quando ela prega algo com seu martelo, a rachadura em sua mente crescerá, e uma ruptura por completo se tornará</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¿Me pregunto si hay una grieta en tu mente que podría clavar un clavo dentro?</Dialogue>
-        <Dialogue ID="2">Cuando un clavo se clava en una fisura, esta se vuelve el doble de grande.</Dialogue>
-        <Dialogue ID="3">Deberías haber sido rápido para tratar con el equipaje en tu mente.</Dialogue>
-        <Dialogue ID="4">No hay reparación para una mente que ha sido agrietada.</Dialogue>
+        <Dialogue ID="1">Eu me pergunto se tem uma rachadura na sua mente onde eu poderia martelar um prego?</Dialogue>
+        <Dialogue ID="2">Quando eu prego algo na fissura, ela fica duas vezes maior.</Dialogue>
+        <Dialogue ID="3">Você deveria ter sido rápido em lidar com o fardo na sua mente.</Dialogue>
+        <Dialogue ID="4">Não tem conserto para uma mente que tem uma rachadura.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="QuietKid_Eyeshine">
       <Abnormality>Garota Silênciosa</Abnormality>
-      <CardName>Leer</CardName>
+      <CardName>Olhar</CardName>
       <AbilityDesc>[Aliado Único]
-Haz y recibe el doble de daño físico.</AbilityDesc>
-      <FlaborText>La chica sigue silenciosa. Ella simplemente mira el núcleo de tu interior con sus profundos ojos.</FlaborText>
+Causa e recebe duas vezes mais Dano.</AbilityDesc>
+      <FlaborText>A garota se manteve em silêncio. Ela simplesmente olhava no âmago do seu interior com um olhar profundo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">…</Dialogue>
         <Dialogue ID="2">……</Dialogue>
         <Dialogue ID="3">………</Dialogue>
-        <Dialogue ID="4">Estás temblando demasiado. ¿De qué tienes miedo?</Dialogue>
+        <Dialogue ID="4">Você está tremendo tanto. O que te deixa com tanto medo?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -1146,106 +1147,106 @@ Haz y recibe el doble de daño físico.</AbilityDesc>
       <Abnormality>Garota Silênciosa</Abnormality>
       <CardName>Culpa</CardName>
       <AbilityDesc>[Aliado Único]
-Reduce el daño de aturdimiento en 1-3.
-Al ser golpeado, el atacante recibe daño de aturdimiento igual al daño físico que este personaje recibió.</AbilityDesc>
-      <FlaborText>Sin embargo, cuando ella conoce a alguien cargando con ‘Culpa’ o ‘Miedo’, la chica revela un clavo y un martillo que tenía escondidos detrás suyo.</FlaborText>
+Reduz o Dano de Atordoamento recebido em 1-3.
+Ao Ser Golpeado, o atacandte recebe Dano de Atordoamento igual ao Dano Físico que esse personagem recebeu.</AbilityDesc>
+      <FlaborText>Porém, quando ela conheceu alguém carregando 'culpa' ou 'medo', a garota revelou o prego e o martelo que ela escondia atrás de si.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Aún sigues teniendo esas memorias dolorosas… Pobre tipo.</Dialogue>
-        <Dialogue ID="2">No debes empujar la responsabilidad a los otros. La agonía es solo tuya para soportarla.</Dialogue>
-        <Dialogue ID="3">Estabas demasiado ocupado escapando, ¿no es así?</Dialogue>
-        <Dialogue ID="4">Querido, pareces demasiado… desconcertado, ¿no es así?</Dialogue>
+        <Dialogue ID="1">Você está se segurando nessas dolorosas memórias… Pobrezinho.</Dialogue>
+        <Dialogue ID="2">Não jogue sua responsabilidade nos outros. A âgnoia é apenas sua.</Dialogue>
+        <Dialogue ID="3">Você estaba ocupado demais tentando fugir, não estava?</Dialogue>
+        <Dialogue ID="4">Querido, você parece… desconcertado, não está?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
   
-  
+<!-- Tiphereth -->
   <Sephirah SephirahType="Tiphereth">
     <AbnormalityCard ID="QueenOfHatred_Laser">
       <Abnormality>A Rainha do Ódio</Abnormality>
       <CardName>Amor</CardName>
       <AbilityDesc>[Aliado Único]
-Después de ganar un choque usando un dado ofensivo, un aliado aleatorio recupera 3-5 de HP.
-Después de ganar un choque usando un dado defensivo, un aliado aleatorio recupera 2-4 de resistencia al aturdimiento.</AbilityDesc>
-      <FlaborText>En el nombre del Amor y la Justicia~ ¡Aquí viene la Chica Mágica!</FlaborText>
+Depois de ganhar um Embate usando um dado Ofensivo, um aliado aleatório recupera 3-5 de HP.
+Depois de ganhar um Embate usando um dado Defensivo, um aliado aleatório recupera 2-4 de Resistência de Atordoamento.</AbilityDesc>
+      <FlaborText>Em nome do Amor e da Justiça~ Ai vem a Garota Mágica!</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">No se preocupen. ¡Estarán a salvo mientras yo esté aquí!</Dialogue>
-        <Dialogue ID="2">¡Puedes contar conmigo en todo momento! Te mantendré a salvo.</Dialogue>
-        <Dialogue ID="3">¡Una verdadera chica mágica nunca escapa de ninguna dificultad!</Dialogue>
-        <Dialogue ID="4">¿Dime si algo malo pasa, okay? ¡Sé que puedo ayudarte!</Dialogue>
-        <Dialogue ID="5">¡Por favor siéntente libre de llamarme cuando haya cualquier peligro~!</Dialogue>
+        <Dialogue ID="1">Não se preocupem. Vocês estão seguros enquanto eu estiver aqui!</Dialogue>
+        <Dialogue ID="2">Você sempre pode contar comigo! Eu te manterei a salvo.</Dialogue>
+        <Dialogue ID="3">Uma verdadeira garota mágica nunca corre do perigo!</Dialogue>
+        <Dialogue ID="4">Me diga se qualquer coisa ruim acontecer, okay? Eu sei que posso ajudar!</Dialogue>
+        <Dialogue ID="5">Por favor, me chame sempre que tiver perigo~!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="QueenOfHatred_Gun">
       <Abnormality>A Rainha do Ódio</Abnormality>
-      <CardName>Justicia</CardName>
+      <CardName>Justiça</CardName>
       <AbilityDesc>[Aliado Único]
-El enemigo que haga la mayor cantidad de daño a los aliados en la escena anterior es marcado como 'Villano'.
-Haz +3-5 de daño cuando ataques al 'Villano'.</AbilityDesc>
-      <FlaborText>Si estoy en el lado bueno, entonces alguien tiene que estar en el lado malo. Sin nadie para ser un villano, yo no puedo existir.</FlaborText>
+O inimigo que causou a maior quantidade de dano a aliados na Cena anterior é marcado como 'Vilão'.
+Cause +3-5 de Dano ao 'Vilão'.</AbilityDesc>
+      <FlaborText>Se eu estou do lado bom, alguém tem que estar do lado mal. Sem ninguém para ser o vilão, eu não posso existir.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¡Finalmente, un villano apareció! Cuidado, todos.</Dialogue>
-        <Dialogue ID="2">Está bien. ¡Puedo ocuparme de los chicos malos!</Dialogue>
-        <Dialogue ID="3">En el nombre del Amor y la Justicia~ ¡He llegado!</Dialogue>
-        <Dialogue ID="4">Aquellos que perturben a la sociedad serán llevados a la justicia.</Dialogue>
+        <Dialogue ID="1">Finalmente o vilão apareceu! Todo mundo, cuidado.</Dialogue>
+        <Dialogue ID="2">Está tudo bem. Eu posso lidar com os do malvados!</Dialogue>
+        <Dialogue ID="3">Em nome do Amor e da Justiça~ Eu cheguei!</Dialogue>
+        <Dialogue ID="4">Aqueles que prejudicam a sociedade devem ser levados a justiça.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
  <AbnormalityCard ID="QueenOfHatred_Snake">
       <Abnormality>A Rainha do Ódio</Abnormality>
-      <CardName>Odio</CardName>
+      <CardName>Ódio</CardName>
       <AbilityDesc>[Aliado Único]
-Después de perder un choque, Recibe 2-4 de daño de aturdimiento y gana 1 Fuerza la siguiente escena. (Hasta 2 por escena)
-Después de perder tres choques en una sola escena, reduce el coste de la página más cara en la mano en 1. (Una vez por escena)</AbilityDesc>
+Depois de perder um Embate, Recebe 2-4 de Dano de Atordoamento e ganha 1 Força na próxima Cena. (2 vezes por Cena)
+Depois de perder três Embates em uma única Cena, reduz o custo da carta mais cara na mão em 1. (Uma vez por Cena)</AbilityDesc>
       <FlaborText>Ella juró amar todo en el mundo, pero todo lo que quedo fue un corazón derrumbado.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¿Por qué están todos felices? No tengo razón de existir si todos lo están…</Dialogue>
-        <Dialogue ID="2">Yo soy la elegida. ¿Quién protegerá el mundo si no soy yo?</Dialogue>
-        <Dialogue ID="3">No fui capaz de proteger a nadie…</Dialogue>
-        <Dialogue ID="4">Yo odio un mundo pacífico… Es como… Es como si no fuera necesaria nunca más…</Dialogue>
-        <Dialogue ID="5">Merezco ser la heroína de todos. Nací para esto…</Dialogue>
+        <Dialogue ID="1">Por que todo mundo tá feliz? Não tenho razão para existir se todos estão…</Dialogue>
+        <Dialogue ID="2">Eu sou a escolhida. Quem vai proteger o mundo além de mim?</Dialogue>
+        <Dialogue ID="3">Eu não pude proteger ninguém…</Dialogue>
+        <Dialogue ID="4">Eu odeio um mundo pacífico… É como… É como se eu não fosse mais necessário…</Dialogue>
+        <Dialogue ID="5">Eu mereço ser a heróina de todos. Eu nasci para isso…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="KnightOfDespair_Gaho">
-      <Abnormality>A Cavalheira do Desespero</Abnormality>
-      <CardName>Bendición</CardName>
+      <Abnormality>A Cavaleira do Desespero</Abnormality>
+      <CardName>Bênção</CardName>
       <AbilityDesc>[Aliado Único]
-Si el personaje recibió daño de ataques en la escena anterior, cambia las resistencias de este personaje contra el tipo que hace más daño a "Resistente" por la escena. (Aplica separadamente el daño y daño de aturdimiento)</AbilityDesc>
-      <FlaborText>La voluntad de proteger parece que se mantuvo sin cambios después de todo este tiempo; incluso en la sala de contención. Aún está obsesionada con el acto de proteger.</FlaborText>
+Se o personagem tomou dano de ataques nessa Cena anterior, troque as resistências desse personagem contra o tipo de dano que ele mais recebeu para "Resistente" nessa Cena. (Aplica separadamente para Dano e Dano de Atordoamento)</AbilityDesc>
+      <FlaborText>A vontade de proteger permanece inalterada mesmo depois de tnto tempo; mesmo em contenção, ela ainda é obsecada pelo ato de proteger.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Todo lo que quedo es un orgullo vacío de un caballero.</Dialogue>
-        <Dialogue ID="2">Si pudiera tener otra oportunidad para proteger…</Dialogue>
-        <Dialogue ID="3">No tienes que preocuparte. Esta vez te mantendré a salvo.</Dialogue>
-        <Dialogue ID="4">Para dormir en paz…</Dialogue>
+        <Dialogue ID="1">Tudo o que resta é o orgulho oco de uma Cavaleira desgastada.</Dialogue>
+        <Dialogue ID="2">Se eu tivesse outra chance de proteger…</Dialogue>
+        <Dialogue ID="3">Não se preocupe. Dessa vez eu te manterei a salvo.</Dialogue>
+        <Dialogue ID="4">Para dormir em paz…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="KnightOfDespair_Sword">
-      <Abnormality>A Cavalheira do Desespero</Abnormality>
-      <CardName>Espadas afiladas con lágrimas</CardName>
+      <Abnormality>A Cavaleira do Desespero</Abnormality>
+      <CardName>Espadas Afiadas com Lágrimas</CardName>
       <AbilityDesc>[Aliado Único]
-En un ataque perforante exitoso, si el resultado del dado es el máximo, haz daño adicional igual al 10% del HP máximo del objetivo. (Máx. 12, excluye ataques en masa)</AbilityDesc>
-      <FlaborText>Cuando la justicia vuelva a abandonarla, varias docenas de espadas vagarán sin un propósito. Las espadas eventualmente apuntarán a aquellos que ella no pudo proteger.</FlaborText>
+Em um ataque Perfurante bem sucedido, se o dado rolar o valor máximo, cause dano bônus igual a 10% da vida máxima do alvo. (Máx. 12, Excluí Ataques Em Massa)</AbilityDesc>
+      <FlaborText>Quando a Justiça vira suas costas mais uma vez, dúzias de lâminas vão vagar sem propósito. Essas espadas vão eventualmente apontar para aqueles que ela não pôde proteger.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">El filo de esta espada afilada con lágrimas y desesperación es siempre preciso.</Dialogue>
-        <Dialogue ID="2">Juré a esta espada, afilada con lágrimas en un yunque de desesperación.</Dialogue>
-        <Dialogue ID="3">El juego sucio está prohibido. No habrá ninguna piedad tampoco… </Dialogue>
+        <Dialogue ID="1">A ponta desta espada afiada com lágrimas e desespero é sempre precisa.</Dialogue>
+        <Dialogue ID="2">Eu jurei a essa espada afiada, amolada com lágrimas em uma bigorna de desespero.</Dialogue>
+        <Dialogue ID="3">Jogo sujo está proibido. E também não haverá piedade… </Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="KnightOfDespair_Despair">
-      <Abnormality>A Cavalheira do Desespero</Abnormality>
-      <CardName>Desesperación</CardName>
+      <Abnormality>A Cavaleira do Desespero</Abnormality>
+      <CardName>Desespero</CardName>
       <AbilityDesc>[Todos os Aliados]
-Cuando un aliado muere, Todos os Aliados ganan 1-3 de Fuerza y Prisa y todos los enemigos reciben 2 de Frágil.</AbilityDesc>
-      <FlaborText>Como con la tristeza, quizás compartir la carga desafilará la espada.</FlaborText>
+Quando um aliado morre, todos os outros aliados recebem 1-3 de Força e Celeridade, e todos os inimigos recebem 2 Frágil</AbilityDesc>
+      <FlaborText>Assim como tristeza, talvez compartilhar o fardo vá cegar o fio.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">La desesperación hinchándose dentro de mí está desbordando por mis ojos y corazón…</Dialogue>
-        <Dialogue ID="2">¿Qué significa… esta desesperación para mí?</Dialogue>
-        <Dialogue ID="3">Por qué necesito perder a los otros una y otra vez… Por qué…</Dialogue>
-        <Dialogue ID="4">Una vez más, una desesperación sin fin me llena…</Dialogue>
-        <Dialogue ID="5">Juré protegerlos, pero aun así los perdí de nuevo…</Dialogue>
+        <Dialogue ID="1">O desespero crescente em mim está transbordando pelos meus olhos e meu coração…</Dialogue>
+        <Dialogue ID="2">O que esse desespero… Significa pra mim?</Dialogue>
+        <Dialogue ID="3">Por que eu preciso perde-los de novo e de novo… Por que…</Dialogue>
+        <Dialogue ID="4">Mais uma vez, o desespero sem fim me preenche…</Dialogue>
+        <Dialogue ID="5">Jurei proteger-los, mas os perdi novamente…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   
@@ -1253,41 +1254,41 @@ Cuando un aliado muere, Todos os Aliados ganan 1-3 de Fuerza y Prisa y todos los
       <Abnormality>O Rei da Ganância</Abnormality>
       <CardName>Intemperancia</CardName>
       <AbilityDesc>[Aliado Único]
-Si el primer dado de la página de combate gana un choque, destruye todos los dados que quedan en el dado del oponente con una probabilidad del 25%.</AbilityDesc>
-      <FlaborText>La primera semilla de deseo originado del puro anhelo de felicidad. La pequeña semilla creció más y más, hambrienta por más. Con el tiempo, la semilla se endureció y se volvió una pieza de una gema brillante.</FlaborText>
+Se o primeiro dado da Página de Combate ganha um Embate, 25% de chance de destruir os outros dados na Página do oponente.</AbilityDesc>
+      <FlaborText>A primeira semente de desejo originada de aspiração pura por felicidade. A pequena semente cresceu e cresceu, faminta por mais. Ao longo do tempo, a semente endureceu e se tornou uma brilhante gema.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Un pensamiento resonó dentro de mi cabeza. Un pensamiento empapado en codicia, convenciéndome de perseguir la felicidad.</Dialogue>
-        <Dialogue ID="2">¿Es malo sentir lujuria por la miel cuando hay flores?</Dialogue>
-        <Dialogue ID="3">Al principio, era puro anhelo de felicidad.</Dialogue>
-        <Dialogue ID="4">El anhelo de felicidad seguiría siendo el mismo.</Dialogue>
+        <Dialogue ID="1">Um pensamento ecoou dentro da minha cabeça. Um pensamento encharcado de ganância, me obrigando a buscar felicidade.</Dialogue>
+        <Dialogue ID="2">É tão ruim luxuriar por mel quando se tem flores?</Dialogue>
+        <Dialogue ID="3">No começo, era uma aspiração pura por felicidade.</Dialogue>
+        <Dialogue ID="4">O anseio pela felicidade se manteria o mesmo.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Greed_Protect">
       <Abnormality>O Rei da Ganância</Abnormality>
-      <CardName>Camino a la felicidad</CardName>
+      <CardName>Caminho da Felicidade</CardName>
       <AbilityDesc>[Aliado Único]
-Gana 1 de Dureza por cada choque ganada en una escena. (Hasta 3 por escena)</AbilityDesc>
-      <FlaborText>La felicidad se volvió obsesión, la obsesión se volvió codicia y la codicia se solidificó para convertirte en un Ámbar dorado. La felicidad del comienzo, aun con una sonrisa, reside dentro.</FlaborText>
+Ganha 1 Endurecido para cada Embate ganho nessa Cena. (Até 3 vezes por Cena)</AbilityDesc>
+      <FlaborText>Felicidade se tornou obsessão, obsessão se tornou ganância, e a ganância para sempre se solidificou em âmbar dourado. A felicidade do começo, ainda com um sorriso, jaz em seu âmago.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Al final, la una vez puro deseo materializado se volvió un Ámbar dorado y se solidificó.</Dialogue>
-        <Dialogue ID="2">Esta codicia brillará intensamente por siempre.</Dialogue>
-        <Dialogue ID="3">Como puede uno resistir el atractivo de este hermoso ser.</Dialogue>
-        <Dialogue ID="4">Desear la felicidad de todos debe incluirme a mí también…</Dialogue>
+        <Dialogue ID="1">Enfim, o desejo puro se materializando em âmbar dourado e sólido.</Dialogue>
+        <Dialogue ID="2">Essa ganância irá brilhar intensamente.</Dialogue>
+        <Dialogue ID="3">Como alguém pode resistr o alúrio desse ser tão belo.</Dialogue>
+        <Dialogue ID="4">Desejar a felicidade de todos também me inclui…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Greed_Eat">
       <Abnormality>O Rei da Ganância</Abnormality>
-      <CardName>Codicia</CardName>
+      <CardName>Ganância</CardName>
       <AbilityDesc>[Aliado Único]
-En un choque, Si el resultado del dado ganador es mayor por 4 o más comparado al del perdedor, el perdedor recibe 3-7 de daño adicional y el ganador recupera 2-5 de HP. (Ambos, el bibliotecario y el Oponente pueden activar este efecto)</AbilityDesc>
-      <FlaborText>La chica mágica, que ya no era una chica mágica, comió muchas cosas. Autoridad, dinero, fama y muchas otras formas de placer. Termino comiendo todo lo que estuviera a su vista. Ahora, solo queda una codicia sin fin.</FlaborText>
+Em um Embate, se dado vencedor vencer por 4 ou mais, o perdedor recebe 3-7 de Dano a mais e o vencedor recupera 2-5 de HP. (Ambos, o bibliotecário e oponente podem ativar esse efeito)</AbilityDesc>
+      <FlaborText>A garota mágica, que não era uma garota mágica, comeu muitas coisas. Autoridade, dinheiro, fama, e muitas outras formas de prazer. Ela acabou consumindo tudo em sua vista. Agora, apenas ganância viceral resta.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">La gema avivó a la codicia hambrienta.</Dialogue>
-        <Dialogue ID="2">Pero la codicia busca la eternidad, una profunda eternidad.</Dialogue>
-        <Dialogue ID="3">Mi cesta es tan grande, que todas las frutas del mundo no pueden llenarla.</Dialogue>
-        <Dialogue ID="4">Nada quedo en mi cesta. Solo queda una codicia sin fin.</Dialogue>
+        <Dialogue ID="1">A gema atiçou a ganância faminta.</Dialogue>
+        <Dialogue ID="2">Mas a ganância busca eternidade— busca profunda, profunda eternidade.</Dialogue>
+        <Dialogue ID="3">Minha cesta é tão grande, nem todas as frutas do mundo podem enche-la.</Dialogue>
+        <Dialogue ID="4">Não há nada no meu caminho. Apenas ganância viceral resta.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -1295,29 +1296,29 @@ En un choque, Si el resultado del dado ganador es mayor por 4 o más comparado a
       <Abnormality>A Serva da Ira</Abnormality>
       <CardName>Ira</CardName>
       <AbilityDesc>[Aliado Único]
-El bibliotecario seleccionado entra en un estado de Ira.
-El bibliotecario se vuelve incontrolable y ataca a personajes aleatorios, incluyendo aliados.
-También, el bibliotecario gana 2 Fuerza, restaura 2 de Luz y roba 2 páginas adicionales cada escena.</AbilityDesc>
-      <FlaborText>La sirviente fue traicionada luego de abandonar sus principios e ingenuamente confiar en alguien con todo su corazón. Ahora, ella es dominada por la ira hacia ella misma por lo que había hecho.</FlaborText>
+O bibliotecário entra em um estado de Ira.
+O bibliotecário se torna incontrolável, atacando personagens aleatórios, incluindo aliados.
+Também, o bibliotecário ganha 2 de Força, restaura 2 de Luz, e compra 2 páginas a mais no começo de cada Cena.</AbilityDesc>
+      <FlaborText>A Serva foi traida depois de abandonar seus principios e ingenuamente confiando em alguém com todo seu coração. Agora, ela é dominada por raiva a si mesma pelo o que ela fez.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¡¡¡GRRRR!!!</Dialogue>
-        <Dialogue ID="2">¡¡¡UUUGH… AAARGH!!!</Dialogue>
-        <Dialogue ID="3">¡¡¡AAAAH!!!</Dialogue>
-        <Dialogue ID="4">¡¡¡PECADORES DE OTROS MUNDOS!!! ¡¡¡ENCARNACIONES DEL MAL!!!</Dialogue>
+        <Dialogue ID="1">GRRRR!!!</Dialogue>
+        <Dialogue ID="2">UUUGH… AAARGH!!!</Dialogue>
+        <Dialogue ID="3">AAAAH!!!</Dialogue>
+        <Dialogue ID="4">PECADORES DE OUTROS MUNDOS!!! ENCARNAÇÕES DO MAL!!!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
 <AbnormalityCard ID="Angry_Friend">
       <Abnormality>A Serva da Ira</Abnormality>
-      <CardName>Compañia</CardName>
+      <CardName>Companheiro</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando no hay 'Compañia' presente, el primer enemigo golpeado por el bibliotecario seleccionado es marcado como uno. Cuando el bibliotecario seleccionado derrota al personaje con 'Compañia', todos los bibliotecarios restauran 3 de Luz recuperan 10 HP y resistencia al aturdimiento.</AbilityDesc>
-      <FlaborText>A Serva da Ira valoró la justicia y el balance más que nadie, pero ella comenzó a compartir conocimiento con el Ermitaño, un enemigo de su reino, volviéndose amigos en secreto.</FlaborText>
+Quando não há um 'Companheiro' presente, o primeiro inimigo que o bibliotecário selecionado acertar é marcado como um. Quando o bibliotecário derrota o 'Companheiro', todos os bibliotecários restauram 3 de Luz recuperan 10 HP e Resistência de Atordoamento.</AbilityDesc>
+      <FlaborText>A Serva da Ira valorizava justiça e equilíbrio mais do que qualquer um, mas ela começou a compartilhar conhecimento com o Eremita -um inimigo de seu reino- tornando-se amigo dela em segredo.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Llámame… Llámame por mi nombre…</Dialogue>
-        <Dialogue ID="2">Amigo… Mi amigo… Aquellos se necesitan… el uno al otro…</Dialogue>
-        <Dialogue ID="3">Nosotros… eramos verdaderos amigos… ¿Verdad?</Dialogue>
-        <Dialogue ID="4">Era la más preciosa relación para mí, que pasó…</Dialogue>
+        <Dialogue ID="1">Chame… Chame meu nome…</Dialogue>
+        <Dialogue ID="2">Amigo… Meu amigo… Aqueles que precisam… um ao outro…</Dialogue>
+        <Dialogue ID="3">Nós… eramos amigos de verdade… Certo?</Dialogue>
+        <Dialogue ID="4">Era a amizade mais preciosa para mim, e o que aconteceu…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -1325,56 +1326,56 @@ Cuando no hay 'Compañia' presente, el primer enemigo golpeado por el biblioteca
       <Abnormality>A Serva da Ira</Abnormality>
       <CardName>Lodo acido</CardName>
       <AbilityDesc>[All Enemies]
-Inflige 5 de 'Erosión' a todos los enemigos. Enemigos con Erosión también ganan Atadura igual a la cantidad Erosion que tengan actualmente.
-(Erosión: al final de una escena, recibe daño igual a la cantidad Erosión y pierde 1; cuando recibes un golpe, recibe daño y daño de aturdimiento adicional igual a la cantidad Erosión.)</AbilityDesc>
-      <FlaborText>Cuando ambos se encontraron al final, el Ermitaño trajo incontables súbditos para destruir el mundo de la Sirviente.</FlaborText>
+Inflige 5 de 'Erosão' a todos os inimigos. Inimigos com Erosão também ganham Amarrado igual a quantidade de Erosão que eles tem.
+(Erosão: Ao final da Cena, receba dano igual a quantidade de Erosão e reduza 1 acúmulo; Ao ser Golpeado, receba Dano e Dano de Atordoamento com igual a quantidade de Erosão.)</AbilityDesc>
+      <FlaborText>Quando eles enfim se encontraram, o Eremita trouxe incontáveis lacaios para destruir o mundo da Serva.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">El balance se rompe y la justicia se desvanece…</Dialogue>
-        <Dialogue ID="2">Esa es la razón por que perdí; Caí contra un querido compañero.</Dialogue>
-        <Dialogue ID="3">Úsalos y ellos te usan a ti. Eso somos nosotros.</Dialogue>
-        <Dialogue ID="4">Esto ha pasado antes… todo por el bien de ellos…</Dialogue>
+        <Dialogue ID="1">O equilibrio se quebra, e a justiça se esvai…</Dialogue>
+        <Dialogue ID="2">É por isso que perdi; Caí contra um querido companheiro.</Dialogue>
+        <Dialogue ID="3">Úse eles e eles usam você. Somos nós.</Dialogue>
+        <Dialogue ID="4">Isso já aconteceu antes… Tudo frustrado pelo bem deles…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="NihilClown_Card">
-      <Abnormality>El bufón de Nihil</Abnormality>
-      <CardName>Chicas mágicas</CardName>
+      <Abnormality>O bobo da corte de Nihil</Abnormality>
+      <CardName>Garotas Mágicas</CardName>
       <AbilityDesc>[Aliado Único]
-Al comienzo de una escena, una página de combate en mano con el coste más alto (Que sea menor a 4) es marcado con un Símbolo mágico.
-Después de perder 4 enfrentamientos con la página marcada, gana 5 de Protección cada escena y te vuelves inmune a los efectos de estado el resto de la recepción.
-También, al ser golpeado, inflige 1 de Erosión y Frágil la siguiente escena al atacante. (Dos veces por escena)</AbilityDesc>
-      <FlaborText>El bufón volvió sobre los pasos de un camino que todos han tomado. El bufón siempre se encontró a si mismo en el final del camino. No había forma de saber si ellos se habían juntado para volverte el bufón, o si el bufón había venido para parecerse a ellos.</FlaborText>
+Ao começo da Cena, a Página de Combate na mão com o maior custo (que seja menor que 4) é marcada com um Símbolo Mágico
+Depois de perder 4 Embates com páginas marcadas, ganhe 5 de Proteção todas as Cenas, e se torne imune a Efeitos Negativos pelo resto da recepção.
+Também, Ao ser Golpeado, inflige 1 de Erosão e Frágio na próxima Cena ao atacante. (Duas vezes por Cena)</AbilityDesc>
+      <FlaborText>O bobo da corte refez os passos do caminho que todas teriam tomado. O bobo da corte sempre se viu no final da estrada. Não tinha como saber se elas se juntaram para se tornar o bobo da corte, ou se o bobo da corte acabou se parecendo com elas.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¿Me hiciste a mí, o yo te hice a ti?</Dialogue>
-        <Dialogue ID="2">Me veo como ellos y ellos se ven como yo cuando están juntos.</Dialogue>
-        <Dialogue ID="3">Lentamente tracé el camino de vuelta. Es el camino que tú hubieras tomado.</Dialogue>
+        <Dialogue ID="1">Você que me fez, ou eu fiz você?</Dialogue>
+        <Dialogue ID="2">Eu me pareco com elas, e elas se parecem comigo quando estão juntas .</Dialogue>
+        <Dialogue ID="3">Eu lentamente fiz o caminho de volta. É o caminho que você teria tomado.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="NihilClown_Nihil">
-      <Abnormality>El bufón de Nihil</Abnormality>
-      <CardName>Vacío</CardName>
+      <Abnormality>O bobo da corte de Nihil</Abnormality>
+      <CardName>Vazio</CardName>
       <AbilityDesc>[Aliado Único]
-Añade una página 'Todo Regresa al Vacío' a la mano: ‘Coste 3 - [Comienzo del combate] agota todas las páginas de la mano. Cada escena después de esto, gana Fuerza y Dureza igual al número de cartas agotadas de esta manera.’</AbilityDesc>
-      <FlaborText>El bufón estaba pensando profundamente, ese pobre bufón. Sin un cachorro que lo guie, camina con pasos sin sentido.</FlaborText>
+Adicione uma 'Tudo Volta para o Vazio' à sua mão: 'Custo 3 - [Uso Único][Começo do Combate] Abdica todas as cartas na mão. Todas as Cenas após isso, ganhe Força e Endurecido igual ao número de páginas abdicadas desse jeito'</AbilityDesc>
+      <FlaborText>EO bobo da corte foi mais fundo, o pobre bobo da corte. Sem o cachorrinho corajoso para liderar o caminho, ele andou em passos sem sentido.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¿Dónde está el camino correcto? ¿Dónde voy?</Dialogue>
-        <Dialogue ID="2">No sé lo que me está esperando delante. ¿Podría ser un acantilado, o una zanja?</Dialogue>
-        <Dialogue ID="3">¿Dónde está ese perro brillante cuando necesito que me guie?</Dialogue>
-        <Dialogue ID="4">Mi mente es un vacío, mis pensamientos son vacíos. Tengo menos miedo mientras ellos se vuelven más libres.</Dialogue>
+        <Dialogue ID="1">Onde está o caminho certo? Onde que eu vou?</Dialogue>
+        <Dialogue ID="2">Eu não sei o que me espera logo a frente. Pode ser um penhasco, ou uma vala?</Dialogue>
+        <Dialogue ID="3">Onde está o cachorro brilhante quando eu preciso que ele me guie?</Dialogue>
+        <Dialogue ID="4">Minha mente é um vazio, meus pensametos desguarnecidos. Eu me tornei mais sem medo confrome me toreni mais vago.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="NihilClown_fusion">
-      <Abnormality>El bufón de Nihil</Abnormality>
-      <CardName>Nada</CardName>
+      <Abnormality>O bobo da corte de Nihil</Abnormality>
+      <CardName>Nix</CardName>
       <AbilityDesc>[Aliado Único]
-Esta página solo es efectiva si el bibliotecario posee las cuatro páginas de Anormalidad siguientes: 'Codicia', 'Odio', 'Desesperación', e 'Ira'.
-Al comienzo de una escena, inflige 5 de Endeble, Desarmar y Atadura a Todos os Personagens. 'Codicia', 'Odio', e 'Ira' pierden sus inconvenientes.</AbilityDesc>
-      <FlaborText>Habiendo decidido en confiar en su propia intuición, el bufón dijo los nombres de todos los que había conocido en el camino con cada paso que tomó..</FlaborText>
+Essa página só tem efeito se o bibliotecário selecionado tem todas as quatro páginas de Anormalidade: 'Ganância', 'Ódio', 'Desespero', e 'Ira'.
+No começo da Cena, Inflige 5 de Fraco, Desarme e Amarrado a Todos os outros Personagens. 'Ganância', 'Ódio', e 'Ira' perdem suas desvantagens.</AbilityDesc>
+      <FlaborText>Tendo decidido confiar na própria intuição, o bobo da corte disse o nome de todos que conheceu naquele caminho com cada passo que tomou.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Liderando el camino con tonterías, no hay nada que me guie.</Dialogue>
-        <Dialogue ID="2">Ciego por los deseos y el celo, caminando voluntariamente hacia el borde del precipicio.</Dialogue>
-        <Dialogue ID="3">¡Si estás confuso porque no parece haber un método correcto, solo confía en tu intuición!</Dialogue>
-        <Dialogue ID="4">La agonía de todos se vuelve uno.</Dialogue>
+        <Dialogue ID="1">Liderando o caminho pela tolice, não há nada que me guie.</Dialogue>
+        <Dialogue ID="2">Cegado pelos desejos carnais e inveja, de bom grado andando para a ponta do penhasco.</Dialogue>
+        <Dialogue ID="3">Se você está confuso porquê não parece ter o método correto, confie na sua intuição!</Dialogue>
+        <Dialogue ID="4">A agonia de todos se torna um.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
