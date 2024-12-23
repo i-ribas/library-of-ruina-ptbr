@@ -22,8 +22,8 @@
   <text id="BattleUI_SpeedDiceBonus">Bônus de Velocidade</text>
   <text id="BattleUI_Deflect">Defletido!</text>
   <text id="BattleUI_StartBattle_CreatureInfo">{0}</text>
-  <text id="BattleUI_Victory_Creature">Supressão de {0} completada</text>
-  <text id="BattleUI_Defeat_Creature">Supressão de {0} fracassada</text>
+  <text id="BattleUI_Victory_Creature">Supressão de{0}completada</text>
+  <text id="BattleUI_Defeat_Creature">Supressão de{0}fracassada</text>
 
   <text id="BattleUI_EmotionLevel">Nível de Emoção</text>
 
