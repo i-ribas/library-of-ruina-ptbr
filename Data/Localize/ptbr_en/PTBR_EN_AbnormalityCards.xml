@@ -195,7 +195,7 @@ No começo da cena, todos os aliados ganham Força com base na quantidade de dan
       <Abnormality>Maçã da Branca de Neve</Abnormality>
       <CardName>Vinhas</CardName>
       <AbilityDesc>[Aliado Único]
-Pelo resto do Ato, inflige 6 Amarrado em um inimigo aleatório no começo da Cena.
+Pelo resto do Ato, inflige 6 Amarro em um inimigo aleatório no começo da Cena.
 Dados Perfurantes ganham 1-2 de Poder atacando esse inimigo.</AbilityDesc>
       <FlaborText>Um dia, um galho cresceu dele. As folhas e galhos já estavam secas e definhadas, mas continuaram a crescer.</FlaborText>
       <Dialogues>
@@ -210,8 +210,8 @@ Dados Perfurantes ganham 1-2 de Poder atacando esse inimigo.</AbilityDesc>
       <Abnormality>Maçã da Branca de Neve</Abnormality>
       <CardName>Barreira de Espinhos</CardName>
       <AbilityDesc>[Aliado Único]
-Ao ser golpeado, inflige 2-8 de dano e 1-3 de Amarrado ao atacante.
-Se 3 de Amarrado foi infligido, recupere HP igual a quantidade de dano causado por esse efeito.</AbilityDesc>
+Ao ser golpeado, inflige 2-8 de dano e 1-3 de Amarro ao atacante.
+Se 3 de Amarro foi infligido, recupere HP igual a quantidade de dano causado por esse efeito.</AbilityDesc>
       <FlaborText>A maçã que caiu das mãos da Branca de Neve depois de uma única mordida nunca poderia ser feliz. 
       A maçã, cheia de solidão e ódio pela princesa, esperou pelo dia que iria apodrecer e voltar à terra.</FlaborText>
       <Dialogues>
@@ -245,8 +245,8 @@ No começo dessa Cena, todos os inimigos recebem dano inversamente proporcional 
 Dados contundentes ganham 1-3 de Poder. Velocidade é fixada em 1.</AbilityDesc>
 		<FlaborText>Ele veste uma camisa de força, mas é livre como qualquer homem. Nenhuma quantia de correntes e restrições é suficiente para evitar que ele cometa violência.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Mesmo que meu corpo esteja Amarrado… Sou tão livre quanto qualquer homem.</Dialogue>
-        <Dialogue ID="2">Me solta… Por que eu tenho que ficar Amarrado?</Dialogue>
+        <Dialogue ID="1">Mesmo que meu corpo esteja Amarro… Sou tão livre quanto qualquer homem.</Dialogue>
+        <Dialogue ID="2">Me solta… Por que eu tenho que ficar Amarro?</Dialogue>
         <Dialogue ID="3">Não olhe para mim com esses olhos. Vocês são os mais lamentáveis aqui…</Dialogue>
         <Dialogue ID="4">Você não vai me manter acorrentado com isso!</Dialogue>
         <Dialogue ID="5">Eu posso ser uma bagunça agora, mas você terá que ter medo de mim do mesmo jeito.</Dialogue>
@@ -257,7 +257,7 @@ Dados contundentes ganham 1-3 de Poder. Velocidade é fixada em 1.</AbilityDesc>
       <Abnormality>Assassino Abandonado</Abnormality>
       <CardName>Eco Metálico</CardName>
 		<AbilityDesc>[Aliado Único]
-Ao realizar um ataque contundente bem sucedido, inflige 1 Amarrado e 1 Paralisado na próxima Cena (Exclui Ataques Em Massa)</AbilityDesc>
+Ao realizar um ataque contundente bem sucedido, inflige 1 Amarro e 1 Paralisado na próxima Cena (Exclui Ataques Em Massa)</AbilityDesc>
 		<FlaborText>“Minha cabeça… Se tornando metal… As dobras no meu cérebro, sendo achatadas…”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Minha cabeça está ecoando. Eu consigo ouvir o som do metal, claro e barulhento…</Dialogue>
@@ -565,7 +565,7 @@ Receba 2-5 de dano de Atordoamento quando um ataque Cortante não acerta. (Exclu
       <Abnormality>Casulo Aracnídeo</Abnormality>
       <CardName>Casulo</CardName>
       <AbilityDesc>[Aliado Único]
-Ao golpear, se o dado rolou seu valor máximo: Inflige 1-2 de Paralisia, Amarrado e Frágil na próxima cena. (Exclui Ataques Em Massa)</AbilityDesc>
+Ao golpear, se o dado rolou seu valor máximo: Inflige 1-2 de Paralisia, Amarro e Frágil na próxima cena. (Exclui Ataques Em Massa)</AbilityDesc>
       <FlaborText>Como esperado, nenhum funcionário se voluntariou para recurerar o corpo do seus colegas encasulados.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Que idiota descuidado pisou no meu bebê?</Dialogue>
@@ -596,7 +596,7 @@ Ao golpear um inimigo atordoado, Todos os Aliados recuperam 2-4 de HP. (Exclui A
       <CardName>Vigilância</CardName>
       <AbilityDesc>[Aliado Único]
 Inimigos perdem 1 de Poder em Embates contra o bibliotecário selecionado.
-Ao vencer um Embate, 50% de chance de infigir 1 de Amarrado e Frágil na próxima Cena</AbilityDesc>
+Ao vencer um Embate, 50% de chance de infigir 1 de Amarro e Frágil na próxima Cena</AbilityDesc>
       <FlaborText>Os olhos brilhavam na escuridão, procurando uma presa para alimentar suas aranhinhas.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Posso ver claramente na escuridão…</Dialogue>
@@ -658,7 +658,7 @@ Porém, se a página não for usada em 2 Cenas, ela se esgota, causando 2-7 de d
       <Abnormality>Sonho do Cisne Negro</Abnormality>
       <CardName>Residuos Pegajosos</CardName>
       <AbilityDesc>[Aliado Único]
-Ao ganhar um Embate, inflige 1 de Amarrado, Frágil, Sangramento e Paralisia a todos os inimigos na próxima Cena. (Duas vezes por Cena)</AbilityDesc>
+Ao ganhar um Embate, inflige 1 de Amarro, Frágil, Sangramento e Paralisia a todos os inimigos na próxima Cena. (Duas vezes por Cena)</AbilityDesc>
       <FlaborText>Elijah caiu de joelhos e sua família começou a vomitar tudo o que todos os outros estavam vomitando.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">O lago ondulava gentilmente. Como se alguns cisneis tivessem voado.</Dialogue>
@@ -1069,8 +1069,8 @@ No começo da Cena, baralhe todas as suas páginas na sua mão e compre 4 págin
       <Abnormality>A Rainha da Neve</Abnormality>
       <CardName>Espada da Geada</CardName>
       <AbilityDesc>[Aliado Único]
-Ao Ganhar um Embate, tenha 50% de chance de infligir 1-3 de Amarrado na próxima Cena.
-Cause +2-5 de Dano de Atordoamento contra alvos com Amarrado.</AbilityDesc>
+Ao Ganhar um Embate, tenha 50% de chance de infligir 1-3 de Amarro na próxima Cena.
+Cause +2-5 de Dano de Atordoamento contra alvos com Amarro.</AbilityDesc>
       <FlaborText>A Rainha vive sozinha na gelada floresta de inverno.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">O fio dessa espada é fria e afiada.</Dialogue>
@@ -1103,7 +1103,7 @@ No final de cada Cena, personagens com 3 ou mais Estilhaços de Gelo se tornam I
       <CardName>Nevasca</CardName>
       <AbilityDesc>[Aliado Único]
 Todos os Personagens exceto o bibliotecário selecionado ficam Imobilizados pela próxima Cena.
-Na próxima Cena, todos os inimigos são infligidos com 6 Amarrado.</AbilityDesc>
+Na próxima Cena, todos os inimigos são infligidos com 6 Amarro.</AbilityDesc>
       <FlaborText>A primavera chegou com rosas desabroxantes. Seu calor derreteu o palácio da Rainha da Neve. Ninguém se lembrou dela, dormindo logo abaixo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Ninguém sabwe que eu estou dormindo aqui.</Dialogue>
@@ -1326,7 +1326,7 @@ Quando não há uma 'Companheira' presente, o primeiro inimigo que o bibliotecá
       <Abnormality>A Serva da Ira</Abnormality>
       <CardName>Lodo Ácido</CardName>
       <AbilityDesc>[Todos os Inimigos]
-Inflige 5 de 'Erosão' a todos os inimigos. Inimigos com Erosão também ganham Amarrado igual a quantidade de Erosão que eles tem.
+Inflige 5 de 'Erosão' a todos os inimigos. Inimigos com Erosão também ganham Amarro igual a quantidade de Erosão que eles tem.
 (Erosão: Ao final da Cena, receba dano igual a quantidade de Erosão e reduza 1 acúmulo; ao ser golpeado, receba Dano e Dano de Atordoamento igual a quantidade de Erosão.)</AbilityDesc>
       <FlaborText>Quando eles enfim se encontraram, o Eremita trouxe incontáveis lacaios para destruir o mundo da Serva.</FlaborText>
       <Dialogues>
@@ -1369,7 +1369,7 @@ Adiciona uma página 'Tudo Volta para o Vazio' à sua mão: 'Custo 3 - [Uso Úni
       <CardName>Nix</CardName>
       <AbilityDesc>[Aliado Único]
 Essa página só tem efeito se o bibliotecário selecionado tem todas as quatro páginas de Anormalidade: 'Ganância', 'Ódio', 'Desespero', e 'Ira'.
-No começo da Cena, Inflige 5 de Fraqueza, Desarme e Amarrado a todos os outros personagens. 'Ganância', 'Ódio', e 'Ira' perdem suas desvantagens.</AbilityDesc>
+No começo da Cena, Inflige 5 de Fraqueza, Desarme e Amarro a todos os outros personagens. 'Ganância', 'Ódio', e 'Ira' perdem suas desvantagens.</AbilityDesc>
       <FlaborText>Tendo decidido confiar na própria intuição, o bobo da corte disse o nome de todos que conheceu naquele caminho com cada passo que tomou.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Liderando o caminho pela tolice, não há nada que me guie.</Dialogue>

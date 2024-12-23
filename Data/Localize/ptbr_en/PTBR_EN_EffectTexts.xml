@@ -67,7 +67,7 @@
       <Desc>Reduz o Poder de todos os dados defensivos em {0} pela duração dessa Cena</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Binding">
-      <Name>Amarrado</Name>
+      <Name>Amarro</Name>
       <Desc>Reduz a Velocidade em {0} pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Protection">
@@ -116,7 +116,7 @@
       <Desc>Os dados defensivos perdem X de Poder pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Binding_Keyword">
-      <Name>Amarrado X</Name>
+      <Name>Amarro X</Name>
       <Desc>Reduz a Velocidade em X pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Protection_Keyword">
@@ -541,7 +541,7 @@
     <BattleEffectText ID="SnowQueen_Debuf">
       <Name>Frío</Name>
       <Desc>1 de Frío se perde al comienzo de cada escena.
-En el comienzo de la escena, si el personaje tiene 4 o más Frío, gana 2 de Amarrado y Fraco.
+En el comienzo de la escena, si el personaje tiene 4 o más Frío, gana 2 de Amarro y Fraco.
 Si el personaje tiene 6 o más de Frío, se Inmoviliza y remueve todo el Frío de si mismo al comienzo de la siguiente escena.</Desc>
     </BattleEffectText>
 
@@ -560,7 +560,7 @@ Si el personaje tiene 6 o más de Frío, se Inmoviliza y remueve todo el Frío d
     </BattleEffectText>
     <BattleEffectText ID="SnowQueen_Emotion_Stun">
       <Name>Congelado</Name>
-      <Desc>No puede Actuar esta escena. Si es tu enemigo, ellos ganham 6 de Amarrado siguiente escena.</Desc>
+      <Desc>No puede Actuar esta escena. Si es tu enemigo, ellos ganham 6 de Amarro siguiente escena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="HokmaFirstCounter">
@@ -668,11 +668,11 @@ Si esto llega a 3, una poderosa página de combate es usada la siguiente escena.
     </BattleEffectText>
     <BattleEffectText ID="Nihil_MagicalPower">
       <Name>Chicas mágicas</Name>
-      <Desc>Mientras la cuatro páginas de las chicas mágicas están en la mano, el bibliotecario gana 1-2 de Força cada escena y no es afectado por Fraco, Desarmar, o Amarrado.</Desc>
+      <Desc>Mientras la cuatro páginas de las chicas mágicas están en la mano, el bibliotecario gana 1-2 de Força cada escena y no es afectado por Fraco, Desarmar, o Amarro.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Nihil_Nihil">
       <Name>Nihil</Name>
-      <Desc>Inflige 5 de Fraco, Desarmar y Amarrado en todos los otros personajes en el comienzo de la escena. Las desventajas de páginas de Anomalidad 'Codicia', 'Odio', e 'Ira' son Anuladas de las siguientes maneras:
+      <Desc>Inflige 5 de Fraco, Desarmar y Amarro en todos los otros personajes en el comienzo de la escena. Las desventajas de páginas de Anomalidad 'Codicia', 'Odio', e 'Ira' son Anuladas de las siguientes maneras:
       Codicia: Solo el bibliotecario puede activar este efecto.
       Odio: No recibes Dano de Atordoamento adicional Ao Perder um Embate.
       Ira: Recupera el control de tus bibliotecarios.</Desc>
@@ -1294,15 +1294,15 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
     
     <BattleEffectText ID="HeavySmoke">
       <Name>Bruma sofocante</Name>
-      <Desc>Puede acumular hasta 3. El personaje recibe un problema de estado aleatorio (Sangramento, Parálisis, Fraco, Desarmar, Amarrado, o Frágil) por cada acumulación de Bruma Sofocante al comienzo de la siguiente escena, perde toda la Bruma Sofocante.</Desc>
+      <Desc>Puede acumular hasta 3. El personaje recibe un problema de estado aleatorio (Sangramento, Parálisis, Fraco, Desarmar, Amarro, o Frágil) por cada acumulación de Bruma Sofocante al comienzo de la siguiente escena, perde toda la Bruma Sofocante.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HeavySmoke_buf">
       <Name>Bruma sofocante</Name>
-      <Desc>Puede acumular hasta 3. El personaje recibe un problema de estado aleatorio (Sangramento, Parálisis, Fraco, Desarmar, Amarrado, o Frágil) por cada acumulación de Bruma Sofocante al comienzo de la siguiente escena, perde toda la Bruma Sofocante.</Desc>
+      <Desc>Puede acumular hasta 3. El personaje recibe un problema de estado aleatorio (Sangramento, Parálisis, Fraco, Desarmar, Amarro, o Frágil) por cada acumulación de Bruma Sofocante al comienzo de la siguiente escena, perde toda la Bruma Sofocante.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="HeavySmoke_Keyword">
       <Name>Bruma Sofocante</Name>
-      <Desc>Puede acumula hasta 3. El personaje recibe un problema de estado aleatorio (Sangramento, Parálisis, Fraco, Desarmar, Amarrado, o Frágil) por cada acumulación de este efecto al comienzo de siguiente escena. Perde todas las acumulaciones.</Desc>
+      <Desc>Puede acumula hasta 3. El personaje recibe un problema de estado aleatorio (Sangramento, Parálisis, Fraco, Desarmar, Amarro, o Frágil) por cada acumulación de este efecto al comienzo de siguiente escena. Perde todas las acumulaciones.</Desc>
     </BattleEffectText>
 
     <!--검은침묵 3페이즈-->
@@ -1328,7 +1328,7 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteLoss">
       <Name>Desconsolada</Name>
-      <Desc>Inflige 3 de Amarrado, Parálisis y Frágil cada escena.</Desc>
+      <Desc>Inflige 3 de Amarro, Parálisis y Frágil cada escena.</Desc>
     </BattleEffectText>
 
     <!--검은침묵 4페이즈-->
@@ -1366,7 +1366,7 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Kiss">
       <Name>Beso</Name>
-      <Desc>Prioriza apuntar bibliotecarios con Amarrado. durante essa Cena, Ao Vencer um Embate, inflige Astilla de hielo a el oponente. Ao final da Cena, personajes con3 o más Astillas de hielo se vuelven Inmovilizado por la siguiente escena.</Desc>
+      <Desc>Prioriza apuntar bibliotecarios con Amarro. durante essa Cena, Ao Vencer um Embate, inflige Astilla de hielo a el oponente. Ao final da Cena, personajes con3 o más Astillas de hielo se vuelven Inmovilizado por la siguiente escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_NonTargetable">
       <Name>Listo para actuar</Name>
