@@ -39,7 +39,7 @@ Ao ser Golpeado, Inflige 1-3 de Queimadura ao atacante e tem 40% de chance de ga
       <AbilityDesc>[Aliado Único]
 As duas primeias Páginas de Combate que esse bibliotecário usar após essa página de Anormalidade ser selecionada ganham o efeito 'Fósforo' (Exclui páginas [Ao Jogar])
 Sempre que o bibliotecário usar uma página com 'Fósforo', ganhe 1 'Brasas'
-Páginas com 'Fósforo' se tornam mais fortes com base na quantidade de 'Brasas'; Mas elas tem 25% de chance de causar dano ao usuário se 'Brasas' está em 4 ou mais.
+Páginas com 'Fósforo' se tornam mais fortes com base na quantidade de 'Brasas'; mas elas tem 25% de chance de causar dano ao usuário se 'Brasas' está em 4 ou mais.
       </AbilityDesc>
       <FlaborText>“Bem, ela é como uma bomba-relógio. Ninguém consegue dizer se ela está de bom humor ou não”</FlaborText>
       <Dialogues>
@@ -55,8 +55,8 @@ Páginas com 'Fósforo' se tornam mais fortes com base na quantidade de 'Brasas'
       <Abnormality>Ursinho de Pelúcia Feliz</Abnormality>
       <CardName>Abraço Nostálgico do Passado</CardName>
       <AbilityDesc>[Aliado Único]
-Ao ganhar um Embate, 20% de chance de causar Dano de Atordoamento bônus igual ao valor do dado
-Embates contra o mesmo alvo múltiplas vezes aumenta a chance 
+Ao ganhar um Embate, tenha 20% de chance de causar Dano de Atordoamento bônus igual ao valor do dado.
+Embates contra o mesmo alvo múltiplas vezes aumenta a chance.
       </AbilityDesc>
       <FlaborText>O Ursinho estava abraçando alguém com força. Ursinho ama abraços. Mas algo estava estranho.</FlaborText>
       <Dialogues>
@@ -166,7 +166,7 @@ Ao ser golpeado, inflige 1-3 de Queimadura e 1-3 de Sangramento ao atacante na p
       <Abnormality>Abelha Rainha</Abnormality>
       <CardName>Abelha-Operária</CardName>
       <AbilityDesc>[Aliado Único]
-O inimigo que causou mais dano ao biblioteário selecionado é marcado. Outros aliados causam 2-4 a mais de dano ao alvo marcado com seus ataques</AbilityDesc>
+O inimigo que causou mais dano ao biblioteário selecionado é marcado. Outros aliados causam 2-4 a mais de dano ao alvo marcado com seus ataques.</AbilityDesc>
       <FlaborText>Elas mostram apenas dois comportamentos: Entregar nutrientes à Rainha, e proliferar.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Minhas abelhas. É hora de mover.</Dialogue>
@@ -227,7 +227,7 @@ Se 3 de Amarrado foi infligido, recupere HP igual a quantidade de dano causado p
       <CardName>Malícia</CardName>
       <AbilityDesc>[Aliado Único]
 No começo dessa Cena, todos os inimigos recebem dano inversamente proporcional a quantidade de HP que o bibliotecário tem. (Mín. 5, Máx. 30; Menos HP é mais Dano)</AbilityDesc>
-      <FlaborText>A malícia inerente causa toda a vida à desmoronar quando ela florece.</FlaborText>
+      <FlaborText>A malícia inerente causa toda a vida à desmoronar quando ela floresce.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Minha existência nasceu de raiva e uma maldição, ainda assim eu servi como a bênção para outra pessoa.</Dialogue>
         <Dialogue ID="2">As vinhas sem vida continuam a crescer.</Dialogue>
@@ -245,8 +245,8 @@ No começo dessa Cena, todos os inimigos recebem dano inversamente proporcional 
 Dados contundentes ganham 1-3 de Poder. Velocidade é fixada em 1.</AbilityDesc>
 		<FlaborText>Ele veste uma camisa de força, mas é livre como qualquer homem. Nenhuma quantia de correntes e restrições é suficiente para evitar que ele cometa violência.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Mesmo que meu corpo esteja amarrado… Sou tão livre quanto qualquer homem.</Dialogue>
-        <Dialogue ID="2">Me solta… Por que eu tenho que ficar amarrado?</Dialogue>
+        <Dialogue ID="1">Mesmo que meu corpo esteja Amarrado… Sou tão livre quanto qualquer homem.</Dialogue>
+        <Dialogue ID="2">Me solta… Por que eu tenho que ficar Amarrado?</Dialogue>
         <Dialogue ID="3">Não olhe para mim com esses olhos. Vocês são os mais lamentáveis aqui…</Dialogue>
         <Dialogue ID="4">Você não vai me manter acorrentado com isso!</Dialogue>
         <Dialogue ID="5">Eu posso ser uma bagunça agora, mas você terá que ter medo de mim do mesmo jeito.</Dialogue>
@@ -392,7 +392,7 @@ Cause +2-7 de Dano e +2-5 de Dano de Atordoamento contra o inimigo com a menor q
       <Abnormality>O Funeral das Borboletas Mortas</Abnormality>
       <CardName>Lamento</CardName>
       <AbilityDesc>[Aliado Único]
-Causa +2-4 de dano contra inimigos que tenham um efeito negativo.
+Cause +2-4 de dano contra inimigos que tenham um efeito negativo.
 Se o bibliotecário tem um efeito negativo no começo da cena, ganhe 1-2 de Força</AbilityDesc>
       <FlaborText>Eles dizem que o enlutado com uma enorme bagagem em suas costas tinha vindo para ser o salvador de todos.</FlaborText>
       <Dialogues>
@@ -423,7 +423,7 @@ Ao golpear um inimigo que esteja com 50% de HP ou menos, Sele um dos Dados de Ve
       <CardName>Solicitar</CardName>
       <AbilityDesc>[Aliado Único]
 Se não há um 'Alvo Solicitado' presente, o primeiro inimigo que o bibliotecário selecionar será marcado como alvo.
-Causa +3-5 de dano ao 'Alvo Solicitado'.
+Cause +3-5 de dano ao 'Alvo Solicitado'.
 Quando o bibliotecário selecionado mata o Alvo Solicitado, recupere totalmente a Resistência à Atordoamento, e recupere duas vezes mais livros.</AbilityDesc>
       <FlaborText>Assim como o Diabo disse, as balas vão perfurar qualquer coisa que você quiser. Para sempre.</FlaborText>
       <Dialogues>
@@ -552,7 +552,7 @@ Todos os Personagens aplicam o dobro de Sangramento.</AbilityDesc>
       <CardName>Machado</CardName>
       <AbilityDesc>[Aliado Único]
 Os dados Cortantes ganham 1-3 de Poder
-Recebe 2-5 de dano de Atordoamento quando um ataqe Cortante não acerta (Exclui Ataques Em Massa) </AbilityDesc>
+Receba 2-5 de dano de Atordoamento quando um ataque Cortante não acerta. (Exclui Ataques Em Massa)</AbilityDesc>
       <FlaborText>Em algum momento, &lt;Censurado&gt; estava usando os saltos, sorrindo de orelha a orelha. Era uh, bem, era bem estranho. Aquilo não era um sorriso. Era…</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Afie o machado de novo e de novo… Para que ele possa corta-los com um golpe só.</Dialogue>
@@ -704,7 +704,7 @@ Ganha 6 'Roupa de Urtiga', que concede Proteção igual a sua quantidade no come
       <Abnormality>Fragmento do Universo</Abnormality>
       <CardName>Ecos do Além</CardName>
       <AbilityDesc>[Todos os Personagens]
-Causa 5-10 de Dano de Atordoamento a todos os inimigos. Aliados recuperam 5-10 de Resistência de Atordoamento.</AbilityDesc>
+Cause 5-10 de Dano de Atordoamento a todos os inimigos. Aliados recuperam 5-10 de Resistência à Atordoamento.</AbilityDesc>
       <FlaborText>Você vê a canção na sua frente. Está se aproximando, ficando mais colorida a cada segundo</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Cante. Performe. Humano. Canção. Orelha. Ouvir.</Dialogue>
@@ -719,7 +719,7 @@ Causa 5-10 de Dano de Atordoamento a todos os inimigos. Aliados recuperam 5-10 d
       <Abnormality>Fragmento do Universo</Abnormality>
       <CardName>Tentáculos</CardName>
       <AbilityDesc>[Aliado Único]
-Em um ataque Perfurante bem sucedido, reduz a Resistência de Atordoamento máxima do alvo em 5% (Max 50%, Excluí Ataques em Massa )</AbilityDesc>
+Em um ataque Perfurante bem sucedido, reduz a Resistência à Atordoamento máxima do alvo em 5%. (Max 50%, Exclui Ataques em Massa)</AbilityDesc>
       <FlaborText>No momento em que seus tentáculos te atravessarem, ele vai drenar todo o interesse pela vida que você está vivendo agora.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Negativo. Ataquar. Venha. Ajudar. Dar.</Dialogue>
@@ -735,7 +735,7 @@ Em um ataque Perfurante bem sucedido, reduz a Resistência de Atordoamento máxi
       <CardName>Incompreensível</CardName>
       <AbilityDesc>[Aliado Único]
 Em um ataque unilateral, tem 50% de chance de infligir 1 de Fraqueza e 1 Desarme. 
-A chance aumenta em 10% para cada ataque bem sucedido. (Três vezes por ataque, Excluí Ataques em Massa)</AbilityDesc>
+A chance aumenta em 10% para cada ataque bem sucedido. (Três vezes por ataque, Exclui Ataques em Massa)</AbilityDesc>
       <FlaborText>Eventualmente, ele foi bem sucedido em entrar no domínio do ‘Fragmento do Universo’. Porém, era óbvio que seu cérebro pequeno não conseguia aguentar .</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Entender. Você. Juntos. Humano. Eu.</Dialogue>
@@ -778,7 +778,7 @@ Por 3 Cenas, Todos os Aliados recuperam 10% do HP máximo no começo da Cena. (M
       <Abnormality>Criança da Galáxia</Abnormality>
       <CardName>Pedrinha</CardName>
       <AbilityDesc>[Aliado Único]
-No começo de cada Cena, três páginas aleatórias na mão ganham o efeito de 'Pedrinha'. (Excluí páginas com [Ao Jogar] )
+No começo de cada Cena, três páginas aleatórias na mão ganham o efeito de 'Pedrinha'. (Exclui páginas com [Ao Jogar] )
 Recupera 3-7 de HP ao usar páginas com 'Pedrinha'.
 Perde 1-3 de HP ao usar páginas sem 'Pedrinha'.</AbilityDesc>
       <FlaborText>“Você gostou? Mais do que gosta de mim? Não é óbvio? Eu sei de tudo. O que quer que você faça, onde quer que você vá.”</FlaborText>
@@ -795,8 +795,8 @@ Perde 1-3 de HP ao usar páginas sem 'Pedrinha'.</AbilityDesc>
       <Abnormality>Porccubus</Abnormality>
       <CardName>Espinhos</CardName>
       <AbilityDesc>[Aliado Único]
-Em um ataque Perfurante bem sucedido, inflige 1 de 'Excitação'
-Contra inimigos com 3+ 'Excitação' causa +2-7 de Dano e Dano de Atordoamento, em seguida remove todos os acúmulos de 'Excitação'. (Exclui Ataques Em Massa)</AbilityDesc>
+Em um ataque Perfurante bem sucedido, inflige 1 de 'Excitação'.
+Contra inimigos com 3+ 'Excitação' cause +2-7 de Dano e Dano de Atordoamento, em seguida remove todos os acúmulos de 'Excitação'. (Exclui Ataques Em Massa)</AbilityDesc>
       <FlaborText>No começo, tudo o que eu tinha que fazer era ser picado levemente por um desses espinhos. Agora eu tenho que esfregar meu corpo inteiro nele pra ter a mesma brisa.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Ok, eu vou me abaixar para você~ Sinta-se livre pra me acariciar.</Dialogue>
@@ -811,7 +811,7 @@ Contra inimigos com 3+ 'Excitação' causa +2-7 de Dano e Dano de Atordoamento, 
       <Abnormality>Pórcubo</Abnormality>
       <CardName>Exaltação</CardName>
       <AbilityDesc>[Aliado Único]
-Poder de todos os Dados +1. Reduz a Resistência de Atordoamento máxima em 50%.</AbilityDesc>
+Poder de todos os Dados +1. Reduz a Resistência à Atordoamento máxima em 50%.</AbilityDesc>
       <FlaborText>Hora de Minha Cabeça Estourar. Bom Dia.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Se você desejar por prazer imensurável, você vai quebrar eventualmente.</Dialogue>
@@ -826,7 +826,7 @@ Poder de todos os Dados +1. Reduz a Resistência de Atordoamento máxima em 50%.
       <Abnormality>Pórcubo</Abnormality>
       <CardName>Pó do Riso</CardName>
       <AbilityDesc>[Todos os Aliados]
-Ao ser Golpeado, recupere 2-4 de Resistência de Atordoamento se não estiver Atordoado.</AbilityDesc>
+Ao ser Golpeado, recupere 2-4 de Resistência à Atordoamento se não estiver Atordoado.</AbilityDesc>
       <FlaborText>Quando o pó que caiu dos espinhos ficar conhecido pelo mundo, talvez as pessoas afundem para sempre nesse pântano de intoxicação.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Sua cabeça ficará cheia de felicidade.</Dialogue>
@@ -869,7 +869,7 @@ Ao ser Golpeado, inflige 1 Aroma
       <CardName>Gênesis da Primavera</CardName>
       <AbilityDesc>[Aliado Único]
 A cada Cena, uma 'Pétala' se prende a um inimigo aleatório.
-Depois que o personagem com 'Pétala' recever 4 golpes em uma única Cena, Todos os Personagens recebem 3-7 de Dano de Atordoamento e o bibliotecário se torna intangível pela próxima Cena.</AbilityDesc>
+Depois que o personagem com 'Pétala' recever 4 golpes em uma única Cena, todos os Personagens recebem 3-7 de Dano de Atordoamento e o bibliotecário se torna intangível pela próxima Cena.</AbilityDesc>
       <FlaborText>Flores que não definham florescem violentamente.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Você que concederá meu desejo?</Dialogue>
@@ -928,7 +928,7 @@ Quando o bibliotecário selecionado Atordoa um inimigo, todos os inimigos perdem
       <CardName>Sangue</CardName>
       <AbilityDesc>[Aliado Único]
 Dados defensivos ganham 1-2 de Poder.
-Recebe +3-5 de Dano de Atordoamento ao ser golpeado.</AbilityDesc>
+Receba +3-5 de Dano de Atordoamento ao ser golpeado.</AbilityDesc>
       <FlaborText>Uma depressão insuportável sobrepuja todos que olham a essa banheira.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Essa pessoa simplesmente não conseguia lidar com o próprio sofrimento.</Dialogue>
@@ -943,7 +943,7 @@ Recebe +3-5 de Dano de Atordoamento ao ser golpeado.</AbilityDesc>
       <Abnormality>Banho de Sangue</Abnormality>
       <CardName>Cicatrizes</CardName>
       <AbilityDesc>[Aliado Único]
-Recebe 2-5 menos de dano Cortante.
+Receba 2-5 menos de dano Cortante.
 Ao ser Golpeado, tem 20% de chance de reduzir o dano a 0.</AbilityDesc>
       <FlaborText>Quando eu vi as cicatrizes entrelaçadas nos pulsos cortados dela, eu me lembrei do nosso armário de vinhos. Naquele dia, eu tirei a rolha do último.</FlaborText>
       <Dialogues>
@@ -960,7 +960,7 @@ Ao ser Golpeado, tem 20% de chance de reduzir o dano a 0.</AbilityDesc>
       <CardName>Mãos Pálidas</CardName>
       <AbilityDesc>[Aliado Único]
 Depois de 3 ataques bem sucedidos no mesmo alvo, cause 3-10 de Dano de Atordoamento.
-(Reinicia a contagem ao atacar um alvo diferente, Excluí Ataques em Massa)</AbilityDesc>
+(Reinicia a contagem ao atacar um alvo diferente, Exclui Ataques em Massa)</AbilityDesc>
       <FlaborText>Muitas mãos flutuam na banheira.
 São as mãos daques que um dia eu amei.</FlaborText>
       <Dialogues>
@@ -1067,10 +1067,10 @@ No começo da Cena, baralhe todas as suas páginas na sua mão e compre 4 págin
 
     <AbnormalityCard ID="TheSnowQueen_Sord">
       <Abnormality>A Rainha da Neve</Abnormality>
-      <CardName>Espada da Geada </CardName>
+      <CardName>Espada da Geada</CardName>
       <AbilityDesc>[Aliado Único]
-Ao Ganhar um Embate, 50% de chance de Infligir 1-3 de Amarrado na próxima Cena.
-Causa +2-5 de Dano de Atordoamento contra alvos com Amarrado.</AbilityDesc>
+Ao Ganhar um Embate, tenha 50% de chance de infligir 1-3 de Amarrado na próxima Cena.
+Cause +2-5 de Dano de Atordoamento contra alvos com Amarrado.</AbilityDesc>
       <FlaborText>A Rainha vive sozinha na gelada floresta de inverno.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">O fio dessa espada é fria e afiada.</Dialogue>
@@ -1085,7 +1085,7 @@ Causa +2-5 de Dano de Atordoamento contra alvos com Amarrado.</AbilityDesc>
       <Abnormality>A Rainha da Neve</Abnormality>
       <CardName>Um Beijo</CardName>
       <AbilityDesc>[Aliado Único]
-Depois de ganhar 2 ou mais Embates com uma única Página de Combate, inflige Estilhaços de Gelo ao inimigo.
+Depois de ganhar 2 ou mais Embates com uma única Página de Combate, inflige Estilhaço de Gelo ao inimigo.
 No final de cada Cena, personagens com 3 ou mais Estilhaços de Gelo se tornam Imobilizados na próxima cena.
       </AbilityDesc>
       <FlaborText>O beijo da Rainha da Neve congelou seu coração, e ele não sentia mais frio.</FlaborText>
@@ -1102,8 +1102,8 @@ No final de cada Cena, personagens com 3 ou mais Estilhaços de Gelo se tornam I
       <Abnormality>A Rainha da Neve</Abnormality>
       <CardName>Nevasca</CardName>
       <AbilityDesc>[Aliado Único]
-Todos os Personagens exceto o bibliotecário selecionado ficam imobilizados pela próxima Cena.
-Na próxima Cena, todos os inimigos são infligidos com 6 Amarrados.</AbilityDesc>
+Todos os Personagens exceto o bibliotecário selecionado ficam Imobilizados pela próxima Cena.
+Na próxima Cena, todos os inimigos são infligidos com 6 Amarrado.</AbilityDesc>
       <FlaborText>A primavera chegou com rosas desabroxantes. Seu calor derreteu o palácio da Rainha da Neve. Ninguém se lembrou dela, dormindo logo abaixo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Ninguém sabwe que eu estou dormindo aqui.</Dialogue>
@@ -1118,9 +1118,9 @@ Na próxima Cena, todos os inimigos são infligidos com 6 Amarrados.</AbilityDes
       <Abnormality>Garota Silênciosa</Abnormality>
       <CardName>Martelo e Prego</CardName>
       <AbilityDesc>[Aliado Único]
-Ao realizar um ataque Perfurante, Inflige 1 de 'Prego' ao alvo.
-Se um personagem com 'Prego' for golpeado por ataque Contundente, ele recebe dano adicional igual a 5X a quantidade de Pregos nele, então os acumulos de Prego são removidos.</AbilityDesc>
-      <FlaborText>Quando ela prega algo com seu martelo, a rachadura em sua mente crescerá, e uma ruptura por completo se tornará</FlaborText>
+Ao realizar um ataque Perfurante com sucesso, inflige 1 de 'Prego' ao alvo.
+Se um personagem com 'Prego' for golpeado por ataque Contundente, ele recebe dano adicional igual a 5x a quantidade de Pregos nele, em seguida os acúmulos de Prego são removidos.</AbilityDesc>
+      <FlaborText>Quando ela prega algo com seu martelo, a rachadura em sua mente crescerá, e uma ruptura por completo se tornará.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Eu me pergunto se tem uma rachadura na sua mente onde eu poderia martelar um prego?</Dialogue>
         <Dialogue ID="2">Quando eu prego algo na fissura, ela fica duas vezes maior.</Dialogue>
@@ -1133,7 +1133,7 @@ Se um personagem com 'Prego' for golpeado por ataque Contundente, ele recebe dan
       <Abnormality>Garota Silênciosa</Abnormality>
       <CardName>Olhar</CardName>
       <AbilityDesc>[Aliado Único]
-Causa e recebe duas vezes mais Dano.</AbilityDesc>
+Cause e receba duas vezes mais dano físico.</AbilityDesc>
       <FlaborText>A garota se manteve em silêncio. Ela simplesmente olhava no âmago do seu interior com um olhar profundo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">…</Dialogue>
@@ -1148,12 +1148,12 @@ Causa e recebe duas vezes mais Dano.</AbilityDesc>
       <CardName>Culpa</CardName>
       <AbilityDesc>[Aliado Único]
 Reduz o Dano de Atordoamento recebido em 1-3.
-Ao Ser Golpeado, o atacandte recebe Dano de Atordoamento igual ao Dano Físico que esse personagem recebeu.</AbilityDesc>
+Ao ser Golpeado, o atacante recebe Dano de Atordoamento igual ao Dano Físico que esse personagem recebeu.</AbilityDesc>
       <FlaborText>Porém, quando ela conheceu alguém carregando 'culpa' ou 'medo', a garota revelou o prego e o martelo que ela escondia atrás de si.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Você está se segurando nessas dolorosas memórias… Pobrezinho.</Dialogue>
-        <Dialogue ID="2">Não jogue sua responsabilidade nos outros. A âgnoia é apenas sua.</Dialogue>
-        <Dialogue ID="3">Você estaba ocupado demais tentando fugir, não estava?</Dialogue>
+        <Dialogue ID="2">Não jogue sua responsabilidade nos outros. A agonia é apenas sua.</Dialogue>
+        <Dialogue ID="3">Você estava ocupado demais tentando fugir, não estava?</Dialogue>
         <Dialogue ID="4">Querido, você parece… desconcertado, não está?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -1166,7 +1166,7 @@ Ao Ser Golpeado, o atacandte recebe Dano de Atordoamento igual ao Dano Físico q
       <CardName>Amor</CardName>
       <AbilityDesc>[Aliado Único]
 Depois de ganhar um Embate usando um dado Ofensivo, um aliado aleatório recupera 3-5 de HP.
-Depois de ganhar um Embate usando um dado Defensivo, um aliado aleatório recupera 2-4 de Resistência de Atordoamento.</AbilityDesc>
+Depois de ganhar um Embate usando um dado Defensivo, um aliado aleatório recupera 2-4 de Resistência à Atordoamento.</AbilityDesc>
       <FlaborText>Em nome do Amor e da Justiça~ Ai vem a Garota Mágica!</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Não se preocupem. Vocês estão seguros enquanto eu estiver aqui!</Dialogue>
@@ -1196,14 +1196,14 @@ Cause +3-5 de Dano ao 'Vilão'.</AbilityDesc>
       <Abnormality>A Rainha do Ódio</Abnormality>
       <CardName>Ódio</CardName>
       <AbilityDesc>[Aliado Único]
-Depois de perder um Embate, Recebe 2-4 de Dano de Atordoamento e ganha 1 Força na próxima Cena. (2 vezes por Cena)
+Depois de perder um Embate, Receba 2-4 de Dano de Atordoamento e ganha 1 Força na próxima Cena. (2 vezes por Cena)
 Depois de perder três Embates em uma única Cena, reduz o custo da carta mais cara na mão em 1. (Uma vez por Cena)</AbilityDesc>
-      <FlaborText>Ella juró amar todo en el mundo, pero todo lo que quedo fue un corazón derrumbado.</FlaborText>
+      <FlaborText>Ela jurou amar tudo no mundo, mas tudo o que restou foi um coração partido.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Por que todo mundo tá feliz? Não tenho razão para existir se todos estão…</Dialogue>
         <Dialogue ID="2">Eu sou a escolhida. Quem vai proteger o mundo além de mim?</Dialogue>
         <Dialogue ID="3">Eu não pude proteger ninguém…</Dialogue>
-        <Dialogue ID="4">Eu odeio um mundo pacífico… É como… É como se eu não fosse mais necessário…</Dialogue>
+        <Dialogue ID="4">Eu odeio um mundo pacífico… É como… É como se eu não fosse mais necessária…</Dialogue>
         <Dialogue ID="5">Eu mereço ser a heróina de todos. Eu nasci para isso…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -1213,7 +1213,7 @@ Depois de perder três Embates em uma única Cena, reduz o custo da carta mais c
       <CardName>Bênção</CardName>
       <AbilityDesc>[Aliado Único]
 Se o personagem tomou dano de ataques nessa Cena anterior, troque as resistências desse personagem contra o tipo de dano que ele mais recebeu para "Resistente" nessa Cena. (Aplica separadamente para Dano e Dano de Atordoamento)</AbilityDesc>
-      <FlaborText>A vontade de proteger permanece inalterada mesmo depois de tnto tempo; mesmo em contenção, ela ainda é obsecada pelo ato de proteger.</FlaborText>
+      <FlaborText>A vontade de proteger permanece inalterada mesmo depois de tanto tempo; mesmo em contenção, ela ainda é obcecada pelo ato de proteger.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Tudo o que resta é o orgulho oco de uma Cavaleira desgastada.</Dialogue>
         <Dialogue ID="2">Se eu tivesse outra chance de proteger…</Dialogue>
@@ -1226,12 +1226,12 @@ Se o personagem tomou dano de ataques nessa Cena anterior, troque as resistênci
       <Abnormality>A Cavaleira do Desespero</Abnormality>
       <CardName>Espadas Afiadas com Lágrimas</CardName>
       <AbilityDesc>[Aliado Único]
-Em um ataque Perfurante bem sucedido, se o dado rolar o valor máximo, cause dano bônus igual a 10% da vida máxima do alvo. (Máx. 12, Excluí Ataques Em Massa)</AbilityDesc>
+Em um ataque Perfurante bem sucedido, se o dado rolar o valor máximo, cause dano bônus igual a 10% da vida máxima do alvo. (Máx. 12, Exclui Ataques Em Massa)</AbilityDesc>
       <FlaborText>Quando a Justiça vira suas costas mais uma vez, dúzias de lâminas vão vagar sem propósito. Essas espadas vão eventualmente apontar para aqueles que ela não pôde proteger.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A ponta desta espada afiada com lágrimas e desespero é sempre precisa.</Dialogue>
         <Dialogue ID="2">Eu jurei a essa espada afiada, amolada com lágrimas em uma bigorna de desespero.</Dialogue>
-        <Dialogue ID="3">Jogo sujo está proibido. E também não haverá piedade… </Dialogue>
+        <Dialogue ID="3">Jogo sujo está proibido. E também não haverá piedade…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -1239,8 +1239,8 @@ Em um ataque Perfurante bem sucedido, se o dado rolar o valor máximo, cause dan
       <Abnormality>A Cavaleira do Desespero</Abnormality>
       <CardName>Desespero</CardName>
       <AbilityDesc>[Todos os Aliados]
-Quando um aliado morre, todos os outros aliados recebem 1-3 de Força e Celeridade, e todos os inimigos recebem 2 Frágil</AbilityDesc>
-      <FlaborText>Assim como tristeza, talvez compartilhar o fardo vá cegar o fio.</FlaborText>
+Quando um aliado morre, todos os outros aliados recebem 1-3 de Força e Celeridade, e todos os inimigos recebem 2 Frágil.</AbilityDesc>
+      <FlaborText>Assim como tristeza, talvez compartilhar o fardo cegará o fio.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">O desespero crescente em mim está transbordando pelos meus olhos e meu coração…</Dialogue>
         <Dialogue ID="2">O que esse desespero… Significa pra mim?</Dialogue>
@@ -1254,7 +1254,7 @@ Quando um aliado morre, todos os outros aliados recebem 1-3 de Força e Celerida
       <Abnormality>O Rei da Ganância</Abnormality>
       <CardName>Intemperancia</CardName>
       <AbilityDesc>[Aliado Único]
-Se o primeiro dado da Página de Combate ganha um Embate, 25% de chance de destruir os outros dados na Página do oponente.</AbilityDesc>
+Se o primeiro dado da Página de Combate ganha um Embate, tenha 25% de chance de destruir os outros dados na Página do oponente.</AbilityDesc>
       <FlaborText>A primeira semente de desejo originada de aspiração pura por felicidade. A pequena semente cresceu e cresceu, faminta por mais. Ao longo do tempo, a semente endureceu e se tornou uma brilhante gema.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Um pensamento ecoou dentro da minha cabeça. Um pensamento encharcado de ganância, me obrigando a buscar felicidade.</Dialogue>
@@ -1273,7 +1273,7 @@ Ganha 1 Endurecido para cada Embate ganho nessa Cena. (Até 3 vezes por Cena)</A
       <Dialogues>
         <Dialogue ID="1">Enfim, o desejo puro se materializando em âmbar dourado e sólido.</Dialogue>
         <Dialogue ID="2">Essa ganância irá brilhar intensamente.</Dialogue>
-        <Dialogue ID="3">Como alguém pode resistr o alúrio desse ser tão belo.</Dialogue>
+        <Dialogue ID="3">Como alguém pode resistir o alúrio desse ser tão belo.</Dialogue>
         <Dialogue ID="4">Desejar a felicidade de todos também me inclui…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -1282,11 +1282,11 @@ Ganha 1 Endurecido para cada Embate ganho nessa Cena. (Até 3 vezes por Cena)</A
       <Abnormality>O Rei da Ganância</Abnormality>
       <CardName>Ganância</CardName>
       <AbilityDesc>[Aliado Único]
-Em um Embate, se dado vencedor vencer por 4 ou mais, o perdedor recebe 3-7 de Dano a mais e o vencedor recupera 2-5 de HP. (Ambos, o bibliotecário e oponente podem ativar esse efeito)</AbilityDesc>
-      <FlaborText>A garota mágica, que não era uma garota mágica, comeu muitas coisas. Autoridade, dinheiro, fama, e muitas outras formas de prazer. Ela acabou consumindo tudo em sua vista. Agora, apenas ganância viceral resta.</FlaborText>
+Em um Embate, se dado vencedor vencer por 4 ou mais, o perdedor recebe 3-7 de Dano a mais e o vencedor recupera 2-5 de HP. (Ambos o bibliotecário e oponente podem ativar esse efeito)</AbilityDesc>
+      <FlaborText>A garota mágica, que não era mais uma garota mágica, comeu muitas coisas. Autoridade, dinheiro, fama, e muitas outras formas de prazer. Ela acabou consumindo tudo em sua vista. Agora, apenas ganância viceral resta.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A gema atiçou a ganância faminta.</Dialogue>
-        <Dialogue ID="2">Mas a ganância busca eternidade— busca profunda, profunda eternidade.</Dialogue>
+        <Dialogue ID="2">Mas a ganância busca eternidade—zbusca profunda, profunda eternidade.</Dialogue>
         <Dialogue ID="3">Minha cesta é tão grande, nem todas as frutas do mundo podem enche-la.</Dialogue>
         <Dialogue ID="4">Não há nada no meu caminho. Apenas ganância viceral resta.</Dialogue>
       </Dialogues>
@@ -1298,25 +1298,25 @@ Em um Embate, se dado vencedor vencer por 4 ou mais, o perdedor recebe 3-7 de Da
       <AbilityDesc>[Aliado Único]
 O bibliotecário entra em um estado de Ira.
 O bibliotecário se torna incontrolável, atacando personagens aleatórios, incluindo aliados.
-Também, o bibliotecário ganha 2 de Força, restaura 2 de Luz, e compra 2 páginas a mais no começo de cada Cena.</AbilityDesc>
+O bibliotecário também ganha 2 de Força, restaura 2 de Luz, e compra 2 páginas a mais no começo de cada Cena.</AbilityDesc>
       <FlaborText>A Serva foi traida depois de abandonar seus principios e ingenuamente confiando em alguém com todo seu coração. Agora, ela é dominada por raiva a si mesma pelo o que ela fez.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">GRRRR!!!</Dialogue>
         <Dialogue ID="2">UUUGH… AAARGH!!!</Dialogue>
         <Dialogue ID="3">AAAAH!!!</Dialogue>
-        <Dialogue ID="4">PECADORES DE OUTROS MUNDOS!!! ENCARNAÇÕES DO MAL!!!</Dialogue>
+        <Dialogue ID="4">PECADORES DOS OUTROSMUNDOS!!! ENCARNAÇÕES DO MAL!!!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
 <AbnormalityCard ID="Angry_Friend">
       <Abnormality>A Serva da Ira</Abnormality>
-      <CardName>Companheiro</CardName>
+      <CardName>Companheira</CardName>
       <AbilityDesc>[Aliado Único]
-Quando não há um 'Companheiro' presente, o primeiro inimigo que o bibliotecário selecionado acertar é marcado como um. Quando o bibliotecário derrota o 'Companheiro', todos os bibliotecários restauram 3 de Luz recuperan 10 HP e Resistência de Atordoamento.</AbilityDesc>
-      <FlaborText>A Serva da Ira valorizava justiça e equilíbrio mais do que qualquer um, mas ela começou a compartilhar conhecimento com o Eremita -um inimigo de seu reino- tornando-se amigo dela em segredo.</FlaborText>
+Quando não há uma 'Companheira' presente, o primeiro inimigo que o bibliotecário selecionado acertar é marcado como um. Quando o bibliotecário derrota a 'Companheira', todos os bibliotecários restauram 3 de Luz recuperam 10 HP e Resistência à Atordoamento.</AbilityDesc>
+      <FlaborText>A Serva da Ira valorizava justiça e equilíbrio mais do que qualquer um, mas ela começou a compartilhar conhecimento com a Eremita—uma inimiga do reino dela—tornando-se amiga dela em segredo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Chame… Chame meu nome…</Dialogue>
-        <Dialogue ID="2">Amigo… Meu amigo… Aqueles que precisam… um ao outro…</Dialogue>
+        <Dialogue ID="2">Amigo… Minha amiga… Aqueles que precisam… um ao outro…</Dialogue>
         <Dialogue ID="3">Nós… eramos amigos de verdade… Certo?</Dialogue>
         <Dialogue ID="4">Era a amizade mais preciosa para mim, e o que aconteceu…</Dialogue>
       </Dialogues>
@@ -1324,39 +1324,39 @@ Quando não há um 'Companheiro' presente, o primeiro inimigo que o bibliotecár
     
     <AbnormalityCard ID="Angry_Poison">
       <Abnormality>A Serva da Ira</Abnormality>
-      <CardName>Lodo acido</CardName>
-      <AbilityDesc>[All Enemies]
+      <CardName>Lodo Ácido</CardName>
+      <AbilityDesc>[Todos os Inimigos]
 Inflige 5 de 'Erosão' a todos os inimigos. Inimigos com Erosão também ganham Amarrado igual a quantidade de Erosão que eles tem.
-(Erosão: Ao final da Cena, receba dano igual a quantidade de Erosão e reduza 1 acúmulo; Ao ser Golpeado, receba Dano e Dano de Atordoamento com igual a quantidade de Erosão.)</AbilityDesc>
+(Erosão: Ao final da Cena, receba dano igual a quantidade de Erosão e reduza 1 acúmulo; ao ser golpeado, receba Dano e Dano de Atordoamento igual a quantidade de Erosão.)</AbilityDesc>
       <FlaborText>Quando eles enfim se encontraram, o Eremita trouxe incontáveis lacaios para destruir o mundo da Serva.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">O equilibrio se quebra, e a justiça se esvai…</Dialogue>
         <Dialogue ID="2">É por isso que perdi; Caí contra um querido companheiro.</Dialogue>
-        <Dialogue ID="3">Úse eles e eles usam você. Somos nós.</Dialogue>
+        <Dialogue ID="3">Use eles e eles usam você. Somos nós.</Dialogue>
         <Dialogue ID="4">Isso já aconteceu antes… Tudo frustrado pelo bem deles…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="NihilClown_Card">
-      <Abnormality>O bobo da corte de Nihil</Abnormality>
+      <Abnormality>O Bobo da Corte de Nihil</Abnormality>
       <CardName>Garotas Mágicas</CardName>
       <AbilityDesc>[Aliado Único]
-Ao começo da Cena, a Página de Combate na mão com o maior custo (que seja menor que 4) é marcada com um Símbolo Mágico
-Depois de perder 4 Embates com páginas marcadas, ganhe 5 de Proteção todas as Cenas, e se torne imune a Efeitos Negativos pelo resto da recepção.
-Também, Ao ser Golpeado, inflige 1 de Erosão e Frágio na próxima Cena ao atacante. (Duas vezes por Cena)</AbilityDesc>
+No começo da Cena, a Página de Combate na mão com o maior custo (que seja menor que 4) é marcada com um símbolo Mágico.
+Após perder 4 Embates com páginas marcadas, ganhe 5 de Proteção todas as Cenas, e se torne imune a efeitos negativos pelo resto da recepção.
+Adicionalmente, ao ser golpeado, inflige 1 de Erosão e Frágil na próxima Cena ao atacante. (Duas vezes por Cena)</AbilityDesc>
       <FlaborText>O bobo da corte refez os passos do caminho que todas teriam tomado. O bobo da corte sempre se viu no final da estrada. Não tinha como saber se elas se juntaram para se tornar o bobo da corte, ou se o bobo da corte acabou se parecendo com elas.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Você que me fez, ou eu fiz você?</Dialogue>
-        <Dialogue ID="2">Eu me pareco com elas, e elas se parecem comigo quando estão juntas .</Dialogue>
+        <Dialogue ID="2">Eu me pareco com elas, e elas se parecem comigo quando estão juntas.</Dialogue>
         <Dialogue ID="3">Eu lentamente fiz o caminho de volta. É o caminho que você teria tomado.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="NihilClown_Nihil">
-      <Abnormality>O bobo da corte de Nihil</Abnormality>
+      <Abnormality>O Bobo da Corte de Nihil</Abnormality>
       <CardName>Vazio</CardName>
       <AbilityDesc>[Aliado Único]
-Adicione uma 'Tudo Volta para o Vazio' à sua mão: 'Custo 3 - [Uso Único][Começo do Combate] Abdica todas as cartas na mão. Todas as Cenas após isso, ganhe Força e Endurecido igual ao número de páginas abdicadas desse jeito'</AbilityDesc>
-      <FlaborText>EO bobo da corte foi mais fundo, o pobre bobo da corte. Sem o cachorrinho corajoso para liderar o caminho, ele andou em passos sem sentido.</FlaborText>
+Adiciona uma página 'Tudo Volta para o Vazio' à sua mão: 'Custo 3 - [Uso Único][Começo do Combate] Abdica todas as cartas na mão. Todas as Cenas após isso, ganhe Força e Endurecido igual ao número de páginas abdicadas desse jeito'</AbilityDesc>
+      <FlaborText>E o bobo da corte foi mais fundo, o pobre bobo da corte. Sem o cachorrinho corajoso para liderar o caminho, ele andou em passos sem sentido.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Onde está o caminho certo? Onde que eu vou?</Dialogue>
         <Dialogue ID="2">Eu não sei o que me espera logo a frente. Pode ser um penhasco, ou uma vala?</Dialogue>
@@ -1365,11 +1365,11 @@ Adicione uma 'Tudo Volta para o Vazio' à sua mão: 'Custo 3 - [Uso Único][Come
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="NihilClown_fusion">
-      <Abnormality>O bobo da corte de Nihil</Abnormality>
+      <Abnormality>O Bobo da Corte de Nihil</Abnormality>
       <CardName>Nix</CardName>
       <AbilityDesc>[Aliado Único]
 Essa página só tem efeito se o bibliotecário selecionado tem todas as quatro páginas de Anormalidade: 'Ganância', 'Ódio', 'Desespero', e 'Ira'.
-No começo da Cena, Inflige 5 de Fraco, Desarme e Amarrado a Todos os outros Personagens. 'Ganância', 'Ódio', e 'Ira' perdem suas desvantagens.</AbilityDesc>
+No começo da Cena, Inflige 5 de Fraqueza, Desarme e Amarrado a todos os outros personagens. 'Ganância', 'Ódio', e 'Ira' perdem suas desvantagens.</AbilityDesc>
       <FlaborText>Tendo decidido confiar na própria intuição, o bobo da corte disse o nome de todos que conheceu naquele caminho com cada passo que tomou.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Liderando o caminho pela tolice, não há nada que me guie.</Dialogue>
