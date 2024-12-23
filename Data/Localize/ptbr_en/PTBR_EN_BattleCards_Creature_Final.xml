@@ -346,16 +346,16 @@
       <Behaviour ID="1">[Al perder un choque] El oponente Restaura 2-5 de HP y resistencia al aturdimiento</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903103">
-      <LocalizedName>Expressã Neutra</LocalizedName>
+      <LocalizedName>Expressão Neutra</LocalizedName>
       <Ability>El resultado del dado es el minimo si la expresión actual es inexpresiva</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9903104">
-      <LocalizedName>Expressã Tímido</LocalizedName>
+      <LocalizedName>Expressão Tímida</LocalizedName>
       <Ability>El resultado del dado es el minimo si la expresión actual es triste</Ability>
       <Behaviour ID="0">[Al perder un choque] Destruye todos los dados que quedan en esta página</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903105">
-      <LocalizedName>Expressã Raivosa</LocalizedName>
+      <LocalizedName>Expressão Raivosa</LocalizedName>
       <Ability>El resultado del dado es el minimo si la expresión actual es enojada</Ability>
       <Behaviour ID="0">[Al perder un choque] Inflige 2 de Frágil a ti mismo esta escena</Behaviour>
     </BattleCardDesc>
