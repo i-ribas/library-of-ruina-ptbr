@@ -51,8 +51,8 @@
   <!-- Forsaken Murderer -->
 	<text id="Murder_nomal_1">Não olhe para mim com esses olhos. Vocês são os mais lamentáveis aqui…</text>
 	<text id="Murder_nomal_2">Eu posso ser uma bagunça agora, mas você terá que ter medo de mim do mesmo jeito.</text>
-	<text id="Murder_nomal_3">Me solta… Por que eu tenho que ficar amarrado, droga!</text>
-	<text id="Murder_nomal_4">Mesmo que meu corpo esteja amarrado… Sou tão livre quanto qualquer homem.</text>
+	<text id="Murder_nomal_3">Me solta… Por que eu tenho que ficar Amarro, droga!</text>
+	<text id="Murder_nomal_4">Mesmo que meu corpo esteja Amarro… Sou tão livre quanto qualquer homem.</text>
 
 	<text id="Murder_scare_1">…Meu corpo está fraco. O que eu devo fazer?</text>
 	<text id="Murder_scare_2">Tudo bem, me desculpe… Vou me comportar… Já chega…</text>
@@ -293,7 +293,7 @@
   <text id="QueenBee_NoBee_3">Nossa… Você aí. Você sabe para onde meus zangões foram?</text>
   <text id="QueenBee_NoBee_4">Para levar meu reino à grandeza… Preciso de mais abelhas…</text>
   <!-- Little Red Riding Hooded Mercenary -->
-  <text id="RedMercenary_nomal_1">Deixa que eu cuido desse bastardo astuto e terrível.</text>
+  <text id="RedMercenary_nomal_1">Deixa que eu cuido desse terrível, e ardiloso bastardo.</text>
   <text id="RedMercenary_nomal_2">Vou pendurar a cabeça dele sobre a minha cama. Só então poderei levantar de manhã sem ter pesadelos.</text>
   <text id="RedMercenary_nomal_3">Sou profissional. Aprecio seu gesto, mas não, obrigada; deixa que eu consigo matar.</text>
   <text id="RedMercenary_nomal_4">Estive afiando a lâmina para decapitar aquele maldito lobo.</text>
@@ -593,91 +593,103 @@
   <text id="N_Angela_Orchestra_2_8">Se eu pudesse entender outros e fazê-los viver uma nova vida, eu seria capaz de permanecer na memória de todos.</text>
   <text id="N_Angela_Orchestra_2_9">Para a audiência que andará ao seus lugares emocionados com a apresentação.</text>
   <!-- Snow Queen -->
-  <text id="Snow_nomal_1">Bueno, entonces… Demuéstrame tu valentía.</text>
-  <text id="Snow_nomal_2">A ver si puedes descongelar esta escarcha…</text>
-  <text id="Snow_nomal_3">Debo elogiar tu coraje por venir hasta aquí.</text>
-  <text id="Snow_nomal_4">Qué lastima… Los que podían ayudarte están congelados.</text>
-  <text id="Snow_nomal_5">Lo veo en tus ojos, la determinación para salvarlos… Me pregunto cuanto durará esa llama.</text>
+  <text id="Snow_nomal_1">Pois bem… Prove sua coragem para mim.</text>
+  <text id="Snow_nomal_2">Vamos ver se você consegue derreter essa geada sólida…</text>
+  <text id="Snow_nomal_3">Devo elogiar sua coragem por ter vindo até aqui.</text>
+  <text id="Snow_nomal_4">Que pena… Aqueles que poderiam ajudá-lo estão congelados.</text>
+  <text id="Snow_nomal_5">Eu vejo em seus olhos, essa determinação de salvá-los… Gostaria de saber quanto tempo esse fogo vai durar.</text>
 
-  <text id="Snow_Savelibrarian_1">Aún no es muy tarde… Siempre puedes rendirte.</text>
-  <text id="Snow_Savelibrarian_2">Has decidido que verás el amanecer de un nuevo día…</text>
-  <text id="Snow_Savelibrarian_3">… Deseas reclamar que las rosas pronto floreceran.</text>
-  <text id="Snow_Savelibrarian_4">No, este lugar siempre permanecerá como mi palacio…</text>
-  <text id="Snow_SaveLibrarian_5">Ellos se desmoronan uno por uno. Mis preciosos…</text>
+  <text id="Snow_Savelibrarian_1">Ainda não é tarde… Você sempre pode se render.</text>
+  <text id="Snow_Savelibrarian_2">Você decidiu que verá a luz do sol do dia que vem…</text>
+  <text id="Snow_Savelibrarian_3">…Você deseja afirmar que as rosas florescerão em breve.</text>
+  <text id="Snow_Savelibrarian_4">Não, este lugar sempre permanecerá como meu palácio…</text>
+  <text id="Snow_SaveLibrarian_5">Eles desmoronam um por um. Meus preciosos…</text>
 
-  <text id="Snow_SaveAll_1">¡Te atreves a levantar tu espada contra mí…!</text>
-  <text id="Snow_SaveAll_2">Piensas que puedes descongelar este Reino… ¡cuanta arrogancia…!</text>
-  <text id="Snow_SaveAll_3">Para de una vez… No contamines más mi reino…</text>
-  <text id="Snow_SaveAll_4">El alma en esos ojos… Deseas seguir peleando.</text>
-  <text id="Snow_SaveAll_5">… ¿Piensas que tienes lo que hay que tener para vencerme?</text>
+  <text id="Snow_SaveAll_1">Você ousa levantar suas espadas contra mim…!</text>
+  <text id="Snow_SaveAll_2">Você acha que pode descongelar todo este reino… Quanta arrogância…!</text>
+  <text id="Snow_SaveAll_3">Pare com isso imediatamente… Não profane mais o meu reino…</text>
+  <text id="Snow_SaveAll_4">Sim, a alma nesses olhos… Você deseja continuar lutando.</text>
+  <text id="Snow_SaveAll_5">…Você acha que tem o que é preciso para me superar?</text>
+  <!-- Big Bird -->
+  <text id="BigBird_namal_1">Ninguém precisa se preocupar. Vocês estarão seguros enquanto eu estiver aqui.</text>
+  <text id="BigBird_namal_2">Chegou a hora de patrulhar a floresta.</text>
+  <text id="BigBird_namal_3">Vamos iluminar a estrada à frente, para que eu possa ter uma boa visão das vidas que devo salvar.</text>
+  <text id="BigBird_namal_4">Eu sempre perambulo pela floresta. Quem sabe, talvez haja crianças por aí que precisem da minha ajuda?</text>
+  <text id="BigBird_namal_5">Eu deveria fazer algo pela segurança das criaturas na floresta.</text>
 
-  <text id="BigBird_namal_1">Nadie tiene que preocuparse. Estarás a salvo mientras yo este aquí.</text>
-  <text id="BigBird_namal_2">Es hora de patrullar por el Bosque.</text>
-  <text id="BigBird_namal_3">Iluminemos el camino, así podré ver bien las vidas que debo salvar.</text>
-  <text id="BigBird_namal_4">Siempre vago por este Bosque. ¿Quién sabe, quizas hay niños que necesitan mi ayuda?</text>
-  <text id="BigBird_namal_5">Debería hacer algo por la seguridad de las criaturas del Bosque.</text>
-  <text id="BigBird_lamp_1">Si los mato primero… ¡entonces nadie será asesinado por la Bestia!</text>
-  <text id="BigBird_lamp_2">¡Un gran monstruo aterrador vive en este Bosque! Ve con cuidado.</text>
-  <text id="BigBird_lamp_3">Ven aquí… Vigilaré por ti.</text>
-  <text id="BigBird_lamp_4">Estaré triste si te lastimas. Te protegeré.</text>
-  <text id="BigBird_lamp_5">Es mi trabajo proteger los niños en peligro.</text>
+  <text id="BigBird_lamp_1">Se eu matá-los primeiro… então ninguém será morto pela besta!</text>
+  <text id="BigBird_lamp_2">Um monstro grande e assustador vive nesta floresta! Tenha cuidado.</text>
+  <text id="BigBird_lamp_3">Vem aqui… Eu vou te proteger.</text>
+  <text id="BigBird_lamp_4">Ficarei triste se você se machucar. Eu te protegerei.</text>
+  <text id="BigBird_lamp_5">Meu trabalho é proteger crianças em perigo.</text>
+
   <text id="BigBird_sleep_1">……</text>
   <text id="BigBird_sleep_2">…</text>
   <text id="BigBird_sleep_3">………</text>
-  <text id="Heaven_namal_1">Si no puedes verlo, entonces no puedes alcanzarlo.</text>
-  <text id="Heaven_namal_2">El deseo por lo inalcanzable solo crecerá. Y para perseguirlo… un camino de espinas te aguarda.</text>
-  <text id="Heaven_namal_3">Solo mantén tus ojos en ellos. Mantenlo en tu mirada.</text>
-  <text id="Heaven_namal_4">No pestañearas ante esta magnífica vista.</text>
-  <text id="Heaven_namal_5">Sigue mirándolo… Continuamente… Está con vida, mirándote de vuelta, ¿no es así?</text>
-  <text id="Heaven_wakeup_1">Disfrutando de la mirada y atención de todos… Finalmente dara fruto y extenderá sus alas.</text>
-  <text id="Heaven_wakeup_2">El que extiende sus alas sacrifico todo lo que tenían y aun así…</text>
-  <text id="Heaven_wakeup_3">Solo cierra los ojos. Así es, lo estás haciendo bien…</text>
-  <text id="Heaven_wakeup_4">Si alguna vez abrimos los ojos de nuevo, ¿veremos el fruto de nuestra labor en esa mirada?</text>
-  <text id="Heaven_wakeup_5">No vengas aquí… No hay nada más que un Árbol espinoso; no es un lugar para descansar.</text>
-
-  <text id="SmilingMountain_nomal_1">Grgh… Esto… duele… Krrgh…</text>
-  <text id="SmilingMountain_nomal_2">Ghhrg… A…yuda… Ayuda…</text>
-  <text id="SmilingMountain_nomal_3">Huele a sangre… Delicioso arom…a…</text>
-  <text id="SmilingMountain_nomal_4">Carne… quiero co…mer…</text>
-  <text id="SmilingMountain_nomal_5">Necesito… cu…erpos… Entonces Yo puedo… cre…cer…</text>
-  <text id="SmilingMountain_nomal_6">Krrrrh… Deliciosa… carne… para m…i…</text>
-  <text id="SmilingMountain_noaml1_1">No hay… suficiente… Más cuerpos… Crece más…</text>
-  <text id="SmilingMountain_noaml1_2">Puedo… crecer… alto… más… ca…rne…</text>
-  <text id="SmilingMountain_nomal2_1">¡¡Krrr… Ghr… …KH…AHHHH…!!</text>
-  <text id="SmilingMountain_nomal3_1">¡Grr… Ghrrrgh… Consumir… comerlo todo…!</text>
-  <text id="SmilingMountain_nomal3_2">¡¡Barrerlos a todos… Conseguir más cuerpos…!!</text>
-  <text id="SmilingMountain_detach_1">Necesito… necesito volverme uno… de nuevo…</text>
-  <text id="SmilingMountain_detach_2">Tengo que volver… Necesito… apresurarme…</text>
-  <text id="SmilingMountain_detach_3">No… Esto no… es… bueno…</text>
-
-  <text id="Waygohome_NoWay_1">… Cuando estaba durmiendo… Montando… un horrible…</text>
-  <text id="Waygohome_NoWay_2">… ¡Una aventura interminable comienza!</text>
-  <text id="Waygohome_NoWay_3">Vamos todos… Vamos todos… Vamos todos… juntémonos…</text>
-  <text id="Waygohome_Way_1">Hoyoyo~ ¡Vamos juntos~! ¡Saltemos a casa juntos~!</text>
-  <text id="Waygohome_Way_2">Al final del camino, una increíble tierra… Un mundo de sueños nos está esperando.</text>
-  <text id="Waygohome_Way_3">¡Podemos ir por largos y sinuosos caminos si vamos juntos!</text>
-  <text id="Waygohome_Way_4">Mi camarada León y mis amigos aquí. ¡Vamos todos juntos!</text>
-  <text id="Waygohome_Way_5">Si seguimos este camino, ¡Encontraremos el hogar que tanto hemos estado buscando!</text>
-  <text id="Waygohome_Way_6">Amigos. ¡Oh, amigos~! Vamos. ¡Vamos a casa~!</text>
-  <text id="Waygohome_Way_7">Juntémonos y bailemos juntos~ ¡Hacia casa vamos!</text>
-  <text id="Waygohome_BadOZ_1">Ah~ ¡Esa bruja! ¡Esa malvada bruja!</text>
-  <text id="Waygohome_BadOZ_2">¡No nos molestes! ¡Déjanos ir a casa en paz!</text>
-  <text id="Waygohome_BadOZ_3">¡Esa bruja mala me arrebato a mis amigos! Se los llevo todos lejos de mí…</text>
-  <text id="Waygohome_nomal_1">Amigos… Vamos juntos… juntos…</text>
-  <text id="Waygohome_nomal_2">Vamos todos… juntémonos… para una aventura…</text>
-  <text id="Waygohome_nomal_3">Estaba profundamente dormida… entonces la aventura comenzó…</text>
-  <text id="Waygohome_nomal_4">Ven conmigo. Vamos juntos, amigo.</text>
-  <text id="Waygohome_nomal_5">Vamos a casa… A casa, juntos…</text>
-
-  <text id="Servant_nomal_servant_1">¡¡UURGH!! ¡¡Pecadores de otro mundo… Encarnaciones del mal!!</text>
-  <text id="Servant_nomal_servant_2">¡¡Justicia y equilibrio… necesarios para… ser validado!!</text>
-  <text id="Servant_nomal_hemit_1">Llámame. Di mi nombre. Entonces en retorno te hablaré. Mi querido compañero.</text>
-  <text id="Servant_nomal_hemit_2">Te visito desde otro mundo. Ermitaño del bosque azul. He venido a conocer a un amigo, así que ábreme paso.</text>
-  <text id="Servant_noWoodenDoll_servant_1">¡¡GRRRR!!</text>
-  <text id="Servant_noWoodenDoll_servant_2">¡¡AAAAH!!</text>
-  <text id="Servant_noWoodenDoll_hemit_1">Querido compañero. Sirviente de la ira… Por fin, nos vemos el uno al otro, trasciendo reinos.</text>
-  <text id="Servant_noWoodenDoll_hemit_2">Por eso has perdido. Derrotado por tu querido compañero.</text>
+  <!-- The Burrowing Heaven -->
+  <text id="Heaven_namal_1">Se você não consegue vê-lo, você não consegue alcançá-lo.</text>
+  <text id="Heaven_namal_2">O desejo pelo inalcançável só crescerá. E persegui-lo… é trilhar um caminho cheio de espinhos.</text>
+  <text id="Heaven_namal_3">Fique de olho. Contenha-o em sua visão.</text>
+  <text id="Heaven_namal_4">Você não pestanejará diante desta visão de tirar o fôlego.</text>
+  <text id="Heaven_namal_5">Continue olhando… Constantemente… Isto tem vida, e está observando você em torno, não é?</text>
   
+  <text id="Heaven_wakeup_1">Desfrutando do olhar e da atenção de todos… Finalmente se concretizará e abrirá suas asas.</text>
+  <text id="Heaven_wakeup_2">A pessoa que abriu suas asas sacrificou tudo o que tinha, e ainda assim…</text>
+  <text id="Heaven_wakeup_3">Apenas feche os olhos. É isso mesmo, você está indo bem…</text>
+  <text id="Heaven_wakeup_4">Se algum dia abrirmos os olhos novamente, veremos o fruto do nosso trabalho naquele olhar?</text>
+  <text id="Heaven_wakeup_5">Não venha aqui… Não há nada além de uma árvore espinhosa; não é lugar para você descansar.</text>
+  <!-- Mountain of Smiling Bodies -->
+  <text id="SmilingMountain_nomal_1">Grgh… Isso… dói… Krrgh…</text>
+  <text id="SmilingMountain_nomal_2">Ghhrg… S…ocorro… Socorro…</text>
+  <text id="SmilingMountain_nomal_3">Cheiro de sangue… Aroma delicio…so…</text>
+  <text id="SmilingMountain_nomal_4">Carne… quero co…mer…</text>
+  <text id="SmilingMountain_nomal_5">Preciso… cor…pos… Para poder… cres…cer…</text>
+  <text id="SmilingMountain_nomal_6">Krrrrh… Carne… deliciosa… diante de m…im…</text>
+
+  <text id="SmilingMountain_noaml1_1">Não é… o suficiente… Mais corpos… Crescer mais…</text>
+  <text id="SmilingMountain_noaml1_2">Posso… ficar… maior… mais… car…ne…</text>
+  <text id="SmilingMountain_nomal2_1">¡¡Krrr… Ghr… …KH…AHHHH…!!</text>
+  <text id="SmilingMountain_nomal3_1">¡Grr… Ghrrrgh… Consumir… comer tudo…!</text>
+  <text id="SmilingMountain_nomal3_2">Varrer todos eles… Pegar mais corpos…!!</text>
+  
+  <text id="SmilingMountain_detach_1">Devo… devo tornar-me um… de novo…</text>
+  <text id="SmilingMountain_detach_2">Preciso voltar… Preciso… apressar…</text>
+  <text id="SmilingMountain_detach_3">Não… Isso não… é… bom…</text>
+  <!-- The Road Home & The Scaredy Cat -->
+  <text id="Waygohome_NoWay_1">…Quando eu estava dormindo… Montando… um assustador…</text>
+  <text id="Waygohome_NoWay_2">…Uma aventura sem fim começou!</text>
+  <text id="Waygohome_NoWay_3">Vamos todos… Vamos todos… Vamos todos… nos juntar…</text>
+
+  <text id="Waygohome_Way_1">Vamos, juntos~! Vamos saltitar para casa juntos~!</text>
+  <text id="Waygohome_Way_2">No final do caminho, uma terra fantástica… Um mundo de sonhos estará nos esperando.</text>
+  <text id="Waygohome_Way_3">Podemos atravessar estradas longas e sinuosas se permanecermos unidos!</text>
+  <text id="Waygohome_Way_4">Meu amigo leão, e os amigos aqui. Nós todos iremos juntos!</text>
+  <text id="Waygohome_Way_5">Se seguirmos esse caminho, encontraremos o lar que tanto procuramos!</text>
+  <text id="Waygohome_Way_6">Amigos. Oh, amigos~! Vamos. Vamos pra casa~!</text>
+  <text id="Waygohome_Way_7">Dancem e reúnam-se~ Vamos para casa!</text>
+
+  <text id="Waygohome_BadOZ_1">Ah~ Aquela feiticeira! Aquela feiticeira perversa!</text>
+  <text id="Waygohome_BadOZ_2">Não nos incomode! Nos deixem voltar para casa em paz!</text>
+  <text id="Waygohome_BadOZ_3">A feiticeira malvada levou meus amigos! Ela levou todos eles para longe de mim…</text>
+
+  <text id="Waygohome_nomal_1">Amigos… Vamos juntos… juntos…</text>
+  <text id="Waygohome_nomal_2">Vamos todos… nos juntar… para uma aventura…</text>
+  <text id="Waygohome_nomal_3">Eu estava em um sono profundo… e de repente a aventura começou…</text>
+  <text id="Waygohome_nomal_4">Venham comigo. Vamos juntos, amigos.</text>
+  <text id="Waygohome_nomal_5">Vamos pra casa… Para a casa, juntos…</text>
+  <!-- Servant of Wrath -->
+  <text id="Servant_nomal_servant_1">UURGH!! Pecadores dos outrosmundos… Encarnações do mal!!!</text>
+  <text id="Servant_nomal_servant_2">Justiça e equilíbrio… precisavam… ser mantidos!!</text>
+
+  <text id="Servant_nomal_hemit_1">Me chame. Diga meu nome. Então eu falarei o seu em troca. Minha querida companheira.</text>
+  <text id="Servant_nomal_hemit_2">Eu venho de outro mundo. Eremita de uma floresta azulada. Vim para encontrar uma amiga, então gentilmente abra caminho para mim.</text>
+
+  <text id="Servant_noWoodenDoll_servant_1">GRRRR!!</text>
+  <text id="Servant_noWoodenDoll_servant_2">AAAAH!!</text>
+
+  <text id="Servant_noWoodenDoll_hemit_1">Querida companheira. Serva da Ira… Finalmente, nos enfrentamos, transcendendo reinos.</text>
+  <text id="Servant_noWoodenDoll_hemit_2">É por isso que você perdeu. Derrotada pela sua querida companheira.</text>
+  <!-- Floor of Natural Sciences Realization -->
   <text id="T_roland_Servant_1">Nuestra relación era más especial que cualquier otra… Para que terminara de esta manera…</text>
   <text id="T_roland_Servant_2">El balance se desmorona y la justicia desaparece…</text>
   <text id="T_roland_Servant_3">Debería haberme mantenido con mis principios… Tratar a todos igual…</text>
@@ -688,6 +700,7 @@
   <text id="T_roland_Servant_8">No puedo ir lejos… Nadie puede… No puedo ver más lejos que un solo paso adelante…</text>
   <text id="T_roland_Servant_9">Una persona especial que me respondía cuando la llamaba…</text>
   <text id="T_roland_Servant_10">De todas las personas, tú no debiste haber venido a mi mundo.</text>
+
   <text id="T_roland_KnightOfDespair_1">Ya no me queda ni una pizca de tenacidad, sin embargo, no podría olvidar mis arrepentimientos, vergonzoso…</text>
   <text id="T_roland_KnightOfDespair_2">Sin nada más dentro, el corazón comenzó a sentirse frio.</text>
   <text id="T_roland_KnightOfDespair_3">Debería haber vaciado mi corazón, así no tendría que experimentar una perdida nunca más.</text>
@@ -699,6 +712,7 @@
   <text id="T_roland_KnightOfDespair_9">Yo juré proteger a alguien por primera vez en mi vida… e incluso eso falle.</text>
   <text id="T_roland_KnightOfDespair_10">¿Qué me queda? Ya no tiene sentido tener expectativas nunca más.</text>
   <text id="T_roland_KnightOfDespair_11">Solo una interminable desesperación me queda… Entonces…</text>
+
   <text id="T_roland_Queenofhatred_1">Pensé que la felicidad esperaría a mi futuro…</text>
   <text id="T_roland_Queenofhatred_2">Sé que ese día nunca volverá.</text>
   <text id="T_roland_Queenofhatred_3">¿Puedo volver a ese tiempo? Si tuviera que romperlo todo…</text>
@@ -709,6 +723,7 @@
   <text id="T_roland_Queenofhatred_8">Al final, Fallé en mantener una persona a salvo… Una persona…</text>
   <text id="T_roland_Queenofhatred_9">Dicen que las sombras no pueden existir sin luz… Pero no veo ninguna luz.</text>
   <text id="T_roland_Queenofhatred_10">Este es mi mundo. Estoy muy cansado para ver por ninguna luz.</text>
+
   <text id="T_roland_GreedKing_1">¿Fue un pecado querer un mordisco de la manzana? ¿Se me prohibe desear esos pequeños pedacitos de felicidad?</text>
   <text id="T_roland_GreedKing_2">Para desear la felicidad de todos, la búsqueda de mi felicidad debía continuar.</text>
   <text id="T_roland_GreedKing_3">Nunca esperé por mucho, pero ahora no tengo nada con que llenar este lugar.</text>
@@ -719,6 +734,7 @@
   <text id="T_roland_GreedKing_8">Una vez que despiertas un deseo, nunca se irá, incluso si se hunde.</text>
   <text id="T_roland_GreedKing_9">Ingenuamente deseé ser feliz al comienzo.</text>
   <text id="T_roland_GreedKing_10">¿Crees que está mal comportarse así?</text>
+
   <text id="T_roland_Fool_1">Si das un paso, sin saber que hay un acantilado delante…</text>
   <text id="T_roland_Fool_2">El escenario que he perdido… La lucha inútil para recuperarlo.</text>
   <text id="T_roland_Fool_3">Céntrate en el momento. Creé en tu intuición.</text>
@@ -729,7 +745,7 @@
   <text id="T_roland_Fool_8">No tengo planes ni camino para comenzar.</text>
   <text id="T_roland_Fool_9">Estoy tan cansado para volar. Solo hay un camino para mi.</text>
   <text id="T_roland_Fool_10">Por favor, dale unos aplausos a este tonto hombre.</text>
-
+  <!-- The Price of Silence -->
   <text id="Clock_nomal_1">No se puede detener el tiempo que fluye, ni se puede detener el flujo.</text>
   <text id="Clock_nomal_2">El tiempo fluye como la vida y la vida como el tiempo.</text>
   <text id="Clock_nomal_3">¿Por qué intentas desafiar este gran arroyo que nadie puede detener?</text>

@@ -405,100 +405,126 @@
   <text id="N_Angeala_Orchestra_2_librarian3_start">…Tão esquisito quanto da primeira vez.</text>
   <text id="N_Angeala_Orchestra_2_librarian4_start">Que?… Por que estamos de volta aqui?</text>
   <!-- Snow Queen -->
-  <text id="Snow_Roland_start">Umh, maldita sea… todo está congelado</text>
-  <text id="Snow_Roland_die">… Esta tormenta está demasiado fría.</text>
-  <text id="Snow_Roland_SaveLibrarian">Eh, ¿estás despierto?</text>
-  <text id="Snow_Roland_kill">Whew… El frío aún no se ha ido.</text>
-  <text id="Snow_librarian1_start">… Ah, Aún me siento mareado… pero no se siente tan mal.</text>
-  <text id="Snow_librarian1_SaveLibrarian">Se hizo añicos… Hay, vuelve a tus sentidos.</text>
-  <text id="Snow_librarian1_kill">Este palacio no ha cambiado mucho.</text>
-  <text id="Snow_librarian2_start">Mmh… … Oh, Estoy bien ahora.</text>
-  <text id="Snow_librarian2_SaveLibrarian">¡Lo hicimos…! ¿Puedes moverte?</text>
-  <text id="Snow_librarian2_kill">Parece que se acerca la primavera…</text>
-  <text id="Snow_librarian3_start">¡Estoy bien… Gracias por salvarme!</text>
-  <text id="Snow_librarian3_SaveLibrarian">Sé que debes estar sorprendido, pero tomate tu tiempo. ¡Y no intentes levantarte muy rapido…!</text>
-  <text id="Snow_librarian3_kill">Parecía que iba a durar para siempre… Pero al final, se derritió.</text>
+  <text id="Snow_Roland_start">Puts, caramba… Tudo congelou?</text>
+  <text id="Snow_Roland_die">…Essa nevasca tá muito fria.</text>
+  <text id="Snow_Roland_SaveLibrarian">Eaí, acordou?</text>
+  <text id="Snow_Roland_kill">Ufa… O frio ainda não passou.</text>
 
-  <text id="BigBird_librarian1_start">Nos enfrentamos a la Bestia más peligrosa del bosque…</text>
-  <text id="BigBird_librarian1_kill">Aprecio como el pájaro quería salvarnos de la “Bestia”, pero estoy bien sin su ayuda…</text>
-  <text id="BigBird_librarian2_start">Ya me acuerdo. Teníamos que poner a ese pájaro a dormir antes de que pudieramos trabajar con él.</text>
-  <text id="BigBird_librarian2_kill">… ¿Lo matamos? ¿Se ha acabado?</text>
-  <text id="BigBird_librarian3_start">De todos modos… La Señorita Binah no está aquí para ayudarnos, así que debemos hacer esto nosotros mismos.</text>
-  <text id="BigBird_librarian3_kill">Gracias a dios pudimos manejarlo…</text>
+  <text id="Snow_librarian1_start">…Ah, ainda estou com tontura… mas poderia ser pior.</text>
+  <text id="Snow_librarian1_SaveLibrarian">Quebrou… Aí, volta pra si mesmo.</text>
+  <text id="Snow_librarian1_kill">Esse palácio não mudou muito.</text>
 
-  <text id="Heaven_librarian1_start">… No deberíamos mirar a otro lado, ¿eh?</text>
-  <text id="Heaven_librarian1_kill">Uf… Se ve tan horrible como siempre.</text>
-  <text id="Heaven_librarian2_start">Mejor acabemos con esto rápidamente…</text>
-  <text id="Heaven_librarian2_kill">Hokma y todos los demás… ¿Están bien?</text>
-  <text id="Heaven_librarian3_start">No podemos dejar a eso multiplicarse más…</text>
-  <text id="Heaven_librarian3_kill">No estoy exactamente cansado… Pero estoy agotado mentalmente…</text>
-  <text id="Heaven_Hokma_start">Si están preparados… entonces comencemos.</text>
+  <text id="Snow_librarian2_start">Mmh… …Ah, estou bem agora.</text>
+  <text id="Snow_librarian2_SaveLibrarian">Nós conseguimos…! Você consegue se mexer?</text>
+  <text id="Snow_librarian2_kill">Parece que a primavera está chegando…</text>
+
+  <text id="Snow_librarian3_start">Eu tô bem eu acho… Valeu por me salvar!</text>
+  <text id="Snow_librarian3_SaveLibrarian">Eu sei que você deve estar em choque, mas vá com calma. E não tente se levantar muito rápido…!</text>
+  <text id="Snow_librarian3_kill">Parecia que iria durar para sempre… Mas no final, tudo se derreteu.</text>
+  <!-- Big Bird -->
+  <text id="BigBird_librarian1_start">A besta mais perigosa da floresta é a que estamos enfrentando agora…</text>
+  <text id="BigBird_librarian1_kill">Eu aprecio como o passarinho quer nos salvar da “besta”, mas estou muito bem sem a ajuda dele…</text>
+
+  <text id="BigBird_librarian2_start">Eu tô lembrado. Tivemos que colocar aquele pássaro para dormir antes de podermos trabalhar com ele.</text>
+  <text id="BigBird_librarian2_kill">…A gente matou? Acabou?</text>
+
+  <text id="BigBird_librarian3_start">Enfim… A Dona Binah não está aqui para nos ajudar, então devemos fazer isso por conta própria.</text>
+  <text id="BigBird_librarian3_kill">Que bom que conseguimos lidar com isso…</text>
+  <!-- The Burrowing Heaven -->
+  <text id="Heaven_librarian1_start">…Não deveríamos desviar o olhar, hm.</text>
+  <text id="Heaven_librarian1_kill">Ufa… Tão horrível como sempre.</text>
+
+  <text id="Heaven_librarian2_start">É melhor nos livrarmos disso rápido…</text>
+  <text id="Heaven_librarian2_kill">Hokma, e os outros… Vocês estão bem?</text>
+
+  <text id="Heaven_librarian3_start">Não podemos permitir que essa coisa se multiplique…</text>
+  <text id="Heaven_librarian3_kill">Eu não exatamente me cansei… Mas a minha saúde mental está esgotada…</text>
+
+  <text id="Heaven_Hokma_start">Se estiverem preparados… vamos começar.</text>
   <text id="Heaven_Hokma_die">…</text>
-  <text id="Heaven_Hokma_kill">… La Victoria está a nuestro alcance. Les insto a todos a seguir así.</text>
-
-  <text id="SmilingMountain_Gebura_start">Debemos acabar con eso lo más rápido posible.</text>
+  <text id="Heaven_Hokma_kill">…A vitória está ao nosso alcance. Peço a todos vocês que continuarem assim.</text>
+  <!-- Mountain of Smiling Bodies -->
+  <text id="SmilingMountain_Gebura_start">Devemos matá-lo o mais rápido possível.</text>
   <text id="SmilingMountain_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
-  <text id="SmilingMountain_Gebura_kill">Al final solo ha quedado una pila de cuerpos muertos.</text>
-  <text id="SmilingMountain_librarian1_start">… Uf, este lugar apesta.</text>
-  <text id="SmilingMountain_librarian1_kill">Asqueroso… Era solo un bulto grande después de todo</text>
-  <text id="SmilingMountain_librarian2_start">Será demasiado difícil acabar con esto si crece demasiado…</text>
-  <text id="SmilingMountain_librarian2_kill">… ¿Qué lo hace sonreír así?.</text>
-  <text id="SmilingMountain_librarian3_start">Ya escucharon a la Sra. Gebura. Terminemos rápido.</text>
-  <text id="SmilingMountain_librarian3_kill">Asqueroso… Aún siento disgusto por eso.</text>
+  <text id="SmilingMountain_Gebura_kill">Tudo o que resta no final é uma pilha de cadáveres.</text>
 
-  <text id="Waygohome_Chesed_start">Puede parecer que no estamos en nuestro hogar,
-pero mantengamos la calma y comencemos~</text>
-  <text id="Waygohome_Chesed_die">Parece que eu cheguei no meu limite…</text>
-  <text id="Waygohome_Chesed_kill">Quizás es su apariencia… Mi corazón duele~</text>
-  <text id="Waygohome_librarian1_start">… ¿No recuerdo haberlo visto antes?</text>
-  <text id="Waygohome_librarian1_kill">Nos encantaría volver a casa si pudiéramos.</text>
-  <text id="Waygohome_librarian2_start">No me digas, ¿están relacionados con ese dúo de antes?</text>
-  <text id="Waygohome_librarian2_kill">Hubiera sido un dolor de cabeza si hubieran estado en las instalaciones.</text>
-  <text id="Waygohome_librarian3_start">Me pregunto cómo hubiéramos sido capaz de reprimirlos…</text>
-  <text id="Waygohome_librarian3_kill">Estamos viendo muchas cosas nuevas aquí.</text>
+  <text id="SmilingMountain_librarian1_start">…Uff, Este lugar fede a sujeira.</text>
+  <text id="SmilingMountain_librarian1_kill">Nojento… Era só um grande caroço afinal.</text>
 
-  <text id="Servant_Tiphereth_start">Podríamos manejar esto si descubrimos por qué está siendo consumida por la ira.</text>
-  <text id="Servant_Tiphereth_die">Eu fui muito… previsível…</text>
-  <text id="Servant_Tiphereth_kill">Manteniendo el equilibrio, ¿eh?…</text>
-  <text id="Servant_librarian1_start">Entonces… ¿Tenemos que matar a esos titeres de madera?</text>
-  <text id="Servant_librarian1_kill">Yeesh… Están todos locos…</text>
-  <text id="Servant_librarian2_start">Parece que ella está buscando algo…</text>
-  <text id="Servant_librarian2_kill">Justicia… Sin duda me recuerda a ellos.</text>
-  <text id="Servant_librarian3_start">¿Qué sucede ahora?… Veo un montón de muñecos de madera.</text>
-  <text id="Servant_librarian3_kill">Me pregunto, ¿qué hizo que tuviera tanta ira?…</text>
-  <text id="Servant_Wrath_win">Nosotros fuimos… verdaderos amigos. ¿Verdad?</text>
+  <text id="SmilingMountain_librarian2_start">Será um inferno lidar com isso conforme essa coisa crescer…</text>
+  <text id="SmilingMountain_librarian2_kill">…O que está fazendo essa coisa sorrir desse jeito.</text>
   
+  <text id="SmilingMountain_librarian3_start">Você ouviu a Sra. Gebura. Vamos ser rápidos.</text>
+  <text id="SmilingMountain_librarian3_kill">Que frio… Ainda estou enojado com isso.</text>
+  <!-- The Road Home & The Scaredy Cat -->
+  <text id="Waygohome_Chesed_start">Pode parecer que não estamos mais em casa, mas vamos manter a calma e começar~</text>
+  <text id="Waygohome_Chesed_die">Parece que eu cheguei no meu limite…</text>
+  <text id="Waygohome_Chesed_kill">Talvez seja a aparência deles… Meu coração está doendo~</text>
+
+  <text id="Waygohome_librarian1_start">…Acho que nunca os vi antes?</text>
+  <text id="Waygohome_librarian1_kill">Nós certamente adoraríamos voltar para nossas casas se pudéssemos.</text>
+
+  <text id="Waygohome_librarian2_start">Não me diga, esses tem haver com a dupla de pesadelo de antes?</text>
+  <text id="Waygohome_librarian2_kill">Teria sido um verdadeiro pé no saco se eles estivessem nas nossas instalações.</text>
+
+  <text id="Waygohome_librarian3_start">Eu não faço idéia em como devemos suprimi-los…</text>
+  <text id="Waygohome_librarian3_kill">Temos visto muitas coisas novas aqui.</text>
+  <!-- Servant of Wrath -->
+  <text id="Servant_Tiphereth_start">Talvez consigamos lidar com isso se descobrirmos por que ela estava consumida pela ira.</text>
+  <text id="Servant_Tiphereth_die">Eu fui muito… previsível…</text>
+  <text id="Servant_Tiphereth_kill">Mantendo o equilíbrio, hm…</text>
+
+  <text id="Servant_librarian1_start">Então… Temos que matar aqueles bonecos de madeira?</text>
+  <text id="Servant_librarian1_kill">Vish… Que coisa de louco…</text>
+
+  <text id="Servant_librarian2_start">Ela parece estar procurando por algo…</text>
+  <text id="Servant_librarian2_kill">Justiça… Certamente me lembra deles.</text>
+  
+  <text id="Servant_librarian3_start">O que é isso agora?… Estou vendo um monte de bonecas de madeira.</text>
+  <text id="Servant_librarian3_kill">Eu me pergunto o que a deixou tão furiosa…</text>
+
+  <text id="Servant_Wrath_win">Nós éramos… Nós éramos amigas de verdade. Né?</text>
+  <!-- Floor of Natural Sciences Realization -->
   <text id="T_roland_Queenofhatred_Tiphereth_start">No sabemos todo sobre Roland y quizás no lo entendamos completamente… Pero aun así tenemos que enfrentarlo cara a cara.</text>
   <text id="T_roland_Queenofhatred_Tiphereth_die">… Lo siento. No fui de mucha ayuda.</text>
+
   <text id="T_roland_Queenofhatred_librarian1_start">Podriamos hacer algo, pero sabemos tan poco…</text>
   <text id="T_roland_Queenofhatred_librarian2_start">¿Este poder no afectaba solo a la Señorita Angela?</text>
   <text id="T_roland_Queenofhatred_librarian3_start">¿Roland se volvió eso…?</text>
   <text id="T_roland_Queenofhatred_librarian4_start">¿Qué?… Eso es nuevo, entiendo.</text>
+
   <text id="T_roland_KnightOfDespair_Tiphereth_start">Debes sentir que no hay esperanza, más de lo que las palabras podrían describir…</text>
   <text id="T_roland_KnightOfDespair_Tiphereth_die">… Lo siento. No fui de mucha ayuda.</text>
+
   <text id="T_roland_KnightOfDespair_librarian1_start">Y ese veneno está a punto de hacernos daño.</text>
   <text id="T_roland_KnightOfDespair_librarian2_start">Incluso si es tu culpa, sentir demasiada culpa te comerá como si fuera veneno.</text>
   <text id="T_roland_KnightOfDespair_librarian3_start">Nunca lo entenderé completamente, ya que nunca lo he experimentado yo mismo.</text>
   <text id="T_roland_KnightOfDespair_librarian4_start">… Me pregunto cómo se siente perder lo único que querías proteger.</text>
+
   <text id="T_roland_GreedKing_Tiphereth_start">La tristeza que sientes cuando te arrebatan lo que quieres es la misma, por pequeña o grande que sea.</text>
   <text id="T_roland_GreedKing_Tiphereth_die">… Lo siento. No fui de mucha ayuda.</text>
+
   <text id="T_roland_GreedKing_librarian1_start">¿No sabes cuan grande es la dicha que necesitas para vivir una vida tranquila en la Ciudad?</text>
   <text id="T_roland_GreedKing_librarian2_start">Como dicen, que te nieguen, incluso la esperanza de un poco de felicidad es muy triste.</text>
   <text id="T_roland_GreedKing_librarian3_start">Puede debilitarse por un tiempo, pero nunca desaparecerá para siempre.</text>
   <text id="T_roland_GreedKing_librarian4_start">¿Piensas que hay un final para nuestra codicia?</text>
+
   <text id="T_roland_Servant_Tiphereth_start">Estoy bien. No se preocupen por mí y céntrense en la pelea.</text>
   <text id="T_roland_Servant_Tiphereth_die">… Lo siento. No fui de mucha ayuda.</text>
+
   <text id="T_roland_Servant_librarian1_start">Se está volviendo más difícil. Sra. Tiphereth, ¿se encuentra bien?</text>
   <text id="T_roland_Servant_librarian2_start">Todos, tengan cuidado</text>
   <text id="T_roland_Servant_librarian3_start">¿Realmente podemos hacer esto?…</text>
   <text id="T_roland_Servant_librarian4_start">Esto es como un monstruo… Cada vez da más miedo.</text>
+
   <text id="T_roland_Fool_Tiphereth_start">No se preocupen. Yo creo que podemos hacerlo.</text>
   <text id="T_roland_Fool_Tiphereth_die">… Lo siento. No fui de mucha ayuda.</text>
+
   <text id="T_roland_Fool_librarian1_start">Sra. Tiphereth… ¿Qué deberíamos hacer?…</text>
   <text id="T_roland_Fool_librarian2_start">Parece que existen un montón de Anormalidades que nunca tuvimos la oportunidad de ver…</text>
   <text id="T_roland_Fool_librarian3_start">Nunca vi nada como esto en los registros…</text>
   <text id="T_roland_Fool_librarian4_start">¿Qué se supone que es eso… Un payaso?</text>
-
+  <!-- The Price of Silence -->
   <text id="Clock_Hokma_start">… Lo que fluye no puede detenerse, ¿verdad?</text>
   <text id="Clock_Hokma_die">…</text>
   <text id="Clock_Hokma_kill">El silencio no siempre trae cosas buenas.</text>
