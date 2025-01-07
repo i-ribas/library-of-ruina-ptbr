@@ -467,7 +467,7 @@
   <text id="Waygohome_librarian2_start">Não me diga, esses tem haver com a dupla de pesadelo de antes?</text>
   <text id="Waygohome_librarian2_kill">Teria sido um verdadeiro pé no saco se eles estivessem nas nossas instalações.</text>
 
-  <text id="Waygohome_librarian3_start">Eu não faço idéia em como devemos suprimi-los…</text>
+  <text id="Waygohome_librarian3_start">Eu não faço ideia em como devemos suprimi-los…</text>
   <text id="Waygohome_librarian3_kill">Temos visto muitas coisas novas aqui.</text>
   <!-- Servant of Wrath -->
   <text id="Servant_Tiphereth_start">Talvez consigamos lidar com isso se descobrirmos por que ela estava consumida pela ira.</text>
@@ -485,45 +485,45 @@
 
   <text id="Servant_Wrath_win">Nós éramos… Nós éramos amigas de verdade. Né?</text>
   <!-- Floor of Natural Sciences Realization -->
-  <text id="T_roland_Queenofhatred_Tiphereth_start">No sabemos todo sobre Roland y quizás no lo entendamos completamente… Pero aun así tenemos que enfrentarlo cara a cara.</text>
-  <text id="T_roland_Queenofhatred_Tiphereth_die">… Lo siento. No fui de mucha ayuda.</text>
+  <text id="T_roland_Queenofhatred_Tiphereth_start">Não sabemos muito sobre o Roland e podemos não entendê-lo completamente… Mas ainda precisamos encarar ele diretamente.</text>
+  <text id="T_roland_Queenofhatred_Tiphereth_die">…Foi mal. Eu não fui muito útil.</text>
 
-  <text id="T_roland_Queenofhatred_librarian1_start">Podriamos hacer algo, pero sabemos tan poco…</text>
-  <text id="T_roland_Queenofhatred_librarian2_start">¿Este poder no afectaba solo a la Señorita Angela?</text>
-  <text id="T_roland_Queenofhatred_librarian3_start">¿Roland se volvió eso…?</text>
-  <text id="T_roland_Queenofhatred_librarian4_start">¿Qué?… Eso es nuevo, entiendo.</text>
+  <text id="T_roland_Queenofhatred_librarian1_start">A gente faria alguma coisa, mas sabemos muito pouco sobre ele…</text>
+  <text id="T_roland_Queenofhatred_librarian2_start">O poder não estava afetando só a Dona Angela?</text>
+  <text id="T_roland_Queenofhatred_librarian3_start">O Roland virou aquilo…?</text>
+  <text id="T_roland_Queenofhatred_librarian4_start">Ahn?… Tá, isso é novo.</text>
 
-  <text id="T_roland_KnightOfDespair_Tiphereth_start">Debes sentir que no hay esperanza, más de lo que las palabras podrían describir…</text>
-  <text id="T_roland_KnightOfDespair_Tiphereth_die">… Lo siento. No fui de mucha ayuda.</text>
+  <text id="T_roland_KnightOfDespair_Tiphereth_start">Deve ser desesperador, com certeza, mais do que palavras poderiam descrever…</text>
+  <text id="T_roland_KnightOfDespair_Tiphereth_die">…Foi mal. Eu não fui muito útil.</text>
 
-  <text id="T_roland_KnightOfDespair_librarian1_start">Y ese veneno está a punto de hacernos daño.</text>
-  <text id="T_roland_KnightOfDespair_librarian2_start">Incluso si es tu culpa, sentir demasiada culpa te comerá como si fuera veneno.</text>
-  <text id="T_roland_KnightOfDespair_librarian3_start">Nunca lo entenderé completamente, ya que nunca lo he experimentado yo mismo.</text>
-  <text id="T_roland_KnightOfDespair_librarian4_start">… Me pregunto cómo se siente perder lo único que querías proteger.</text>
+  <text id="T_roland_KnightOfDespair_librarian1_start">E esse veneno tá prestes a nos atacar agora.</text>
+  <text id="T_roland_KnightOfDespair_librarian2_start">Mesmo que a culpa seja sua, ser carregado tanta culpa irá corroê-lo como veneno.</text>
+  <text id="T_roland_KnightOfDespair_librarian3_start">Nunca vou entender por inteiro, já que não aconteceu comigo.</text>
+  <text id="T_roland_KnightOfDespair_librarian4_start">…Imagino como é perder exatamente aquilo que você queria proteger.</text>
 
-  <text id="T_roland_GreedKing_Tiphereth_start">La tristeza que sientes cuando te arrebatan lo que quieres es la misma, por pequeña o grande que sea.</text>
-  <text id="T_roland_GreedKing_Tiphereth_die">… Lo siento. No fui de mucha ayuda.</text>
+  <text id="T_roland_GreedKing_Tiphereth_start">A tristeza de quando alguém tira sua felicidade será a mesma, não importa quão grande ou pequena ela seja.</text>
+  <text id="T_roland_GreedKing_Tiphereth_die">…Foi mal. Eu não fui muito útil.</text>
 
-  <text id="T_roland_GreedKing_librarian1_start">¿No sabes cuan grande es la dicha que necesitas para vivir una vida tranquila en la Ciudad?</text>
-  <text id="T_roland_GreedKing_librarian2_start">Como dicen, que te nieguen, incluso la esperanza de un poco de felicidad es muy triste.</text>
-  <text id="T_roland_GreedKing_librarian3_start">Puede debilitarse por un tiempo, pero nunca desaparecerá para siempre.</text>
-  <text id="T_roland_GreedKing_librarian4_start">¿Piensas que hay un final para nuestra codicia?</text>
+  <text id="T_roland_GreedKing_librarian1_start">Você não sabe o quão grande é a felicidade de viver uma vida pacífica na Cidade?</text>
+  <text id="T_roland_GreedKing_librarian2_start">Como dizem, ser privado até mesmo da esperança de ter um pouquinho de felicidade é algo bem triste.</text>
+  <text id="T_roland_GreedKing_librarian3_start">Pode diminuir por um tempo, mas nunca desaparecerá pra sempre.</text>
+  <text id="T_roland_GreedKing_librarian4_start">Você acha que pode haver um fim para a ganância?</text>
 
-  <text id="T_roland_Servant_Tiphereth_start">Estoy bien. No se preocupen por mí y céntrense en la pelea.</text>
-  <text id="T_roland_Servant_Tiphereth_die">… Lo siento. No fui de mucha ayuda.</text>
+  <text id="T_roland_Servant_Tiphereth_start">Tô bem. Não se preocupe comigo e foque na luta.</text>
+  <text id="T_roland_Servant_Tiphereth_die">…Foi mal. Eu não fui muito útil.</text>
 
-  <text id="T_roland_Servant_librarian1_start">Se está volviendo más difícil. Sra. Tiphereth, ¿se encuentra bien?</text>
-  <text id="T_roland_Servant_librarian2_start">Todos, tengan cuidado</text>
-  <text id="T_roland_Servant_librarian3_start">¿Realmente podemos hacer esto?…</text>
-  <text id="T_roland_Servant_librarian4_start">Esto es como un monstruo… Cada vez da más miedo.</text>
+  <text id="T_roland_Servant_librarian1_start">As coisas tão ficando complicadas. Como tá a Sra. Tiphereth?</text>
+  <text id="T_roland_Servant_librarian2_start">Todo mundo cuidando de si?</text>
+  <text id="T_roland_Servant_librarian3_start">Será que a gente realmente consegue…</text>
+  <text id="T_roland_Servant_librarian4_start">Ele realmente virou que nem um monstro… Ele tá ficando mais assustador.</text>
 
-  <text id="T_roland_Fool_Tiphereth_start">No se preocupen. Yo creo que podemos hacerlo.</text>
-  <text id="T_roland_Fool_Tiphereth_die">… Lo siento. No fui de mucha ayuda.</text>
+  <text id="T_roland_Fool_Tiphereth_start">Não se preocupem. Eu acredito que nós vamos conseguir.</text>
+  <text id="T_roland_Fool_Tiphereth_die">…Foi mal. Eu não fui muito útil.</text>
 
-  <text id="T_roland_Fool_librarian1_start">Sra. Tiphereth… ¿Qué deberíamos hacer?…</text>
-  <text id="T_roland_Fool_librarian2_start">Parece que existen un montón de Anormalidades que nunca tuvimos la oportunidad de ver…</text>
-  <text id="T_roland_Fool_librarian3_start">Nunca vi nada como esto en los registros…</text>
-  <text id="T_roland_Fool_librarian4_start">¿Qué se supone que es eso… Un payaso?</text>
+  <text id="T_roland_Fool_librarian1_start">Sra. Tiphereth… O que nós deveríamos fazer…</text>
+  <text id="T_roland_Fool_librarian2_start">Parece que existem muitas anormalidades que nunca tivemos a oportunidade de ver…</text>
+  <text id="T_roland_Fool_librarian3_start">Não vi nada sobre esse nos registros…</text>
+  <text id="T_roland_Fool_librarian4_start">O que diabos é isso… Um palhaço?</text>
   <!-- The Price of Silence -->
   <text id="Clock_Hokma_start">… Lo que fluye no puede detenerse, ¿verdad?</text>
   <text id="Clock_Hokma_die">…</text>
