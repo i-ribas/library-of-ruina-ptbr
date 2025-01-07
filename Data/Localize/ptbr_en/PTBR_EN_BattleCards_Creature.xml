@@ -131,7 +131,7 @@
       <Ability>[Al usar] Da el estado 'Carne preparada' a un aliado</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901102">
-      <LocalizedName>Inquietude Voraz</LocalizedName>
+      <LocalizedName>Bateção de Asas Voraz</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="901103">
@@ -981,7 +981,7 @@
     <LocalizedName>Encarar</LocalizedName>
   </BattleCardDesc>
   <BattleCardDesc ID="980321">
-    <LocalizedName>Presságio Aterrorizante</LocalizedName>
+    <LocalizedName>Bateção de Asas Apavorada</LocalizedName>
   </BattleCardDesc>  
   <BattleCardDesc ID="980322">
     <LocalizedName>Guincho Penetrante</LocalizedName>

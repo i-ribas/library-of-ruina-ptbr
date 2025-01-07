@@ -42,7 +42,7 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9901302">
-      <LocalizedName>Inquietude Voraz</LocalizedName>
+      <LocalizedName>Bateção de Asas Voraz</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="9901303">
@@ -1714,11 +1714,11 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
     </BattleCardDesc>
 
     <BattleCardDesc ID="9908211">
-      <LocalizedName>Incômodar</LocalizedName>
+      <LocalizedName>Alisar</LocalizedName>
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9908212">
-      <LocalizedName>Alisar</LocalizedName>
+      <LocalizedName>Bateção de Asas Veloz</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9908213">
       <LocalizedName>Punição!</LocalizedName>
@@ -2029,7 +2029,7 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
       <LocalizedName>???</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9910021">
-      <LocalizedName>O Eu que Conheçe</LocalizedName>
+      <LocalizedName>O Eu que Conhece</LocalizedName>
     </BattleCardDesc>
 
     <!-- 피의 욕조 -->
