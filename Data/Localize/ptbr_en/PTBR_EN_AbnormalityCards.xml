@@ -647,7 +647,7 @@ A página com o 'Amigo' ganha 2-4 de Poder.
 Porém, se a página não for usada em 2 Cenas, ela se esgota, causando 2-7 de dano ao bibliotecário.</AbilityDesc>
       <FlaborText>Ela estava tão triste quando ela tinha que deixar os amigos para trás, então ela teve uma ideia brilhante!</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Eu não podia deixar meus amigos para trás… então eu tive uma idéia brilhante!!</Dialogue>
+        <Dialogue ID="1">Eu não podia deixar meus amigos para trás… então eu tive uma ideia brilhante!!</Dialogue>
         <Dialogue ID="2">Não se preocupe~ Só os malvados machucam os amigos.</Dialogue>
         <Dialogue ID="3">Esse lugar ficará mais animado quanto mais amigos eu tiver!</Dialogue>
         <Dialogue ID="4">Espero encontrar um montão de amigos aqui~</Dialogue>
