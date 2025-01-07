@@ -525,43 +525,54 @@
   <text id="T_roland_Fool_librarian3_start">Não vi nada sobre esse nos registros…</text>
   <text id="T_roland_Fool_librarian4_start">O que diabos é isso… Um palhaço?</text>
   <!-- The Price of Silence -->
-  <text id="Clock_Hokma_start">… Lo que fluye no puede detenerse, ¿verdad?</text>
+  <text id="Clock_Hokma_start">…O que flui não pode ser parado, é?</text>
   <text id="Clock_Hokma_die">…</text>
-  <text id="Clock_Hokma_kill">El silencio no siempre trae cosas buenas.</text>
-  <text id="Clock_librarian1_start">¿Un precio… por el silencio…? ¿Qué está intentando decir?</text>
-  <text id="Clock_librarian1_kill">Yo creo que la lección era “No pierdas tu tiempo.”</text>
-  <text id="Clock_librarian2_start">¿Una guadaña… reloj? ¿Qué se supone que significa?</text>
-  <text id="Clock_librarian2_kill">… Phew, Tenía demasiada prisa; Necesito respirar.</text>
-  <text id="Clock_librarian3_start">Quizás existen aún más cosas que nunca vimos antes…</text>
-  <text id="Clock_librarian3_kill">La muerte y el silencio comparten la misma naturaleza… Supongo que no está mal…</text>
-  
-  <text id="SmallBird_librarian1_start">Solíamos hacer bromas de que el que era picoteado era un chico malo, ¿verdad?</text>
-  <text id="SmallBird_librarian1_kill">Se ve incluso más pequeño cuando está en su jaula…</text>
-  <text id="SmallBird_librarian2_start">Yeah. ¡Incluso hacíamos apuestas sobre quien iba a ser picoteado!</text>
-  <text id="SmallBird_librarian2_kill">Sí. Algo horrible sucede si alguien lo golpea de vuelta…</text>
-  <text id="SmallBird_librarian3_start">Todos teníamos que contenernos cuando salía de su cámara de contención.</text>
-  <text id="SmallBird_librarian3_kill">Mmm… Ese fue un método muy seguro</text>
+  <text id="Clock_Hokma_kill">Infelizmente, o silêncio nem sempre traz resultados positivos.</text>
 
-  <text id="LongBird_Binah_start">Qué curioso. Enfrentarse a un ser que yace dormido dentro de un libro de esta manera…</text>
+  <text id="Clock_librarian1_start">Um preço… pelo silêncio…? ¿Qué está intentando decir?</text>
+  <text id="Clock_librarian1_kill">Acho que a lição foi “Não perca seu tempo”.</text>
+
+  <text id="Clock_librarian2_start">Um relógio… de foice? O que isso significa?</text>
+  <text id="Clock_librarian2_kill">…Ufa, eu tava com tanta pressa; tô sem fôlego.</text>
+
+  <text id="Clock_librarian3_start">Talvez haja mais coisas que não vimos antes…</text>
+  <text id="Clock_librarian3_kill">O silêncio e a morte são semelhantes… Eu acho que não tá errado…</text>
+  <!-- Punishing Bird -->
+  <text id="SmallBird_librarian1_start">A gente brincava que quem era bicado pelo pássarinho era o bandido, né?</text>
+  <text id="SmallBird_librarian1_kill">Ele parece ainda menor quando tá numa gaiola…</text>
+
+  <text id="SmallBird_librarian2_start">É. Até apostávamos em quem iria receber as bicadas!</text>
+  <text id="SmallBird_librarian2_kill">Pois é. Algo horrível acontece se alguém bater nele…</text>
+
+  <text id="SmallBird_librarian3_start">Todo mundo tinha que ficar mais tenso quando ele voava pra fora da contenção.</text>
+  <text id="SmallBird_librarian3_kill">Mmm… Acho que esse método é o mais seguro?</text>
+  <!-- Judgement Bird -->
+  <text id="LongBird_Binah_start">Que curioso. Enfrentar um ser adormecido dentro de um livro de tal maneira…</text>
   <text id="LongBird_Binah_die">…</text>
-  <text id="LongBird_Binah_kill">Lo hicimos bien. Regresemos y tomemos un descanso.</text>
-  <text id="LongBird_librarian1_start">Se supone que es más débil… Pero no debemos bajar la guardia.</text>
-  <text id="LongBird_librarian1_kill">Se supone que debía ser algo justo</text>
-  <text id="LongBird_librarian2_start">Su balanza siempre estaba inclinada a un lado, No estoy seguro si debemos confiar en su juicio…</text>
-  <text id="LongBird_librarian2_kill">Como todos los pájaros que hemos visto, sus motivos debieron ser inocentes.</text>
-  <text id="LongBird_librarian3_start">El sonido de la balanza inclinándose me solía dar escalofríos.</text>
-  <text id="LongBird_librarian3_kill">Justicia… Qué es la justicia, Me pregunto.</text>
+  <text id="LongBird_Binah_kill">Vocês foram bem. Vamos retornar e descansar.</text>
 
-  <text id="Nos_Gebura_start">Parece que tiene demasiada hambre… Tengamos cuidado.</text>
+  <text id="LongBird_librarian1_start">Supostamente tá enfraquecido… Mas mesmo assim não devemos baixar a guarda.</text>
+  <text id="LongBird_librarian1_kill">O que realmente significa ser justo?</text>
+
+  <text id="LongBird_librarian2_start">A escala sempre estava inclinada para um lado, eu não tinha certeza se o julgamento era confiável…</text>
+  <text id="LongBird_librarian2_kill">Assim como os outros pássaros que vimos, seus motivos podem ter sido inocentes.</text>
+
+  <text id="LongBird_librarian3_start">O som da inclinação da escala costumava me dar arrepios.</text>
+  <text id="LongBird_librarian3_kill">Justiça… O que é justiça, eu me pergunto.</text>
+  <!-- Nosferatu -->
+  <text id="Nos_Gebura_start">Ele parece terrivelmente faminto… É melhor termos cuidado.</text>
   <text id="Nos_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
-  <text id="Nos_Gebura_kill">… Un vampiro, ¿eh? Creo que escuché de ellos en algún lugar.</text>
-  <text id="Nos_librarian1_start">Parece que quiere algo… Es un poco horrible.</text>
-  <text id="Nos_librarian1_kill">Anormalidades nuevas aparecen cada vez que pensamos que las vimos todas…</text>
-  <text id="Nos_librarian2_start">Parece. No se ve como un monstruo…</text>
-  <text id="Nos_librarian2_kill">¿Succionar sangre? Yup, es asqueroso…</text>
-  <text id="Nos_librarian3_start">… ¿No parece demasiado similar a nosotros?</text>
-  <text id="Nos_librarian3_kill">Mi cuerpo se siente débil por alguna razón…</text>
-  
+  <text id="Nos_Gebura_kill">…Um vampiro, hein. Acho que ouvi falar sobre em algum lugar.</text>
+
+  <text id="Nos_librarian1_start">Ele parece querer algo… Meio assustador</text>
+  <text id="Nos_librarian1_kill">Novas anormalidades continuam aparecendo logo quando você acha que já viu todas…</text>
+
+  <text id="Nos_librarian2_start">Parece. Não parece como um monstro…</text>
+  <text id="Nos_librarian2_kill">Sugar sangue? Eca, que nojo…</text>
+
+  <text id="Nos_librarian3_start">…Ele não se parece com a gente?</text>
+  <text id="Nos_librarian3_kill">Eu tô sentindo o meu corpo fraco por algum motivo…</text>
+  <!-- Floor of Language Realization -->
   <text id="G_Roland_Red_Gebura_start">… Okay, hagamos esto.</text>
   <text id="G_Roland_Red_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
   <text id="G_Roland_Red_librarian1_start">¡Sra. Gebura! ¡Todos estamos preparados!</text>

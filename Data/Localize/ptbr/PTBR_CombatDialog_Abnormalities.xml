@@ -196,13 +196,13 @@
   <text id="Queenofhatred_magical_1">Por que todo mundo tá feliz? Não vou ter nada pra fazer.</text>
   <text id="Queenofhatred_magical_2">Eu sempre acreditei. O mal deve existir enquanto eu existo.</text>
   <text id="Queenofhatred_magical_3">Está aqui finalmente… Um mal que devo derrotar…</text>
-  <text id="Queenofhatred_magical_4">Não há luz sem escuridão… Eu posso estar aqui graças à sua existência.</text>
+  <text id="Queenofhatred_magical_4">Não há luz sem trevas… Eu posso estar aqui graças à sua existência.</text>
   <text id="Queenofhatred_magical_5">Vocês são maus porque estão perturbando este lugar. Eu estou do lado do bem… Então os que me opõem…</text>
   <text id="Queenofhatred_magical_6">Para manter a paz do mundo… Eu nasci.</text>
 
   <text id="Queenofhatred_dragon_1">Pessoas como você não são boas nem más… Vocês são meros seres que precisam ser expurgados…</text>
   <text id="Queenofhatred_dragon_2">Para aqueles seres odiosos que estão diante do meu caminho… Eu lhes mostrarei o grande poder do amor…</text>
-  <text id="Queenofhatred_dragon_3">Assim como não há luz sem escuridão, mal verdadeiro deve existir neste mundo…</text>
+  <text id="Queenofhatred_dragon_3">Assim como não há luz sem trevas, mal verdadeiro deve existir neste mundo…</text>
   <text id="Queenofhatred_dragon_4">Alguém tem que ser o vilão…</text>
   <text id="Queenofhatred_dragon_5">Eu sou a escolhida… Não sou como você… Eu sou diferente!</text>
   <text id="Queenofhatred_dragon_6">Não ouse… tentar apagar a minha razão de existir!!!</text>
@@ -746,40 +746,46 @@
   <text id="T_roland_Fool_9">Tô cansado demais para voar. Então só tem um caminho pra mim.</text>
   <text id="T_roland_Fool_10">Por favor, batam palma pra esse homem tolo.</text>
   <!-- The Price of Silence -->
-  <text id="Clock_nomal_1">No se puede detener el tiempo que fluye, ni se puede detener el flujo.</text>
-  <text id="Clock_nomal_2">El tiempo fluye como la vida y la vida como el tiempo.</text>
-  <text id="Clock_nomal_3">¿Por qué intentas desafiar este gran arroyo que nadie puede detener?</text>
-  <text id="Clock_Quiet_1">Un precio sigue al silencio.</text>
-  <text id="Clock_Quiet_2">El silencio no siempre brinda la paz.</text>
-  <text id="Clock_Skill_1">El tiempo es dado a todos igualmente, pero el destino lo hace injusto.</text>
-  <text id="Clock_Skill_2">Nadie puede ir en contra del flujo del tiempo.</text>
-  
-  <text id="SmallBird_nomal_1">¿Por qué cometen pecados cuando saben que está mal?</text>
-  <text id="SmallBird_nomal_2">¡Si castigo a la gente por sus fechorías, el mundo se volvería un lugar pacífico!</text>
-  <text id="SmallBird_nomal_3">Deben estar haciendo cosas malas porque no hay nadie que los reprienda.</text>
-  <text id="SmallBird_nomal_4">¡Mis aleteos podrían ser lo que se necesita para cambiar el mundo!</text>
-  <text id="SmallBird_skill_1">¡No tiene sentido perdonar! ¡Te castigaré!</text>
-  <text id="SmallBird_skill_2">¡Si tienes miedo del castigo, no hagas estupideces desde ahora!</text>
+  <text id="Clock_nomal_1">O tempo que flui não pode ser apreendido, nem o fluxo pode ser interrompido.</text>
+  <text id="Clock_nomal_2">O tempo flui conforme a vida, e a vida passa conforme o tempo.</text>
+  <text id="Clock_nomal_3">Por que você tenta desafiar essa corrente maior que ninguém pode parar?</text>
 
-  <text id="LongBird_nomal_1">Las bestias saquearán este Bosque… No puedo dejar que nadie sea comido…</text>
-  <text id="LongBird_nomal_2">Protegeré a este Bosque y a las bestias que habitan en el…</text>
-  <text id="LongBird_nomal_3">El Bosque regresará a la paz… Nosotros debemos hacer que suceda…</text>
-  <text id="LongBird_escapeBirds_1">El Pájaro Grande está siempre mirando a las criaturas del bosque, no hay libertad.</text>
-  <text id="LongBird_escapeBirds_2">La balanza del Pájaro Largo no es justa.</text>
-  <text id="LongBird_escapeBirds_3">El castigo del Pájaro pequeño da tanto miedo.</text>
-  <text id="LongBird_judgment_1">Mi balanza siempre muestra un resultado claro; Puedo hacer un buen juicio gracias a esto…</text>
-  <text id="LongBird_judgment_2">Permíteme pesar tus pecados…</text>
+  <text id="Clock_Quiet_1">Um preço segue o silêncio.</text>
+  <text id="Clock_Quiet_2">O silêncio nem sempre traz paz.</text>
 
-  <text id="Nos_nomal_1">Bienvenido. Estoy más que dispuesto a saludas a aquellos que esten sedientos.</text>
-  <text id="Nos_nomal_2">Pierde la falsa esperanza y olvida la pretensión de la humanidad…</text>
-  <text id="Nos_nomal_3">Ah… Reprimir esta sed no es un espectáculo agradable de presenciar.</text>
-  <text id="Nos_nomal_4">Es muy temprano para una siesta… ¿No te unirás a mí y compartiras el placer?</text>
-  <text id="Nos_Blood_1">¡La danza macabra es para todos! ¡Todos y cada uno tienen la posibilidad de ser devorados!</text>
-  <text id="Nos_Blood_2">¡Tiempo para un festín! ¡Disfruta la noche rojo-sangre imbuida con locura hasta que tu corazón esté contento!</text>
-  <text id="Nos_Blood_3">¡No hay escape para esta sed!</text>
-  <text id="Nos_Blood_4">¡La sangre en su forma más pura y clara! ¡Me brinda felicidad eterna!</text>
-  
+  <text id="Clock_Skill_1">O tempo é dado a todos igualmente, mas o destino o torna injusto.</text>
+  <text id="Clock_Skill_2">Ninguém pode ir contra o fluxo do tempo.</text>
+  <!-- Punishing Bird -->
+  <text id="SmallBird_nomal_1">Por que elas cometem pecados, mesmo sabendo que é errado?</text>
+  <text id="SmallBird_nomal_2">Se eu punir as pessoas pelas suas más ações, o mundo se tornará um lugar pacífico!</text>
+  <text id="SmallBird_nomal_3">Eles devem estar fazendo coisas ruins porque não há ninguém para repreendê-los.</text>
+  <text id="SmallBird_nomal_4">Minha bateção de asas pode ser o que é preciso para mudar o mundo!</text>
+
+  <text id="SmallBird_skill_1">Não adianta perdoar! Eu vou te punir!</text>
+  <text id="SmallBird_skill_2">Se você tem medo de punição, não cometa atos ruins de agora em diante!</text>
+  <!-- Judgement Bird-->
+  <text id="LongBird_nomal_1">Bestas saquearão esta floresta… Eu não vou deixar ninguém ser devorados por eles…</text>
+  <text id="LongBird_nomal_2">Eu protegerei esta floresta com as criaturas que vivem conosco…</text>
+  <text id="LongBird_nomal_3">A floresta retornará à paz… Nós temos que fazer isso ter sucesso…</text>
+
+  <text id="LongBird_escapeBirds_1">O Pássaro Grande está sempre observando as criaturas da floresta, não há liberdade.</text>
+  <text id="LongBird_escapeBirds_2">A Balança do Pássaro Longo sequer é justa.</text>
+  <text id="LongBird_escapeBirds_3">A Punição do Pássaro Pequeno é assustadora demais.</text>
+
+  <text id="LongBird_judgment_1">Minhas escalas sempre mostram um veredito claro; posso fazer um bom julgamento com elas…</text>
+  <text id="LongBird_judgment_2">Deixe-me pesar seus pecados…</text>
+  <!-- Nosferatu -->
+  <text id="Nos_nomal_1">Bem-vindos. Estou mais do que disposto a saudar aqueles que têm sede.</text>
+  <text id="Nos_nomal_2">Perca a falsa esperança, e esqueça a pretensão da humanidade…</text>
+  <text id="Nos_nomal_3">Ah… Conter a dor dessa sede não é algo exatamente agradável de se ver.</text>
+  <text id="Nos_nomal_4">Está muito cedo para dormir… Você não quer se juntar a mim e dividir o prazer?</text>
+
+  <text id="Nos_Blood_1">A Danse Macabre está com todos! Todos e quaisquer têm uma boa chance de serem devorados!</text>
+  <text id="Nos_Blood_2">Hora de um banquete! Aproveite a noite vermelho-sangue imbuída de loucura o quanto quiser!</text>
+  <text id="Nos_Blood_3">Não há como fugir desta sede!</text>
+  <text id="Nos_Blood_4">O sangue—em sua forma mais pura e clara! Traga-me felicidade eterna!</text>
   <!-- Please play through the boss fight or wait a bit until after the update before viewing or sharing this text around, please. -->
+  <!-- Floor of Language Realization -->
   <text id="G_roland_Red_1">Un día… Pensé que no habría un final para este cuento sombrío…</text>
   <text id="G_roland_Red_2">Jodido, no es así. Así es como es un cuento de hadas sin esperanza…</text>
   <text id="G_roland_Red_3">… Cortaré la cabeza del maldito bastardo que me quito a mis seres queridos.</text>
