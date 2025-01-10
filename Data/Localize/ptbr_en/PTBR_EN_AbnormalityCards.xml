@@ -662,7 +662,7 @@ Ao ganhar um Embate, inflige 1 de Amarro, Frágil, Sangramento e Paralisia a tod
       <FlaborText>Elijah caiu de joelhos e sua família começou a vomitar tudo o que todos os outros estavam vomitando.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">O lago ondulava gentilmente. Como se alguns cisneis tivessem voado.</Dialogue>
-        <Dialogue ID="2">Eu encarei a realidade. Todas as coisas engarrafadas dentro de mim foram cuspidas.</Dialogue>
+        <Dialogue ID="2">Eu encarei a realidade. Todas as coisas reprimidas dentro de mim foram cuspidas.</Dialogue>
         <Dialogue ID="3">Comecei a vomitar tudo o que todos os outros estavam vomitando.</Dialogue>
         <Dialogue ID="4">Como se meus pulmões tivessem sido esfaqueados, explodiu conforme eu respirava.</Dialogue>
         <Dialogue ID="5">Vomitei uma mistura de sangue e resíduo verde.</Dialogue>
