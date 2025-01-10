@@ -613,16 +613,19 @@
   <text id="G_Roland_Nothing_librarian3_start">Essa é apenas a forma que eu me lembro… Uma criatura que tentava imitar humanos…</text>
   <text id="G_Roland_Nothing_librarian4_start">Uf… Os pesadelos estão voltando…</text>
   <!-- Ozma -->
-  <text id="Ozma_Chesed_start">Esa calabaza debe ser lo único que le queda.</text>
+  <text id="Ozma_Chesed_start">Aquela abóbora deve ter sido a única coisa dela que sobrou.</text>
   <text id="Ozma_Chesed_die">Parece que eu cheguei no meu limite…</text>
-  <text id="Ozma_Chesed_kill">No puedo decir que me guste mucho esté final~</text>
-  <text id="Ozma_librarian1_start">No sé cómo adivinar las preferencias de cosas que veo por primera vez…</text>
-  <text id="Ozma_librarian1_kill">Se siente incómodo… Lo único que quería era un poco de felicidad.</text>
-  <text id="Ozma_librarian2_start">Alguien le maldijo. Eso está mal.</text>
-  <text id="Ozma_librarian2_kill">… Lo siento.</text>
-  <text id="Ozma_librarian3_start">… Este es un estado muy terrible para un príncipe.</text>
-  <text id="Ozma_librarian3_kill">No me siento… tan bien ganando ahora.</text>
-  
+  <text id="Ozma_Chesed_kill">Não posso dizer que gostei muito do final~</text>
+
+  <text id="Ozma_librarian1_start">Eu não sei como adivinhar as preferências das coisas que vejo pela primeira vez…</text>
+  <text id="Ozma_librarian1_kill">Meio desconfortante… Ela só queria felicidade.</text>
+
+  <text id="Ozma_librarian2_start">Alguém amaldiçoou ela. Que sacanagem.</text>
+  <text id="Ozma_librarian2_kill">…Desculpa.</text>
+
+  <text id="Ozma_librarian3_start">…Esse é um estado terrível para uma princesa estar.</text>
+  <text id="Ozma_librarian3_kill">Eu não me sinto… bem ganhando dessa vez.</text>
+  <!-- Floor of Social Sciences Realization-->
   <text id="C_roland_Wisdom_Chesed_start">Como sea que esto termine, intentémoslo~ Todos saben cómo, ¿verdad?</text>
   <text id="C_roland_Wisdom_Chesed_die">Parece que eu cheguei no meu limite…</text>
   <text id="C_roland_Wisdom_librarian1_start">Eh, los consejos no siempre funcionan.</text>

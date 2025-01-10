@@ -845,15 +845,17 @@
   <text id="G_roland_Nothing_9">Será que o disfarce que usei foi suficiente para me fazer parecer humano?</text>
   <text id="G_roland_Nothing_10">Quem é que quer o esquecimento; quem é que se beneficia dessa loucura?</text>
   <!-- Ozma -->
-  <text id="Ozma_nomal_1">Soy Ozma… Una sola persona me arrebato todo…</text>
-  <text id="Ozma_nomal_2">Todo lo que me queda… son estos niños.</text>
-  <text id="Ozma_forget_1">Quiero que sientas lo mismo… La miseria de olvidarlo todo… de perderlo todo…</text>
-  <text id="Ozma_forget_2">Yo seré el que arrebate esta vez…</text>
-  <text id="Ozma_forget_3">Aquí, niño… Te daré una nueva vida.</text>
-  <text id="Ozma_forget_4">Vuelve a mí, así no estaré tan solo…</text>
-  <text id="Ozma_angry_1">¡¡No te perdonaré esto!! ¡¡No eres mejor que esa bruja!!</text>
-  <text id="Ozma_angry_2">No… No te lleves lo que es mío, no de nuevo…</text>
-  
+  <text id="Ozma_nomal_1">Sou Ozma… Uma única pessoa tirou tudo de mim…</text>
+  <text id="Ozma_nomal_2">Tudo o que me resta agora… são essas crianças.</text>
+
+  <text id="Ozma_forget_1">Quero que você passe pelo mesmo que eu… A desgraça de esquecer tudo… de perder tudo…</text>
+  <text id="Ozma_forget_2">Serei eu quem levará as coisas dessa vez…</text>
+  <text id="Ozma_forget_3">Aqui, criança… Te darei nova vida.</text>
+  <text id="Ozma_forget_4">Volte para mim, para eu não ficar só…</text>
+
+  <text id="Ozma_angry_1">Eu não vou perdoar isso!!! Você não é melhor que aquela bruxa!!!</text>
+  <text id="Ozma_angry_2">Não… Não tire o que é meu, de novo não…</text>
+  <!-- Floor of Social Sciences Realization-->
   <text id="C_roland_Wisdom_1">¿Si hubiera pensado las cosas con más calma, hubiera cambiado algo…?</text>
   <text id="C_roland_Wisdom_2">Pero… ¿Qué más podría haber hecho?…</text>
   <text id="C_roland_Wisdom_3">Una pequeña pieza de sabiduría podría haberlo cambiado todo…</text>
