@@ -573,37 +573,46 @@
   <text id="Nos_librarian3_start">…Ele não se parece com a gente?</text>
   <text id="Nos_librarian3_kill">Eu tô sentindo o meu corpo fraco por algum motivo…</text>
   <!-- Floor of Language Realization -->
-  <text id="G_Roland_Red_Gebura_start">… Okay, hagamos esto.</text>
+  <text id="G_Roland_Red_Gebura_start">…Beleza, bora galera.</text>
   <text id="G_Roland_Red_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
-  <text id="G_Roland_Red_librarian1_start">¡Sra. Gebura! ¡Todos estamos preparados!</text>
-  <text id="G_Roland_Red_librarian2_start">Bueno. Si otros pisos pudieron con esto, nosotros también podemos.</text>
-  <text id="G_Roland_Red_librarian3_start">Así que esto es de lo que hablaban los otros bibliotecarios…</text>
-  <text id="G_Roland_Red_librarian4_start">Eso se ve terrible…</text>
-  <text id="G_Roland_Wolf_Gebura_start">Todos los recuerdan bien. Vamos a intentarlo entonces.</text>
-  <text id="G_Roland_Wolf_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
-  <text id="G_Roland_Wolf_librarian1_start">¡Eso es lo que la Sra. Gebura nos enseñó!</text>
-  <text id="G_Roland_Wolf_librarian2_start">Bien. Cuando uno empuña una espada, debe tener un objetivo claro…</text>
-  <text id="G_Roland_Wolf_librarian3_start">Actuar con dolor e ira no es más que una muestra de frustración.</text>
-  <text id="G_Roland_Wolf_librarian4_start">Una matanza que ha perdido todo significado…</text>
-  <text id="G_Roland_Smile_Gebura_start">Podemos discutir si perdonar o no las atrocidades una vez hayamos acabado con esto.</text>
-  <text id="G_Roland_Smile_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
-  <text id="G_Roland_Smile_librarian1_start">Quizás lo que hizo es imperdonable…</text>
-  <text id="G_Roland_Smile_librarian2_start">¿Cuantas personas ha matado…? Me está asustando.</text>
-  <text id="G_Roland_Smile_librarian3_start">Una vez comienzas a mirar hacia atrás, es difícil detenerse.</text>
-  <text id="G_Roland_Smile_librarian4_start">Una montaña de cuerpos…</text>
-  <text id="G_Roland_Nos_Gebura_start">No le haría ningún bien forzarlo a encontrar consuelo.</text>
-  <text id="G_Roland_Nos_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
-  <text id="G_Roland_Nos_librarian1_start">Espero que esto haga que se sienta mejor…</text>
-  <text id="G_Roland_Nos_librarian2_start">Creo que esto dice demasiado de las emociones encerradas en su corazón.</text>
-  <text id="G_Roland_Nos_librarian3_start">Todos son violentos…</text>
-  <text id="G_Roland_Nos_librarian4_start">Eh, eso es… Esa cosa que vimos por primera vez hace poco.</text>
-  <text id="G_Roland_Nothing_Gebura_start">… Quizás pueda entenderte un poco, Roland.</text>
-  <text id="G_Roland_Nothing_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
-  <text id="G_Roland_Nothing_librarian1_start">De todos modos… Pienso que casi hemos terminado.</text>
-  <text id="G_Roland_Nothing_librarian2_start">Escucharlo reproducir la voz de mi compañero casi me hace vomitar.</text>
-  <text id="G_Roland_Nothing_librarian3_start">Esa es la forma que recuerdo… Una criatura que intentaba copiar a los humanos…</text>
-  <text id="G_Roland_Nothing_librarian4_start">Uf… Las pesadillas están volviendo…</text>
 
+  <text id="G_Roland_Red_librarian1_start">Sra. Gebura! Eu acho que todos estamos preparados!</text>
+  <text id="G_Roland_Red_librarian2_start">Bem, se eles conseguiram, nós também conseguimos.</text>
+  <text id="G_Roland_Red_librarian3_start">Então era disso que os bibliotecários lá embaixo estavam falando…</text>
+  <text id="G_Roland_Red_librarian4_start">Isso realmente parece horrível…</text>
+
+  <text id="G_Roland_Wolf_Gebura_start">Vocês todos se lembram desse bem. Vamos lá, então.</text>
+  <text id="G_Roland_Wolf_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
+
+  <text id="G_Roland_Wolf_librarian1_start">É isso que a Sra. Gebura nos ensinou!</text>
+  <text id="G_Roland_Wolf_librarian2_start">Certo. Quando alguém empunha uma espada, o propósito tem que ser claro…</text>
+  <text id="G_Roland_Wolf_librarian3_start">Agir movido pela raiva e pela tristeza nada mais é do que uma demonstração de frustração.</text>
+  <text id="G_Roland_Wolf_librarian4_start">Um massacre que perdeu o sentido…</text>
+
+  <text id="G_Roland_Smile_Gebura_start">Podemos discutir se perdoaremos ou não aquela atrocidade depois que acabarmos com isso.</text>
+  <text id="G_Roland_Smile_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
+
+  <text id="G_Roland_Smile_librarian1_start">Talvez o que ele fez é imperdoável…</text>
+  <text id="G_Roland_Smile_librarian2_start">Quantas pessoas ele matou…? Ele tá me assustando.</text>
+  <text id="G_Roland_Smile_librarian3_start">Quando você começa a olhar para trás, é difícil parar.</text>
+  <text id="G_Roland_Smile_librarian4_start">Uma montanha de corpos…</text>
+
+  <text id="G_Roland_Nos_Gebura_start">Não será bom forçar demais o consolo.</text>
+  <text id="G_Roland_Nos_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
+
+  <text id="G_Roland_Nos_librarian1_start">Espero que isso faça com que ele se sinta melhor…</text>
+  <text id="G_Roland_Nos_librarian2_start">Eu acho que isso diz bastante sobre as emoções que ele tinha guardado.</text>
+  <text id="G_Roland_Nos_librarian3_start">São todos violentos…</text>
+  <text id="G_Roland_Nos_librarian4_start">Ei, isso é… a coisa que vimos pela primeira vez recentemente.</text>
+
+  <text id="G_Roland_Nothing_Gebura_start">…Talvez eu consiga te entender um pouco, Roland.</text>
+  <text id="G_Roland_Nothing_Gebura_die">Droga, eu não esperava me aposentar assim…</text>
+  
+  <text id="G_Roland_Nothing_librarian1_start">Enfim… Acho que já tá quase acabando.</text>
+  <text id="G_Roland_Nothing_librarian2_start">Ouvi-lo imitar a voz do meu colega de trabalho quase me fez vomitar.</text>
+  <text id="G_Roland_Nothing_librarian3_start">Essa é apenas a forma que eu me lembro… Uma criatura que tentava imitar humanos…</text>
+  <text id="G_Roland_Nothing_librarian4_start">Uf… Os pesadelos estão voltando…</text>
+  <!-- Ozma -->
   <text id="Ozma_Chesed_start">Esa calabaza debe ser lo único que le queda.</text>
   <text id="Ozma_Chesed_die">Parece que eu cheguei no meu limite…</text>
   <text id="Ozma_Chesed_kill">No puedo decir que me guste mucho esté final~</text>
