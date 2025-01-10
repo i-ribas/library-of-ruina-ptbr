@@ -626,89 +626,114 @@
   <text id="Ozma_librarian3_start">…Esse é um estado terrível para uma princesa estar.</text>
   <text id="Ozma_librarian3_kill">Eu não me sinto… bem ganhando dessa vez.</text>
   <!-- Floor of Social Sciences Realization-->
-  <text id="C_roland_Wisdom_Chesed_start">Como sea que esto termine, intentémoslo~ Todos saben cómo, ¿verdad?</text>
+  <text id="C_roland_Wisdom_Chesed_start">Seja como for, bora lá~ Cês sabem como, né?</text>
   <text id="C_roland_Wisdom_Chesed_die">Parece que eu cheguei no meu limite…</text>
-  <text id="C_roland_Wisdom_librarian1_start">Eh, los consejos no siempre funcionan.</text>
-  <text id="C_roland_Wisdom_librarian2_start">No estoy seguro de que esta sea una buena forma de resolver los sentimientos negativos…</text>
-  <text id="C_roland_Wisdom_librarian3_start">¿Qué está pasando? Nunca lo vi tan enojado antes…</text>
-  <text id="C_roland_Wisdom_librarian4_start">… He escuchado un montón sobre esto, pero aun así mi mente no está preparada.</text>
-  <text id="C_roland_Woodsman_Chesed_start">Ese ‘bosque’ nunca se irá.</text>
-  <text id="C_roland_Woodsman_Chesed_die">Parece que eu cheguei no meu limite…</text>
-  <text id="C_roland_Woodsman_librarian1_start">Y eso podría incluirnos.</text>
-  <text id="C_roland_Woodsman_librarian2_start">Podría ser la gente que él acusó de que le arrebataron su felicidad…</text>
-  <text id="C_roland_Woodsman_librarian3_start">¿Qué es lo que le representan estos árboles a Roland?</text>
-  <text id="C_roland_Woodsman_librarian4_start">Eso da miedo…</text>
-  <text id="C_roland_Waygohome_Chesed_start">… Estoy seguro de que todos tienen un hogar en el cual descansar~</text>
-  <text id="C_roland_Waygohome_Chesed_die">Parece que eu cheguei no meu limite…</text>
-  <text id="C_roland_Waygohome_librarian1_start">¿Tiene Roland un lugar donde regresar, Sr. Chesed?</text>
-  <text id="C_roland_Waygohome_librarian2_start">No tener ningún lugar para que descanse tu mente debe ser triste.</text>
-  <text id="C_roland_Waygohome_librarian3_start">Un lugar en el cual uno pueda descansar es el hogar.</text>
-  <text id="C_roland_Waygohome_librarian4_start">Volviendo a casa, ¿eh?…</text>
-  <text id="C_roland_Ozma_Chesed_start">No nos entrometamos demasiado. Que él llegue a una conclusión por su cuenta es la parte más vital</text>
-  <text id="C_roland_Ozma_Chesed_die">Parece que eu cheguei no meu limite…</text>
-  <text id="C_roland_Ozma_librarian1_start">Yeah. Nosotros nunca lograremos entender completamente a otra persona.</text>
-  <text id="C_roland_Ozma_librarian2_start">… No estamos tratando de compadecernos de Roland ni nada parecido.</text>
-  <text id="C_roland_Ozma_librarian3_start">Me contaron que esa Anormalidad era un ser que se convirtió en un monstruo…</text>
-  <text id="C_roland_Ozma_librarian4_start">Es muy diferente de la horrible forma que vimos la última vez.</text>
-  <text id="C_roland_Oz_Chesed_start">Yep. Y nos daremos cuenta de eso a su tiempo… Roland también lo hará.</text>
-  <text id="C_roland_Oz_Chesed_die">Parece que eu cheguei no meu limite…</text>
-  <text id="C_roland_Oz_librarian1_start">¿Tenemos siquiera esas cosas?</text>
-  <text id="C_roland_Oz_librarian2_start">Sabiduría… Corazón… Coraje… Y un lugar donde calmarse.</text>
-  <text id="C_roland_Oz_librarian3_start">Esas son cosas que son buenas de acuerdo a sus estándares…</text>
-  <text id="C_roland_Oz_librarian4_start">¿Hacer a la gente feliz?… Esa es una completa mentira.</text>
 
+  <text id="C_roland_Wisdom_librarian1_start">Sei não… Temos que fazer o que pudermos de alguma forma</text>
+  <text id="C_roland_Wisdom_librarian2_start">É preciso muita energia para aceitar uma revelação e realmente mudar sua mentalidade.</text>
+  <text id="C_roland_Wisdom_librarian3_start">Você tem razão. Mesmo pequenos pensamentos são difíceis de mudar sozinho…</text>
+  <text id="C_roland_Wisdom_librarian4_start">Espero que nós possamos ajudar.</text>
+
+  <text id="C_roland_Woodsman_Chesed_start">Essa “floresta” nunca desaparecerá.</text>
+  <text id="C_roland_Woodsman_Chesed_die">Parece que eu cheguei no meu limite…</text>
+
+  <text id="C_roland_Woodsman_librarian1_start">E isso deve nos incluir.</text>
+  <text id="C_roland_Woodsman_librarian2_start">Deve ser as pessoas que ele acusa de tirar a felicidade dele…</text>
+  <text id="C_roland_Woodsman_librarian3_start">O que as árvores representam pro Roland?</text>
+  <text id="C_roland_Woodsman_librarian4_start">Isso dá medo…</text>
+
+  <text id="C_roland_Waygohome_Chesed_start">…Tenho certeza de que todos tem uma casa para se empoleirar~</text>
+  <text id="C_roland_Waygohome_Chesed_die">Parece que eu cheguei no meu limite…</text>
+
+  <text id="C_roland_Waygohome_librarian1_start">O Roland tem um lugar pra onde voltar, Chesed?</text>
+  <text id="C_roland_Waygohome_librarian2_start">Não ter um lugar pra descansar deve ser algo triste.</text>
+  <text id="C_roland_Waygohome_librarian3_start">O lugar onde se pode descansar deve ser sua casa.</text>
+  <text id="C_roland_Waygohome_librarian4_start">Ir de volta pra casa, hm…</text>
+
+  <text id="C_roland_Ozma_Chesed_start">Não vamos nos preocupar muito com isso. Ele chegar a uma conclusão por si mesmo é a parte mais importante.</text>
+  <text id="C_roland_Ozma_Chesed_die">Parece que eu cheguei no meu limite…</text>
+
+  <text id="C_roland_Ozma_librarian1_start">É. Nunca entenderemos completamente tudo sobre alguém.</text>
+  <text id="C_roland_Ozma_librarian2_start">…Não estavamos tentando ter pena do Roland ou algo assim.</text>
+  <text id="C_roland_Ozma_librarian3_start">Me disseram que aquela Anormalidade era um ser que se tornou um monstro novamente…</text>
+  <text id="C_roland_Ozma_librarian4_start">Isso é bem diferente da forma horrível que vimos da última vez.</text>
+
+  <text id="C_roland_Oz_Chesed_start">Sim. E nós vamos dar conta disso no seu tempo… O Roland também.</text>
+  <text id="C_roland_Oz_Chesed_die">Parece que eu cheguei no meu limite…</text>
+  
+  <text id="C_roland_Oz_librarian1_start">A gente sequer tem essas coisas?</text>
+  <text id="C_roland_Oz_librarian2_start">Sabedoria… Coração… Coragem… E um lugar para se acalmar.</text>
+  <text id="C_roland_Oz_librarian3_start">Todas essas são coisas que são boas nos padrões dele…</text>
+  <text id="C_roland_Oz_librarian4_start">Fazer as pessoas felizes?… Mas que mentira.</text>
+  <!-- Floor of Philosophy Realization -->
   <text id="B_roland_Big_Binah_start">Correcto. Dejaremos que él exprese todos sus sentimientos primero.</text>
   <text id="B_roland_Big_Binah_die">…</text>
+
   <text id="B_roland_Big_librarian1_start">No sé… Tenemos que hacer todo lo que podamos…</text>
   <text id="B_roland_Big_librarian2_start">Se necesita demasiada energía para tener una revelación y cambiar tu forma de pensar.</text>
   <text id="B_roland_Big_librarian3_start">Tienes razón. Incluso los pequeños pensamientos son difíciles de cambiar por nosotros mismos…</text>
   <text id="B_roland_Big_librarian4_start">Me pregunto si podemos ser de alguna ayuda.</text>
+
   <text id="B_roland_Small_Binah_start">Te recomiendo centrarte en el presente, en lugar de preocuparte por el futuro.</text>
   <text id="B_roland_Small_Binah_die">…</text>
+
   <text id="B_roland_Small_librarian1_start">Un momento… ¿No vamos a enfrentarnos a lo que pienso que vamos a enfrentarnos al final, verdad?</text>
   <text id="B_roland_Small_librarian2_start">Ahora mismo, tenemos que manejar a esa bestia…</text>
   <text id="B_roland_Small_librarian3_start">Depende de la persona.</text>
   <text id="B_roland_Small_librarian4_start">¿Es correcto imponer tu propia justicia y castigar a lo demás de acuerdo a ella?</text>
+
   <text id="B_roland_Long_Binah_start">Dejemos la discusión sobre la conveniencia por ahora.</text>
   <text id="B_roland_Long_Binah_die">…</text>
+
   <text id="B_roland_Long_librarian1_start">Si piensas que es correcto, entonces se vuelve algo correcto; ¿no es así como funciona?</text>
   <text id="B_roland_Long_librarian2_start">Determinarlo es muy subjetivo en primer lugar…</text>
   <text id="B_roland_Long_librarian3_start">No puedes simplemente dibujar una línea en la arena para separar el bien y el mal.</text>
   <text id="B_roland_Long_librarian4_start">Una balanza injusta… Sí puedo llamarla así.</text>
+
   <text id="B_roland_End_Binah_start">Esa es la razón por la que lo ayudamos.</text>
   <text id="B_roland_End_Binah_die">…</text>
+
   <text id="B_roland_End_librarian1_start">¿Supongo que verlo no cuenta como enfrentarlo, verdad?</text>
   <text id="B_roland_End_librarian2_start">¿Quién hubiera dicho que tendríamos que enfrentar ESTE miedo otra vez?</text>
   <text id="B_roland_End_librarian3_start">Realmente se siente como el final…</text>
   <text id="B_roland_End_librarian4_start">Sra. Binah… Parece que estamos llegando a una conclusión.</text>
-
+  
   <text id="BlueStar_Hokma_start">Si tu fe en algo es lo suficientemente fuerte, entonces tu mente no caerá en ninguna tentación.</text>
   <text id="BlueStar_Hokma_die">…</text>
   <text id="BlueStar_Hokma_kill">… Les sugiero descansar. Organizaremos todo esto cuando vuelvan a sus sentidos.</text>
+  <!-- Blue Star -->
   <text id="BlueStar_librarian1_start">Si no nos mantenemos alertas… Podríamos ser arrastrados a ese lugar.</text>
   <text id="BlueStar_librarian1_die">Ahh… Es aquí… ¡Por favor llevame…!</text>
   <text id="BlueStar_librarian1_kill">Eso fue repugnante… Realmente no tengo ganas de terminar ahí dentro.</text>
+
   <text id="BlueStar_librarian2_start">Uf… No era nada fácil evitar que eso arrastrara a los empleados.</text>
   <text id="BlueStar_librarian2_die">¡Puedo escucharlo! ¡La voz… Está llamándome!</text>
+
   <text id="BlueStar_librarian2_kill">Sentí que lo… perdí… por alguna razón.</text>
   <text id="BlueStar_librarian3_start">Aquí dentro y fuera… Hay fanáticos en todos sitios.</text>
+
   <text id="BlueStar_librarian3_die">Haha… Haa… Compadezco a los tontos que no recibieron su llamada…</text>
   <text id="BlueStar_librarian3_kill">Hombre… Esto fue brutal. Casi me arrastran dentro.</text>
-  
+  <!-- Floor of Religion Realization -->
   <text id="H_Angela_doctor_Hokma_start">La fe está destinada a ser desafiada por la ironía.</text>
   <text id="H_Angela_doctor_Hokma_die">…</text>
+
   <text id="H_Angela_doctor_librarian1_start">Bueno… Cualquiera que sea su creencia, seguramente es en vano.</text>
   <text id="H_Angela_doctor_librarian2_start">¿Seguramente hay algo en lo que crees, incluso si no es algo grandioso?</text>
   <text id="H_Angela_doctor_librarian3_start">Fe… Fe, ¿eh?… Ahora que lo pienso, realmente no creo en nada.</text>
   <text id="H_Angela_doctor_librarian4_start">Nosotros… ¿vamos a tener que lidiar con esa cosa horrible pronto, verdad?</text>
+
   <text id="H_Angela_whitenight_1Phase_Hokma_start">Y será algo difícil de hacer.</text>
   <text id="H_Angela_whitenight_1Phase_Hokma_die">…</text>
+
   <text id="H_Angela_whitenight_1Phase_librarian1_start">Pienso que debe haber alguna manera de refutar la religión.</text>
   <text id="H_Angela_whitenight_1Phase_librarian2_start">Es una molestia tratar con la gente cegada…</text>
   <text id="H_Angela_whitenight_1Phase_librarian3_start">Nadie que busque la salvación aquí es normal…</text>
   <text id="H_Angela_whitenight_1Phase_librarian4_start">… Bueno, maldición. No quería tener que enfrentarlo nuevamente.</text>
+
   <text id="H_Angela_whitenight_2Phase_Hokma_start">Debemos mantener la fe con una determinación inquebrantable.</text>
   <text id="H_Angela_whitenight_2Phase_Hokma_die">…</text>
+  
   <text id="H_Angela_whitenight_2Phase_librarian1_start">…Hokma, señor. ¿Existe otra forma que podamos hacer esto?</text>
   <text id="H_Angela_whitenight_2Phase_librarian2_start">¿Nosotros… lo hicimos mal? ¿Dónde nos equivocamos…?</text>
   <text id="H_Angela_whitenight_2Phase_librarian3_start">Yo pensé que se había acabado…</text>

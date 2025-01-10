@@ -856,66 +856,70 @@
   <text id="Ozma_angry_1">Eu não vou perdoar isso!!! Você não é melhor que aquela bruxa!!!</text>
   <text id="Ozma_angry_2">Não… Não tire o que é meu, de novo não…</text>
   <!-- Floor of Social Sciences Realization-->
-  <text id="C_roland_Wisdom_1">¿Si hubiera pensado las cosas con más calma, hubiera cambiado algo…?</text>
-  <text id="C_roland_Wisdom_2">Pero… ¿Qué más podría haber hecho?…</text>
-  <text id="C_roland_Wisdom_3">Una pequeña pieza de sabiduría podría haberlo cambiado todo…</text>
-  <text id="C_roland_Wisdom_4">Dame el poder de escuchar… El poder de solucionarlo todo con facilidad…</text>
-  <text id="C_roland_Wisdom_5">Entrega tu sabiduría… Con ella, Yo podría… Yo podría…</text>
-  <text id="C_roland_Wisdom_6">¿Qué podría haber en un mundo iluminado con sabiduría…?</text>
-  <text id="C_roland_Wisdom_7">Personas que presumen de su sabiduría y no se averguenza de su ignorancia… Eso somos tú y yo…</text>
-  <text id="C_roland_Wisdom_8">Una vida donde nadie se avergüence de la ignorancia y sea agradecido por el conocimiento… No sé…</text>
-  <text id="C_roland_Wisdom_9">¿El conocimiento ganado gracias a la sabiduría traera algún cambio…?</text>
-  <text id="C_roland_Wisdom_10">No. Tú eres probablemente lo mismo. Solo pretendes saber más…</text>
-  <text id="C_roland_Wisdom_11">Haha… Ha… No puedo parar de reír…</text>
-  <text id="C_roland_Woodsman_1">No quiero sentir este vacío y solitario sentimiento nunca más…</text>
-  <text id="C_roland_Woodsman_2">Agarre mi vacío pecho y me apené. Rogando por que se llenara…</text>
-  <text id="C_roland_Woodsman_3">Busqué cosas para substituir el calor…</text>
-  <text id="C_roland_Woodsman_4">Corté uno tras de otro, Pero este bosque… es aún tan denso. Siempre hay más arboles que cortar.</text>
-  <text id="C_roland_Woodsman_5">Corté cada árbol que capturo mi atención…</text>
-  <text id="C_roland_Woodsman_6">Me siento frío por dentro y no puedo hacer nada sobre eso…</text>
-  <text id="C_roland_Woodsman_7">No me digas que entiendes todo. Te has vuelto frío como todos…</text>
-  <text id="C_roland_Woodsman_8">Lo sé. No puedo llenar este vacío así… Lo sé muy bien…</text>
-  <text id="C_roland_Woodsman_9">El vacío no se llenará; Solo seré recordado de este vacío…</text>
-  <text id="C_roland_Woodsman_10">El bosque nunca cambiará… Cuanto más lo anhele, más arboles crecerán…</text>
-  <text id="C_roland_Woodsman_11">Devuelve lo que tomaste… de mí…</text>
-  <text id="C_roland_Waygohome_1">Un hogar donde una familia amorosa me espera…</text>
-  <text id="C_roland_Waygohome_2">No vendrá ningún día donde podamos volver juntos.</text>
-  <text id="C_roland_Waygohome_3">Este es el único camino que puedo caminar… El camino pavimentado con ladrillos dorados…</text>
-  <text id="C_roland_Waygohome_4">Seré capaz de conocer lo que tan desesperadamente deseé ver si sigo este camino.</text>
-  <text id="C_roland_Waygohome_5">Si siguiera el camino pavimentado con ladrillos al azar, lo encontraré? Lo que estabá buscando…?</text>
-  <text id="C_roland_Waygohome_6">¿Dónde está el hogar para mí?</text>
-  <text id="C_roland_Waygohome_7">Vamos, Vamos. Apresurémonos. Antes de que la espera me mate.</text>
-  <text id="C_roland_Waygohome_8">Llegaremos hasta el final. ¿Verdad?</text>
-  <text id="C_roland_Waygohome_9">Vamos a juntarnos. Vamos a bailar y saltar.</text>
-  <text id="C_roland_Waygohome_10">Haha… Ese chico… Ese malvado me arrebato todo</text>
-  <text id="C_roland_Waygohome_11">Paso tan repentinamente… No pude hacer nada mientras me alejaba de casa.</text>
-  <text id="C_roland_Waygohome_12">Es hora de volver a casa. Mi casa que debería existir en algún lugar.</text>
-  <text id="C_roland_Waygohome_13">… Ahora, ¿deberíamos volver?</text>
-  <text id="C_roland_Ozma_1">¿Por qué tenía que robarme a mí de todo el mundo?</text>
-  <text id="C_roland_Ozma_2">No quiero vivir una vida de ser robado nunca más…</text>
-  <text id="C_roland_Ozma_3">Antes de que vuelva de nuevo… Tengo que actuar de nuevo, o si no…</text>
-  <text id="C_roland_Ozma_4">Ellos tienen que pasar por lo mismo. El desamparo de perderlo y olvidarlo todo…</text>
-  <text id="C_roland_Ozma_5">Por favor, envíame de vuelta. De vuelta al lugar donde estan mis seres queridos…</text>
-  <text id="C_roland_Ozma_6">No puedo hacer mucho más que existir…</text>
-  <text id="C_roland_Ozma_7">Esta desesperación no me dejará… Nunca seré capaz de volver…</text>
-  <text id="C_roland_Ozma_8">¿Por qué tengo que ser yo el que busca el perdón?</text>
-  <text id="C_roland_Ozma_9">No quiero perder nada de nuevo… No me queda mucho…</text>
-  <text id="C_roland_Ozma_10">Lo único que me queda es odio para lo que me hizo así…</text>
-  <text id="C_roland_Ozma_11">Puedo estar en malas condiciones, pero no necesitas tenerme lástima…</text>
-  <text id="C_roland_Ozma_12">Buscando venganza para ese odio…</text>
-  <text id="C_roland_Oz_1">Nada es más engañoso como la verdad.</text>
-  <text id="C_roland_Oz_2">Utilizaré un hechizo que hará a todos felices.</text>
-  <text id="C_roland_Oz_3">Pobre montón de paja. Te daré la sabiduría para reflexionar sobre cualquier cosa.</text>
-  <text id="C_roland_Oz_4">¿Piensas que hablar con tú oh-cuan importante boca es todo lo que importa?</text>
-  <text id="C_roland_Oz_5">Leñador de hojalata. Te daré un corazón para perdonar y amar a cualquiera.</text>
-  <text id="C_roland_Oz_6">¿A quien esperas entender con ese corazón de hielo tuyo?</text>
-  <text id="C_roland_Oz_7">Gato cobarde. Te daré el coraje para hacer frente a todo y a cualquiera.</text>
-  <text id="C_roland_Oz_8">¿Qué vas a hacer cuando te falte la valentía para enfrentarte a las cosas?</text>
-  <text id="C_roland_Oz_9">Finalmente, camino que se pierde. Te enviaré a casa.</text>
-  <text id="C_roland_Oz_10">¿Qué estás peleando con tantas ganas cuando no tienes lugar donde volver?</text>
-  <text id="C_roland_Oz_11">Yo simplemente les di lo que querían.</text>
-  <text id="C_roland_Oz_12">No puedo dejarlo ir. ¡¡No puedo renunciar a lo que es mío!!</text>
+  <text id="C_roland_Wisdom_1">Será se eu tivesse pensado nas coisas com mais calma, algo teria mudado…?</text>
+  <text id="C_roland_Wisdom_2">Mas… O que mais eu poderia ter feito…</text>
+  <text id="C_roland_Wisdom_3">Um pequeno pedaço de sabedoria poderia ter mudado algo…</text>
+  <text id="C_roland_Wisdom_4">Dê-me o poder de escutar… O poder de resolver todas as coisas com facilidade…</text>
+  <text id="C_roland_Wisdom_5">Renda sua sabedoria… Com essa sabedoria, eu poderia… eu poderia…</text>
+  <text id="C_roland_Wisdom_6">O que poderia haver no mundo iluminado pela sabedoria…?</text>
+  <text id="C_roland_Wisdom_7">Pessoas que se gabam de seu conhecimento e não sentem vergonha da ignorância… Esses são eu e você…</text>
+  <text id="C_roland_Wisdom_8">Uma vida onde é preciso ter vergonha de não saber e ser grato por saber… Eu não sei…</text>
+  <text id="C_roland_Wisdom_9">Será que a percepção adquirida através da sabedoria realmente trará mudanças…?</text>
+  <text id="C_roland_Wisdom_10">Não. Você provavelmente é como eu. Você apenas finge saber mais…</text>
+  <text id="C_roland_Wisdom_11">Haha… Ha… Eu não consigo parar de sorrir…</text>
 
+  <text id="C_roland_Woodsman_1">Eu não quero sentir esse vazio e solitário sentimento nunca mais…</text>
+  <text id="C_roland_Woodsman_2">Eu agarrei meu peito vazio e lamentei. Implorando para ter essa cavidade preenchida…</text>
+  <text id="C_roland_Woodsman_3">Procurei coisas para substituir o calor…</text>
+  <text id="C_roland_Woodsman_4">Cortei uma após o outra, mas a floresta continua a ficar mais densa. Sempre havia mais árvores para cortar.</text>
+  <text id="C_roland_Woodsman_5">Cortei todas as árvores que me chamaram a atenção…</text>
+  <text id="C_roland_Woodsman_6">Sinto frio por dentro e não consigo fazer nada a respeito…</text>
+  <text id="C_roland_Woodsman_7">Não me diz que você me entende. Você ficou frio do mesmo jeito…</text>
+  <text id="C_roland_Woodsman_8">Eu sei. Não posso preencher o vazioassim… Eu sei disso claramente…</text>
+  <text id="C_roland_Woodsman_9">O vazio não será preenchido; Eu só serei dolorosamente lembrado desse oco…</text>
+  <text id="C_roland_Woodsman_10">A floresta nunca mudará… Quanto mais eu anseio, mais árvores crescerão…</text>
+  <text id="C_roland_Woodsman_11">Devolva o que você tomou… de mim…</text>
+
+  <text id="C_roland_Waygohome_1">Para a casa onde uma família que me ama espera…</text>
+  <text id="C_roland_Waygohome_2">Não chegará o dia em que todos nós voltaremos juntos…</text>
+  <text id="C_roland_Waygohome_3">Este é o único caminho que posso percorrer… A estrada pavimentada com tijolos dourados…</text>
+  <text id="C_roland_Waygohome_4">Serei capaz de encontrar o que eu desesperadamente desejei ver se continuar seguindo esse caminho.</text>
+  <text id="C_roland_Waygohome_5">Se eu seguisse a estrada de tijolos pavimentada aleatoriamente, eu a encontraria? A coisa que estou procurando…?</text>
+  <text id="C_roland_Waygohome_6">Onde está a casa para mim?</text>
+  <text id="C_roland_Waygohome_7">Vamos, vamos. Vamos nos apressar. Antes que a espera me mate.</text>
+  <text id="C_roland_Waygohome_8">Nós vamos chegar até o fim. Né?</text>
+  <text id="C_roland_Waygohome_9">Vamos todos nos reunir. Vamos dançar e saltitar por aí.</text>
+  <text id="C_roland_Waygohome_10">Haha… Aquele cara… Aquele cara malvado roubou tudo.</text>
+  <text id="C_roland_Waygohome_11">Foi tão rápido… Não pude fazer nada enquanto eu me afastava longe e mais longe de casa.</text>
+  <text id="C_roland_Waygohome_12">É hora de voltar para casa agora. Minha casa que deve existir em algum lugar.</text>
+  <text id="C_roland_Waygohome_13">…Agora, vamos voltar?</text>
+
+  <text id="C_roland_Ozma_1">Por que ele tinha que roubar o meu mundo?</text>
+  <text id="C_roland_Ozma_2">Eu não quero mais viver uma vida de ser roubado nunca mais…</text>
+  <text id="C_roland_Ozma_3">Antes que isso aconteça de novo… Tenho que agir logo, se não…</text>
+  <text id="C_roland_Ozma_4">Eles têm que passar pelo mesmo. O desamparo de esquecer e perder tudo…</text>
+  <text id="C_roland_Ozma_5">Por favor, me leve de volta. De volta ao lugar onde minha amada está…</text>
+  <text id="C_roland_Ozma_6">Posso fazer pouco mais além de existir…</text>
+  <text id="C_roland_Ozma_7">Esse desespero nunca me deixará… Eu nunca vou poder retornar…</text>
+  <text id="C_roland_Ozma_8">Por que deveria ser eu quem busca perdão?</text>
+  <text id="C_roland_Ozma_9">Eu não quero perder algo de novo… Não me resta muito…</text>
+  <text id="C_roland_Ozma_10">A única coisa que me resta é ódio por aquilo que me fez assim…</text>
+  <text id="C_roland_Ozma_11">Posso estar em péssimas condições, mas não precisa ter pena de mim…</text>
+  <text id="C_roland_Ozma_12">Buscando vingança por esse ódio sozinho…</text>
+
+  <text id="C_roland_Oz_1">Nada é mais enganoso quanto a clara verdade.</text>
+  <text id="C_roland_Oz_2">Vou lançar um feitiço que deixará todos felizes.</text>
+  <text id="C_roland_Oz_3">Pilha de palha coitada. Vou te dar a sabedoria para refletir sobre qualquer coisa.</text>
+  <text id="C_roland_Oz_4">Você acha que só o que importa é tagarelar com sua boca espertona?</text>
+  <text id="C_roland_Oz_5">Lenhador frio como lata. Eu lhe darei o coração para perdoar e amar qualquer um.</text>
+  <text id="C_roland_Oz_6">Quem você espera entender com esse seu coração gelado?</text>
+  <text id="C_roland_Oz_7">Gatinho covarde, eu lhe darei coragem para enfrentar tudo e qualquer coisa.</text>
+  <text id="C_roland_Oz_8">O que você vai fazer sendo que você nem tem a coragem de bater de frente?</text>
+  <text id="C_roland_Oz_9">Por último, caminho que está perdido. Eu te mandarei para casa.</text>
+  <text id="C_roland_Oz_10">Pelo que você está lutando tão ferozmente quando não tem para onde voltar?</text>
+  <text id="C_roland_Oz_11">Eu apenas dei o que vocês queriam.</text>
+  <text id="C_roland_Oz_12">Eu não posso largar disso. Eu não posso abrir mão do que é meu!!!</text>
+  <!-- Floor of Philosophy Realization -->
   <text id="B_roland_Big_1">Déjame cerrar los ojos en paz… Quiero dormir ahora…</text>
   <text id="B_roland_Big_2">Salgamos de este lugar. Te ayudaré con ello…</text>
   <text id="B_roland_Big_3">No puede existir mejor manera que está para escapar del dolor y la inseguridad.</text>
@@ -926,6 +930,7 @@
   <text id="B_roland_Big_8">No existirá nada a lo que temer nunca más. Solo ve a dormir… Quédate dormido…</text>
   <text id="B_roland_Big_9">Seamos libres antes de que tengamos que enfrentar el miedo…</text>
   <text id="B_roland_Big_10">Uno se me une por cada cabeza que corto y desvío mi mirada buscando a una nueva persona.</text>
+
   <text id="B_roland_Small_1">Si uno comete un pecado, ¿no es simplemente justo que sean castigados…?</text>
   <text id="B_roland_Small_2">Llevando el karma de mi ser amado… Traeré un justo castigo para quienes robaron lo que es mío.</text>
   <text id="B_roland_Small_3">Somos castigados por nuestros pecados, pero está claro que más brotaran de las raíces del pecado.</text>
@@ -936,6 +941,7 @@
   <text id="B_roland_Small_8">El dolor de rasgarme a mí mismo no era nada; la agonía de perderte me adormeció.</text>
   <text id="B_roland_Small_9">Y deseé devolverles todo el dolor.</text>
   <text id="B_roland_Small_10">¿No es verdaderamente malvado cometer un pecado y temer el castigo?</text>
+
   <text id="B_roland_Long_1">Cuando levanto esta balanza, Deseó la inmortalidad para el pecador…</text>
   <text id="B_roland_Long_2">Te condeno, pero tu seguirás cometiendo pecados sin parar…</text>
   <text id="B_roland_Long_3">Todos los hombres pecan, conscientemente o no.</text>
@@ -948,6 +954,7 @@
   <text id="B_roland_Long_10">No pueden existir cosas como la injusticia… Te juzgaré únicamente por mi criterio…</text>
   <text id="B_roland_Long_11">Cuando me haya librado de los últimos pecados, Seré libre al final.</text>
   <text id="B_roland_End_1">Aquellos que aguantan hasta los últimos momentos encontaran un apocalipsis ellos mismos…</text>
+
   <text id="B_roland_End_2">Nadie se atreverá a hacerte daño.</text>
   <text id="B_roland_End_3">Cuando llegues al final, No existirá tal cosa como el miedo…</text>
   <text id="B_roland_End_4">Hundámonos juntos. No des ningún paso más y solo quédate ahí…</text>
@@ -961,29 +968,33 @@
   <text id="B_roland_End_12">Solo soy uno de los muchos que tocan melodías de apocalipsis en este abismo…</text>
   <text id="B_roland_End_13">… Tengo miedo. Tengo miedo de como podría ser el final.</text>
   <text id="B_roland_End_14">Aunque, el final no puede ser tan insoportable como ahora, temo lo que podría pasar…</text>
-
+  <!-- Blue Star -->
   <text id="BlueStar_nomal_1">Todos somos pecadores… Tenemos que regresar a ese lugar y limpiarnos.</text>
   <text id="BlueStar_nomal_2">No te preocupes. Simplemente, volverás a donde perteneces.</text>
   <text id="BlueStar_nomal_3">Todos regresaremos a ese lugar algún día. Es un instinto.</text>
+
   <text id="BlueStar_start_1">¿Puedes escuchar este maravilloso sonido? ¿El eco nostálgico que anhelabas?</text>
   <text id="BlueStar_start_2">¡Aah… Al fin…! ¡Está llamando por nosotros al fin!</text>
   <text id="BlueStar_start_3">¡Esa llamada nos guía al único lugar donde seremos aceptados…!</text>
-  
+  <!-- Floor of Philosophy Realization -->
   <text id="H_Angela_doctor_1Phase_1">Antes que alguien cometiera un gran pecado, todos vivieron una vida pacífica y sin dolor.</text>
   <text id="H_Angela_doctor_1Phase_2">Sin algo como la muerte… no existiría el miedo.</text>
   <text id="H_Angela_doctor_1Phase_3">Por desgracia, el pecado de una persona contaminada por el deseo origino lo que llamamos miedo</text>
   <text id="H_Angela_doctor_1Phase_4">Y devoró todas las chances de que existiera otro brote.</text>
   <text id="H_Angela_doctor_1Phase_5">No somos diferentes, sufriendo por un simple hombre.</text>
+
   <text id="H_Angela_doctor_2Phase_1">Podrías intentarlo y continuar, pero solo la muerte te espera al final. Quizás esa es la razón de ese miedo.</text>
   <text id="H_Angela_doctor_2Phase_2">Mi futuro es sombrío y oscuro, como el tuyo. Es tan desolado… No puedo ver nada delante.</text>
   <text id="H_Angela_doctor_2Phase_3">¿Por qué estamos encadenados a algo como esto? ¿No podemos ser libres?</text>
   <text id="H_Angela_doctor_2Phase_4">Quiero volver a ese lugar, un paraíso que nunca he pisado.</text>
   <text id="H_Angela_doctor_2Phase_5">Un lugar donde nada debe terminar.</text>
+
   <text id="H_Angela_doctor_3Phase_1">… Niño. Estoy aquí para curar la enfermedad.</text>
   <text id="H_Angela_doctor_3Phase_2">Deposita tu confianza en mí. Soy la única que puede ayudarte.</text>
   <text id="H_Angela_doctor_3Phase_3">Lo prometo, así que quiero que prometas de vuelta. Jura que no me dejarás.</text>
   <text id="H_Angela_doctor_3Phase_4">Tienes sospechas. Pero no te preocupes.</text>
   <text id="H_Angela_doctor_3Phase_5">Te curaré, curaré todas las enfermedades y heridas que tengas.</text>
+
   <text id="H_Angela_whitenight_1Phase_1">Vosotros que estáis rodeados de pecados. Levántense y enfrentadme.</text>
   <text id="H_Angela_whitenight_1Phase_2">Persigue la paz y la santidad. Sin ellas, no podrás mirarme.</text>
   <text id="H_Angela_whitenight_1Phase_3">La desobediencia de uno hizo que todos se volvieran pecados…</text>
@@ -998,6 +1009,7 @@
   <text id="H_Angela_whitenight_1Phase_12">Los que aguanten hasta el final podran seguir adelante.</text>
   <text id="H_Angela_whitenight_1Phase_13">Acepta mi gracia y enterraré todos tus errores del pasado.</text>
   <text id="H_Angela_whitenight_1Phase_14">Estamos encadenados a los pecados del pasado; Cómo podemos desear por salvación eterna y pretender ser salvados?</text>
+
   <text id="H_Angela_whitenight_2Phase_1">Yo… quiero comenzar de nuevo desde el principio… Eso es todo lo que quiero.</text>
   <text id="H_Angela_whitenight_2Phase_2">Cómo se supone que debo vivir… ¿Cómo se supone que viven los seres llamados humanos?</text>
   <text id="H_Angela_whitenight_2Phase_3">¿Ustedes van a marchar hacia un futuro donde no conocerán como serán las cosas…?</text>
@@ -1009,7 +1021,7 @@
   <text id="H_Angela_whitenight_2Phase_9">La horrenda vida provocada por los pecados de una persona… Lo haré bien…</text>
   <text id="H_Angela_whitenight_2Phase_10">Nadie se irá… Disfrutaremos de la fortunda de estar juntos por siempre al final…</text>
   <text id="H_Angela_whitenight_2Phase_11">Ustedes… Ninguno puede dejar mi lado hasta que lo permita…</text>
-
+  <!-- Floor of General Works Realization -->
   <text id="K_AnC_Bloodbath_C_1">Yo soy quien recolecta los deseos de todos.</text>
   <text id="K_AnC_Bloodbath_C_2">Abrazando esas expectativas, Me ahogué con el dolor de todos.</text>
   <text id="K_AnC_Bloodbath_C_3">Por favor, no alejes la mirada de la piscina de sangre.</text>
@@ -1017,6 +1029,7 @@
   <text id="K_AnC_Bloodbath_C_5">¿Puedo soportar este terrible dolor?</text>
   <text id="K_AnC_Bloodbath_C_6">Estoy triste. Sé que estoy sintiendo el peso de tu carga, sé que quiero escapar.</text>
   <text id="K_AnC_Bloodbath_C_7">Olvídalo todo y húndete en esta desesperación.</text>
+
   <text id="K_AnC_Bloodbath_A_1">… Es verdad, Estoy sosteniendo los deseos de todos en mis manos.</text>
   <text id="K_AnC_Bloodbath_A_2">Tenía miedo de tener confianza en mis decisiones…</text>
   <text id="K_AnC_Bloodbath_A_3">… ¿Pero me justifica eso, a privar de a los demás de lo que aprecian?</text>
@@ -1026,6 +1039,7 @@
   <text id="K_AnC_Bloodbath_A_7">No puedo estar segura de lo que estoy haciendo.</text>
   <text id="K_AnC_Bloodbath_A_8">Aun así, Voy a elegir… seguir adelante.</text>
   <text id="K_AnC_Bloodbath_A_9">Y no te dejaré… meterte en mi camino.</text>
+
   <text id="K_AnC_Heart_C_1">Desperté, llevando las memorias de una persona que nunca he visto…</text>
   <text id="K_AnC_Heart_C_2">Nunca conocí a esa persona… aunque la sentí cerca…</text>
   <text id="K_AnC_Heart_C_3">Sin embargo, parecerse a esa persona, quien era humana…</text>
@@ -1038,6 +1052,7 @@
   <text id="K_AnC_Heart_C_10">Especialmente si él iba a alejarse de mí al final, consumida por el miedo…</text>
   <text id="K_AnC_Heart_C_11">… Solo podía sentir los latidos mientras se acercaba el final, débilmente, pero con certeza.</text>
   <text id="K_AnC_Heart_C_12">El extraño, pero familiar latido me guio…</text>
+
   <text id="K_AnC_Heart_A_1">¿Por qué no me miró? ¿Por qué fui negada?</text>
   <text id="K_AnC_Heart_A_2">Me sentí presionada por tales preocupaciones y no pude ver el camino con claridad.</text>
   <text id="K_AnC_Heart_A_3">Pero cuando eres impaciente, estás destinado a perder cosas mientras persigues un destino sin sentido.</text>
@@ -1047,6 +1062,7 @@
   <text id="K_AnC_Heart_A_7">Puedo finalmente ver… donde tengo que ir ahora.</text>
   <text id="K_AnC_Heart_A_8">Antes, tenía la impresión que no tenía ningún lugar para ir o estar…</text>
   <text id="K_AnC_Heart_A_9">Pero ahora, conozco la razón de porque tengo que mantenerme en pie.</text>
+
   <text id="K_AnC_Pinocchio_C_1">¿Qué más podría hacer…?</text>
   <text id="K_AnC_Pinocchio_C_2">Pensé que todo podría funcionar si hacía lo que me decían…</text>
   <text id="K_AnC_Pinocchio_C_3">Que podría llegar al final que anhelaba… o eso esperaba.</text>
@@ -1056,6 +1072,7 @@
   <text id="K_AnC_Pinocchio_C_7">Nunca me enseñaron que hacer después…</text>
   <text id="K_AnC_Pinocchio_C_8">No tenía más elección que dejarme guiar por las cuerdas…</text>
   <text id="K_AnC_Pinocchio_C_9">Por favor, si alguien sabe… dígame que hacer. Cualquiera…</text>
+
   <text id="K_AnC_Pinocchio_A_1">Aun así… he llegado hasta aquí.</text>
   <text id="K_AnC_Pinocchio_A_2">Incluso si no tenía ningún plan, Tenía fe de que si seguía caminando por este camino…</text>
   <text id="K_AnC_Pinocchio_A_3">Al final me volvería alguien mejor…</text>
@@ -1064,6 +1081,7 @@
   <text id="K_AnC_Pinocchio_A_6">Ser capaz de volverme responsable de mis decisiones ya cciones… Eso es lo que significa ser humano, no?</text>
   <text id="K_AnC_Pinocchio_A_7">… Incluso si la carga es pesada, Lo soportaré y seguiré.</text>
   <text id="K_AnC_Pinocchio_A_8">Podría estar triste ahora… sin embargo, estaré más feliz la próxima vez.</text>
+
   <text id="K_AnC_SnowQueen_C_1">Por tanto tiempo, Nunca tuve un lugar al cual pertenecer.</text>
   <text id="K_AnC_SnowQueen_C_2">Por eso hice uno para mí misma.</text>
   <text id="K_AnC_SnowQueen_C_3">El deseo de vivir. Eso es lo que me motivo a construir este lugar…</text>
@@ -1074,6 +1092,7 @@
   <text id="K_AnC_SnowQueen_C_8">Aun así al final, No pude disfrutar ni un rayo de luz.</text>
   <text id="K_AnC_SnowQueen_C_9">Eso significa que solo hay una cosa que debería hacer.</text>
   <text id="K_AnC_SnowQueen_C_10">Necesito mantener este trono por siempre, para que nadie codicie este lugar mío y solo mío.</text>
+
   <text id="K_AnC_SnowQueen_A_1">… Tienes razón. He estado muy sola.</text>
   <text id="K_AnC_SnowQueen_A_2">Mientras otros tomaron el asiento reservado para ellos, Yo no tuve ese lujo.</text>
   <text id="K_AnC_SnowQueen_A_3">Yo estaba… asustada de que no fuera perdonada…</text>
@@ -1083,6 +1102,7 @@
   <text id="K_AnC_SnowQueen_A_7">Lo sé mejor ahora. Sé que hay personas que eligieron quedarse hasta el final.</text>
   <text id="K_AnC_SnowQueen_A_8">Y no importa si sus sentimientos hacia mí fueron positivos o no.</text>
   <text id="K_AnC_SnowQueen_A_9">Quizás esta fortaleza de hielo… se derrita finalmente.</text>
+
   <text id="K_AnC_Notalk_C_1">…</text>
   <text id="K_AnC_Notalk_C_2">……</text>
   <text id="K_AnC_Notalk_C_3">………</text>
@@ -1094,6 +1114,7 @@
   <text id="K_AnC_Notalk_C_9">Hay cosas que quería decir seriamente, en lugar que salieran de otros.</text>
   <text id="K_AnC_Notalk_C_10">Ahora es mi oportunidad de perseguir lo que tanto anhelo.</text>
   <text id="K_AnC_Notalk_C_11">Liberando mis emociones… Finalmente, seré libre.</text>
+  
   <text id="K_AnC_Notalk_A_1">No estás equivocado. Las cicatrices de mi mente nunca se curarán.</text>
   <text id="K_AnC_Notalk_A_2">Incluso si me vengara de él… no se curarán.</text>
   <text id="K_AnC_Notalk_A_3">Por eso es que tengo que parar esto…</text>
