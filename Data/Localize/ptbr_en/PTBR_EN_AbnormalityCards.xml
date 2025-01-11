@@ -1601,220 +1601,221 @@ Nulifica todo o Dano de Atordoamento vindo de ataques.</AbilityDesc>
   
   <Sephirah SephirahType="Chesed">
     <AbnormalityCard ID="ScareCrow_Wisdom">
-      <Abnormality>Espantapájaro buscando por sabiduría</Abnormality>
-      <CardName>Sabiduría Arrancada</CardName>
+      <Abnormality>Espantalho Buscando Sabedoria</Abnormality>
+      <CardName>Sabedoria Arrancada</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando el bibliotecario utiliza una página, descarta una página aleatoria de la mano y restaura 1 de Luz. Todos os Aliados</AbilityDesc>
-      <FlaborText>Cuando él regresó, tuvo una gran cicatriz visible en su cabeza. La gente le pregunto como se sentía y él respondió que su cabeza se sentía más ligera.</FlaborText>
+Quando o bibliotecário usa uma Página de combate, descarte uma Página aleatória e restaure 1 de Luz. (Exclui páginas [Ao Jogar]) </AbilityDesc>
+      <FlaborText>Quando ele voltou, ele tinha uma vísivel e longa cicatriz na cabeça. As pessoas perguntaram como ele se sentia, e ele dise que sua cabeça parecia mais leve.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Sabiduría… Dame la sabiduría que me falta…</Dialogue>
-        <Dialogue ID="2">Mi cabeza se siente vacía… solo soy un montón de heno…</Dialogue>
-        <Dialogue ID="3">La gente suele hablar sin pensar… yo podría dar un mejor uso a esos cerebros…</Dialogue>
-        <Dialogue ID="4">Me pregunto como se siente ser sabio… saberlo todo…</Dialogue>
-        <Dialogue ID="5">Estoy bien con separar la cabeza, si se vuelve mejor una vez la coloque de nuevo…</Dialogue>
+        <Dialogue ID="1">Sabedoria… Dê-me a sabedoria que me falta…</Dialogue>
+        <Dialogue ID="2">Minha cabeça está toda vazia… Sou apenas uma pilha de feno desleixada…</Dialogue>
+        <Dialogue ID="3">Pessoas costumam falar sem pensar… Eu poderia aproveitar melhor desses cérebros…</Dialogue>
+        <Dialogue ID="4">Gostaria de saber como é ser sábio… Ser sabe-tudo…</Dialogue>
+        <Dialogue ID="5">Não tenho problema em arrancar minha cabeça se ela melhorar quando eu colocá-la de volta…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Scarecrow_Harvest">
-      <Abnormality>Espantapájaro buscando por sabiduría</Abnormality>
-      <CardName>Cosecha</CardName>
+      <Abnormality>Espantalho Buscando Sabedoria</Abnormality>
+      <CardName>Colher</CardName>
       <AbilityDesc>[Aliado Único]
-Después de atacar a un enemigo con una cantidad mayor de resistencia al aturdimiento, haz 2-4 de daño de aturdimiento adicional y recupera 2-5 de resistencia al aturdimiento.(Exclui Ataques Em Massa)</AbilityDesc>
-      <FlaborText>Se muestra agresivo contra ciertos empleados, intentando tomar sus cerebros. Esos empleados son aquellos que consiguieron un “Excelente” en el examen de inteligencia.</FlaborText>
+Depois de atacar um inimigo com mais Resistência de Atordoamento, cause 2-4 de Dano de Atordoamento, e recupere 2-5 de Resistência de Atordoamento.(Exclui Ataques Em Massa)</AbilityDesc>
+      <FlaborText>Ele demonstra agressão contra certos funcionários, tentando roubar seus cérebros. Esses funcionários são aqueles que pontuaram “Excelente” no teste de inteligência.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Me siento más listo… Puedo saberlo todo ahora…</Dialogue>
-        <Dialogue ID="2">Bien… Muy bien… ¿Seré más inteligente mientras más coma, verdad…?</Dialogue>
-        <Dialogue ID="3">¿Me he vuelto más sabio…? Quizás seré más que un montón de heno…</Dialogue>
+        <Dialogue ID="1">Eu me sinto muito mais esperto… Posso saber de tudo agora…</Dialogue>
+        <Dialogue ID="2">Ótimo… Muito bom… Eu serei mais esperto quanto mais eu comer, certo…?</Dialogue>
+        <Dialogue ID="3">Será que eu fiquei mais esperto…? Talvez eu seja mais que um monte de feno…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Scarecrow_Rake">
-      <Abnormality>Espantapájaro buscando por sabiduría</Abnormality>
-      <CardName>Rastrillo</CardName>
+      <Abnormality>Espantalho Buscando Sabedoria</Abnormality>
+      <CardName>Rastelo</CardName>
       <AbilityDesc>[Aliado Único]
-Después de Aturdir a un enemigo, copia dos páginas de ese enemigo y añadelas a la mano del bibliotecario con 2 de coste menos.
-Las páginas copiadas se agotan al usarlas.
-(Solo puede copiar páginas Melee mientras tienes equipado una página Clave Solo-Melee y viceversa; no afecta personajes con la pasiva 'Reluciente')</AbilityDesc>
-      <FlaborText>El rastrillo labró cerebros humanos en lugar de las tierras de cultivo. ¿Cuanta gente sabia entre nosotros ha perdido su vida con este rastrillo?</FlaborText>
+Depois de Atordoar um inimigo, copie duas páginas que esse inimigo tem e adicione-as à mão do biblitecário com 2 de Custo a menos.
+Páginas copiadas são Abdicadas ao usar.
+(Só pode copiar páginas À Distância com Páginas Chave que aceitam páginas À Distância e vice-versa; Não tem efeito contra inimigos que tenham a passiva 'Cintilante')</AbilityDesc>
+      <FlaborText>O rastelo arava um cérebro humano ao invés de uma fazenda. Quantas pessoas sábias perderam suas vidas para esse rastelo?</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Cosecharé tu sabiduría…</Dialogue>
-        <Dialogue ID="2">Quiero ser listo como los otros…</Dialogue>
-        <Dialogue ID="3">La sabiduría para seguir adelante… la quiero…</Dialogue>
+        <Dialogue ID="1">Eu arrancarei sua sabedoria…</Dialogue>
+        <Dialogue ID="2">Eu quero ser esperto como os outros…</Dialogue>
+        <Dialogue ID="3">A sabedoria para seguir em frente… Eu quero…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="LumberJack_Cut">
       <Abnormality>Lenhador de Coração Caloroso</Abnormality>
-      <CardName>Un corazón cálido</CardName>
+      <CardName>Um Coração Caloroso</CardName>
       <AbilityDesc>[Aliado Único]
-Al comienzo de una escena, incrementa el Poder de los dados ofensivos en +1-2 por la escena si el bibliotecario tiene 3 o más Luz.</AbilityDesc>
-      <FlaborText>Enfadado, atravesó con su hacha el corazón de la bruja. El cálido corazón estaba latiendo vigorosamente.</FlaborText>
+Ao começo da Cena, aumenta o Poder dos dados Ofensivos em +1-2 pela Cena se o bibliotecário tem 3 de luz ou mais</AbilityDesc>
+      <FlaborText>Em raiva, ele balançou seu machado pelo coração da feiticeira. O coração quente estava pulsando vigorosamente.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Esto es… como se siente tener un corazón latiendo…</Dialogue>
-        <Dialogue ID="2">Mientras más alto es el eco del corazón… más rápido me muevo…</Dialogue>
-        <Dialogue ID="3">Mientras más amable era el dueño del corazón… más cálido se vuelve mi interior…</Dialogue>
-        <Dialogue ID="4">El corazón es algo peculiar… puedo reír ahora…</Dialogue>
+        <Dialogue ID="1">É essa… a sensação de ter um coração que bate…</Dialogue>
+        <Dialogue ID="2">Quanto mais alto o coração ecoa… mais rápido eu movo…</Dialogue>
+        <Dialogue ID="3">Quanto mais gentil era o dono do coração… mais quente meu corpo fica…</Dialogue>
+        <Dialogue ID="4">O coração é algo peculiar… Eu consigor rir agora…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="LumberJack_Tree">
       <Abnormality>Lenhador de Coração Caloroso</Abnormality>
-      <CardName>Madera</CardName>
+      <CardName>Madeira</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando ataques a un objetivo que tiene más Luz que el bibliotecario, Los dados ofensivos ganan Poder igual a la cantidad Luz que tiene el objetivo. (hasta 2)</AbilityDesc>
-      <FlaborText>Este es un bosque lleno de corazones. Sin importar cuantos corte. El bosque seguirá denso.</FlaborText>
+Quando atacando alvos com mais Luz que o bibliotecário, dados Ofensivos ganham poder igual a quantidade de Luz que o alvo tem (até 2)</AbilityDesc>
+      <FlaborText>Essa era uma floresta cheia de corações. Não importa quantos ele cortava, a floresta permanecia densa.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Corto y corto… Pero el bosque sigue denso…</Dialogue>
-        <Dialogue ID="2">Quiero ser cálido… Necesito algo más fuerte…</Dialogue>
-        <Dialogue ID="3">Metí todo lo que encontré en este pecho vacío… pero aún es… frío…</Dialogue>
-        <Dialogue ID="4">Para cortar más árboles, no debo descuidar el filo de mi hacha…</Dialogue>
+        <Dialogue ID="1">Eu corto e corto… Mas a floresta ainda está densa…</Dialogue>
+        <Dialogue ID="2">Eu quero calor… Preciso de algo mais forte…</Dialogue>
+        <Dialogue ID="3">Eu enfiei tudo que pude encontrar nessa lata… mas mesmo assim… está tão frio…</Dialogue>
+        <Dialogue ID="4">Para cortar mais árvores, eu nunca deixei de afiar meu machado…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="LumberJack_Heart">
       <Abnormality>Lenhador de Coração Caloroso</Abnormality>
-      <CardName>Corazón</CardName>
+      <CardName>Cardia</CardName>
       <AbilityDesc>[Aliado Único]
-Después de hacer 15 o más de daño a enemigos en una sola escena, reduce el coste de las dos páginas más caras en mano en 1.
-Al matar, reduce el coste a 0 en su lugar.
-El coste reducido es reseteado después de usarlas.</AbilityDesc>
-      <FlaborText>Nunca habrá suficientes corazones. Una vez fue leñador, ahora tala personas en lugar de árboles.</FlaborText>
+Depois de causar 15 ou mais de dano a inimigos em uma única Cena, reduz o Custo das duas páginas mais caras na mão para 1.
+Ao matar, reduz o Custo para 0.
+A redução dura até usar as páginas.</AbilityDesc>
+      <FlaborText>Nunca haverá corações o suficiente. Uma vez um Lenhador, ele agora corta pessoas ao invés de árvores.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Requiero un objeto… para llenar este vacío…</Dialogue>
-        <Dialogue ID="2">No quiero sentir este vacío y sentimiento de soledad nunca más…</Dialogue>
-        <Dialogue ID="3">El corazón hecho de plomo… estaba rígido y frío.</Dialogue>
-        <Dialogue ID="4">Agarré mi pecho vacío y me apené…</Dialogue>
+        <Dialogue ID="1">Eu preciso de um objeto… para preencher esse vazio…</Dialogue>
+        <Dialogue ID="2">Eu não quero mais sentir esse sentimento vazio e solitário…</Dialogue>
+        <Dialogue ID="3">O coração de chumbo… era frio e rígido.</Dialogue>
+        <Dialogue ID="4">Eu agarrei meu peito vazio e lamentei…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
 
    <AbnormalityCard ID="House_LionAtk">
       <Abnormality>O Caminho para Casa</Abnormality>
-      <CardName>Coraje</CardName>
+      <CardName>Coragem</CardName>
       <AbilityDesc>[Aliado Único]
-Al comienzo de una escena, gana Fuerza y Protección igual al número de aliados vivos menos 2. (Si el valor es menor a 0, se inflige Endeble y Frágil en su lugar.)</AbilityDesc>
-      <FlaborText>¿Puedo seguirte por siempre? Así puedo desgarrarlos…</FlaborText>
+Ao começo da Cena, ganha Força e Proteção igual ao número de alaidos vivos menos 2. (Se o valor for menor que 0, receba Fraco e Frágil.)</AbilityDesc>
+      <FlaborText>Posso te seguir para sempre? Assim eu posso rasga-los…</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Amigo. ¡No tengo nada que temer cuando te tengo a mi lado!</Dialogue>
-        <Dialogue ID="2">Nos pusimos en marcha todos~ ¡Bailando junto al camino!</Dialogue>
-        <Dialogue ID="3">Amigo. ¡Oh, amigos~! ¡No tengamos miedo!</Dialogue>
-        <Dialogue ID="4">¡No hay nada que pueda pararnos!</Dialogue>
+        <Dialogue ID="1">Amigo. Não tenho nada a temer quando você está por perto!</Dialogue>
+        <Dialogue ID="2">Nós saimos com todos~ Dançando no caminho!</Dialogue>
+        <Dialogue ID="3">Amigo. Oh, Amigos~! Não tenha medo!</Dialogue>
+        <Dialogue ID="4">Não há nada que possa nos parar!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="House_BigHouse">
       <Abnormality>O Caminho para Casa</Abnormality>
-      <CardName>Hogar</CardName>
+      <CardName>Casa</CardName>
       <AbilityDesc>[Todos os Aliados]
-Al comienzo de una escena, se colocan números en los enemigos hasta 3/2/2/1/1, dependiendo del número de aliados con vida.
-Cada vez que un objetivo es atacado en el orden correcto, incrementa el daño final en 3 por la escena.</AbilityDesc>
-      <FlaborText>Incapaces de volver a casa, ellos comenzaron un viaje sin fin.</FlaborText>
+Ao começo da Cena, alvos númerados são colocados em até 3/2/2/1/1 inimigos,  dependendo de quantos aliados estão vivos.
+Sempre que um alvo é atacado na ordem correta, aumenta o dano causado pelos bibliotecários em 3 pela Cena.</AbilityDesc>
+      <FlaborText>Incapazes de voltar para caza, eles começaram uma jornada sem fim.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¡No nos molestes! ¡Déjanos volver a casa en paz!</Dialogue>
-        <Dialogue ID="2">¡Ah~ Esa bruja! ¡Esa bruja malvada!</Dialogue>
-        <Dialogue ID="3">¡Esa bruja mala se llevó a mis amigos!</Dialogue>
-        <Dialogue ID="4">Amigos. Oh, amigos. ¿Volveremos a casa?</Dialogue>
+        <Dialogue ID="1">Não nos incomode! Nos deixem voltar para casa em paz!</Dialogue>
+        <Dialogue ID="2">Ah~ Aquela feiticeira! Aquela feiticeira perversa!</Dialogue>
+        <Dialogue ID="3">A feiticeira malvada levou meus amigos</Dialogue>
+        <Dialogue ID="4">Amigos. Oh, amigos. Nós voltaremos pra casa?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="House_Home">
       <Abnormality>O Caminho para Casa</Abnormality>
-      <CardName>Caminando juntos</CardName>
+      <CardName>A Estrada Que Andamos Juntos</CardName>
       <AbilityDesc>[Aliado Único]
-Si un aliado redirige el ataque que iba dirigido a este personaje, el dado del aliado gana 1-2 de Poder en el choque.</AbilityDesc>
-      <FlaborText>Caminemos juntos. A la tierra maravillosa… El mundo de los sueños.</FlaborText>
+Se um aliado redirecionar um ataque direcionado ao bibliotecário selecionado, os dados na página do aliado ganham 1-2 de Poder no Embate.</AbilityDesc>
+      <FlaborText>Andaremos juntos. Para uma terra maravilhosa… O mundo dos sonhos.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Estaba profundamente dormida, entonces la aventura comenzó de repente.</Dialogue>
-        <Dialogue ID="2">Hoyoyo~ ¡Vamos, juntos~!</Dialogue>
-        <Dialogue ID="3">¡Saltemos hacia casa juntos!</Dialogue>
-        <Dialogue ID="4">Tiene que haber una tierra maravillosa al final del camino…</Dialogue>
+        <Dialogue ID="1">Eu estava em um sono profundo… e de repente a aventura começou….</Dialogue>
+        <Dialogue ID="2">Hoyoyo~ Vamos, juntos~!</Dialogue>
+        <Dialogue ID="3">Vamos saltitar para casa juntos~!</Dialogue>
+        <Dialogue ID="4">No final do caminho, tem que ter uma terra fantástica</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Ozma_Boom">
       <Abnormality>Ozma</Abnormality>
-      <CardName>Poder del pasado</CardName>
+      <CardName>Poder do Passado</CardName>
       <AbilityDesc>[Aliado Único]
-Incrementa el coste de las páginas de combate en 1.
-Todos los dados ganan 3-4 de Poder.</AbilityDesc>
-      <FlaborText>Ozma sostenía un cuchillo para tallar calabazas, entonces salió corriendo hacia donde la Bruja debería estar.</FlaborText>
+Aumenta o Custo das Páginas de Combate em 1
+Todos os dados ganham 3-4 de Poder.</AbilityDesc>
+      <FlaborText>Ozma segurou a faca de esculpir abóboras, e então correu na direção onde a feiticeira deveria estar.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Soy Ozma… Una sola persona me arrebato todo…</Dialogue>
-        <Dialogue ID="2">No quiero vivir una vida de ser robado por más tiempo…</Dialogue>
-        <Dialogue ID="3">Quiero que sientas lo mismo… La miseria de olvidarlo todo… perderlo todo…</Dialogue>
-        <Dialogue ID="4">Yo seré el que les quite cosas esta vez…</Dialogue>
+        <Dialogue ID="1">Sou Ozma… Uma única pessoa tirou tudo de mim…</Dialogue>
+        <Dialogue ID="2">Não quero mais viver uma vida de ser roubada…</Dialogue>
+        <Dialogue ID="3">Quero que você passe pelo mesmo que eu… A desgraça de esquecer tudo… de perder tudo…</Dialogue>
+        <Dialogue ID="4">Serei eu quem levará as coisas dessa vez…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Ozma_forgotten">
       <Abnormality>Ozma</Abnormality>
-      <CardName>Olvido</CardName>
+      <CardName>Oblívio</CardName>
       <AbilityDesc>[Aliado Único]
-Añade una página de 'Olvido' a la mano: ‘Coste 3 - [Al jugarla;] [Agotar] Inmovilizado por esta escena; no puede volverse objetivo. Al final de esta escena, recupera 40% del HP máximo (hasta 48) y recupera toda la Luz.’</AbilityDesc>
-      <FlaborText>Había una buena y hermosa persona, mirándola con una expresión perpleja.</FlaborText>
+Adicione uma Página de 'Oblívio' : ‘Custo 3 - [Ao Jogar;] [Uso Único] Imobilizado por essa Cena; Não pode ser o alvo de ataques. Ao final dessa Cena recupere 40% da vida máxima (até 48) e restaure toda a Luz.’
+Esta página também estará no baralho no começo dos Atos subsequentes.</AbilityDesc>
+      <FlaborText>Tinha uma pessoa boa e bela, olhando para ela com uma expressão perplexa.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Por qué confíe en un extraño tan ingenuamente… por qué…</Dialogue>
-        <Dialogue ID="2">No he ni tocado mi cara… tenía tanto miedo…</Dialogue>
-        <Dialogue ID="3">Seguir con vida es todo lo que puedo hacer en una vida como esta…</Dialogue>
-        <Dialogue ID="4">Un ser olvidado atrapado en el suelo… Por qué tenía que serlo…</Dialogue>
+        <Dialogue ID="1">Por que eu confiei em uma estranha tão ingenuamente… por que…</Dialogue>
+        <Dialogue ID="2">Não consegui nem tocar no meu rosto… Eu estava com tanto medo…</Dialogue>
+        <Dialogue ID="3">Seguir vivendo é tudo o que eu posso fazer em uma vida como essa…</Dialogue>
+        <Dialogue ID="4">Um ser esquecido e preso no subterrâneo… Por que tinha que ser…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Ozma_Immortal">
       <Abnormality>Ozma</Abnormality>
-      <CardName>Polvo de vida</CardName>
+      <CardName>Pó da Vida</CardName>
       <AbilityDesc>[Todos os Aliados]
-Cuando un bibliotecario recibe daño letal, nulificalo y recupera 20% del HP máximo (hasta 24). Solo puede ser activado una vez por recepción.</AbilityDesc>
-      <FlaborText>Finalmente, ella esparció polvo de canela—su favorito—y sostuvo la calabaza en sus manos.</FlaborText>
+Quando um biblitecário recebe dano letal, nulifique-o e recupere 20% do HP máximo (até 24). Só pode ativar uma vez por recepção.</AbilityDesc>
+      <FlaborText>Finalmente, ela polvilhou o pó de canela -seu favorito- e abraçou a abóbora com seus braços.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Todo lo que me queda ahora… son estos niños.</Dialogue>
-        <Dialogue ID="2">Aquí, niño… Te daré una nueva vida.</Dialogue>
-        <Dialogue ID="3">Vuelve conmigo, así no estarás solo…</Dialogue>
-        <Dialogue ID="4">No… No te lleves lo que es mío, no de nuevo…</Dialogue>
+        <Dialogue ID="1">Tudo o que me resta agora… são essas crianças.</Dialogue>
+        <Dialogue ID="2">Aqui, criança… Te darei nova vida.</Dialogue>
+        <Dialogue ID="3">Volte para mim, para eu não ficar só…</Dialogue>
+        <Dialogue ID="4">Não… Não tire o que é meu, de novo não…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Oz_Emerald">
-      <Abnormality>Adulto que dice mentiras</Abnormality>
+      <Abnormality>Adulto que Conta Mentiras</Abnormality>
       <CardName>Esmeralda</CardName>
       <AbilityDesc>[Aliado Único]
-Añade una página de 'Esmeralda' a la mano: ‘Coste 5 - [Al jugarla;] [Objetivo enemigo] Cancela 2 páginas de combate aleatorias del dado de velocidad del objetivo. Recupera 1 de Luz por cada golpe exitoso en el objetivo esta escena (hasta 2)’.
-Esta página es también incluida en el mazo al comienzo de los siguientes actos.</AbilityDesc>
-      <FlaborText>Oz tuvo una idea brillante. Sus ojos color esmeralda parecían brillar aún más.</FlaborText>
+Adicione uma Página de 'Esmeralda' à mão: ‘Custo 5 - [Ao Jogar;] [Alvo inimigo] Cancela 2 Páginas de Combate aleatórias no Dado de Velocidade do alvo. Recupere 1 de Luz para cada ataque bem sucedido no alvo nessa Cena (até 2)’.
+Esta página também estará no baralho no começo dos Atos subsequentes.</AbilityDesc>
+      <FlaborText>Oz teve uma ideia brilhante. Seus olhos esmeralda pareciam cintliar ainda mais brilhantes.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Los caminos esmeralda brillan como siempre.</Dialogue>
-        <Dialogue ID="2">Ella era una pobre, pobre niña… Sus ojos eran justo como los míos.</Dialogue>
-        <Dialogue ID="3">Sigue por este camino. Podrías encontrar lo que buscas.</Dialogue>
-        <Dialogue ID="4">Haré que tus deseos se vuelvan realidad. ¿Qué es lo que deseas?</Dialogue>
+        <Dialogue ID="1">Os caminhos esmeralda brilhavam como sempre.</Dialogue>
+        <Dialogue ID="2">Ela era uma pobre, pobre criança… Seus olhos eram como os meus.</Dialogue>
+        <Dialogue ID="3">Siga por esse caminho. Você talvez encontre o que quer.</Dialogue>
+        <Dialogue ID="4">Posso tornar seus desejos em realidade. O que você deseja?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Oz_Gift">
-      <Abnormality>Adulto que dice mentiras</Abnormality>
-      <CardName>Falso presente</CardName>
+      <Abnormality>Adulto que Conta Mentiras</Abnormality>
+      <CardName>Falso Presente</CardName>
       <AbilityDesc>[Todos os Aliados]
-Añade páginas de coste-0 'Falso presente' al jugar la lista de páginas E.G.O: 'Coraje liquido', 'Saco de aserrín', 'Corazón de plomo', 'Casa que no puede ser alcanzada' y 'transformación'.
-Las páginas de 'Falso presente' también son añadidas a la lista de páginas E.G.O al comienzo de los siguientes actos.</AbilityDesc>
-      <FlaborText>Pobre Ozma. Ella no sabía que los adultos que mienten no se acercan a los otros sin ninguna razón.</FlaborText>
+Adicione páginas de Custo 0, ao jogar, 'Falsos Presentes' à lista de páginas de E.G.O: 'Coragem Líquida', 'Saco de Seda com Serragem', 'Coração de Chumbo', 'Casa que Não Pode ser Alcançada' e 'Transformação'.
+As páginas de 'Falso presente' também são adicionadas à lista de páginas de E.G.O ao começo dos Atos subsequentes.</AbilityDesc>
+      <FlaborText>Pobre Ozma. Ela não sabia que adultos mentirosos não se aproximam dos outros sem motivo.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Ven más cerca. Te ayudaré a olvidar todas tus aflicciones y preocupaciones.</Dialogue>
-        <Dialogue ID="2">¿Eres una máquina, verdad? Un corazón no es necesario para una máquina.</Dialogue>
-        <Dialogue ID="3">Bebé esta poción. Te dará coraje. Serás más valiente que nadie.</Dialogue>
-        <Dialogue ID="4">Usa este par de zapatos y sigue tu camino. A tu ciudad natal que extrañas tanto.</Dialogue>
+        <Dialogue ID="1">Chegue mais perto. Eu vou te ajudar a esquecer seus problemas e aflições.</Dialogue>
+        <Dialogue ID="2">Você é uma máquina, não é? Um coração é desnecessário para uma máquina.</Dialogue>
+        <Dialogue ID="3">Beba essa poção, ela te dará coragem. Você será mais corajoso que qualquer um.</Dialogue>
+        <Dialogue ID="4">Use esse par de sapatos e siga seu caminho. Para a cidade natal que você tanto sente falta.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Oz_Control">
-      <Abnormality>Adulto que dice mentiras</Abnormality>
-      <CardName>Truco de magia</CardName>
+      <Abnormality>Adulto que Conta Mentiras</Abnormality>
+      <CardName>Truque de Mágica</CardName>
       <AbilityDesc>[Aliado Único]
-Añade una página de 'Truco de magia' a la mano: ‘Coste 4 - [Al jugarla] Reduce el coste de todas las páginas en mano a 0. Cuando son usadas, sus costes se resetean al valor anterior de este efecto.’
-Esta página es también incluida en el mazo al comienzo de los siguientes actos.</AbilityDesc>
-      <FlaborText>Pronto, Oz será llamada bruja por la gente.</FlaborText>
+Adicione uma Página de 'Truque de Mágica' à mão: ‘Custo 4 - [Ao Jogar]  Reduz o Custo de todas as páginas na mão para 0. A redução de custo se mantém até a página ser usada.’
+Esta página também estará no baralho no começo dos Atos subsequentes.</AbilityDesc>
+      <FlaborText>Logo, as pessoas começaram a chamar Oz de feiticeira.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Pobre montón de paja. Te daré sabiduría para que reflexiones sobre cualquier cosa.</Dialogue>
-        <Dialogue ID="2">Leñador de hojalata. Te daré un corazón para que perdones y ames a todos.</Dialogue>
-        <Dialogue ID="3">Gatito cobarde. Te daré coraje para que te mantengas de pie contra cualquiera.</Dialogue>
-        <Dialogue ID="4">Por último, camino que está perdido. Te enviaré a casa.</Dialogue>
+        <Dialogue ID="1">Pobre monte de palha. Eu te darei a sabedoria para ponderar sobre qualquer coisa.</Dialogue>
+        <Dialogue ID="2">Lenhador de Lata. Eu te darei o coração para perdoar e amar qualquer um.</Dialogue>
+        <Dialogue ID="3">Gatinho covarde. Eu te darei a coragem para enfrentar tudo e todos</Dialogue>
+        <Dialogue ID="4">Por último, caminho que está perdido. Eu te levarei para casa</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
@@ -1969,7 +1970,7 @@ Gana 1-2 de Poder en choques contra enemigos 'Encantado' y recupera 2-5 de HP y 
       <Abnormality>Ave del apocalipsis</Abnormality>
       <CardName>Pico pequeño</CardName>
       <AbilityDesc>[Aliado Único]
-Añade una página de 'Pico Pequeño' a la mano: ‘Coste 0 - [Al jugarla;] [Regresa a la mano] Recibe 5% del HP máximo como daño; restaura 1 de Luz’.</AbilityDesc>
+Adicione uma Página de'Pico Pequeño' à mão: ‘Custo 0 - [Ao Jogar;] [Regresa à mão] Recibe 5% del HP máximo como daño; restaura 1 de Luz’.</AbilityDesc>
       <FlaborText>Y el pequeño pico del Pájaro Pequeño susurró, incesante…</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Yo susurro… sin cesar…</Dialogue>
@@ -2116,8 +2117,8 @@ El dado en la página también gana este efecto: ‘[Al golpear] Haz daño adici
       <Abnormality>O Preço do Silêncio</Abnormality>
       <CardName>Silencio</CardName>
       <AbilityDesc>[Aliado Único]
-Añade una página de 'Silencio' a la mano: ‘Coste 0 - [Al jugarla] Recibe 15% del HP máximo como daño; Todos los otros personajes pierden 5 de velocidad’. 
-Añade una página de 'Amplificar' a la mano: ‘Coste 0 - [Al jugarla] Recibe 10% del HP máximo como daño; Gana 5 de velocidad’.</AbilityDesc>
+Adicione uma Página de'Silencio' à mão: ‘Custo 0 - [Ao Jogar]  Recibe 15% del HP máximo como daño; Todos los otros personajes pierden 5 de velocidad’. 
+Adicione uma Página de'Amplificar' à mão: ‘Custo 0 - [Ao Jogar]  Recibe 10% del HP máximo como daño; Gana 5 de velocidad’.</AbilityDesc>
       <FlaborText>Raramente, siento como si el tiempo se detuviera. Momentos fugaces de silencio me ocurren a veces.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">El silencio no siempre trae la paz.</Dialogue>
@@ -2131,7 +2132,7 @@ Añade una página de 'Amplificar' a la mano: ‘Coste 0 - [Al jugarla] Recibe 1
       <Abnormality>Estrela Azul</Abnormality>
       <CardName>Mártir</CardName>
       <AbilityDesc>[Aliado Único]
-Añade una página de 'Mártir' a la mano: ‘Coste 0 - [Al jugarla] por esta escena, haz 4-6 bonus de daño de aturdimiento con ataques pero recibe 1-3 de daño después de un ataque exitoso’.</AbilityDesc>
+Adicione uma Página de'Mártir' à mão: ‘Custo 0 - [Ao Jogar]  por esta escena, haz 4-6 bonus de daño de aturdimiento con ataques pero recibe 1-3 de daño después de un ataque exitoso’.</AbilityDesc>
       <FlaborText>Reunámonos de nuevo como estrellas.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Vamos a saborear la felicidad eterna en el final de este universo juntos.</Dialogue>
@@ -2170,7 +2171,7 @@ Todos os Aliados hacen +2-4 de daño de aturdimiento por esta escena. El efecto 
       <Abnormality>NocheBlanca</Abnormality>
       <CardName>Bautismo</CardName>
       <AbilityDesc>[Aliado Único]
-Añade una página de 'Bautismo' a la mano: ‘Coste 2 - [Al jugarla;] [Regresa a la mano] El objetivo recupera 6 HP y gana 1 de Dureza esta escena (Una vez por escena)’.</AbilityDesc>
+Adicione uma Página de'Bautismo' à mão: ‘Custo 2 - [Ao Jogar;] [Regresa à mão] El objetivo recupera 6 HP y gana 1 de Dureza esta escena (Una vez por escena)’.</AbilityDesc>
       <FlaborText>“Te sanaré, curando todas las heridas y enfermedades que poseas.”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Estoy aquí para tratar la enfermedad.</Dialogue>
