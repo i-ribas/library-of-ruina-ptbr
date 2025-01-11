@@ -3,230 +3,229 @@
 
   <!--캐릭터 스탯관련--> 
   <text id="ui_tooltip_content_ability_hp">HP</text>
-  <text id="ui_tooltip_content_ability_break">Resistencia al aturdimiento</text>
-  <text id="ui_tooltip_content_ability_speeddice">Dado de velocidad</text>
-  <text id="ui_tooltip_content_resistance_slash">&#60;color=#ff0000ff&#62;Cortante&#60;/color&#62; Resistencia al daño</text>
-  <text id="ui_tooltip_content_resistance_penetrate">&#60;color=#ff0000ff&#62;Perfortante&#60;/color&#62; Resistencia al daño</text>
-  <text id="ui_tooltip_content_resistance_hit">&#60;color=#ff0000ff&#62;Contundente&#60;/color&#62; Resistencia al daño</text>
-  <text id="ui_tooltip_content_resistancebreak_slash">&#60;color=#ffff00ff&#62;Cortante&#60;/color&#62; Resistencia al daño de aturdimiento</text>
-  <text id="ui_tooltip_content_resistancebreak_penetrate">&#60;color=#ffff00ff&#62;Perforante&#60;/color&#62; Resistencia al daño de aturdimiento</text>
-  <text id="ui_tooltip_content_resistancebreak_hit">&#60;color=#ffff00ff&#62;Contundente&#60;/color&#62; Resistencia al daño de aturdimiento</text>
+  <text id="ui_tooltip_content_ability_break">Resistencia a atordoamento</text>
+  <text id="ui_tooltip_content_ability_speeddice">Dado de velocidade</text>
+  <text id="ui_tooltip_content_resistance_slash">&#60;color=#ff0000ff&#62;Cortante&#60;/color&#62; Resistencia a dano</text>
+  <text id="ui_tooltip_content_resistance_penetrate">&#60;color=#ff0000ff&#62;Perfurante&#60;/color&#62; Resistencia a dano</text>
+  <text id="ui_tooltip_content_resistance_hit">&#60;color=#ff0000ff&#62;Contundente&#60;/color&#62; Resistencia a dano</text>
+  <text id="ui_tooltip_content_resistancebreak_slash">&#60;color=#ffff00ff&#62;Cortante&#60;/color&#62; Resistencia a dano de atordoamento</text>
+  <text id="ui_tooltip_content_resistancebreak_penetrate">&#60;color=#ffff00ff&#62;Perfurante&#60;/color&#62; Resistencia a dano de atordoamento</text>
+  <text id="ui_tooltip_content_resistancebreak_hit">&#60;color=#ffff00ff&#62;Contundente&#60;/color&#62; Resistencia a dano de atordoamento</text>
 
 
   <!--Auto tooltip-->
   
-  <text id="ui_autotooltip_invitation_storyslot_title">Elegir invitados</text>
-  <text id="ui_autotooltip_invitation_storyslot_content">Una &#60;color=#ff5622ff&#62;‘recepción’&#60;/color&#62; comienza al enviar una &#60;color=#ff5622ff&#62;‘invitación’&#60;/color&#62; al invitado que quieras recibir.</text>
+  <text id="ui_autotooltip_invitation_storyslot_title">Eleger Convidados</text>
+  <text id="ui_autotooltip_invitation_storyslot_content">Uma &#60;color=#ff5622ff&#62;‘recepção’&#60;/color&#62; começa a enviar um &#60;color=#ff5622ff&#62;‘Convite’&#60;/color&#62; ao convidado que deseja receber.</text>
 
-  <text id="ui_autotooltip_invitation_storyslotlevelicon_title">Érase una vez</text>
-  <text id="ui_autotooltip_invitation_storyslotlevelicon_content">Selecciona el episodio que te gustaría jugar.</text>
+  <text id="ui_autotooltip_invitation_storyslotlevelicon_title">Era uma vez</text>
+  <text id="ui_autotooltip_invitation_storyslotlevelicon_content">Selecione o eandardio que deseja jogar.</text>
 
-  <text id="ui_autotooltip_invitation_invrightdropbookslot_title">Libros del día</text>
-  <text id="ui_autotooltip_invitation_invrightdropbookslot_content">El conjunto de libros requeridos para comenzar el episodio.</text>
+  <text id="ui_autotooltip_invitation_invrightdropbookslot_title">Livros do dia</text>
+  <text id="ui_autotooltip_invitation_invrightdropbookslot_content">O conjunto de Livros requeridos para começar o eandardio.</text>
 
-  <text id="ui_autotooltip_invitation_invcenterdropbookslot_title">¿Qué hay en juego?</text>
-  <text id="ui_autotooltip_invitation_invcenterdropbookslot_content">La lista de libros que tiene la Biblioteca en posesión.</text>
+  <text id="ui_autotooltip_invitation_invcenterdropbookslot_title">O que está em jogo?</text>
+  <text id="ui_autotooltip_invitation_invcenterdropbookslot_content">A lista de Livros que possui na Biblioteca que estão em posse.</text>
 
-  <text id="ui_autotooltip_invitation_sendbutton_title">Enviar la invitación</text>
-  <text id="ui_autotooltip_invitation_sendbutton_title_pad">Enviar la Invitación &#60;sprite index=4&#62;</text>
-  <text id="ui_autotooltip_invitation_sendbutton_content">La preparación final para la invitación.</text>
+  <text id="ui_autotooltip_invitation_sendbutton_title">Enviar o Convite</text>
+  <text id="ui_autotooltip_invitation_sendbutton_title_pad">Enviar o Convite &#60;sprite index=4&#62;</text>
+  <text id="ui_autotooltip_invitation_sendbutton_content">A preparação final para o Convite.</text>
 
-  <text id="ui_autotooltip_invitation_confirmbutton_title">Lamer y sellar</text>
-  <text id="ui_autotooltip_invitation_confirmbutton_content">Cuando estás listo para enviar la invitación, presiona este botón para proceder.</text>
+  <text id="ui_autotooltip_invitation_confirmbutton_title">Lamber e Selar</text>
+  <text id="ui_autotooltip_invitation_confirmbutton_content">Quando estiver pronto para enviar o convite, pressione este botão para prosseguir.</text>
 
   <!-- Before battle -->
-  <text id="ui_autotooltip_before_battle_character_title">Info bibliotecario</text>
-  <text id="ui_autotooltip_before_battle_character_content">La información sobre los bibliotecarios que participarán en la &#60;color=#ff5622ff&#62;‘recepción’&#60;/color&#62;.</text>
+  <text id="ui_autotooltip_before_battle_character_title">Info bibliotecário</text>
+  <text id="ui_autotooltip_before_battle_character_content">A informação sobre os bibliotecários que participarão na &#60;color=#ff5622ff&#62;‘recepção’&#60;/color&#62;.</text>
 
-  <text id="ui_autotooltip_before_battle_detail_title">Info detallada</text>
-  <text id="ui_autotooltip_before_battle_detail_content">Puedes ver toda la información detallada después de seleccionar el personaje.</text>
+  <text id="ui_autotooltip_before_battle_detail_title">Info detalhada</text>
+  <text id="ui_autotooltip_before_battle_detail_content">É capaz de ver toda a informação detalhada do personagem selecionado.</text>
 
   <text id="ui_autotooltip_before_battle_card_title">Páginas de combate</text>
-  <text id="ui_autotooltip_before_battle_card_content">Puedes revisar la lista de páginas de combate (Cartas) que el personaje seleccionado usará en la &#60;color=#ff5622ff&#62;‘recepción’&#60;/color&#62;.</text>
+  <text id="ui_autotooltip_before_battle_card_content">Você pode revisar a lista de páginas de combate (Cartas) que o personagem irá usar na &#60;color=#ff5622ff&#62;‘recepção’&#60;/color&#62;.</text>
 
-  <text id="ui_autotooltip_before_battle_enemy_title">Todos los detalles</text>
-  <text id="ui_autotooltip_before_battle_enemy_content">La información de los invitados que han recibido la invitación de la Biblioteca se mostrará aquí.</text>
+  <text id="ui_autotooltip_before_battle_enemy_title">Todos os detalhes</text>
+  <text id="ui_autotooltip_before_battle_enemy_content">A informação dos convidados que receberam o convite à biblioteca irá ser mostrada aqui.</text>
 
-  <text id="ui_autotooltip_before_battle_start_title">¡Luces, cámara y acción!</text>
-  <text id="ui_autotooltip_before_battle_start_content">Presiona este botón para comenzar la batalla cuando has terminado de revisar toda la información disponible.</text>
+  <text id="ui_autotooltip_before_battle_start_title">Luz, Câmera, Ação!</text>
+  <text id="ui_autotooltip_before_battle_start_content">Pressione este botão para começar a batalha quando tiver terminado de revisar toda a informação disponível.</text>
 
 
   <!-- after battle -->
-  <text id="ui_autotooltip_after_battle_book_title">Botín</text>
-  <text id="ui_autotooltip_after_battle_book_content">Puedes revisar los libros que has obtenido de la &#60;color=#ff5622ff&#62;‘recepción’&#60;/color&#62; aquí.
-Si has fallado la recepción, esta parte mostrará los libros que has perdido en su lugar.</text>
+  <text id="ui_autotooltip_after_battle_book_title">Saque</text>
+  <text id="ui_autotooltip_after_battle_book_content">Você pode revisar os livros que obteve na &#60;color=#ff5622ff&#62;‘recepção’&#60;/color&#62; aqui.
+Se tiver falhado a recepção, em seu lugar, irá ser mostrado os livros que você perdeu.</text>
 
-  <text id="ui_autotooltip_after_battle_gift_title">Accesorios para el éxito</text>
-  <text id="ui_autotooltip_after_battle_gift_content">Puedes revisar los Simbolos de Batalla que tus bibliotecarios han obtenido de la &#60;color=#ff5622ff&#62;‘recepción’&#60;/color&#62; aquí.</text>
+  <text id="ui_autotooltip_after_battle_gift_title">Acessórios para o sucesso</text>
+  <text id="ui_autotooltip_after_battle_gift_content">Você pode revisar os acessórios de batalha que seus bibliotecários obtiveram na &#60;color=#ff5622ff&#62;‘recepção’&#60;/color&#62; aqui.</text>
 
-  <text id="ui_autotooltip_after_battle_end_title">Cerrar las cortinas</text>
-  <text id="ui_autotooltip_after_battle_end_content">Finaliza la &#60;color=#ff5622ff&#62;‘recepción’&#60;/color&#62; y sal del escenario.</text>
+  <text id="ui_autotooltip_after_battle_end_title">Abaixar as Cortinas</text>
+  <text id="ui_autotooltip_after_battle_end_content">Finaliza a &#60;color=#ff5622ff&#62;‘recepção’&#60;/color&#62; e sai do cenário</text>
 
   
   <!--Feeding Book-->
-  <text id="ui_autotooltip_feedingbook_controlbutton_title">Un placer quemarlo</text>
-  <text id="ui_autotooltip_feedingbook_controlbutton_content">Puedes quemar los libros que has obtenido.</text>
+  <text id="ui_autotooltip_feedingbook_controlbutton_title">Será um prazer queimar-lo</text>
+  <text id="ui_autotooltip_feedingbook_controlbutton_content">Você pode queimar os livros que obteve.</text>
 
-  <text id="ui_autotooltip_feedingbook_centerbook_title">Lo que hay en las páginas</text>
-  <text id="ui_autotooltip_feedingbook_centerbook_content">Puedes ver que libros en tu posesión tienes para ofrecer.
-Estos libros también son usados para invitar a los invitados en los siguientes capítulos, así que es recomendable &#60;color=#ff5622ff&#62;quedarte con al menos una copia&#60;/color&#62; en tu posesión.</text>
+  <text id="ui_autotooltip_feedingbook_centerbook_title">O que tem nas páginas</text>
+  <text id="ui_autotooltip_feedingbook_centerbook_content">Pode ver que livros em sua possessão tem para oferecer.
+Estes livros também podem ser usados para convidar os convocados nos capítulos seguintes, é recomendável &#60;color=#ff5622ff&#62;pelo menos deixar uma cópia&#60;/color&#62; em sua posse.</text>
 
-  <text id="ui_autotooltip_feedingbook_rewarditems_title">De las cenizas</text>
-  <text id="ui_autotooltip_feedingbook_rewarditems_content">Puedes revisar la lista de páginas que has obtenido al quemar el libro.</text>
+  <text id="ui_autotooltip_feedingbook_rewarditems_title">Das cinzas</text>
+  <text id="ui_autotooltip_feedingbook_rewarditems_content">Pode revisar a lista de páginas que obteve ao queimar o livro.</text>
 
-  <text id="ui_autotooltip_feedingbook_feedbookbutton_title">Siendo quemados</text>
-  <text id="ui_autotooltip_feedingbook_feedbookbutton_content">Presiona el botón para comenzar a quemar tus libros.
-Puedes quemar &#60;color=#ff5622ff&#62;hasta 20 libros&#60;/color&#62; a la vez.</text>
+  <text id="ui_autotooltip_feedingbook_feedbookbutton_title">Sendo queimados</text>
+  <text id="ui_autotooltip_feedingbook_feedbookbutton_content">pressione o botão para começar a queimar os Livros.
+Você pode queimar &#60;color=#ff5622ff&#62;até 20 Livros&#60;/color&#62; de uma vez.</text>
 
   <!--START BATTLE-->
 
-  <text id="ui_autotooltip_battle_speeddicestop_title">Determinar la velocidad</text>
-  <text id="ui_autotooltip_battle_speeddicestop_content">Cuando una escena comienza, presiona Espacio para lanzar los ‘Dados de velocidad’.</text>
-  <text id="ui_autotooltip_battle_speeddicestop_content_pad">Cuando una escena comienza, presiona &#60;sprite index=0&#62; para lanzar los ‘Dados de velocidad’.</text> <!-- temp -->
+  <text id="ui_autotooltip_battle_speeddicestop_title">Determinar a velocidade</text>
+  <text id="ui_autotooltip_battle_speeddicestop_content">Quando uma cena começa, pressione Espaço para lançar os ‘Dados de velocidade’.</text>
+  <text id="ui_autotooltip_battle_speeddicestop_content_pad">Quando uma cena começa, pressione &#60;sprite index=0&#62; para lançar os ‘Dados de velocidade’.</text> <!-- temp -->
 
-  <text id="ui_autotooltip_battle_speeddiceinfo_title">Dado de velocidad</text>
-  <text id="ui_autotooltip_battle_speeddiceinfo_content">Una mayor velocidad ofrece las siguientes ventajas:
-- Si la velocidad del enemigo es menor que la tuya, puedes redirigir sus ataques hacia tí.
-- Los Personajes con mayor velocidad actuarán primero.</text>
+  <text id="ui_autotooltip_battle_speeddiceinfo_title">Dado de velocidade</text>
+  <text id="ui_autotooltip_battle_speeddiceinfo_content">Ter uma velocidade maior oferece as seguintes vantagens:
+- Se a velocidade do inimigo for menor que a sua, Pode redirecionar seus ataques para ti.
+- Os personagens com maior velocidade irão agir primeiro.</text>
 
-  <text id="ui_autotooltip_battle_selectspeeddice_title">Dado de velocidad bibliotecario</text>
-  <text id="ui_autotooltip_battle_selectspeeddice_content">Selecciona el dado de velocidad del bibliotecario.</text>
+  <text id="ui_autotooltip_battle_selectspeeddice_title">Dado de velocidade do bibliotecário</text>
+  <text id="ui_autotooltip_battle_selectspeeddice_content">Seleciona o dado de velocidade do bibliotecário.</text>
 
-  <text id="ui_autotooltip_battle_selectcard_title">Páginas de combate bibliotecario</text>
-  <text id="ui_autotooltip_battle_selectcard_content">Esta es la mano de bibliotecario con sus páginas de combate (es decir, sus cartas).
-Selecciona una de ellas.</text>
+  <text id="ui_autotooltip_battle_selectcard_title">Páginas de combate bibliotecário</text>
+  <text id="ui_autotooltip_battle_selectcard_content">Esta é a mão do bibliotecário com suas páginas de combate (ou seja, suas cartas).
+Selecione uma delas.</text>
 
-  <text id="ui_autotooltip_battle_selectenemydice_title">Dado de velocidad enemigo</text>
-  <text id="ui_autotooltip_battle_selectenemydice_content">Ahora selecciona el dado de velocidad de un enemigo para poder Apuntarlos con el ataque.</text>
+  <text id="ui_autotooltip_battle_selectenemydice_title">Dado de velocidade inimigo</text>
+  <text id="ui_autotooltip_battle_selectenemydice_content">Agora selecione o dado de velocidade de um inimigo para poder regristrar o ataque.</text>
 
   <text id="ui_autotooltip_battle_autubattlealarm_title">Modo rápido</text>
-  <text id="ui_autotooltip_battle_autubattlealarm_content">Al presionas la tecla Q o presionando en el icono, puedes cambiar al modo rápido.
-En el modo rápido, la acción del dado se realizará automaticamente, permitiendo que el combate continue rápidamente.
-Cuando el modo rápido está desactivado, el jugador necesitará continuar la acción del dado en cada Choque al hacer clic o presionar Espacio.</text>
+  <text id="ui_autotooltip_battle_autubattlealarm_content">Ao pressionar a tecla Q ou pressionando o ícone, pode ativar o modo rápido.
+No modo rápido, a ação do dado irá se realizar automaticamente, permitindo que o combate continue rapidamente.
+Quando o modo rápido está desativado, o jogador precisa continuar a ação do dado em cada Embate ao clicar ou pressionar Espaço.</text>
 
-  <text id="ui_autotooltip_battle_autubattlealarm_content_pad">Puedes cambiar al modo rápido.
-En el modo rápido, la acción del dado se realizará automaticamente, permitiendo que el combate continue rápidamente.
-Cuando el modo rápido está desactivado, el jugador necesitará continuar la acción del dado en cada Choque al hacer clic o presionar Espacio.</text> <!-- temp -->
+  <text id="ui_autotooltip_battle_autubattlealarm_content_pad">Mudança para o modo rápido.
+No modo rápido, a ação do dado irá se realizar automaticamente, permitindo que o combate continue rapidamente.
+Quando o modo rápido está desativado, o jogador precisa continuar a ação do dado em cada Embate ao clicar ou pressionar Espaço.</text> <!-- temp -->
 
-  <text id="ui_autotooltip_battle_autoequipcard_title">Auto-seleccionar las páginas de combate</text>
-  <text id="ui_autotooltip_battle_autoequipcard_content">Al presionar la tecla P o presiona en el icono, puedes llenar automaticamente los dados de velocidad en tu bibliotecario con páginas de combate de tu mano.
-Los objetivos son seleccionados aleatoriamente.
-Este hace que las batallas puedan proceder rápidamente pero perdiendo precisión y estrategia.</text>
+  <text id="ui_autotooltip_battle_autoequipcard_title">Auto-Seleção das páginas de combate</text>
+  <text id="ui_autotooltip_battle_autoequipcard_content">Ao pressionar a tecla P ou pressionar o ícone, irá preencher automaticamente os dados de velocidade de seus bibliotecários com páginas de combate que estiver em sua mão.
+Isto faz com que as batalhas possam prosseguir rapidamente, porém perdendo precisão e estrategia.</text>
 
 
   <text id="ui_autotooltip_battle_battlearrowview_title">Mostrar objetivos</text>
-  <text id="ui_autotooltip_battle_battlearrowview_content">Estos son indicadores visuales que mientras a quién están Apuntando los bibliotecarios y los invitados.
-Activalos al presionar las teclas 1/2/3 (Enemigos/Choques/Bibliotecarios) o presionando los iconos.</text>
+  <text id="ui_autotooltip_battle_battlearrowview_content">Estes são os indicadores visuais que mostram os embates que irão acontecer entre os bibliotecários e os convidados.
+Ativa ao pressionar as teclas 1/2/3 (Inimigos/Embates/Bibliotecários) ou pressioando o ícone.</text>
   
-  <text id="ui_autotooltip_battle_battlearrowview_content_pad">Estos son indicadores visuales que mientras a quién están Apuntando los bibliotecarios y los invitados.
-Activalos al presionar los iconos. (Enemigos/Choques/Bibliotecarios)</text> <!-- temp -->
+  <text id="ui_autotooltip_battle_battlearrowview_content_pad">Estes são os indicadores visuais que mostram os embates que irão acontecer entre os bibliotecários e os convidado.
+Ativa ao pressionar os ícones. (Inimigos/Embates/Bibliotecários)</text> <!-- temp -->
   
   
-  <text id="ui_autotooltip_battle_startbattle_title">!Estoy listo!</text>
-  <text id="ui_autotooltip_battle_startbattle_content">Al presionar Espacio o al presionar en el icono después de que los dados de velocidad han sido lanzados, hará que la Fase de combate comience.</text>
+  <text id="ui_autotooltip_battle_startbattle_title">Estou pronto!</text>
+  <text id="ui_autotooltip_battle_startbattle_content">Ao pressionar Espaço ou pressionar o ícone depois que os dados de velocidade estiverem lançados, fará com que a fase de combate comece.</text>
 
-  <text id="ui_autotooltip_battle_startbattle_content_pad">Al presionar &#60;sprite index=4&#62; después de que los dados de velocidad han sido lanzados, hará que la Fase de combate comience.</text>
+  <text id="ui_autotooltip_battle_startbattle_content_pad">Ao pressionar &#60;sprite index=4&#62; depois que os dados de velocidade estiverem lançados, fará com que a fase de combate comece.</text>
 
 
 
   <!--Creature Battle-->
-  <text id="ui_autotooltip_creaturebattle_selectenemy_title">Observar al oponente</text>
-  <text id="ui_autotooltip_creaturebattle_selectenemy_content">Presiona al personaje enemigo.</text>
-  <text id="ui_autotooltip_creaturebattle_selectenemy_content_pad">Presiona al personaje enemigo.</text> <!-- temp -->
+  <text id="ui_autotooltip_creaturebattle_selectenemy_title">Observe o oponente</text>
+  <text id="ui_autotooltip_creaturebattle_selectenemy_content">pressione o personagem inimigo.</text>
+  <text id="ui_autotooltip_creaturebattle_selectenemy_content_pad">pressione o personagem inimigo.</text> <!-- temp -->
 
-  <text id="ui_autotooltip_creaturebattle_passivealarm_title">Lista de pasivass</text>
-  <text id="ui_autotooltip_creaturebattle_passivealarm_content">Al presionar en el personaje, puedes revisar la lista de habilidades pasivas que posee.</text>
+  <text id="ui_autotooltip_creaturebattle_passivealarm_title">Lista de passivas</text>
+  <text id="ui_autotooltip_creaturebattle_passivealarm_content">Ao pressionar o personagem, é capaz de ver a lista de habilidades passivas que possui.</text>
 
-  <text id="ui_autotooltip_creaturebattle_tolerancealarm_title">Resistencias</text>
-  <text id="ui_autotooltip_creaturebattle_tolerancealarm_content">Cuando presionas un personaje, también eres capaz de ver la resistencia a los distintos tipos de daño.</text>
+  <text id="ui_autotooltip_creaturebattle_tolerancealarm_title">Resistências</text>
+  <text id="ui_autotooltip_creaturebattle_tolerancealarm_content">Quando pressionar um personagem, também é capaz de ver a resistência dos tipos de dano.</text>
 
 
   <!--Librarian Character Slot-->
-  <text id="ui_autotooltip_sephirah_librarianslot_title">Mazo del bibliotecario</text>
-  <text id="ui_autotooltip_sephirah_librarianslot_content">Selecciona a un bibliotecario en este piso para moverte a la lista de páginas de combate.</text>
+  <text id="ui_autotooltip_sephirah_librarianslot_title">Baralho do Bibliotecário</text>
+  <text id="ui_autotooltip_sephirah_librarianslot_content">Selecione um bibliotecário no andar em questão para mover à lista de páginas de combate.</text>
 
 
   <!-- I don't think there'll be much other than "Hey, you can open this by doing this, check it out from time to time", so get saucy in the meantime -->
   <!-- I put in some temporary text taken from the manual and my braincells for now until we get further instruction.-->
 
-  <text id="ui_autotooltip_battlepage_currentequiped_title">Configuración de mazo Actual</text>
-  <text id="ui_autotooltip_battlepage_currentequiped_content">Puedes ver las páginas de combate actualmente equipadas aquí.</text>
+  <text id="ui_autotooltip_battlepage_currentequiped_title">Configuração do baralho atual</text>
+  <text id="ui_autotooltip_battlepage_currentequiped_content">Pode ver as páginas de combate atualmente equipadas aqui.</text>
 
   <text id="ui_autotooltip_battlepage_inventory_title">Lista de páginas de combate</text>
-  <text id="ui_autotooltip_battlepage_inventory_content">Puedes ver la lista de páginas de combate que el jugador posee.</text>
+  <text id="ui_autotooltip_battlepage_inventory_content">Pode ver a lista de páginas de combate que o jogador possui.</text>
 
-  <text id="ui_autotooltip_librarianinfo_customizebutton_title">Personalización de bibliotecario</text>
-  <text id="ui_autotooltip_librarianinfo_customizebutton_content">Aquí puedes personalizar la apariencia y dialogos del bibliotecario.</text>
+  <text id="ui_autotooltip_librarianinfo_customizebutton_title">Personalização do bibliotecário</text>
+  <text id="ui_autotooltip_librarianinfo_customizebutton_content">Aqui pode personalizar a aparência e dialogos do bibliotecário.</text>
 
-  <text id="ui_autotooltip_librarianinfo_gift_title">Símbolos de batalla</text>
-  <text id="ui_autotooltip_librarianinfo_gift_content">Puedes ver la lista de símbolos de batalla que el jugador posee.</text>
+  <text id="ui_autotooltip_librarianinfo_gift_title">Acessórios de batalha</text>
+  <text id="ui_autotooltip_librarianinfo_gift_content">Pode ver a lista de acessórios de batalha que o jogador possui.</text>
 
   <text id="ui_autotooltip_librarianinfo_battlepage_title">Páginas de combate</text>
-  <text id="ui_autotooltip_librarianinfo_battlepage_content">Puedes saltar de la pestaña de información del bibliotecario a la pestaña de páginas de combate.</text>
+  <text id="ui_autotooltip_librarianinfo_battlepage_content">Pode mudar da estante de informações do bibliotecário à estante de páginas de combate.</text>
 
-  <text id="ui_autotooltip_librarianinfo_equippage_title">Páginas clave</text>
-  <text id="ui_autotooltip_librarianinfo_equippage_content">Puedes saltar de la pestaña de información del bibliotecario a la pestaña de páginas clave.</text>
+  <text id="ui_autotooltip_librarianinfo_equippage_title">Páginas chave</text>
+  <text id="ui_autotooltip_librarianinfo_equippage_content">Pode mudar da estante de informações do bibliotecário à estante de páginas chave.</text>
   
   <!-- 210527 추가-->
-  <text id="ui_autotooltip_equippage_clickinvenbook_title">¡Qué maravillosa colección!</text>
-  <text id="ui_autotooltip_equippage_clickinvenbook_content">Esta es la lista de páginas clave que el jugador &#60;color=#ff5622ff&#62;posee actualmente&#60;/color&#62;.</text>
+  <text id="ui_autotooltip_equippage_clickinvenbook_title">Que coleção maravilhosa!</text>
+  <text id="ui_autotooltip_equippage_clickinvenbook_content">Esta é a lista de páginas chave que o jogador &#60;color=#ff5622ff&#62;possui atualmente&#60;/color&#62;.</text>
 
-  <text id="ui_autotooltip_equippage_invenbookinfo_title">Páginas clave info</text>
-  <text id="ui_autotooltip_equippage_invenbookinfo_content">Este panel muestra la información de la página clave seleccionada.
-Puedes revisar &#60;color=#ff5622ff&#62;el Mazo, Habilidades Pasivas, y Resistencias&#60;/color&#62;.</text>
+  <text id="ui_autotooltip_equippage_invenbookinfo_title">Páginas chave info</text>
+  <text id="ui_autotooltip_equippage_invenbookinfo_content">Este painel mostra a informação da página chave selecionada.
+Pode ver &#60;color=#ff5622ff&#62;o Baralho, Habilidades Passivas, e Resistências&#60;/color&#62;.</text>
   
-  <text id="ui_autotooltip_equippage_selfequipedbookinfo_title">Página clave Equipada</text>
-  <text id="ui_autotooltip_equippage_selfequipedbookinfo_content">Este panel muestra la información de la página clave actualmente equipada en el bibliotecario.</text>
+  <text id="ui_autotooltip_equippage_selfequipedbookinfo_title">Página chave Equipada</text>
+  <text id="ui_autotooltip_equippage_selfequipedbookinfo_content">Este painel mostra a informação da página chave atualmente equipada no bibliotecário.</text>
 
-  <text id="ui_autotooltip_equippage_equipbuttonalarm_title">Botón de equipar</text>
-  <text id="ui_autotooltip_equippage_equipbuttonalarm_content">Presiona el botón para equipar la página clave al bibliotecario.</text>
+  <text id="ui_autotooltip_equippage_equipbuttonalarm_title">botão de equipar</text>
+  <text id="ui_autotooltip_equippage_equipbuttonalarm_content">Pressione o botão para equipar a página chave ao bibliotecário.</text>
 
-  <text id="ui_autotooltip_equippage_changecurrentequipalarm_title">Nueva página clave</text>
-  <text id="ui_autotooltip_equippage_changecurrentequipalarm_content">Puedes ver la información de la nueva página clave equipada aquí.</text>
+  <text id="ui_autotooltip_equippage_changecurrentequipalarm_title">Página chave nova</text>
+  <text id="ui_autotooltip_equippage_changecurrentequipalarm_content">Pode ver a informação da nova página chave equipada aqui.</text>
 
-  <text id="ui_autotooltip_equippage_selfequipedbookinfo_emptybattlepagealarm_title">Vaciar la Estanteria</text>
-  <text id="ui_autotooltip_equippage_selfequipedbookinfo_emptybattlepagealarm_content">El mazo de páginas de combate está ligado a la página clave.
-Asegurate de configurar el mazo después de cambiar de páginas clave.</text>
+  <text id="ui_autotooltip_equippage_selfequipedbookinfo_emptybattlepagealarm_title">Esvaziar a Estante</text>
+  <text id="ui_autotooltip_equippage_selfequipedbookinfo_emptybattlepagealarm_content">O baralho de páginas de combate esta ligado a página chave.
+Certfique-se de configurar o baralho depois de mudar as páginas chave.</text>
 
   <!--Keter Levelup Possible-->
-  <text id="ui_autotooltip_keter_questalarm_title">Tareas del piso</text>
-  <text id="ui_autotooltip_keter_questalarm_content">Cada piso tendrá una serie de &#60;color=#ff5622ff&#62;tareas&#60;/color&#62;.
-Completar las tareas desbloqueará una ‘batalla de anormalidad’.</text>
+  <text id="ui_autotooltip_keter_questalarm_title">Tarefas do Andar</text>
+  <text id="ui_autotooltip_keter_questalarm_content">Cada andar terá uma série de &#60;color=#ff5622ff&#62;tarefas&#60;/color&#62;.
+Completar as tarefas irá desbloquear uma ‘batalha de anormalidade’.</text>
 
-  <text id="ui_autotooltip_keter_possiblecreaturebattle_title">Batallas de anormalidades</text>
-  <text id="ui_autotooltip_keter_possiblecreaturebattle_content">Cuando una tarea es completada en un piso, &#60;color=#ff5622ff&#62;una batalla contra una anormalidad&#60;/color&#62; estará disponible.
-Completar una batalla de anormalidad incrementará el nivel de realización del piso.</text>
+  <text id="ui_autotooltip_keter_possiblecreaturebattle_title">batalhas de anormalidades</text>
+  <text id="ui_autotooltip_keter_possiblecreaturebattle_content">Quando um andar completa uma tarefa, &#60;color=#ff5622ff&#62;uma batalha contra uma anormalidade&#60;/color&#62; estará disponível.
+Completar uma batalha de anormalidade aumentará o nível de realização do andar.</text>
 
-  <text id="ui_autotooltip_keter_librarylevelalarm_title">Nivel de peligro</text>
-  <text id="ui_autotooltip_keter_librarylevelalarm_content">El nivel de peligro actual de la Biblioteca percibido por la ciudad.
-Incrementar el nivel de realización de cada piso incrementará la presencia de la Biblioteca como una amenaza.
-&#60;color=#ff5622ff&#62;El nivel de amenaza de la Biblioteca&#60;/color&#62; incrementará cuando la barra se llene.</text>
+  <text id="ui_autotooltip_keter_librarylevelalarm_title">Nível de perigo</text>
+  <text id="ui_autotooltip_keter_librarylevelalarm_content">O nível de perigo atual da Biblioteca percebido pela cidade.
+Aumentar o nível de realização de cada andar aumentará a presença da Biblioteca como uma ameaça.
+&#60;color=#ff5622ff&#62;O nível de ameaça da biblioteca&#60;/color&#62; aumentará quando a barra for preenchida.</text>
 
 
 
   <!--Battle Setting Remain Wave-->
-  <text id="ui_autotooltip_battlesetting_remainstagebuttonalarm_title">Actos restantes</text>
-  <text id="ui_autotooltip_battlesetting_remainstagebuttonalarm_content">Algunas recepciones se componen de multiples actos.
-Puedes revisar el número de actos en la recepción aquí.</text>
+  <text id="ui_autotooltip_battlesetting_remainstagebuttonalarm_title">Atos restantes</text>
+  <text id="ui_autotooltip_battlesetting_remainstagebuttonalarm_content">Algumas recepções compõem múltiplos atos.
+Pode ver o número de atos na recepção aqui.</text>
 
 
-  <text id="ui_autotooltip_battlesetting_remainstageinfoalarm_title">Orden de batalla</text>
-  <text id="ui_autotooltip_battlesetting_remainstageinfoalarm_content">Indicador visual para el número de actos y el orden en que los enfrentarás.</text>
+  <text id="ui_autotooltip_battlesetting_remainstageinfoalarm_title">Ordem de batalha</text>
+  <text id="ui_autotooltip_battlesetting_remainstageinfoalarm_content">Indicador visual para o número de atos e ordem que irá enfrentar.</text>
 
   <!--Battle Setting Possible Floor-->
-  <text id="ui_autotooltip_battlesetting_possiblefloorinfo_title">Uno, dos, tres, piso…</text>
-  <text id="ui_autotooltip_battlesetting_possiblefloorinfo_content">El número de pisos que pueden participar en la recepción es mostrado aquí.</text>
+  <text id="ui_autotooltip_battlesetting_possiblefloorinfo_title">Um, dois, três, andares…</text>
+  <text id="ui_autotooltip_battlesetting_possiblefloorinfo_content">O número de andares que podem participar da recepção será mostrado aqui.</text>
   
   <!--Malkuth Open-->
-  <text id="ui_autotooltip_malkuth_firstopen_allsephirahhighlight_title">Los pisos abren sus puertas</text>
-  <text id="ui_autotooltip_malkuth_firstopen_allsephirahhighlight_content">La información de los pisos que están disponibles actualmente.</text>
+  <text id="ui_autotooltip_malkuth_firstopen_allsephirahhighlight_title">Os andares abrem suas portas</text>
+  <text id="ui_autotooltip_malkuth_firstopen_allsephirahhighlight_content">A informação dos andares que estão disponíveis atualmente.</text>
   
-  <text id="ui_autotooltip_malkuth_firstopen_floorhighlight_title">Un nuevo piso</text>
-  <text id="ui_autotooltip_malkuth_firstopen_floorhighlight_content">Más pisos serán desbloqueados cuando ciertas condiciones son cumplidas.
-Nuevos bibliotecarios aparecerán en los pisos nuevos.</text>
+  <text id="ui_autotooltip_malkuth_firstopen_floorhighlight_title">Um novo andar</text>
+  <text id="ui_autotooltip_malkuth_firstopen_floorhighlight_content">Mais andares serão desbloqueados quando certas condições são cumpridas.
+Novos bibliotecários irão aparecer nos novos andares.</text>
   
-  <text id="ui_autotooltip_malkuth_firstopen_floorinfohighlight_title">¿Qué pasa en este piso?</text>
-  <text id="ui_autotooltip_malkuth_firstopen_floorinfohighlight_content">Puedes ver la información del nuevo piso aquí.
-Puedes revisar a los bibliotecarios, tareas del piso, y páginas de anormalidad.</text>
+  <text id="ui_autotooltip_malkuth_firstopen_floorinfohighlight_title">O que acontece neste andar?</text>
+  <text id="ui_autotooltip_malkuth_firstopen_floorinfohighlight_content">Pode ver a informação do novo andar aqui.
+Pode ver os bibliotecários, tarefas do andar, e páginas de anormalidade.</text>
 
 </localize>
