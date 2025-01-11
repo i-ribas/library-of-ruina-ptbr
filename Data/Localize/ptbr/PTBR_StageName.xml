@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <CharactersNameRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<Name ID="2">Ratas</Name>
-	<Name ID="3">Fixers Oficina de Yun</Name>
-	<Name ID="4">Novato Oficina de Yun</Name>
-	<Name ID="5">Oficina de Yun</Name>
-	<Name ID="6">Hermandad de hierro</Name>
-	<Name ID="7">Oficina Hook</Name>
-	<Name ID="10001">Bistro de Pierre</Name>
-	<Name ID="10002">Oficina Streetlight</Name>
-	<Name ID="10003">Lulu de Streetlight</Name>
-	<Name ID="20001">Miembros de Zwei</Name>
-	<Name ID="20002">Asociación Zwei Ⅰ</Name>
-	<Name ID="20003">Asociación Zwei Ⅱ</Name>
-	<Name ID="20004">Oficina Molar</Name>
-	<Name ID="20005">Perros callejeros</Name>
-  <Name ID="30001">El carnaval</Name>
-  <Name ID="30002">Oficina Full-Stop</Name>
-  <Name ID="30003">Oficina Dawn</Name>
-  <Name ID="30004">Oficina Gaze</Name>
+	<Name ID="2">Ratos</Name>
+	<Name ID="3">Fixer's da Agência de Yun</Name>
+	<Name ID="4">Novato da Agência de Yun</Name>
+	<Name ID="5">Agência de Yun</Name>
+	<Name ID="6">Irmandade de Ferro</Name>
+	<Name ID="7">Agência dos Ganchos</Name>
+	<Name ID="10001">Bistro da Pierre</Name>
+	<Name ID="10002">Escritório Poste de Luz</Name>
+	<Name ID="10003">Lulu da Poste de Luz</Name>
+	<Name ID="20001">Membros da Zwei</Name>
+	<Name ID="20002">Associação Zwei Ⅰ</Name>
+	<Name ID="20003">Associação Zwei Ⅱ</Name>
+	<Name ID="20004">Escritório Molar</Name>
+	<Name ID="20005">Vira-Latas</Name>
+  <Name ID="30001">O Carnival</Name>
+  <Name ID="30002">Agência Ponto-Final</Name>
+  <Name ID="30003">Agência do Amanhecer</Name>
+  <Name ID="30004">Agência Visionário</Name>
   <Name ID="30005">Tomerry</Name>
-  <Name ID="30006">Clan Kurokumo</Name>
+  <Name ID="30006">Clã Kurokumo</Name>
   <Name ID="30007">Músicos de Bremen</Name>
-  <Name ID="30008">Oficina Wedge</Name>
-  <Name ID="40001">Asociación shi</Name>
-  <Name ID="40002">Marionetas</Name>
-  <Name ID="40003">El circo de las 8 en punto</Name>
-  <Name ID="40004">Sweepers</Name>
-  <Name ID="40005">Prosélito del Índice</Name>
-  <Name ID="40006">Equipo de limpieza WARP</Name>
-  <Name ID="40007">Caras sonrientes</Name>
-  <Name ID="40008">Los niños llorando</Name>
-  <Name ID="50001">Asociación Liu Sección 2</Name>
-	<Name ID="50002">Asociación Liu Sección 2 Ⅱ</Name>
-  <Name ID="50003">El Pulgar</Name>
-  <Name ID="50004">El Pulgar Ⅱ</Name>
-  <Name ID="50005">Oficina Cane</Name>
-  <Name ID="50006">La Reverberación Azul</Name>
-  <Name ID="50007">Proxy del Índice</Name>
-  <Name ID="50008">Asociación Liu Sección 1</Name>
+  <Name ID="30008">Escritório da Clivagem</Name>
+  <Name ID="40001">Associação Shi</Name>
+  <Name ID="40002">Marionetes</Name>
+  <Name ID="40003">O Circo das 8 Horas</Name>
+  <Name ID="40004">Varredores</Name>
+  <Name ID="40005">Prosélitos do Indicador</Name>
+  <Name ID="40006">Equipe de limpeza WARP</Name>
+  <Name ID="40007">Carinhas Sorridentes</Name>
+  <Name ID="40008">As crianças choronas</Name>
+  <Name ID="50001">Associação Liu Seção 2</Name>
+	<Name ID="50002">Associação Liu Seção 2 Ⅱ</Name>
+  <Name ID="50003">O Polegar</Name>
+  <Name ID="50004">O Polegar Ⅱ</Name>
+  <Name ID="50005">Agência Bastão</Name>
+  <Name ID="50006">A Reverberação Azul</Name>
+  <Name ID="50007">Representantes do Indicador</Name>
+  <Name ID="50008">Associação Liu Seção 1</Name>
   <Name ID="50010">R. Corp.</Name>
   <Name ID="50011">R. Corp. Ⅱ</Name>
-  <Name ID="50012">La Lágrima Purpura</Name>
+  <Name ID="50012">A Lágrima Purpura</Name>
   <Name ID="50013">Xiao</Name>
   <Name ID="50014">얀샋ㄷ요무</Name>
 
-  <Name ID="60001">Asociación Hana</Name>
+  <Name ID="60001">Associação Hana</Name>
   <Name ID="60002">Olivier</Name>
   
-  <Name ID="100001">Carnicero de las Callejuelas</Name>
-	<Name ID="100002">Restos de la Oficina Hook</Name>
-	<Name ID="100003">Sindicato de clase Mito urbano</Name>
-	<Name ID="100004">Fixer grado 8</Name>
-	<Name ID="100005">Fixer grado 7</Name>
-	<Name ID="100006">Oficina de clase Leyenda urbana</Name>
-	<Name ID="100007">Sindicato de clase Leyenda urbana</Name>
-	<Name ID="100008">Pandilla del hacha</Name>
-  <Name ID="100009">Cadenas oxidadas</Name>
-  <Name ID="100010">Fixers afiliados al taller</Name>
-  <Name ID="100011">Asociación Seven</Name>
-  <Name ID="100012">Linaje de la Espada</Name>
-  <Name ID="100013">El Fixer de grado 1 Dong-hwan</Name>
+  <Name ID="100001">Carniceiros da Periferia</Name>
+	<Name ID="100002">Remanescentes da Agência dos Ganchos</Name>
+	<Name ID="100003">Sindicato de classe Mito Urbano</Name>
+	<Name ID="100004">Fixers grau 8</Name>
+	<Name ID="100005">Fixers grau 7</Name>
+	<Name ID="100006">Agência de classe Lenda Urbana</Name>
+	<Name ID="100007">Sindicato de classe Lenda Urbana</Name>
+	<Name ID="100008">Gangue do Machado</Name>
+  <Name ID="100009">Correntes Enferrujadas</Name>
+  <Name ID="100010">Fixers afiliados a Ateliês</Name>
+  <Name ID="100011">Associação Seven</Name>
+  <Name ID="100012">Linhagem da Espada</Name>
+  <Name ID="100013">Dong-Hwan um Fixer de grau 1</Name>
   
   <Name ID="210001">Banho de Sangue</Name>
   <Name ID="210002">Coração da Aspiração</Name>
@@ -113,7 +113,7 @@
   <Name ID="209002">O Preço do Silêncio</Name>
   <Name ID="208002">Pássaro Punitivo</Name>
 
-  <Name ID="50009">La Niebla Rabiaoja</Name>
+  <Name ID="50009">A Névoa Vermelha</Name>
 
   <Name ID="208003">Pássaro do Julgamento</Name>
 
@@ -123,20 +123,20 @@
 
   <Name ID="209003">Estrela Azul</Name>
 
-  <Name ID="70001">Los Niños Llorando</Name>
-  <Name ID="70002">La iglesia de los engranajes</Name>
-  <Name ID="70003">El octavo chef</Name>
-  <Name ID="70004">Los músicos de Bremen</Name>
-  <Name ID="70005">El circo de las 8 en punto</Name>
+  <Name ID="70001">As Crianças Choronas</Name>
+  <Name ID="70002">A Igreja das Engrenagens</Name>
+  <Name ID="70003">O Oitavo Chef</Name>
+  <Name ID="70004">Os Músicos de Bremen</Name>
+  <Name ID="70005">O Circo das 8 Horas</Name>
   <Name ID="70006">L’heure du Loup</Name>
-  <Name ID="70007">El titiritero</Name>
-  <Name ID="70008">La Noche Rojo-Sangre</Name>
-  <Name ID="70009">Promesa de ayer</Name>
-  <Name ID="70010">La Reverberación Azul</Name>
+  <Name ID="70007">O Marionetista</Name>
+  <Name ID="70008">A Noite do Sangue-Rubro</Name>
+  <Name ID="70009">Promessas de Ontem</Name>
+  <Name ID="70010">A Reverberação Azul</Name>
 
-  <Name ID="610000">La Asamblea de reverberación</Name>
+  <Name ID="610000">A Assembleia da Reverberação</Name>
   <Name ID="60003">O Silêncio Preto</Name>
-  <Name ID="60004">Asamblea de Reverberación Distorcionada</Name>
+  <Name ID="60004">Assembleia da Reverberação Distorcida</Name>
 
   <Name ID="60007">???</Name>
 
@@ -148,11 +148,11 @@
   <Name ID="210008">A Rainha da Neve</Name>
   <Name ID="210009">Garota Silênciosa</Name>
 
-  <Name ID="100014">Oficina de Jeong</Name>
-  <Name ID="100015">Punzón nocturno</Name>
-  <Name ID="100016">El Udjat</Name>
+  <Name ID="100014">Agência da Jeong</Name>
+  <Name ID="100015">Despertar Noturno</Name>
+  <Name ID="100016">O Udjat</Name>
   <Name ID="100017">Seguros de vida Mirae</Name>
-  <Name ID="100018">Taller de folletos</Name>
+  <Name ID="100018">Ateliê de Leaflet</Name>
   <Name ID="100019">Bayard</Name>
 
 </CharactersNameRoot>
