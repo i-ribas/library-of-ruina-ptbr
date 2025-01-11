@@ -1386,58 +1386,58 @@ No começo da Cena, Inflige 5 de Fraqueza, Desarme e Amarro a todos os outros pe
       <Abnormality>Chapeuzinho Vermelha Mercenária</Abnormality>
       <CardName>Presa</CardName>
       <AbilityDesc>[Aliado Único]
-Marca al primer enemigo que es atacado por este bibliotecario después que esta página es seleccionada.
-Haz +2-6 de daño cuando atacas a un enemigo Marcado.</AbilityDesc>
-      <FlaborText>La muerte del Lobo es la única cosa que puedo amar en mi vida.</FlaborText>
+Marca o primeiro inimigo que for atacado por este bibliotecário após a página ser selecionada.
+Causa +2-6 de Dano quando atacando o inimigo Marcado.</AbilityDesc>
+      <FlaborText>A morte do lobo é a única coisa que eu posso amar na minha vida.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Soy una pro. Puedo con esto fácilmente.</Dialogue>
-        <Dialogue ID="2">No apartes tus ojos. Fija tu vista en sus movimientos.</Dialogue>
-        <Dialogue ID="3">Una vez fijes tu vista en el objetivo, comprométete con la caza. No te rindas.</Dialogue>
-        <Dialogue ID="4">Fija tu mirada en el objetivo y corre hacia el, ten la resolución de matar, sin importar lo que tome.</Dialogue>
-        <Dialogue ID="5">Si me haces una petición, entonces podría ayudarte.</Dialogue>
+        <Dialogue ID="1">Sou uma profissional. Posso lidar com isso fácilmente.</Dialogue>
+        <Dialogue ID="2">Não tire seus olhos dele. Preste atenção em seus movimentos.</Dialogue>
+        <Dialogue ID="3">Assim que você tiver seus olhos no alvo, vá até o fim com a caçada. Não desista.</Dialogue>
+        <Dialogue ID="4">Fixe seu olhar no alvo e corra até ele. Tenha a determinação para mata-lo, custe o que custar.</Dialogue>
+        <Dialogue ID="5">SE você me pedir algo, eu talvez te ajude.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Redhood_Revenge">
       <Abnormality>Chapeuzinho Vermelha Mercenária</Abnormality>
-      <CardName>Venganza</CardName>
+      <CardName>Vingança</CardName>
       <AbilityDesc>[Aliado Único]
-Al comienzo de una escena, gana Fuerza basada en la cantidad de daño recibido la escena anterior. (1 de Fuerza cada 5 de daño, hasta 2)</AbilityDesc>
-      <FlaborText>Entre nosotros, no hay victoria para ser ganada. Todo en lo que pienso es en como mataré a ese bastardo en muchas más horribles y dolorosas formas que la última vez.</FlaborText>
+Ao começo da Cena, ganhe Força baseado na quantidade de dano recebido na Cena anterior (1 de Força para 5 de Dano, até 2)</AbilityDesc>
+      <FlaborText>Cá entre nós, não há vitória a ser vencida. Tudo o que eu penso é como eu vou matar esse bastardo de um jeito mais cruel e doloroso do que a última vez.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">He estado afilando la hoja para decapitar a ese maldito Lobo.</Dialogue>
-        <Dialogue ID="2">Entrégame a ese terrible y astuto bastardo.</Dialogue>
-        <Dialogue ID="3">Colgaré su cabeza sobre mi cama. Solo entonces podré levantarte en la mañana sin tener una pesadilla.</Dialogue>
-        <Dialogue ID="4">Todo era para leer al enemigo. Ahora es tiempo de regresar el favor.</Dialogue>
+        <Dialogue ID="1">Estive afiando a lâmina para decapitar aquele maldito lobo.</Dialogue>
+        <Dialogue ID="2">Entregue-me esse terrível, e ardiloso bastardo.</Dialogue>
+        <Dialogue ID="3">Eu vou pendurar a cabeça dele em cima da minha cama. Somente assim eu poderei acordar de manhã sem ter tido um pesadelo.</Dialogue>
+        <Dialogue ID="4">Tudo isso para ler o inimigo. Hora de retribuir o favor</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Redhood_RedScar">
       <Abnormality>Chapeuzinho Vermelha Mercenária</Abnormality>
-      <CardName>Caperucita roja</CardName>
+      <CardName>Cicatrizes a Mostra</CardName>
       <AbilityDesc>[Aliado Único]
-Si el HP del bibliotecario está en 50%/35%/25% o menos, gana 1/2/4 de Fuerza cada escena.</AbilityDesc>
-      <FlaborText>Me acostumbré a afilar el hacha en lugar de recoger flores cuando tenía 15.</FlaborText>
+Se o HP do bibliotecário está em 50%/35%/25% ou menos, ganha 1/2/4 de Força a cada Cena.</AbilityDesc>
+      <FlaborText>Me acostumei a afiar machados ao invés de pegar flores quando eu tinha 15.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Esta no es la orgullosa decoración de una superviviente. Es la prueba de mi voluntad para vivir.</Dialogue>
-        <Dialogue ID="2">Mientras más cicatrices tengas, más fuerte se vuelve tu voluntad para sobrevivir.</Dialogue>
-        <Dialogue ID="3">No tengas orgullo de esto. Es una señal de que no tuviste suficiente habilidad.</Dialogue>
-        <Dialogue ID="4">…Se siente horrible cuando miro estas cicatrices. Hace que me estremezca de rabia.</Dialogue>
+        <Dialogue ID="1">Não são as decorações orgulhosas de um sobrevivente. São a prova da minha vontade de viver.</Dialogue>
+        <Dialogue ID="2">Quanto mais cicatrizes você ganha, mais forte a sua vontade de sobreviver se torna.</Dialogue>
+        <Dialogue ID="3">Não tenha orgulho disso. São o sinal que você não tem habilidade o bastante.</Dialogue>
+        <Dialogue ID="4">…Me sinto terrível quando eu olho para essas cicatrizes. Elas fazem eu me tremer de raiva.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
      <AbnormalityCard ID="BigBadWolf_Claw">
       <Abnormality>Lobo Grande que Será Mau</Abnormality>
-      <CardName>Garras feroces</CardName>
+      <CardName>Garras de Salvageria</CardName>
       <AbilityDesc>[Aliado Único]
-Después que el bibliotecario reciba un daño mayor a 25% de su HP máximo, no puede ser Seleccionado ni Enfrentado la siguiente escena.
-El bibliotecario gana 2 de Fuerza esa escena, e inflige de 1 Sangrado con cada ataque exitoso.</AbilityDesc>
-      <FlaborText>Érase una vez que se era, esas garras abrirían los vientres de muchas criaturas y desgarraría sus tripas.</FlaborText>
+Depois que o bibliotecário sofrer 25% da vida máxima ou mais em dano, ele não pode ser Selecionado para Embates ou interceptado na próxima Cena
+O bibliotecário ganha 2 de Força na Cena e causa 1 de Sangramento com cada ataque.</AbilityDesc>
+      <FlaborText>Era uma vez, essas garras poderiam cortar as barrigas de várias criaturas e dilacerar suas entranhas.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Qué afiladas garras tenía, lo mejor que podría cumplir el papel por el que nací…</Dialogue>
-        <Dialogue ID="2">El Lobo nació para hacer cosas malas y ser castigado acordemente…</Dialogue>
-        <Dialogue ID="3">Esas violentas y salvajes garras siempre desgarrarían en la piel de carne fresca…</Dialogue>
-        <Dialogue ID="4">Nada era mejor que esas garras para desgarrar las tripas de alguien…</Dialogue>
+        <Dialogue ID="1">Que garras grandes que eu tenho, para melhor servir o papel que eu nasci para servir…</Dialogue>
+        <Dialogue ID="2">O lobo nasceu para fazer coisas más e ser punido de acordo…</Dialogue>
+        <Dialogue ID="3">Essas violentas e selvagens garras irão sempre rasgar a pele de carne fresca…</Dialogue>
+        <Dialogue ID="4">Nada era melhor que essas garras rasgando as tripas de alguém…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -1445,29 +1445,29 @@ El bibliotecario gana 2 de Fuerza esa escena, e inflige de 1 Sangrado con cada a
       <Abnormality>Lobo Grande que Será Mau</Abnormality>
       <CardName>Instinto</CardName>
       <AbilityDesc>[Aliado Único]
-Cada vez que el bibliotecario seleccionado gana un choque, el último dado de su página actual gana 1-2 de Poder.
-Recupera 3-7 de HP al golpear con éxito con su último dado.</AbilityDesc>
-      <FlaborText>El sabor de la carne era tan bueno después de no hacerlo por tanto tiempo. Desde entonces, se volvió más y más duro mantenerse a raya. Aun así, no le importo. Después de todo, él fue “Destinado” a ser un gran Lobo malo.</FlaborText>
+Sempre que o bibliotecário selecionado ganha um Embate, o último dado da página ganha 1-2 de Poder.
+Recupere 3-7 de HP ao golpear com o esse último dado.</AbilityDesc>
+      <FlaborText>O sabor da cerne era tão bom depois de tanto sempo sem devora-la. Desde então, ficou mais e mais difícil dele se manter em cheque. Ainda assim, não importava para ele. Afinal, ele estava 'destinado' a ser o grande Lobo Mau.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Este lugar apesta a un hedor horrible… Me llama…</Dialogue>
-        <Dialogue ID="2">Como una luna vacía repleta con oscuridad, mi barriga debería ser llenada con carne…</Dialogue>
-        <Dialogue ID="3">Mirarte me hace babear…</Dialogue>
-        <Dialogue ID="4">Si puedo llenar mi estómago… estaría satisfecho…</Dialogue>
+        <Dialogue ID="1">Este lugar tem um cheiro horrível… Ele me chama…</Dialogue>
+        <Dialogue ID="2">Como a lua vazia cheia de escuridão, minha barriga deveria estar cheia de carne…</Dialogue>
+        <Dialogue ID="3">Olhar para você me dá água na boca…</Dialogue>
+        <Dialogue ID="4">Se eu puder encher meu estômago… Ficarei satisfeito…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="BigBadWolf_Change">
       <Abnormality>Lobo Grande que Será Mau</Abnormality>
-      <CardName>El papel del lobo</CardName>
+      <CardName>O Papel do Lobo</CardName>
       <AbilityDesc>[Aliado Único]
-Los dados de contraataque ganan 1-2 de Poder.
-Los dados de contraataque infringen 2 de Frágil al ganar un choque. (3 veces por escena)</AbilityDesc>
-      <FlaborText>Los lobos no podían cruzar la línea cuando hacían cosas malas. Y los lobos tenían que ser castigados. Los lobos siempre necesitaban ser un ejemplo.</FlaborText>
+Os dados de Contra-ataque ganham 1-2 de Poder.
+Os dados de Contra-ataque infligem 2 de Fragil ao ganhar o Embate. (3 veces por escena)</AbilityDesc>
+      <FlaborText>Lobos não podiam cruzar a linha quando fazendo coisas ruins. E lobos tinham que ser punidos. Lobos sempre tinham que ser o exemplo.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">No importa… estoy destinado a ser un gran Lobo malo…</Dialogue>
-        <Dialogue ID="2">Todos me llaman así, así que necesita ser verdad… Los viejos cuentos nunca se equivocan…</Dialogue>
-        <Dialogue ID="3">Un Lobo no necesita nombre, solo obedece el papel para el que nació…</Dialogue>
-        <Dialogue ID="4">Nadie nunca deseo acercarse a un Lobo aterrador……</Dialogue>
+        <Dialogue ID="1">Não importa… Estou fadado a ser o grande Lobo Mau…</Dialogue>
+        <Dialogue ID="2">Todos me chamavam assim, então deve ser verdade… Velhos contos nunca estão errados…</Dialogue>
+        <Dialogue ID="3">Um lobo não precisa de nome, ele apenas obedece ao papel para o qual nasceu…</Dialogue>
+        <Dialogue ID="4">Ninguém nunca desejou estar perto do Lobo assustador……</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -1475,125 +1475,125 @@ Los dados de contraataque infringen 2 de Frágil al ganar un choque. (3 veces po
       <Abnormality>Montanha de Corpos Sorridentes</Abnormality>
       <CardName>Absorción</CardName>
 <AbilityDesc>[Aliado Único]
-Por la duración del acto, recupera 20% de HP máximo (Máx. 20) al derrotar a un enemigo.
-Al comienzo de una escena, gana Fuerza basado en la cantidad de HP que el bibliotecario ha recuperado este acto. (1 de Fuerza cada 10% de HP máximo curado, hasta 3)</AbilityDesc>
-      <FlaborText>Solo quiere una cosa: nuestra carne empapada en sangre. Una vez consigue una bocanada del aroma, nos perseguirá al instante.</FlaborText>
+Pela duração do Ato, recupere 20% do HP máximo (Máx. 20) sempre que derrotar um inimigo
+Ao começo da Cena, ganha Força baseada na quantidade de HP que o biblitecário recuperou nesse Ato. (1 de Força cada 10% de HP máximo curado, até 3)</AbilityDesc>
+      <FlaborText>Ele só queria uma coisa: Nossa carne banhada em sangue. Assim que conseguir cheirar a essência, ele vai nos perseguir instantaneamente .</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Carne… Delicioso… car…ne…</Dialogue>
-        <Dialogue ID="2">El olor… por… aquí…</Dialogue>
-        <Dialogue ID="3">No… suficiente… necesito comer… más…</Dialogue>
-        <Dialogue ID="4">Más cuerpos… me hará… más fuerte…</Dialogue>
+        <Dialogue ID="2">Esse cheiro… por… aqui…</Dialogue>
+        <Dialogue ID="3">Não… suficiente… preciso comer… mais…</Dialogue>
+        <Dialogue ID="4">Mais corpos… vão… me fazer… mais fortes…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Mountain_Shout">
       <Abnormality>Montanha de Corpos Sorridentes</Abnormality>
-      <CardName>Risa</CardName>
+      <CardName>Risada</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando el bibliotecario recibe un golpe mientras su HP es 50% o menos, estalla un Chillido con una probabilidad del 50%. (hasta 3 veces por escena)
-El Chillido hace 2-5 de daño de aturdimiento a todos los enemigos e inflige de 1 Frágil la siguiente escena.</AbilityDesc>
-      <FlaborText>Desde la montaña de cuerpos; la muerte dio vida a algo. La muerte se fusionó una con otra, todas sonriendo.</FlaborText>
+Quando o bibliotecário recebe um ataque quando o HP dele está em 50% ou menos, 50% de chance de explodir com um grito. (Até 3 vezes por Cena)
+O grito causa 2-5 de Dano de Atordoamento a todos os inimigos e inflige 1 de Frágil na próxima cena.</AbilityDesc>
+      <FlaborText>Da montanha de corpos; os mortos deram vida a algo. Os mortos se fundiam um com o outro, todos sorrindo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Krrrh… Ghh… Grgh…</Dialogue>
-        <Dialogue ID="2">Nosotros ayudamos… a cada uno… compartiendo con cada uno… nuestras manos… y pies…</Dialogue>
-        <Dialogue ID="3">Todos… están sonriendo… nosotros… somos felices…</Dialogue>
-        <Dialogue ID="4">Nosotros estamos… juntos… ayudando…</Dialogue>
+        <Dialogue ID="2">Nós ajudamos… uns aos outros… Compartilhando com todos… nossas mãos… e pés…</Dialogue>
+        <Dialogue ID="3">Todos… estão sorrindo… nós… somos felizes…</Dialogue>
+        <Dialogue ID="4">Nós estamos… juntos… ajudando…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Mountain_Vomit">
       <Abnormality>Montanha de Corpos Sorridentes</Abnormality>
-<CardName>Montaña de cuerpos</CardName>
+<CardName>Montanha de Corpos</CardName>
 <AbilityDesc>[Aliado Único]
-Todos los bibliotecarios excepto el seleccionado son matados inmediatamente al seleccionar esta página. 
-El bibliotecario seleccionado gana la capacidad máxima de Luz, restauración de Luz, Fuerza, Protección y Prisa proporcional al número de bibliotecarios asesinados por el resto de la batalla.</AbilityDesc>
-      <FlaborText>Mientras más cuerpos se cruzara, más definida se volvía su forma. Y nunca estaba satisfecho.</FlaborText>
+Todos os bibliotecários com excessão do que foi selecionado, morrem imediatamente quando essa página é escolhida. 
+O bibliotecário selecionado recebe Capacidade Máxima de Luz, Restauração de Luz, Força, Proteção, e Celeridade proporcional ao número de bibliotecários mortos pelo resto da batalha.</AbilityDesc>
+      <FlaborText>Quanto mais corpos encontrava, mais definida ficava sua forma. E nunca estava satisfeita.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Necesito… necesito volverme uno… de nuevo…</Dialogue>
-        <Dialogue ID="2">Necesito volver… necesito… apurarme…</Dialogue>
-        <Dialogue ID="3">No… esto es… no es… bueno…</Dialogue>
-        <Dialogue ID="4">No te caigas… juntémonos de nuevo… somos uno…</Dialogue>
+        <Dialogue ID="1">Preciso… Preciso ser um… de novo…</Dialogue>
+        <Dialogue ID="2">Preciso voltar… Preciso… apressar…</Dialogue>
+        <Dialogue ID="3">Não… isso não é… nada… bom…</Dialogue>
+        <Dialogue ID="4">Não caia… junte-se de novo… somos um…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Nosferatu_BloodHope">
       <Abnormality>Nosferatu</Abnormality>
-      <CardName>Miedo al agua</CardName>
+      <CardName>Medo de água</CardName>
       <AbilityDesc>[Aliado Único]
-Al golpear, inflige de 1 Sangrado la siguiente escena y gana 1 de Sangre.(Exclui Ataques Em Massa)
-La 'Sangre' da varios efectos dependiento de la cantidad, tales como incrementar el daño del ataque al coste de HP, recibiendo daño de aturdimiento al comienzo de una escena y otorgando Fuerza.</AbilityDesc>
-      <FlaborText>Parece perdido. Estaba buscando algo, pero no sabe lo que quiere encontrar.</FlaborText>
+Ao golpear, inflige 1 de Sangramento e ganha 1 de Sangue.(Exclui Ataques Em Massa)
+'Sangue' concede vários defeitos dependendo da quantidade, como aumentar dano ao custo de HP, receber dano de Atordoamento em troca de Força.</AbilityDesc>
+      <FlaborText>Ele parece perdido. Parece procurar por algo, mas ele não parece saber o que é que ele quer encontrar.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¡Sangre… Quiero sangre vívida!</Dialogue>
-        <Dialogue ID="2">Una noche cuando le permiten a uno perseguir todo tipo de deseos… Una interminable, noche rojo sangre.</Dialogue>
-        <Dialogue ID="3">¡La sangre en su forma más pura y clara! ¡Me da una eterna felicidad!</Dialogue>
-        <Dialogue ID="4">¡La danza macabra es con todos! ¡Todos y cada uno tienen la posibilidad de ser comidos!</Dialogue>
+        <Dialogue ID="1">Sangue… Quero sangue vívido!</Dialogue>
+        <Dialogue ID="2">Uma noite que todos podem buscar todo o tipo de desejo… Uma eterna, noite vermelho-sangue.</Dialogue>
+        <Dialogue ID="3">O sangue- em sua pura e límpida forma! Me traz felicidade eterna!</Dialogue>
+        <Dialogue ID="4">A Danse Macabre está com todos! Todos e quaisquer têm uma boa chance de serem devorados!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Nosferatu_Wine">
       <Abnormality>Nosferatu</Abnormality>
-      <CardName>Vino</CardName>
+      <CardName>Vinho</CardName>
       <AbilityDesc>[Aliado Único]
-Al derrotar a un enemigo con 'Sangre', Todos os Aliados recuperan 10 HP y el bibliotecario seleccionado gana 'Sangre' máxima.</AbilityDesc>
-      <FlaborText>Mantiene una forma humana, pero una sola gota de sangre debería ser suficiente para que se transforme en un monstruo feroz y pase toda la noche incontrolable.</FlaborText>
+Ao derrotar um inimigo com Sangramento, todos os aliados recuperam 10 de HP, e o bibliotecário selecionado ganha 'Sangue' máximo.</AbilityDesc>
+      <FlaborText>Ele mantém a forma humana, mas uma única gota de sangue deve ser o bastante para ele se transformar em um monstro feroz e passar o resto da noite em frenezi.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Ah… Frenar el dolor de esta sed no es exactamente una vista agradable.</Dialogue>
-        <Dialogue ID="2">Es demasiado temprano para una siesta… ¿No te unirías a mí para compartir el placer?</Dialogue>
-        <Dialogue ID="3">Olvida la esperanza falsa y olvídate de la pretensión de humanidad…</Dialogue>
-        <Dialogue ID="4">Tentado por una sed inaguantable, la copa se vació.</Dialogue>
+        <Dialogue ID="1">Ah… Conter a dor dessa sede não é algo exatamente agradável de se ver.</Dialogue>
+        <Dialogue ID="2">Está muito cedo para dormir… Você não quer se juntar a mim e dividir o prazer?</Dialogue>
+        <Dialogue ID="3">Perca a falsa esperança, e esqueça a pretensão da humanidade…</Dialogue>
+        <Dialogue ID="4">Tentado por uma sede incontrolável, a taça está vazia.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="Nosferatu_Vampire">
       <Abnormality>Nosferatu</Abnormality>
       <CardName>Vampirismo</CardName>
       <AbilityDesc>[Aliado Único]
-Haz +2-4 de daño y recupera 2-5 de HP al atacar a un enemigo con 'Sangre'.(Exclui Ataques Em Massa)</AbilityDesc>
-      <FlaborText>…Y la sed nunca podría ser verdaderamente saciada.</FlaborText>
+Causa +2-4 de dano e recupera 2-5 de HP quando atacando inimigos com Sangramento.(Exclui Ataques Em Massa)</AbilityDesc>
+      <FlaborText>…E a sede nunca poderia ser verdadeiramente saciada.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¡La muerte tiene una danza macabra con todos! ¡Todos tienen la posibilidad de ser comidos!</Dialogue>
-        <Dialogue ID="2">¡Tiempo para un festín! ¡Disfruta la noche rojo sangre imbuida con locura hasta saciar tu corazón!</Dialogue>
-        <Dialogue ID="3">¡No hay escape de esta sed!</Dialogue>
-        <Dialogue ID="4">¡Muérdelo todo! ¡Bebe hasta la última gota!</Dialogue>
+        <Dialogue ID="1">O morce dança de forma macabra com todos! Todos vocês tem a chance honesta de serem consumidos</Dialogue>
+        <Dialogue ID="2">Hora de um banquete! Aproveite a noite vermelho-sangue imbuída de loucura o quanto quiser!</Dialogue>
+        <Dialogue ID="3">Não há como fugir desta sede!</Dialogue>
+        <Dialogue ID="4">Mastique tudo! Beba até a última gota!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="NothingThere_Goodbye">
-      <Abnormality>Nada ahí</Abnormality>
-      <CardName>Goodbye</CardName>
+      <Abnormality>Nada Aqui</Abnormality>
+      <CardName>Adeus</CardName>
       <AbilityDesc>[Aliado Único]
-Dobla el Poder del último dado que el bibliotecario juega cada escena.</AbilityDesc>
-      <FlaborText>Si se ha confirmado que ha escapado y se ha levantado en sus dos pies, solo hay una cosa que puedes hacer. Mantén tu postura, junta tus manos cuidadosamente y reza a lo que sea que creas mientras observas como la situación se desenvuelve.</FlaborText>
+Dobra o Poder do último dado que o bibliotecário usar por Cena.</AbilityDesc>
+      <FlaborText>Se foi confirmado que aquilo escapou e está de pé, tem apenas uma coisa que pode fazer. Ajoelhe-se, entrelace suas mãos, reze futilmente para qualquer deus que puder te ouvir e observe a situação se desdobrar</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¡¡¡Ayúda…me… Ayú… AYÚDAME!!!</Dialogue>
-        <Dialogue ID="2">¡¿ESTÁ ALGUIEN… GUIEN… AHÍ?! ¡¡¡ALGUIEN AHÍ!!!</Dialogue>
-        <Dialogue ID="3">No… quie… N… no quiero… No quiero morir…</Dialogue>
-        <Dialogue ID="4">Hola. Hol-a. Ho… la… Hola.</Dialogue>
+        <Dialogue ID="1">Me… Ajude… Aju… ME AJUDE!!!</Dialogue>
+        <Dialogue ID="2">TEM ALGUÉM… GUÉM… AÍ?! ALGUÉM AÍ!!!</Dialogue>
+        <Dialogue ID="3">Não… quero… N… não quero… Não quero morrer…</Dialogue>
+        <Dialogue ID="4">Olá. O-lá. O… lá… Olá.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="NothingThere_Hello">
-      <Abnormality>Nada ahí</Abnormality>
-      <CardName>¿Hello?</CardName>
+      <Abnormality>Nada Aí</Abnormality>
+      <CardName>Olá?</CardName>
       <AbilityDesc>[Aliado Único]
-Cada escena, el primer dado que el bibliotecario juega recupera HP igual a la cantidad de daño que hace.</AbilityDesc>
-      <FlaborText>“Lo que es peor, es que trata de copiar a los humanos. Haciendo cosas como mirarse al espejo, murmurar para sí mismo, o intentar arreglar su postura; es como si estuviera tratando de imitar a ‘nosotros’.”</FlaborText>
+A cada Cena, o primeiro dado que o bibliotecário jogar recupera Hp igual a quantidade de dano causado.</AbilityDesc>
+      <FlaborText>“O que era pior, é que tentava imitar humanos. Fazendo coisas como olhar no espelho, murmurando pra si mesmo, ou tentando ajeitar sua estrutura esqueletal; como se estivesse tentando imitar 'nós'.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Mon… stuo. Ese… mons… truo… Ese monstruo… por qué está aquí…</Dialogue>
-        <Dialogue ID="2">¡¡…a …uda!!! ¡¡Salven… me!</Dialogue>
-        <Dialogue ID="3">E… es… horr… ible… monstruo… monstruo…</Dialogue>
-        <Dialogue ID="4">¿ol… ola… Hola? ¿ola… Hola?</Dialogue>
+        <Dialogue ID="1">Mon… stro. Ese… mons… tro… Esse monstro… porque está aquí…</Dialogue>
+        <Dialogue ID="2">…er …ger!!! Me… Salvem!</Dialogue>
+        <Dialogue ID="3">E… es… horr… ivel… monstro… monstro…</Dialogue>
+        <Dialogue ID="4">O… la… Olá? ¿la… Olá?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="NothingThere_Skin">
-      <Abnormality>Nada ahí</Abnormality>
-      <CardName>Cáscaron</CardName>
+      <Abnormality>Nada Aqui</Abnormality>
+      <CardName>Casca</CardName>
       <AbilityDesc>[Aliado Único]
-Nulifica todo el daño de aturdimiento de los ataques.</AbilityDesc>
-      <FlaborText>Su apariencia se asemeja a un humano, pero ciertamente no es humano.  Devora empleados periódicamente para poder usar su cascarón. El esqueleto y los órganos están fuera de lugar durante el proceso, lo que hace que tome una forma bizarra.</FlaborText>
+Nulifica todo o Dano de Atordoamento vindo de ataques.</AbilityDesc>
+      <FlaborText>Sua aparência imita humano, mas não se parece humano. Periodicamente devora os funcionários e veste suas cascas. O esqueleto e órgãos são colocados aleatóriamente, então ele toma uma forma bizarra.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Amo… Am… te… Te amo…</Dialogue>
-        <Dialogue ID="2">Quiero… un cáscaron… Cáscaron…</Dialogue>
-        <Dialogue ID="3">Gra… s… Gracias. Gracias.</Dialogue>
-        <Dialogue ID="4">Genial… Genial. Genial.</Dialogue>
+        <Dialogue ID="2">Quero… uma casca… Casca…</Dialogue>
+        <Dialogue ID="3">Obri… ga… Obrigado. Obrigado.</Dialogue>
+        <Dialogue ID="4">Legal… Legal. Legal.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
@@ -2041,7 +2041,7 @@ Todos los ataques del 'Intruso' hacen 2-4 menos de daño y daño de aturdimiento
   <Sephirah SephirahType="Hokma">
     <AbnormalityCard ID="Bloodytree_Wing">
       <Abnormality>O Céu Perfurador</Abnormality>
-      <CardName>Alas ensangrentadas</CardName>
+      <CardName>Alas enSanguentadas</CardName>
       <AbilityDesc>[Aliado Único]
 Al desviar daño, haz la mitad del resultado del dado de bloqueo como daño fisico al oponente.</AbilityDesc>
       <FlaborText>Una vez reconoce que ha perdido tu atención… Extenderá sus alas. Como un ángel, sus alas llegarán a los cielos y se extenderán a la tierra, eventualmente bloqueando el sol.</FlaborText>
