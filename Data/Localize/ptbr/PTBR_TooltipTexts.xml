@@ -15,7 +15,7 @@
 
   <!--Auto tooltip-->
   
-  <text id="ui_autotooltip_invitation_storyslot_title">Eleger Convidados</text>
+  <text id="ui_autotooltip_invitation_storyslot_title">Chamar Convidados</text>
   <text id="ui_autotooltip_invitation_storyslot_content">Uma &#60;color=#ff5622ff&#62;‘recepção’&#60;/color&#62; começa a enviar um &#60;color=#ff5622ff&#62;‘Convite’&#60;/color&#62; ao convidado que deseja receber.</text>
 
   <text id="ui_autotooltip_invitation_storyslotlevelicon_title">Era uma vez</text>
