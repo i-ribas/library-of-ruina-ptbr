@@ -629,10 +629,10 @@
   <text id="C_roland_Wisdom_Chesed_start">Seja como for, bora lá~ Cês sabem como, né?</text>
   <text id="C_roland_Wisdom_Chesed_die">Parece que eu cheguei no meu limite…</text>
 
-  <text id="C_roland_Wisdom_librarian1_start">Sei não… Temos que fazer o que pudermos de alguma forma</text>
-  <text id="C_roland_Wisdom_librarian2_start">É preciso muita energia para aceitar uma revelação e realmente mudar sua mentalidade.</text>
-  <text id="C_roland_Wisdom_librarian3_start">Você tem razão. Mesmo pequenos pensamentos são difíceis de mudar sozinho…</text>
-  <text id="C_roland_Wisdom_librarian4_start">Espero que nós possamos ajudar.</text>
+  <text id="C_roland_Wisdom_librarian1_start">Ei, dar conselhos também não funciona sempre.</text>
+  <text id="C_roland_Wisdom_librarian2_start">Não sei se isso é uma boa maneira de resolver sentimentos ruins…</text>
+  <text id="C_roland_Wisdom_librarian3_start">Pois é. Nunca tinha visto ele tão chateado assim…</text>
+  <text id="C_roland_Wisdom_librarian4_start">Ouvi muito sobre isso, mas mesmo assim eu me confundi.</text>
 
   <text id="C_roland_Woodsman_Chesed_start">Essa “floresta” nunca desaparecerá.</text>
   <text id="C_roland_Woodsman_Chesed_die">Parece que eu cheguei no meu limite…</text>
@@ -666,42 +666,42 @@
   <text id="C_roland_Oz_librarian3_start">Todas essas são coisas que são boas nos padrões dele…</text>
   <text id="C_roland_Oz_librarian4_start">Fazer as pessoas felizes?… Mas que mentira.</text>
   <!-- Floor of Philosophy Realization -->
-  <text id="B_roland_Big_Binah_start">Correcto. Dejaremos que él exprese todos sus sentimientos primero.</text>
+  <text id="B_roland_Big_Binah_start">De fato. Vamos deixá-lo expressar livremente seus sentimentos primeiro.</text>
   <text id="B_roland_Big_Binah_die">…</text>
 
-  <text id="B_roland_Big_librarian1_start">No sé… Tenemos que hacer todo lo que podamos…</text>
-  <text id="B_roland_Big_librarian2_start">Se necesita demasiada energía para tener una revelación y cambiar tu forma de pensar.</text>
-  <text id="B_roland_Big_librarian3_start">Tienes razón. Incluso los pequeños pensamientos son difíciles de cambiar por nosotros mismos…</text>
-  <text id="B_roland_Big_librarian4_start">Me pregunto si podemos ser de alguna ayuda.</text>
+  <text id="B_roland_Big_librarian1_start">Sei não… Temos que fazer o que pudermos de alguma forma.</text>
+  <text id="B_roland_Big_librarian2_start">É preciso muita energia para aceitar uma revelação e realmente mudar sua mentalidade.</text>
+  <text id="B_roland_Big_librarian3_start">Você tem razão. Mesmo pequenos pensamentos são difíceis de mudar sozinho…</text>
+  <text id="B_roland_Big_librarian4_start">Espero que nós possamos ajudar.</text>
 
-  <text id="B_roland_Small_Binah_start">Te recomiendo centrarte en el presente, en lugar de preocuparte por el futuro.</text>
+  <text id="B_roland_Small_Binah_start">Sugiro que você seja fiel ao momento presente, em vez de se preocupar com o futuro.</text>
   <text id="B_roland_Small_Binah_die">…</text>
 
-  <text id="B_roland_Small_librarian1_start">Un momento… ¿No vamos a enfrentarnos a lo que pienso que vamos a enfrentarnos al final, verdad?</text>
-  <text id="B_roland_Small_librarian2_start">Ahora mismo, tenemos que manejar a esa bestia…</text>
-  <text id="B_roland_Small_librarian3_start">Depende de la persona.</text>
-  <text id="B_roland_Small_librarian4_start">¿Es correcto imponer tu propia justicia y castigar a lo demás de acuerdo a ella?</text>
+  <text id="B_roland_Small_librarian1_start">Peraí… Não vamos ter que enfrentar o que eu tô pensando no fim, né?</text>
+  <text id="B_roland_Small_librarian2_start">No momento, temos que lidar com esse bixo…</text>
+  <text id="B_roland_Small_librarian3_start">Depende da pessoa.</text>
+  <text id="B_roland_Small_librarian4_start">É certo alguém impor a sua própria definição de justiça e punir outros com base nela?</text>
 
-  <text id="B_roland_Long_Binah_start">Dejemos la discusión sobre la conveniencia por ahora.</text>
+  <text id="B_roland_Long_Binah_start">Vamos suspender a discussão sobre a sensatez disso por enquanto.</text>
   <text id="B_roland_Long_Binah_die">…</text>
 
-  <text id="B_roland_Long_librarian1_start">Si piensas que es correcto, entonces se vuelve algo correcto; ¿no es así como funciona?</text>
-  <text id="B_roland_Long_librarian2_start">Determinarlo es muy subjetivo en primer lugar…</text>
-  <text id="B_roland_Long_librarian3_start">No puedes simplemente dibujar una línea en la arena para separar el bien y el mal.</text>
-  <text id="B_roland_Long_librarian4_start">Una balanza injusta… Sí puedo llamarla así.</text>
+  <text id="B_roland_Long_librarian1_start">Se você acredita que é justo, então se torna algo justo; não é assim que funciona?</text>
+  <text id="B_roland_Long_librarian2_start">Determinar isso é uma questão bem subjetiva…</text>
+  <text id="B_roland_Long_librarian3_start">Nem tudo é preto e branco.</text>
+  <text id="B_roland_Long_librarian4_start">Uma balança injusta… É o que eu a chamaria.</text>
 
-  <text id="B_roland_End_Binah_start">Esa es la razón por la que lo ayudamos.</text>
+  <text id="B_roland_End_Binah_start">É por isso que estamos ajudando-o.</text>
   <text id="B_roland_End_Binah_die">…</text>
 
-  <text id="B_roland_End_librarian1_start">¿Supongo que verlo no cuenta como enfrentarlo, verdad?</text>
-  <text id="B_roland_End_librarian2_start">¿Quién hubiera dicho que tendríamos que enfrentar ESTE miedo otra vez?</text>
-  <text id="B_roland_End_librarian3_start">Realmente se siente como el final…</text>
-  <text id="B_roland_End_librarian4_start">Sra. Binah… Parece que estamos llegando a una conclusión.</text>
-  
+  <text id="B_roland_End_librarian1_start">Apenas vê-lo não conta como enfrentá-lo, né?</text>
+  <text id="B_roland_End_librarian2_start">Quem diria que teríamos que enfrentar ESTE medo de novo?</text>
+  <text id="B_roland_End_librarian3_start">Realmente parece que é o fim…</text>
+  <text id="B_roland_End_librarian4_start">Dona Binah… Parece que estamos quase chegando à conclusão.</text>
+  <!-- Blue Star -->
   <text id="BlueStar_Hokma_start">Si tu fe en algo es lo suficientemente fuerte, entonces tu mente no caerá en ninguna tentación.</text>
   <text id="BlueStar_Hokma_die">…</text>
   <text id="BlueStar_Hokma_kill">… Les sugiero descansar. Organizaremos todo esto cuando vuelvan a sus sentidos.</text>
-  <!-- Blue Star -->
+
   <text id="BlueStar_librarian1_start">Si no nos mantenemos alertas… Podríamos ser arrastrados a ese lugar.</text>
   <text id="BlueStar_librarian1_die">Ahh… Es aquí… ¡Por favor llevame…!</text>
   <text id="BlueStar_librarian1_kill">Eso fue repugnante… Realmente no tengo ganas de terminar ahí dentro.</text>
@@ -733,7 +733,7 @@
 
   <text id="H_Angela_whitenight_2Phase_Hokma_start">Debemos mantener la fe con una determinación inquebrantable.</text>
   <text id="H_Angela_whitenight_2Phase_Hokma_die">…</text>
-  
+
   <text id="H_Angela_whitenight_2Phase_librarian1_start">…Hokma, señor. ¿Existe otra forma que podamos hacer esto?</text>
   <text id="H_Angela_whitenight_2Phase_librarian2_start">¿Nosotros… lo hicimos mal? ¿Dónde nos equivocamos…?</text>
   <text id="H_Angela_whitenight_2Phase_librarian3_start">Yo pensé que se había acabado…</text>
