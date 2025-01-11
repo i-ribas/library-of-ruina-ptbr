@@ -698,22 +698,21 @@
   <text id="B_roland_End_librarian3_start">Realmente parece que é o fim…</text>
   <text id="B_roland_End_librarian4_start">Dona Binah… Parece que estamos quase chegando à conclusão.</text>
   <!-- Blue Star -->
-  <text id="BlueStar_Hokma_start">Si tu fe en algo es lo suficientemente fuerte, entonces tu mente no caerá en ninguna tentación.</text>
+  <text id="BlueStar_Hokma_start">Se sua fé em algo for forte o suficiente, sua mente não cairá em tentação.</text>
   <text id="BlueStar_Hokma_die">…</text>
-  <text id="BlueStar_Hokma_kill">… Les sugiero descansar. Organizaremos todo esto cuando vuelvan a sus sentidos.</text>
+  <text id="BlueStar_Hokma_kill">…Peço que descansem primeiro. Deixe-nos organizar quando vocês tiverem recuperado o juízo.</text>
 
-  <text id="BlueStar_librarian1_start">Si no nos mantenemos alertas… Podríamos ser arrastrados a ese lugar.</text>
-  <text id="BlueStar_librarian1_die">Ahh… Es aquí… ¡Por favor llevame…!</text>
-  <text id="BlueStar_librarian1_kill">Eso fue repugnante… Realmente no tengo ganas de terminar ahí dentro.</text>
+  <text id="BlueStar_librarian1_start">Se não ficarmos espertos… Vamos ser arrastados pra lá.</text>
+  <text id="BlueStar_librarian1_die">Ahh… Tá aqui… Me leva por favor…!</text>
+  <text id="BlueStar_librarian1_kill">Isso foi revoltante… Eu realmente não tô com vontade de entrar lá.</text>
 
-  <text id="BlueStar_librarian2_start">Uf… No era nada fácil evitar que eso arrastrara a los empleados.</text>
-  <text id="BlueStar_librarian2_die">¡Puedo escucharlo! ¡La voz… Está llamándome!</text>
+  <text id="BlueStar_librarian2_start">Ai-ai… Não era fácil lidar com essa coisa sugando funcionários.</text>
+  <text id="BlueStar_librarian2_die">Eu tô ouvindo agora! A voz… tá me chamando!</text>
+  <text id="BlueStar_librarian2_kill">Eu meio que… tô sentindo falta daquela coisa… por algum motivo.</text>
 
-  <text id="BlueStar_librarian2_kill">Sentí que lo… perdí… por alguna razón.</text>
-  <text id="BlueStar_librarian3_start">Aquí dentro y fuera… Hay fanáticos en todos sitios.</text>
-
-  <text id="BlueStar_librarian3_die">Haha… Haa… Compadezco a los tontos que no recibieron su llamada…</text>
-  <text id="BlueStar_librarian3_kill">Hombre… Esto fue brutal. Casi me arrastran dentro.</text>
+  <text id="BlueStar_librarian3_start">Aqui e lá fora… Tem fanático pra tudo que é lugar.</text>
+  <text id="BlueStar_librarian3_die">Haha… Haa… Tenho pena dos tolos que não foram chamados…</text>
+  <text id="BlueStar_librarian3_kill">Cara… Foi brutal. Quase fui absorvido.</text>
   <!-- Floor of Religion Realization -->
   <text id="H_Angela_doctor_Hokma_start">La fe está destinada a ser desafiada por la ironía.</text>
   <text id="H_Angela_doctor_Hokma_die">…</text>
