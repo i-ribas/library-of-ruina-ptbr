@@ -714,27 +714,27 @@
   <text id="BlueStar_librarian3_die">Haha… Haa… Tenho pena dos tolos que não foram chamados…</text>
   <text id="BlueStar_librarian3_kill">Cara… Foi brutal. Quase fui absorvido.</text>
   <!-- Floor of Religion Realization -->
-  <text id="H_Angela_doctor_Hokma_start">La fe está destinada a ser desafiada por la ironía.</text>
+  <text id="H_Angela_doctor_Hokma_start">A fé está fadada a ser desafiada pela ironia.</text>
   <text id="H_Angela_doctor_Hokma_die">…</text>
 
-  <text id="H_Angela_doctor_librarian1_start">Bueno… Cualquiera que sea su creencia, seguramente es en vano.</text>
-  <text id="H_Angela_doctor_librarian2_start">¿Seguramente hay algo en lo que crees, incluso si no es algo grandioso?</text>
-  <text id="H_Angela_doctor_librarian3_start">Fe… Fe, ¿eh?… Ahora que lo pienso, realmente no creo en nada.</text>
-  <text id="H_Angela_doctor_librarian4_start">Nosotros… ¿vamos a tener que lidiar con esa cosa horrible pronto, verdad?</text>
+  <text id="H_Angela_doctor_librarian1_start">Bem… Seja qual for a crença, provavelmente será em vão.</text>
+  <text id="H_Angela_doctor_librarian2_start">Talvez haja algo em que você acredita, mesmo que não seja nada grandioso?</text>
+  <text id="H_Angela_doctor_librarian3_start">Fé… Fé, em… Pensando bem, eu realmente não acredito em nada.</text>
+  <text id="H_Angela_doctor_librarian4_start">Nós… vamos ter que lidar com aquela coisa horrível logo logo, né?</text>
 
-  <text id="H_Angela_whitenight_1Phase_Hokma_start">Y será algo difícil de hacer.</text>
+  <text id="H_Angela_whitenight_1Phase_Hokma_start">E será algo bem difícil de se fazer.</text>
   <text id="H_Angela_whitenight_1Phase_Hokma_die">…</text>
 
-  <text id="H_Angela_whitenight_1Phase_librarian1_start">Pienso que debe haber alguna manera de refutar la religión.</text>
-  <text id="H_Angela_whitenight_1Phase_librarian2_start">Es una molestia tratar con la gente cegada…</text>
-  <text id="H_Angela_whitenight_1Phase_librarian3_start">Nadie que busque la salvación aquí es normal…</text>
-  <text id="H_Angela_whitenight_1Phase_librarian4_start">… Bueno, maldición. No quería tener que enfrentarlo nuevamente.</text>
+  <text id="H_Angela_whitenight_1Phase_librarian1_start">Mas tem que haver uma maneira de refutar a religião.</text>
+  <text id="H_Angela_whitenight_1Phase_librarian2_start">E é um incômodo lidar com os cegos…</text>
+  <text id="H_Angela_whitenight_1Phase_librarian3_start">Ninguém que busca salvação aqui é normal…</text>
+  <text id="H_Angela_whitenight_1Phase_librarian4_start">…Bem, caramba. Eu não queria ter que enfrentá-lo nunca mais.</text>
 
-  <text id="H_Angela_whitenight_2Phase_Hokma_start">Debemos mantener la fe con una determinación inquebrantable.</text>
+  <text id="H_Angela_whitenight_2Phase_Hokma_start">Devemos manter a fé com determinação inabalável.</text>
   <text id="H_Angela_whitenight_2Phase_Hokma_die">…</text>
 
-  <text id="H_Angela_whitenight_2Phase_librarian1_start">…Hokma, señor. ¿Existe otra forma que podamos hacer esto?</text>
-  <text id="H_Angela_whitenight_2Phase_librarian2_start">¿Nosotros… lo hicimos mal? ¿Dónde nos equivocamos…?</text>
-  <text id="H_Angela_whitenight_2Phase_librarian3_start">Yo pensé que se había acabado…</text>
-  <text id="H_Angela_whitenight_2Phase_librarian4_start">¿Acaba de… revivir?</text>
+  <text id="H_Angela_whitenight_2Phase_librarian1_start">…Hokma, senhor. Existe outra maneira de conseguir isso?</text>
+  <text id="H_Angela_whitenight_2Phase_librarian2_start">Nós… fizemos algo errado? Onde nós…?</text>
+  <text id="H_Angela_whitenight_2Phase_librarian3_start">Eu pensei que finalmente tinha acabado…</text>
+  <text id="H_Angela_whitenight_2Phase_librarian4_start">Aquela coisa… reviveu?</text>
 </localize>
