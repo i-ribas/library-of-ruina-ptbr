@@ -1823,217 +1823,217 @@ Esta página também estará no baralho no começo dos Atos subsequentes.</Abili
   
   <Sephirah SephirahType="Binah">
     <AbnormalityCard ID="Bigbird_Eye">
-      <Abnormality>Pájaro grande</Abnormality>
+      <Abnormality>Pássaro Grande</Abnormality>
       <CardName>Ojos vigilantes</CardName>
       <AbilityDesc>[Aliado Único]
-Recupera completamente la Luz del bibliotecario seleccionado.
-Cada escena, un aliado aleatorio no gana Luz mientras el bibliotecario seleccionado restaura 1 de Luz adicional.</AbilityDesc>
-      <FlaborText>Los ojos siempre brillaron intensamente, ardiendo como estrellas en el cielo nocturno. Pero eso dio sus ojos a Pájaro grande para poder proteger el bosque.</FlaborText>
+Recupera completamente a Luz do aliado selecionado.
+A cada Cena, um aliado aleatório não recupera Luz e o biblitecário selecionado recupera 1 Luz a mais.</AbilityDesc>
+      <FlaborText>Os olhos sempre brilhavam intensamente, queimando como estrelas no céu noturno. Mas ele deu seus olhos para o Pássaro Grande para proteger a floresta</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Por cada criatura en el bosque que salve, mis ojos aumentan en número.</Dialogue>
-        <Dialogue ID="2">Necesito ojos que puedan mirar los alrededores minuciosamente, para poder mantener este lugar seguro.</Dialogue>
-        <Dialogue ID="3">No perderé de vista ni a la más pequeña criatura…</Dialogue>
-        <Dialogue ID="4">No te preocupes. Te mantendré a salvo…</Dialogue>
+        <Dialogue ID="1">Para cada critura na floresta que eu salvei, eu ganho mais um olho.</Dialogue>
+        <Dialogue ID="2">Eu preciso de olhos para checar os arredores completamente, para manter a floresta segura.</Dialogue>
+        <Dialogue ID="3">Não perderei nem a menor das criaturas…</Dialogue>
+        <Dialogue ID="4">Não se preocupe. Te manterei a salvo…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
       
     <AbnormalityCard ID="Bigbird_Lamp">
-      <Abnormality>Pájaro grande</Abnormality>
-      <CardName>Lámpara eterna</CardName>
+      <Abnormality>Pássaro Grande</Abnormality>
+      <CardName>Lâmpada Eterna</CardName>
       <AbilityDesc>[Aliado Único]
-Un enemigo que sea objetivo de este bibliotecario será forzado a atacar de vuelta, sin importar la velocidad.</AbilityDesc>
-      <FlaborText>“Si mato a todas las criaturas primero, entonces nadie será matado por la bestia!”</FlaborText>
+Qualquer inimigo alvejado por esse bibliotecário será forçado a alvejar esse biblitecário de volta, independente de velocidade.</AbilityDesc>
+      <FlaborText>“Se eu matar as criaturas primeiro, então ningém será morto pela besta!”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Sigue esta lámpara. Los salvaré a todos.</Dialogue>
-        <Dialogue ID="2">Renunciando a mis plumas… gané una luz que podría arder por siempre.</Dialogue>
-        <Dialogue ID="3">Ven aquí. Te ayudaré.</Dialogue>
-        <Dialogue ID="4">Vamos a iluminar el camino delante, así tendré una buena vista de las vidas que necesito salvar.</Dialogue>
+        <Dialogue ID="1">Siga a lâmpada. Eu vou salvar todos vocês.</Dialogue>
+        <Dialogue ID="2">Renunciando minhas penas… Ganhei uma luz que queima eternamente.</Dialogue>
+        <Dialogue ID="3">Venha aqui. Me deixe te ajudar.</Dialogue>
+        <Dialogue ID="4">Vamos iluminar a estrada à frente, para que eu possa ter uma boa visão das vidas que devo salvar.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
       
     <AbnormalityCard ID="Bigbird_Save">
-      <Abnormality>Pájaro grande</Abnormality>
-      <CardName>Salvación</CardName>
+      <Abnormality>Pássaro Grande</Abnormality>
+      <CardName>Salvação</CardName>
       <AbilityDesc>[Aliado Único]
-Todos los dados ganan +1 de Poder contra enemigos con mayor velocidad.
-Si el HP del objetivo es 25% o menos, destruye todos sus dados al ganar un choque.</AbilityDesc>
-      <FlaborText>Para esta Ave, la muerte en sí misma es salvación.</FlaborText>
+Todos os dados ganham +1 de Poder contra inimigos com maior velocidade
+Se o alvo estiver com 25% de HP ou menos, destroí todos os dados ao vencer um Embate.</AbilityDesc>
+      <FlaborText>Para esse pássaro, morte em sua essência é salvação.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Si los mato primero, ¡entonces nadie será matado por la bestia!</Dialogue>
-        <Dialogue ID="2">¡Un gran y aterrado monstruo vive en este bosque! Ten cuidado.</Dialogue>
-        <Dialogue ID="3">Un niño en peligro necesita mi protección.</Dialogue>
-        <Dialogue ID="4">Por el débil e impotente… Necesito tomar la iniciativa.</Dialogue>
+        <Dialogue ID="1">Se eu matá-los primeiro… então ninguém será morto pela besta!</Dialogue>
+        <Dialogue ID="2">Um monstro grande e assustador vive nesta floresta! Tenha cuidado.</Dialogue>
+        <Dialogue ID="3">Uma criança em perigo precisa da minha proteção.</Dialogue>
+        <Dialogue ID="4">Para os fracos e sem força… Eu preciso tomar a iniciativa.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
       
     <AbnormalityCard ID="SmallBird_Punishment">
       <Abnormality>Pássaro Punitivo</Abnormality>
-      <CardName>Castigo</CardName>
+      <CardName>Punição</CardName>
       <AbilityDesc>[Aliado Único]
-Después de recibir daño, el primer dado de la primera página ue el bibliotecario utiliza la siguiente escena gana 2-4 de Poder. Todos os Aliados</AbilityDesc>
-      <FlaborText>“Debe ser porque no hay nadie que castigue a la gente por sus fechorías. Si alguien toma ese papel, entonces ningún crimen podría pasar en este mundo nunca más!”</FlaborText>
+Depois de receber dano, o primeiro dado da primeira página que o bibliotecário usar na próxima Cena ganha 2-4 de Poder. (Exclui páginas [Ao Jogar])</AbilityDesc>
+      <FlaborText>“As pessoas fazem coisas ruins porquê não tem ninguém para punir as pessoas. Se alguém ter esse papel, então nenhum ato vil irá acontecer nesse mundo”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Si los castigo, entonces no habrá nunca más gente mala, ¿verdad?</Dialogue>
-        <Dialogue ID="2">No hay punto en perdonar. Una fechoría es una fechoría.</Dialogue>
-        <Dialogue ID="3">¡Eso es! Tiene que ser porque nadie castiga a toda la gente mala en el mundo.</Dialogue>
+        <Dialogue ID="1">Se eu os punir, então não terá nenhuma pessoa ruim, certo?</Dialogue>
+        <Dialogue ID="2">Não tem propósito em perdoar. Um crime é um crime.</Dialogue>
+        <Dialogue ID="3">É isso! Tem que ser porque não tem ninguém para punir as pessoas ruins nesse mundo.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
       
     <AbnormalityCard ID="SmallBird_Beak">
       <Abnormality>Pássaro Punitivo</Abnormality>
-      <CardName>Pico castigador</CardName>
+      <CardName>Bicadinas</CardName>
       <AbilityDesc>[Aliado Único]
-El ataque del bibliotecario hace daño adicional igual al número de escenas que el bibliotecario ha psado sin recibir daño de ataques. (Máx. 10)</AbilityDesc>
-      <FlaborText>La gente comete pecados desde hace mucho tiempo. . “Por qué cometen pecados, sabiendo que está mal?”</FlaborText>
+Os ataques do biblitecário causam dano bônus igual ao número de Cenas que passaram sem o biblitecário receber Dano de ataques. (Máx. 10)</AbilityDesc>
+      <FlaborText>Pessoas tem cometido pecados há muito tempo. “Por que elas cometem pecados, mesmo sabendo que é errado??”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¿Por qué cometen pecados si saben que está mal?</Dialogue>
-        <Dialogue ID="2">Les daré un buen regaño, así no volverán a pensar en hacer fechorías de nuevo.</Dialogue>
-        <Dialogue ID="3">¡No hagas cosas malas de ahora en adelante!</Dialogue>
+        <Dialogue ID="1">Por que elas cometem pecados, mesmo sabendo que é errado?</Dialogue>
+        <Dialogue ID="2">Eu vou dar a eles uma boa bronca, assim eles não vão pecar de novo.</Dialogue>
+        <Dialogue ID="3">Não cometa atos ruins de agora em diante!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
       
     <AbnormalityCard ID="Smallbird_Fly">
       <Abnormality>Pássaro Punitivo</Abnormality>
-      <CardName>Pequeños Aleteos</CardName>
+      <CardName>Pequeno Bater de Asas</CardName>
       <AbilityDesc>[Aliado Único]
-Los dados de evasión ganan 1-2 de Poder.
-Al ganar un choque usando un dado de evasión, el próximo dado ofensivo gana 1-2 de Poder.</AbilityDesc>
-      <FlaborText>Una pequeña y segura ave que castiga al malvado, culpable y todo tipo de gente irrespetuosa.</FlaborText>
+Os dados Evasivos ganham 1-2 de Poder.
+Ao ganhar um Embate com um dado Evasivo, o próximo dado Ofensivo ganha 1-2 de Poder</AbilityDesc>
+      <FlaborText>Um pequeno e confiante pássaro que punia o mal, os culpados e todo o tipo de pessoas irreverantes.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Deje el bosque y nunca regresé.</Dialogue>
-        <Dialogue ID="2">Vamos a volar alto. Esperemos que el mundo cambiará para mejor.</Dialogue>
-        <Dialogue ID="3">Mi aleteo podría ser lo que se necesita para cambiar el mundo!</Dialogue>
-        <Dialogue ID="4">Con emoción, batí mis alas activamente.</Dialogue>
+        <Dialogue ID="1">Eu deixei o bosque, e nunca olhei para trás.</Dialogue>
+        <Dialogue ID="2">Vamos voar alto. E ter esperança que o mundo vai mudar para melhor.</Dialogue>
+        <Dialogue ID="3">Meu bater de asas pode ser o que é preciso para mudar o mundo!</Dialogue>
+        <Dialogue ID="4">Com emoção, bati minhas asas ansiosamente.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
       
     <AbnormalityCard ID="LongBird_Sin">
       <Abnormality>Pássaro do Julgamento</Abnormality>
-      <CardName>El peso del pecado</CardName>
+      <CardName>O Peso do Pecado</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando un dado que este bibliotecario juega tenga el resultado minimo, Recibe 2-7 de daño y gana 1-2 de Fuerza y Dureza la siguiente escena.</AbilityDesc>
-      <FlaborText>Su balanza nunca podría descuidar el peso de incluso el más pequeño pecado.</FlaborText>
+Quando um dado desse biblitecário rolar o valor mínimo, receba 2-7 de Dano e ganhe 1-2 de Força e Endurecido na próxima Cena</AbilityDesc>
+      <FlaborText>Sua balança não negligenciava o peso do menor do pecados.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Hora de pesar tus pecados.</Dialogue>
-        <Dialogue ID="2">No descuidaré el peso de ningún pecado.</Dialogue>
-        <Dialogue ID="3">El peso de tus pecados determinará el peso de tu castigo.</Dialogue>
+        <Dialogue ID="1">Hora de pesar seus pecados.</Dialogue>
+        <Dialogue ID="2">Não negligenciarei o peso de nenhum pecado.</Dialogue>
+        <Dialogue ID="3">O peso do seus pecatos irá determinar o peso da sua punição.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
       
    <AbnormalityCard ID="LongBird_Scale">
       <Abnormality>Pássaro do Julgamento</Abnormality>
-      <CardName>Balanza inclinada</CardName>
+      <CardName>Balança inclinada</CardName>
       <AbilityDesc>[Aliado Único]
-Después de atacar al enemigo con más HP, recupera el HP del aliado con menos HP en 2-8. (3 veces por escena, excluye ataques en masa)</AbilityDesc>
-      <FlaborText>Todo lo que queda es una balanza inclinada. El Ave continuó dando juicios.</FlaborText>
+Depois de atacar o inimigo com o maior HP, recupere 2-8 de HP do aliado com o menor HP (3 vezes por Cena, Excluí Ataques Em Massa)</AbilityDesc>
+      <FlaborText>Tudo o que resta é uma balança injusta. O Pássaro Longo continua, distribuindo o julgamento.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Esta Balanza siempre da un claro veredicto; Puedo hacer un juicio sólido y preciso con ella.</Dialogue>
-        <Dialogue ID="2">Mi punto de vista subjetivo podría afectar un juicio justo.</Dialogue>
-        <Dialogue ID="3">¿Qué sucede si la Balanza no se inclina a ninguna dirección algún día…? No puedo dejar que eso suceda.</Dialogue>
-        <Dialogue ID="4">Mi Balanza no cesará de hacer su deber hasta el día que todos los seres malvados desaparezcan.</Dialogue>
+        <Dialogue ID="1">Essa balança sempre mostra um veredito claro; posso fazer um bom julgamento com elas…</Dialogue>
+        <Dialogue ID="2">Meu ponto de vista pode afetar o quão justo é o julgamento.</Dialogue>
+        <Dialogue ID="3">E se, um dia, a balança não ir para nenhuma direção…? Não posso deixar que isso aconteça.</Dialogue>
+        <Dialogue ID="4">Minha balança não irá parar seu dever até que todas as criaturas ruins desapareçam.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
       
     <AbnormalityCard ID="LongBird_Judgement">
       <Abnormality>Pássaro do Julgamento</Abnormality>
-      <CardName>Juicio</CardName>
+      <CardName>Julgamento</CardName>
       <AbilityDesc>[Aliado Único]
-Al comienzo de una escena, Todos os Personagens ganan 1 de 'Pecado' con una probabilidad del 50%.
-Si un personaje tiene 5+ de 'Pecado', recibe daño igual al 10% de su HP máxima al comienzo de una escena y todo el 'Pecado' es removido.
-'Pecado' puede ser transferido al atacar y dañar a otro personaje. (Una vez por página)</AbilityDesc>
-      <FlaborText>Entonces alguien dijo, “Pero qué pasa si la Balanza no se inclina a ninguna dirección algún día?” Preocupado, El Ave hizo que la Balanza siempre se inclinara a un lado. De esa manera todos los juicios darían un veredicto claro.</FlaborText>
+Ao começo da Cena, todos os personagens tem 50% de chance de receber 1 Pecado.
+Caso um personagem tenha 5+ de Pecado, eles recebem 10% de sua vida máxima como dano no começo da Cena e o Pecado é removido.
+'Pecado' pode ser transferido para outro personagem ao golpea-los. (Uma por página)</AbilityDesc>
+      <FlaborText>Então alguém disse "Mas e se a balança não ir para nenhum lado?" Preocupado, o Pássaro Longo fez com que a balança sempre fosse para um dos lados. Assim todo o julgamento sempre iria entregar um veredito claro.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Cuando levanto esta balanza, Deseo la inmortalidad para el culpable.</Dialogue>
-        <Dialogue ID="2">Daré un juicio justo para todos, señalando sus fechorías…</Dialogue>
-        <Dialogue ID="3">Para proteger el bosque. Levantaré la balanza. Ellos recibirán un juicio eterno..</Dialogue>
-        <Dialogue ID="4">Para juzgar a todas las bestias que viven en este bosque…</Dialogue>
+        <Dialogue ID="1">Quando eu levanto a balança, eu desejo imortalidade para os culpados.</Dialogue>
+        <Dialogue ID="2">Darei um julgamento a todos, marcando todos seus pecados…</Dialogue>
+        <Dialogue ID="3">Para proteger a floresta, eu levanto a balança. Julgamento eterno será entregue a eles.</Dialogue>
+        <Dialogue ID="4">Para julgar todas as bestas que vivem nessa floresta…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
 
     <!-- Gee Apocalypse Bird, how come Binah lets you have SIX cards? -->
     <AbnormalityCard ID="ApocalypseBird_BigEye">
-      <Abnormality>Ave del apocalipsis</Abnormality>
-      <CardName>OjosgGrandes</CardName>
+      <Abnormality>Pássaro do Apocalipse</Abnormality>
+      <CardName>Olhos Grandes</CardName>
       <AbilityDesc>[Aliado Único]
-Al comienzo de una escena, inflige 'Encantado' a todos los enemigos.
-Los enemigos 'Encantados' priorizan a este bibliotecario como objetivo y hacen +2-4 de daño sus ataques.
-Gana 1-2 de Poder en choques contra enemigos 'Encantado' y recupera 2-5 de HP y resistencia al aturdimiento al ganar un choque.</AbilityDesc>
-      <FlaborText>Los ojos de Pájaro grande encarcelaron la luz.</FlaborText>
+Ao começo da Cena, inflige 'Encantado' a todos os inimigos.
+Os inimigos 'Encantados' priorizam esse biblitecário, e causam +2-4 de dano com seus ataques.
+Ganha 1-2 de poder contra inimigos 'Encantado' e recupera 2-5 de HP e Resistência de Atordoamento ao ganhar um Embate.</AbilityDesc>
+      <FlaborText>Os olhos do Pássaro Grande prendiam a luz.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">La brillante luz está atrapada.</Dialogue>
-        <Dialogue ID="2">Vamos a ser libres antes que tengamos que enfrentar ese miedo…</Dialogue>
-        <Dialogue ID="3">Con un simple acto. Te daré un descanso cómodo y permanente…</Dialogue>
-        <Dialogue ID="4">Tengo que estar vigilante, mirar por cualquier intruso.</Dialogue>
+        <Dialogue ID="1">A luz brilhante está presa.</Dialogue>
+        <Dialogue ID="2">Vamos ser livres antes de ter que enfrentar esse medo…</Dialogue>
+        <Dialogue ID="3">Com um simples ato, eu te darei um descanso confortável e permanente…</Dialogue>
+        <Dialogue ID="4">Tenho que ser vigilante, atento a qualquer intruso.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="ApocalypseBird_SmallPeak">
-      <Abnormality>Ave del apocalipsis</Abnormality>
-      <CardName>Pico pequeño</CardName>
+      <Abnormality>Pássaro do Apocalipse</Abnormality>
+      <CardName>Bico Pequeno</CardName>
       <AbilityDesc>[Aliado Único]
-Adicione uma Página de'Pico Pequeño' à mão: ‘Custo 0 - [Ao Jogar;] [Regresa à mão] Recibe 5% del HP máximo como daño; restaura 1 de Luz’.</AbilityDesc>
-      <FlaborText>Y el pequeño pico del Pájaro Pequeño susurró, incesante…</FlaborText>
+Adicione uma Página de'Bico Pequeno' à mão: ‘Custo 0 - [Ao Jogar;] [Volta À Mão] Recebe 5% de vida máxima como Dano; restaura 1 de Luz’.</AbilityDesc>
+      <FlaborText>E o bico do Pássaro Pequeno sussurava, sem parar…</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Yo susurro… sin cesar…</Dialogue>
-        <Dialogue ID="2">Todos somos castigados por nuestros pecados, pero es claro que aún más brotarán de las raíces del pecado.</Dialogue>
-        <Dialogue ID="3">Así que, el castigo debe desarraigar el pecado……</Dialogue>
-        <Dialogue ID="4">Debo castigarlos con mi pequeño pero duro pico.</Dialogue>
+        <Dialogue ID="1">Eu sussurro… Sem parar…</Dialogue>
+        <Dialogue ID="2">Todos somos castigados por nossos pecados, mas é claro que mais vão nascer das raizes do pecado.</Dialogue>
+        <Dialogue ID="3">Assim, punição deve arrancar o mal pela raiz……</Dialogue>
+        <Dialogue ID="4">Devo castiga-los com meu pequeno, mas duro, bico.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
         <AbnormalityCard ID="ApocalypseBird_LongArm">
-      <Abnormality>Ave del apocalipsis</Abnormality>
-      <CardName>Brazos largos</CardName>
+      <Abnormality>Pássaro do Apocalipse</Abnormality>
+      <CardName>Braços Compridos</CardName>
       <AbilityDesc>[Aliado Único]
-No recibes daño de ciertos efectos de estado (Quemadura, Sangrado, Hada, Pecado).</AbilityDesc>
-      <FlaborText>Los Brazos del Pájaro Largo ocultaron el tiempo.</FlaborText>
+Não recebe dano de certos Efeitos Negativos (Queimadura, Sangramento, Fada, Pecado).</AbilityDesc>
+      <FlaborText>Os braços do Pássaro longo velavam o tempo.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Escondí el tiempo.</Dialogue>
-        <Dialogue ID="2">Te condeno, pero aún cometerás más pecados sin fin…</Dialogue>
-        <Dialogue ID="3">Nunca habrá un día donde mi Balanza de justicia no se incline…</Dialogue>
-        <Dialogue ID="4">Mi justa Balanza determinará quien es más malvado.</Dialogue>
+        <Dialogue ID="1">Escondi o tempo.</Dialogue>
+        <Dialogue ID="2">Te condeno, mas você ainda vai cometer pecados sem fim…</Dialogue>
+        <Dialogue ID="3">Nunca haverá um dia que a balança da justiça não irá se inclinar…</Dialogue>
+        <Dialogue ID="4">Minha balança justa irá determinar quem é mais malvado.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="ApocalypseBird_Apocalypse">
-      <Abnormality>Ave del apocalipsis</Abnormality>
-      <CardName>La bestia</CardName>
+      <Abnormality>Pássaro do Apocalipse</Abnormality>
+      <CardName>A Besta</CardName>
       <AbilityDesc>[Aliado Único]
-Se Activa cuando el bibliotecario seleccionado posee todas estas páginas de Anormalidad: 'Ojos grandes', 'Pico Ppqueño', 'Brazos largos'.
-Todos los dados de los personajes que son objetivos o tienen de objetivo a este personaje no son afectado por el aumento o reducción de Poder y el valor minimo y máximo de sus resultados es reducido en 3.
-Al final de una escena, Todos os Personagens reciben 15 de daño y este personaje restaura toda la Luz.</AbilityDesc>
-      <FlaborText>El día cuando los ojos del Pájaro grande puedan ver cientos de kilómetros lejos, Pájaro Largo pueda juzgar cualquier pecado y la boca de Pájaro Pequeño pueda devorar todo, la oscuridad caerá en el bosque.</FlaborText>
+Ativa se o bibliotecário selecionado possuí as seguintes Páginas de Anormalidade: 'Olhos Grandes', 'Bico Pequeno', 'Braços Longos'.
+Todos os dados de personagens alvejados por esse biblitecário são inafetadas por ganho ou perda de Poder, e seus valores máximos e mínimos são reduzidos em 3
+Ao fim da Cena, todos os outros personagens recebem 15 de dano, e esse personagem restaura toda a Luz.</AbilityDesc>
+      <FlaborText>O dia que os olhos do Pássaro Grande poderiam ver quilômetros de distância, o Pássaro Longo que podia julgar qualquer pecado, e a boca do Pássaro Pequeno que poderia devorar qualquer coisa, escuridão caiu sob o bosque</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">No puedo dejar que el mal me quite todas mis cosas preciosas.</Dialogue>
-        <Dialogue ID="2">Si pudiera devorar todo junto a mí…</Dialogue>
-        <Dialogue ID="3">Hemos unido fuerzas para proteger más gente.</Dialogue>
-        <Dialogue ID="4">Tengo que apresurarme y encontrarlo. No puedo dejar a la bestia destruir este lugar…</Dialogue>
+        <Dialogue ID="1">Não posso deixar o mal levar minhas coisas preciosas.</Dialogue>
+        <Dialogue ID="2">Se eu puder devorar qualquer coisa ao meu redor…</Dialogue>
+        <Dialogue ID="3">Nós juntamos nossas forças para proteger mais pessoas</Dialogue>
+        <Dialogue ID="4">Tenho que me apressar e encontra-los. Não posso deixar a besta destruir esse lugar…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="ApocalypseBird_Gate">
-      <Abnormality>Ave del apocalipsis</Abnormality>
-      <CardName>Guardianes del bosque</CardName>
+      <Abnormality>Pássaro do Apocalipse</Abnormality>
+      <CardName>Guardiões da Floresta</CardName>
       <AbilityDesc>[Aliado Único]
-Todos los bibliotecarios ganan 1 de Prisa al comienzo de cada escena por la duracion de la recepción.
-Si los cinco bibliotecarios tiene una página de Anormalidad, también ganan 1-2 de Fuerza y Dureza.</AbilityDesc>
-      <FlaborText>Fue entonces cuando los Pájaros decidieron volverse los guardianes del Bosque. Ellos amaban este bosque más que nadie, así que ellos querían proteger a cada criatura que vivía en el bosque y mantener la paz.</FlaborText>
+Todos os bibliotecários ganham 1 de Celeridade no começo de cada Cena pela duração da Recepção.
+Se todos os cinco bibliotecários tem uma página de Anormalidade, ganha 1-2 de Força e Endurecido adicionais.</AbilityDesc>
+      <FlaborText>Então foi qunado os pássaros decidiram ser os guardiões da floresta. Eles amavam essa floresta mais que qualquer um, então eles queriam proteger as criaturas vivendo na floresta e manter a paz.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Para proteger este lugar que amamos más que nadie.</Dialogue>
-        <Dialogue ID="2">Esperamos por un mundo donde las vidas lamentables puedan vivir en comodidad.</Dialogue>
-        <Dialogue ID="3">Somos los únicos que pueden proteger este lugar.</Dialogue>
-        <Dialogue ID="4">Deberíamos volvernos los guardianes y salvar vidas.</Dialogue>
+        <Dialogue ID="1">Para proteger esse lugar que amamos mais que qualquer um.</Dialogue>
+        <Dialogue ID="2">Esperamos por um mundo onde essas vidas patéticas possam viver em conforto.</Dialogue>
+        <Dialogue ID="3">Somos os únicos que podem proteger esse lugar.</Dialogue>
+        <Dialogue ID="4">Deveriamos ser os guardiões, e salvar vidas.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
 <AbnormalityCard ID="ApocalypseBird_Atk">
-      <Abnormality>Ave del apocalipsis</Abnormality>
+      <Abnormality>Pássaro do Apocalipse</Abnormality>
       <CardName>Paz</CardName>
       <AbilityDesc>[Aliado Único]
-Cuando no hay 'Intrusos' presente, el primer enemigo que el bibliotecario seleccionado ataca es marcado como 'Intruso'.(Exclui Ataques Em Massa)
-Todos los ataques del 'Intruso' hacen 2-4 menos de daño y daño de aturdimiento; también, el 'Intruso' recibe 1-2 de daño adicional de los ataques.</AbilityDesc>
-      <FlaborText>El Pájaro comenzó a deambular por el bosque, buscando por la bestia. Pero no había nada. No había criaturas, no había Sol ni Luna. Todo lo que queda era un Pájaro y el Bosque Oscuro.</FlaborText>
+Quando não há 'Intrusos' presente, o primeiro alvo que o bibliotecário atacar se torna um 'Intruso'.(Exclui Ataques Em Massa)
+Todos os ataques do 'Intruso' causam 2-4 a menos de Dano e Dano de Atordoamento; O 'Intruso' também recebe 1-2 de dano a mais de ataques.</AbilityDesc>
+      <FlaborText>O pássaro começou a varrer a floresta, olhando pela besta. Mas não tinha nada. Não tinha nenhuma criatura, nenhum sol ou lua, e nenhuma besta. Tudo o que tinha sobrado era o pássaro e a Floresta Negra.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Aquellos que puedan aguantar el miedo obtendrán la paz…</Dialogue>
-        <Dialogue ID="2">Nada se atreverá a dañarte.</Dialogue>
-        <Dialogue ID="3">Cuando llegas al final, no hay tal cosa como el miedo…</Dialogue>
-        <Dialogue ID="4">La paz y tranquilidad ha regresado al bosque.</Dialogue>
+        <Dialogue ID="1">Aqueles que superam o medo irão encontrar paz…</Dialogue>
+        <Dialogue ID="2">Nada vai ousar te machucar.</Dialogue>
+        <Dialogue ID="3">Quando você chegar no fim, não haverá nenhum medo…</Dialogue>
+        <Dialogue ID="4">A paz e tranquilidade tinha retornado à floresta.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
