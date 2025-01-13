@@ -579,13 +579,13 @@ Si el personaje tiene 6 o más de Frío, se Inmoviliza y remueve todo el Frío d
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Target">
       <Name>Camino de ladrillos amarillo</Name>
-      <Desc>Objetivo de O Caminho para Casa y Gato Medroso.
+      <Desc>Objetivo de A Estrada para Casa y Gato Medroso.
 Gato Medroso gana +5 de Poder cuando ataca a este personaje.
-Si todos los ataque de '¡Amigos! ¡Vamos a casa~!' fallan en acertar al objetivo con este estado, el último ataque de O Caminho para Casa es cancelada.</Desc>
+Si todos los ataque de '¡Amigos! ¡Vamos a casa~!' fallan en acertar al objetivo con este estado, el último ataque de A Estrada para Casa es cancelada.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Coward_Strength">
       <Name>Coraje</Name>
-      <Desc>Gana Força igual a la cantidad de veces que O Caminho para Casa fue atacado esta escena.</Desc>
+      <Desc>Gana Força igual a la cantidad de veces que A Estrada para Casa fue atacado esta escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Super_Cancel">
       <Name>Casa que no puede ser alcanzada</Name>
@@ -902,7 +902,7 @@ Si esto llega a 2, una poderosa página de combate es usada la siguiente escena.
     </BattleEffectText>
     <BattleEffectText ID="WayBackHome_Coward_Final">
       <Name>Cobardía</Name>
-      <Desc>Gana Fraco igual a la cantidad de veces que 'O Caminho para Casa' fue atacado esta escena.</Desc>
+      <Desc>Gana Fraco igual a la cantidad de veces que 'A Estrada para Casa' fue atacado esta escena.</Desc>
     </BattleEffectText>
     
     <!-- Ozma -->
@@ -950,7 +950,7 @@ Si fallas al restaurar todos los bibliotecarios a sus formas originales al final
       <Desc>Cuando la Fase de este personaje comienza, una copia de 'Coraje' es añadida a la mano. El número de dados de velocidad is incrementado a 5.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_WaybackHome">
-      <Name>O Caminho para Casa</Name>
+      <Name>A Estrada para Casa</Name>
       <Desc>Añade 4 páginas de combate especiales a la mano.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Ozma">
@@ -973,7 +973,7 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
       <Desc>Necesita volver a su Forma Original.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_WaybackHome_Original">
-      <Name>O Caminho para Casa</Name>
+      <Name>A Estrada para Casa</Name>
       <Desc>Necesita volver a su Forma Original.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Ozma_Original">

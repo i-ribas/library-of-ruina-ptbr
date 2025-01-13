@@ -595,11 +595,11 @@ Si ningún bibliotecario es dañado por el ataque, la Anormalidad se aturde la s
   </PassiveDesc>
   <PassiveDesc ID="703031">
     <Name>Valiente</Name>
-    <Desc>Es inmune a todos los daños hasta que 'O Caminho para Casa' muere.</Desc>
+    <Desc>Es inmune a todos los daños hasta que 'A Estrada para Casa' muere.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="703032">
     <Name>Cobarde</Name>
-    <Desc>Una vez 'O Caminho para Casa' muere, todas las resistencias cambian a 'Fatal' y el HP máximo es reducido. El número de dados de velocidad y páginas de combate también cambian.</Desc>
+    <Desc>Una vez 'A Estrada para Casa' muere, todas las resistencias cambian a 'Fatal' y el HP máximo es reducido. El número de dados de velocidad y páginas de combate también cambian.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="504011">
