@@ -2,32 +2,32 @@
 <BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <cardDescList>
     <BattleCardDesc ID="703411">
-      <LocalizedName>Rarf RARF RARF!!</LocalizedName>
+      <LocalizedName>Au AU AU!!</LocalizedName>
       <Ability>[Comienzo del combate] Inflige 2 de Endeble esta escena</Ability>
       <Behaviour ID="2">[Al ganar un choque] Inflige 1 de Endeble a un enemigo aleatorio la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703412">
-      <LocalizedName>Barkruff! BARK~!!!</LocalizedName>
+      <LocalizedName>Au-au! AU~!!!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige 2 de Atadura y Desarmar la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 2 de Atadura y Desarmar la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703413">
-      <LocalizedName>BAWKBAWKBAWK!!!</LocalizedName>
+      <LocalizedName>CÓCOCÓ!!!</LocalizedName>
       <Ability>[Puede apuntar aliados;][Comienzo del combate] Si el objetivo es un aliado, da 2 de Fuerza esta escena</Ability>
       <Behaviour ID="0">[Al ganar un choque] Da 1 de Fuerza a un aliado aleatorio la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703414">
-      <LocalizedName>Cockadoodledoo~!!!!</LocalizedName>
+      <LocalizedName>Cócoricóoooo~!!!!</LocalizedName>
       <Ability>[Comienzo del combate] Da 1 de Fuerza a todos los aliados</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="703415">
-      <LocalizedName>NEIIIGHHIHIHH!!!</LocalizedName>
+      <LocalizedName>IRRINHNOHÓÓO!!!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Da 'Etiquetado' la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="703416">
-      <LocalizedName>Neiiigh~!!!</LocalizedName>
+      <LocalizedName>Irriiinhóo~!!!</LocalizedName>
       <Ability></Ability>
       <Behaviour ID="0">[Al golpear] Inflige 1 de Parálisis la siguiente escena</Behaviour>
       <Behaviour ID="1">[Al golpear] Inflige 1 de Parálisis la siguiente escena</Behaviour>

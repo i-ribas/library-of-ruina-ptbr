@@ -1390,7 +1390,7 @@ Si cualquier aliado es golpeado, haz 10 de daño a todos los bibliotecarios y re
     
         <!-- Chesed 허수아비-->
     <BattleCardDesc ID="9907111">
-      <LocalizedName>Squeak, Creak</LocalizedName>
+      <LocalizedName>Guincho, Rangido</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9907112">
       <LocalizedName>Colheita Abundante</LocalizedName>
