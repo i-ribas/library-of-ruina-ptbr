@@ -893,7 +893,7 @@
       <Ability>Gana Poder igual 3x a 'Bastón' del objetivo</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9905426">
-      <LocalizedName>Levantem-se, Lacaio!</LocalizedName>
+      <LocalizedName>Levantem-se, Lacaios!</LocalizedName>
       <Ability>[Al usar] Aparecen tres Bastones del Ermitaño la siguiente escena</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9905431">
@@ -1609,8 +1609,8 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
 No se puede utilizar si este bibliotecario ya tiene este estado o posee el efecto de otra página</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9907504">
-      <LocalizedName>O Caminho para Casa</LocalizedName>
-      <Ability>[Al jugar;][Agotar] Gana el estado 'O Caminho para Casa'
+      <LocalizedName>A Estrada para Casa</LocalizedName>
+      <Ability>[Al jugar;][Agotar] Gana el estado 'A Estrada para Casa'
 No se puede utilizar si este bibliotecario ya tiene este estado o posee el efecto de otra página</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9907505">
@@ -1633,7 +1633,7 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
     </BattleCardDesc>
     <BattleCardDesc ID="9907624">
       <LocalizedName>Volte Para Seu Caminho!</LocalizedName>
-      <Ability>[Al golpear] Restaura el estado del objetivo 'O Caminho para Casa' a su forma verdadera</Ability>
+      <Ability>[Al golpear] Restaura el estado del objetivo 'A Estrada para Casa' a su forma verdadera</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9907625">
       <LocalizedName>Esse Não é Você!</LocalizedName>

@@ -344,7 +344,7 @@
   <!-- Funeral of the Dead Butterflies -->
 	<text id="Butterflies_nomal_1">Antigamente, as pessoas acreditavam que quando morressem se tornariam seres lindos com pequenas asas.</text>
 	<text id="Butterflies_nomal_2">Um único caixão para prestar homenagem àqueles que não tinham para onde ir, vagando com a memória de uma fé vazia…</text>
-	<text id="Butterflies_nomal_3">Ajudarei-los a se libertarem do tormento que vocês causam a si mesmos.b</text>
+	<text id="Butterflies_nomal_3">Ajudarei-los a se libertarem do tormento que vocês causam a si mesmos.</text>
 	<text id="Butterflies_nomal_4">Para as pobres almas que não conseguem parar de se lamentar… Eu ofereço minhas condolências.</text>
 	<text id="Butterflies_nomal_5">Nenhuma flor adequada floresce para homenagear as borboletas.</text>
 
@@ -661,10 +661,10 @@
   <text id="Waygohome_NoWay_3">Vamos todos… Vamos todos… Vamos todos… nos juntar…</text>
 
   <text id="Waygohome_Way_1">Vamos, juntos~! Vamos saltitar para casa juntos~!</text>
-  <text id="Waygohome_Way_2">No final do caminho, uma terra fantástica… Um mundo de sonhos estará nos esperando.</text>
+  <text id="Waygohome_Way_2">No final da estrada, uma terra fantástica… Um mundo de sonhos estará nos esperando.</text>
   <text id="Waygohome_Way_3">Podemos atravessar estradas longas e sinuosas se permanecermos unidos!</text>
   <text id="Waygohome_Way_4">Meu amigo leão, e os amigos aqui. Nós todos iremos juntos!</text>
-  <text id="Waygohome_Way_5">Se seguirmos esse caminho, encontraremos o lar que tanto procuramos!</text>
+  <text id="Waygohome_Way_5">Se seguirmos essa estrada, encontraremos o lar que tanto procuramos!</text>
   <text id="Waygohome_Way_6">Amigos. Oh, amigos~! Vamos. Vamos pra casa~!</text>
   <text id="Waygohome_Way_7">Dancem e reúnam-se~ Vamos para casa!</text>
 
@@ -682,7 +682,7 @@
   <text id="Servant_nomal_servant_2">Justiça e equilíbrio… precisavam… ser mantidos!!</text>
 
   <text id="Servant_nomal_hemit_1">Me chame. Diga meu nome. Então eu falarei o seu em troca. Minha querida companheira.</text>
-  <text id="Servant_nomal_hemit_2">Eu venho de outro mundo. Eremita de uma floresta azulada. Vim para encontrar uma amiga, então gentilmente abra caminho para mim.</text>
+  <text id="Servant_nomal_hemit_2">Eu venho de outro mundo. Eremita de uma floresta azulada. Vim para encontrar uma amiga, então por favor deixa eu passar.</text>
 
   <text id="Servant_noWoodenDoll_servant_1">GRRRR!!</text>
   <text id="Servant_noWoodenDoll_servant_2">AAAAH!!</text>
@@ -692,12 +692,12 @@
   <!-- Floor of Natural Sciences Realization -->
   <text id="T_roland_Servant_1">Nosso relacionamento era mais especial do que qualquer outro… Pra ter que acabar assim…</text>
   <text id="T_roland_Servant_2">O equilíbrio desmorona e a justiça desaparece…</text>
-  <text id="T_roland_Servant_3">Eu devia ter seguido os meus princípios… Tratar todo mundo igualmente…</text>
-  <text id="T_roland_Servant_4">Meu mundo estava miseravelmente destruído… Ficou grande demais para viver sozinho…</text>
+  <text id="T_roland_Servant_3">Eu devia ter seguido os meus valores… Tratar todo mundo igualmente…</text>
+  <text id="T_roland_Servant_4">Meu mundo estava destruído… Ficou grande demais para viver sozinho…</text>
   <text id="T_roland_Servant_5">Aqueles que precisam de um ao outro… Esse tipo de pessoa…</text>
-  <text id="T_roland_Servant_6">Por isso perdi… Eu desmoronei por causa de alguém que eu amava muito…</text>
+  <text id="T_roland_Servant_6">Por isso perdi… Eu desmoronei por causa de alguém que eu amava demais…</text>
   <text id="T_roland_Servant_7">Não tenho tempo para ver o sol nascente… Tô muito ocupado olhando pra escuridão atrás…</text>
-  <text id="T_roland_Servant_8">Não consigo ir longe… Ninguém conseguem… Não consigo ver mais do que um passo à frente…</text>
+  <text id="T_roland_Servant_8">Não consigo ir longe… Ninguém consegue… Não consigo ver mais do que um passo à frente…</text>
   <text id="T_roland_Servant_9">Uma pessoa especial que me atende quando eu chamo o nome dela…</text>
   <text id="T_roland_Servant_10">De todas as pessoas, você não deveria ter vindo ao meu mundo.</text>
 
@@ -708,7 +708,7 @@
   <text id="T_roland_KnightOfDespair_5">Não me acorde. Quero descansar meu corpo aqui…</text>
   <text id="T_roland_KnightOfDespair_6">Tudo mudou. Eu pensei que pelo menos você ficaria comigo para sempre.</text>
   <text id="T_roland_KnightOfDespair_7">O fio da espada afiada me atravessará, o homem que não conseguiu salvar nada.</text>
-  <text id="T_roland_KnightOfDespair_8">Ter expectativas só vai me trair. Não há nada além de desespero… só desespero…</text>
+  <text id="T_roland_KnightOfDespair_8">Eu só vou me arrepender se eu ter expectativas. Não há nada além de desespero… só desespero…</text>
   <text id="T_roland_KnightOfDespair_9">Jurei proteger alguém pela primeira vez na minha vida… E falhei até nisso.</text>
   <text id="T_roland_KnightOfDespair_10">O que me resta? Não faz mais sentido em ter expectativas.</text>
   <text id="T_roland_KnightOfDespair_11">Só um desespero sem fim brota dentro de mim… Então…</text>
@@ -741,7 +741,7 @@
   <text id="T_roland_Fool_4">Faz sentido ficar se lamentando por coisas que você não tem ideia de como lidar agora?</text>
   <text id="T_roland_Fool_5">Liderando o caminho através de atos tolos, não há nada para me guiar.</text>
   <text id="T_roland_Fool_6">Tô ansioso. Mas não quero saber. Não vou saber o que tá por vir.</text>
-  <text id="T_roland_Fool_7">Cego pelos desejos da carne e pelo ciúme, ele caminha voluntariamente até a beira do penhasco…</text>
+  <text id="T_roland_Fool_7">Cego pelos desejos carnais e pelo ciúme, ele caminha voluntariamente até a beira do penhasco…</text>
   <text id="T_roland_Fool_8">Eu nunca tive planos ou destino.</text>
   <text id="T_roland_Fool_9">Tô cansado demais para voar. Então só tem um caminho pra mim.</text>
   <text id="T_roland_Fool_10">Por favor, batam palma pra esse homem tolo.</text>
@@ -843,7 +843,7 @@
   <text id="G_roland_Nothing_7">A razão de eu existir…? Nem sei mais.</text>
   <text id="G_roland_Nothing_8">Um ser oco que não tem nada além do exterior. Esse sou eu. E aposto que você é igual.</text>
   <text id="G_roland_Nothing_9">Será que o disfarce que usei foi suficiente para me fazer parecer humano?</text>
-  <text id="G_roland_Nothing_10">Quem é que quer o esquecimento; quem é que se beneficia dessa loucura?</text>
+  <text id="G_roland_Nothing_10">Quem é que quer o oblívio; quem é que se beneficia dessa loucura?</text>
   <!-- Ozma -->
   <text id="Ozma_nomal_1">Sou Ozma… Uma única pessoa tirou tudo de mim…</text>
   <text id="Ozma_nomal_2">Tudo o que me resta agora… são essas crianças.</text>
@@ -871,19 +871,19 @@
   <text id="C_roland_Woodsman_1">Eu não quero sentir esse vazio e solitário sentimento nunca mais…</text>
   <text id="C_roland_Woodsman_2">Eu agarrei meu peito vazio e lamentei. Implorando para ter essa cavidade preenchida…</text>
   <text id="C_roland_Woodsman_3">Procurei coisas para substituir o calor…</text>
-  <text id="C_roland_Woodsman_4">Cortei uma após o outra, mas a floresta continua a ficar mais densa. Sempre havia mais árvores para cortar.</text>
+  <text id="C_roland_Woodsman_4">Cortei uma após a outra, mas a floresta continua a ficar mais densa. Sempre havia mais árvores para cortar.</text>
   <text id="C_roland_Woodsman_5">Cortei todas as árvores que me chamaram a atenção…</text>
   <text id="C_roland_Woodsman_6">Sinto frio por dentro e não consigo fazer nada a respeito…</text>
   <text id="C_roland_Woodsman_7">Não me diz que você me entende. Você ficou frio do mesmo jeito…</text>
-  <text id="C_roland_Woodsman_8">Eu sei. Não posso preencher o vazioassim… Eu sei disso claramente…</text>
+  <text id="C_roland_Woodsman_8">Eu sei. Não posso preencher o vazio assim… Eu sei disso claramente…</text>
   <text id="C_roland_Woodsman_9">O vazio não será preenchido; Eu só serei dolorosamente lembrado desse oco…</text>
   <text id="C_roland_Woodsman_10">A floresta nunca mudará… Quanto mais eu anseio, mais árvores crescerão…</text>
-  <text id="C_roland_Woodsman_11">Devolva o que você tomou… de mim…</text>
+  <text id="C_roland_Woodsman_11">Devolve o que você tomou… de mim…</text>
 
   <text id="C_roland_Waygohome_1">Para a casa onde uma família que me ama espera…</text>
   <text id="C_roland_Waygohome_2">Não chegará o dia em que todos nós voltaremos juntos…</text>
-  <text id="C_roland_Waygohome_3">Este é o único caminho que posso percorrer… A estrada pavimentada com tijolos dourados…</text>
-  <text id="C_roland_Waygohome_4">Serei capaz de encontrar o que eu desesperadamente desejei ver se continuar seguindo esse caminho.</text>
+  <text id="C_roland_Waygohome_3">Esta é a única estrada que posso percorrer… A estrada pavimentada com tijolos amarelos…</text>
+  <text id="C_roland_Waygohome_4">Serei capaz de encontrar o que eu desesperadamente desejei ver se continuar seguindo essa estrada.</text>
   <text id="C_roland_Waygohome_5">Se eu seguisse a estrada de tijolos pavimentada aleatoriamente, eu a encontraria? A coisa que estou procurando…?</text>
   <text id="C_roland_Waygohome_6">Onde está a casa para mim?</text>
   <text id="C_roland_Waygohome_7">Vamos, vamos. Vamos nos apressar. Antes que a espera me mate.</text>
@@ -915,7 +915,7 @@
   <text id="C_roland_Oz_6">Quem você espera entender com esse seu coração gelado?</text>
   <text id="C_roland_Oz_7">Gatinho covarde, eu lhe darei coragem para enfrentar tudo e qualquer coisa.</text>
   <text id="C_roland_Oz_8">O que você vai fazer sendo que você nem tem a coragem de bater de frente?</text>
-  <text id="C_roland_Oz_9">Por último, caminho que está perdido. Eu te mandarei para casa.</text>
+  <text id="C_roland_Oz_9">Por último, estrada que está perdida. Eu te mandarei para casa.</text>
   <text id="C_roland_Oz_10">Pelo que você está lutando tão ferozmente quando não tem para onde voltar?</text>
   <text id="C_roland_Oz_11">Eu apenas dei o que vocês queriam.</text>
   <text id="C_roland_Oz_12">Eu não posso largar disso. Eu não posso abrir mão do que é meu!!!</text>

@@ -485,7 +485,7 @@
 
   <text id="Servant_Wrath_win">Nós éramos… Nós éramos amigas de verdade. Né?</text>
   <!-- Floor of Natural Sciences Realization -->
-  <text id="T_roland_Queenofhatred_Tiphereth_start">Não sabemos muito sobre o Roland e podemos não entendê-lo completamente… Mas ainda precisamos encarar ele diretamente.</text>
+  <text id="T_roland_Queenofhatred_Tiphereth_start">Não sabemos muito sobre o Roland e podemos não entendê-lo completamente… Mas ainda precisamos enfrentar ele.</text>
   <text id="T_roland_Queenofhatred_Tiphereth_die">…Foi mal. Eu não fui muito útil.</text>
 
   <text id="T_roland_Queenofhatred_librarian1_start">A gente faria alguma coisa, mas sabemos muito pouco sobre ele…</text>
@@ -497,8 +497,8 @@
   <text id="T_roland_KnightOfDespair_Tiphereth_die">…Foi mal. Eu não fui muito útil.</text>
 
   <text id="T_roland_KnightOfDespair_librarian1_start">E esse veneno tá prestes a nos atacar agora.</text>
-  <text id="T_roland_KnightOfDespair_librarian2_start">Mesmo que a culpa seja sua, ser carregado tanta culpa irá corroê-lo como veneno.</text>
-  <text id="T_roland_KnightOfDespair_librarian3_start">Nunca vou entender por inteiro, já que não aconteceu comigo.</text>
+  <text id="T_roland_KnightOfDespair_librarian2_start">Mesmo que a culpa seja sua, carregar tanta culpa irá corroê-lo como veneno.</text>
+  <text id="T_roland_KnightOfDespair_librarian3_start">Nunca vou entender completamente, já que não aconteceu comigo.</text>
   <text id="T_roland_KnightOfDespair_librarian4_start">…Imagino como é perder exatamente aquilo que você queria proteger.</text>
 
   <text id="T_roland_GreedKing_Tiphereth_start">A tristeza de quando alguém tira sua felicidade será a mesma, não importa quão grande ou pequena ela seja.</text>
