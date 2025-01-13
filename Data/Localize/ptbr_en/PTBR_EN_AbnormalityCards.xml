@@ -331,7 +331,7 @@ Os dados ofensivos ganham Poder contra inimigos mais lentos (+1 de Poder por pon
 		  <CardName>Música</CardName>
 		  <AbilityDesc>[Todos os Personagens]
 Todos os personagens causam +4-8 de dano com seus ataques durante essa Recepção. Eles também sofrem +4-8 dano de atordoamento ao serem golpeados.
-Quando um aliado derrotar um inimigo, eles recuperam 15 de HP e Resistência à Atordoamento.</AbilityDesc>
+Quando um aliado derrotar um inimigo, eles recuperam 15 de HP e Resistência ao Atordoamento.</AbilityDesc>
 		  <FlaborText>Mas nada podia se comparar a música que ela tocava quando ela comia um humano.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Nada faz uma música tão fascinante quanto um humano.</Dialogue>
@@ -424,7 +424,7 @@ Ao golpear um inimigo que esteja com 50% de HP ou menos, Sele um dos Dados de Ve
       <AbilityDesc>[Aliado Único]
 Se não há um 'Alvo Solicitado' presente, o primeiro inimigo que o bibliotecário selecionar será marcado como alvo.
 Cause +3-5 de dano ao 'Alvo Solicitado'.
-Quando o bibliotecário selecionado mata o Alvo Solicitado, recupere totalmente a Resistência à Atordoamento, e recupere duas vezes mais livros.</AbilityDesc>
+Quando o bibliotecário selecionado mata o Alvo Solicitado, recupere totalmente a Resistência ao Atordoamento, e recupere duas vezes mais livros.</AbilityDesc>
       <FlaborText>Assim como o Diabo disse, as balas vão perfurar qualquer coisa que você quiser. Para sempre.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Alguns chamavam ele de caçador honrado, outros o chamavam de um pistoleiro manchado de sangue.</Dialogue>
@@ -704,7 +704,7 @@ Ganha 6 'Roupa de Urtiga', que concede Proteção igual a sua quantidade no come
       <Abnormality>Fragmento do Universo</Abnormality>
       <CardName>Ecos do Além</CardName>
       <AbilityDesc>[Todos os Personagens]
-Cause 5-10 de Dano de Atordoamento a todos os inimigos. Aliados recuperam 5-10 de Resistência à Atordoamento.</AbilityDesc>
+Cause 5-10 de Dano de Atordoamento a todos os inimigos. Aliados recuperam 5-10 de Resistência ao Atordoamento.</AbilityDesc>
       <FlaborText>Você vê a canção na sua frente. Está se aproximando, ficando mais colorida a cada segundo</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Cante. Performe. Humano. Canção. Orelha. Ouvir.</Dialogue>
@@ -719,7 +719,7 @@ Cause 5-10 de Dano de Atordoamento a todos os inimigos. Aliados recuperam 5-10 d
       <Abnormality>Fragmento do Universo</Abnormality>
       <CardName>Tentáculos</CardName>
       <AbilityDesc>[Aliado Único]
-Em um ataque Perfurante bem sucedido, reduz a Resistência à Atordoamento máxima do alvo em 5%. (Max 50%, Exclui Ataques em Massa)</AbilityDesc>
+Em um ataque Perfurante bem sucedido, reduz a Resistência ao Atordoamento máxima do alvo em 5%. (Max 50%, Exclui Ataques em Massa)</AbilityDesc>
       <FlaborText>No momento em que seus tentáculos te atravessarem, ele vai drenar todo o interesse pela vida que você está vivendo agora.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Negativo. Ataquar. Venha. Ajudar. Dar.</Dialogue>
@@ -811,7 +811,7 @@ Contra inimigos com 3+ 'Excitação' cause +2-7 de Dano e Dano de Atordoamento, 
       <Abnormality>Pórcubo</Abnormality>
       <CardName>Exaltação</CardName>
       <AbilityDesc>[Aliado Único]
-Poder de todos os Dados +1. Reduz a Resistência à Atordoamento máxima em 50%.</AbilityDesc>
+Poder de todos os Dados +1. Reduz a Resistência ao Atordoamento máxima em 50%.</AbilityDesc>
       <FlaborText>Hora de Minha Cabeça Estourar. Bom Dia.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Se você desejar por prazer imensurável, você vai quebrar eventualmente.</Dialogue>
@@ -826,7 +826,7 @@ Poder de todos os Dados +1. Reduz a Resistência à Atordoamento máxima em 50%.
       <Abnormality>Pórcubo</Abnormality>
       <CardName>Pó do Riso</CardName>
       <AbilityDesc>[Todos os Aliados]
-Ao ser Golpeado, recupere 2-4 de Resistência à Atordoamento se não estiver Atordoado.</AbilityDesc>
+Ao ser Golpeado, recupere 2-4 de Resistência ao Atordoamento se não estiver Atordoado.</AbilityDesc>
       <FlaborText>Quando o pó que caiu dos espinhos ficar conhecido pelo mundo, talvez as pessoas afundem para sempre nesse pântano de intoxicação.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Sua cabeça ficará cheia de felicidade.</Dialogue>
@@ -962,7 +962,7 @@ Ao ser Golpeado, tem 20% de chance de reduzir o dano a 0.</AbilityDesc>
 Depois de 3 ataques bem sucedidos no mesmo alvo, cause 3-10 de Dano de Atordoamento.
 (Reinicia a contagem ao atacar um alvo diferente, Exclui Ataques em Massa)</AbilityDesc>
       <FlaborText>Muitas mãos flutuam na banheira.
-São as mãos daques que um dia eu amei.</FlaborText>
+São as mãos daqueles que um dia eu amei.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">As mãos das pessoas que você, ou talvez nós, já amamos, estão esperando lá dentro.</Dialogue>
         <Dialogue ID="2">Essas mãos estão esperando alguém para segurá-las, você vai conceder o desejo delas?</Dialogue>
@@ -1026,7 +1026,7 @@ Ganha 4 de Força, Dureza, Celeridade e Proteção todas as Cenas até a morte. 
       <AbilityDesc>[Aliado Único]
 Adicione uma página 'Aprender' à mão: ‘Custo 2 - [Começo do Embate] Copie todos os Dados da página do oponente.’
 Essa página está inclusa no baralho no começo dos Atos subsequentes.</AbilityDesc>
-      <FlaborText>Tudo que a criança podia fazer era “Aprender” ao observar os outros e mimetizando seus comportamentos. E esse era o problema.</FlaborText>
+      <FlaborText>Tudo que a criança podia fazer era “aprender” ao observar os outros e mimetizando seus comportamentos. E esse era o problema.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Estou ansioso para aprender como sempre. Você quer ver eu aprender?</Dialogue>
         <Dialogue ID="2">As pessoas me ensinaram a falar.</Dialogue>
@@ -1166,7 +1166,7 @@ Ao ser Golpeado, o atacante recebe Dano de Atordoamento igual ao Dano Físico qu
       <CardName>Amor</CardName>
       <AbilityDesc>[Aliado Único]
 Depois de ganhar um Embate usando um dado Ofensivo, um aliado aleatório recupera 3-5 de HP.
-Depois de ganhar um Embate usando um dado Defensivo, um aliado aleatório recupera 2-4 de Resistência à Atordoamento.</AbilityDesc>
+Depois de ganhar um Embate usando um dado Defensivo, um aliado aleatório recupera 2-4 de Resistência ao Atordoamento.</AbilityDesc>
       <FlaborText>Em nome do Amor e da Justiça~ Ai vem a Garota Mágica!</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Não se preocupem. Vocês estão seguros enquanto eu estiver aqui!</Dialogue>
@@ -1252,7 +1252,7 @@ Quando um aliado morre, todos os outros aliados recebem 1-3 de Força e Celerida
   
     <AbnormalityCard ID="Greed_Break">
       <Abnormality>O Rei da Ganância</Abnormality>
-      <CardName>Intemperancia</CardName>
+      <CardName>Intemperança</CardName>
       <AbilityDesc>[Aliado Único]
 Se o primeiro dado da Página de Combate ganha um Embate, tenha 25% de chance de destruir os outros dados na Página do oponente.</AbilityDesc>
       <FlaborText>A primeira semente de desejo originada de aspiração pura por felicidade. A pequena semente cresceu e cresceu, faminta por mais. Ao longo do tempo, a semente endureceu e se tornou uma brilhante gema.</FlaborText>
@@ -1286,9 +1286,9 @@ Em um Embate, se dado vencedor vencer por 4 ou mais, o perdedor recebe 3-7 de Da
       <FlaborText>A garota mágica, que não era mais uma garota mágica, comeu muitas coisas. Autoridade, dinheiro, fama, e muitas outras formas de prazer. Ela acabou consumindo tudo em sua vista. Agora, apenas ganância viceral resta.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A gema atiçou a ganância faminta.</Dialogue>
-        <Dialogue ID="2">Mas a ganância busca eternidade—zbusca profunda, profunda eternidade.</Dialogue>
-        <Dialogue ID="3">Minha cesta é tão grande, nem todas as frutas do mundo podem enche-la.</Dialogue>
-        <Dialogue ID="4">Não há nada no meu caminho. Apenas ganância viceral resta.</Dialogue>
+        <Dialogue ID="2">Mas a ganância busca eternidade—busca profunda, profunda eternidade.</Dialogue>
+        <Dialogue ID="3">Minha cesta é tão grande, nem todas as frutas do mundo podem enchê-la.</Dialogue>
+        <Dialogue ID="4">Não há nada no meu caminho. Apenas ganância visceral resta.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -1312,7 +1312,7 @@ O bibliotecário também ganha 2 de Força, restaura 2 de Luz, e compra 2 págin
       <Abnormality>A Serva da Ira</Abnormality>
       <CardName>Companheira</CardName>
       <AbilityDesc>[Aliado Único]
-Quando não há uma 'Companheira' presente, o primeiro inimigo que o bibliotecário selecionado acertar é marcado como um. Quando o bibliotecário derrota a 'Companheira', todos os bibliotecários restauram 3 de Luz recuperam 10 HP e Resistência à Atordoamento.</AbilityDesc>
+Quando não há uma 'Companheira' presente, o primeiro inimigo que o bibliotecário selecionado acertar é marcado como um. Quando o bibliotecário derrota a 'Companheira', todos os bibliotecários restauram 3 de Luz recuperam 10 HP e Resistência ao Atordoamento.</AbilityDesc>
       <FlaborText>A Serva da Ira valorizava justiça e equilíbrio mais do que qualquer um, mas ela começou a compartilhar conhecimento com a Eremita—uma inimiga do reino dela—tornando-se amiga dela em segredo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Chame… Chame meu nome…</Dialogue>
@@ -1331,7 +1331,7 @@ Inflige 5 de 'Erosão' a todos os inimigos. Inimigos com Erosão também ganham 
       <FlaborText>Quando eles enfim se encontraram, o Eremita trouxe incontáveis lacaios para destruir o mundo da Serva.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">O equilibrio se quebra, e a justiça se esvai…</Dialogue>
-        <Dialogue ID="2">É por isso que perdi; Caí contra um querido companheiro.</Dialogue>
+        <Dialogue ID="2">É por isso que perdi; morri contra minha querida companheira.</Dialogue>
         <Dialogue ID="3">Use eles e eles usam você. Somos nós.</Dialogue>
         <Dialogue ID="4">Isso já aconteceu antes… Tudo frustrado pelo bem deles…</Dialogue>
       </Dialogues>
@@ -1373,7 +1373,7 @@ No começo da Cena, Inflige 5 de Fraqueza, Desarme e Amarro a todos os outros pe
       <FlaborText>Tendo decidido confiar na própria intuição, o bobo da corte disse o nome de todos que conheceu naquele caminho com cada passo que tomou.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Liderando o caminho pela tolice, não há nada que me guie.</Dialogue>
-        <Dialogue ID="2">Cegado pelos desejos carnais e inveja, de bom grado andando para a ponta do penhasco.</Dialogue>
+        <Dialogue ID="2">Cegado pelos desejos carnais e ciúme, de bom grado andando até a beira do penhasco.</Dialogue>
         <Dialogue ID="3">Se você está confuso porquê não parece ter o método correto, confie na sua intuição!</Dialogue>
         <Dialogue ID="4">A agonia de todos se torna um.</Dialogue>
       </Dialogues>
@@ -1387,14 +1387,14 @@ No começo da Cena, Inflige 5 de Fraqueza, Desarme e Amarro a todos os outros pe
       <CardName>Presa</CardName>
       <AbilityDesc>[Aliado Único]
 Marca o primeiro inimigo que for atacado por este bibliotecário após a página ser selecionada.
-Causa +2-6 de Dano quando atacando o inimigo Marcado.</AbilityDesc>
+Cause +2-6 de Dano quando atacar o inimigo Marcado.</AbilityDesc>
       <FlaborText>A morte do lobo é a única coisa que eu posso amar na minha vida.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Sou uma profissional. Posso lidar com isso fácilmente.</Dialogue>
         <Dialogue ID="2">Não tire seus olhos dele. Preste atenção em seus movimentos.</Dialogue>
         <Dialogue ID="3">Assim que você tiver seus olhos no alvo, vá até o fim com a caçada. Não desista.</Dialogue>
-        <Dialogue ID="4">Fixe seu olhar no alvo e corra até ele. Tenha a determinação para mata-lo, custe o que custar.</Dialogue>
-        <Dialogue ID="5">SE você me pedir algo, eu talvez te ajude.</Dialogue>
+        <Dialogue ID="4">Fixe seu olhar no alvo e corra até ele. Tenha a determinação para matá-lo, custe o que custar.</Dialogue>
+        <Dialogue ID="5">Se você me pedir algo, talvez te ajude.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -1402,26 +1402,26 @@ Causa +2-6 de Dano quando atacando o inimigo Marcado.</AbilityDesc>
       <Abnormality>Chapeuzinho Vermelha Mercenária</Abnormality>
       <CardName>Vingança</CardName>
       <AbilityDesc>[Aliado Único]
-Ao começo da Cena, ganhe Força baseado na quantidade de dano recebido na Cena anterior (1 de Força para 5 de Dano, até 2)</AbilityDesc>
+No começo da Cena, ganhe Força baseado na quantidade de dano recebido na Cena anterior (1 de Força para 5 de Dano, até 2)</AbilityDesc>
       <FlaborText>Cá entre nós, não há vitória a ser vencida. Tudo o que eu penso é como eu vou matar esse bastardo de um jeito mais cruel e doloroso do que a última vez.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Estive afiando a lâmina para decapitar aquele maldito lobo.</Dialogue>
         <Dialogue ID="2">Entregue-me esse terrível, e ardiloso bastardo.</Dialogue>
         <Dialogue ID="3">Eu vou pendurar a cabeça dele em cima da minha cama. Somente assim eu poderei acordar de manhã sem ter tido um pesadelo.</Dialogue>
-        <Dialogue ID="4">Tudo isso para ler o inimigo. Hora de retribuir o favor</Dialogue>
+        <Dialogue ID="4">Tudo isso para prever o inimigo. Hora de retribuir o favor.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Redhood_RedScar">
       <Abnormality>Chapeuzinho Vermelha Mercenária</Abnormality>
-      <CardName>Cicatrizes a Mostra</CardName>
+      <CardName>Vergões Avermelhados</CardName>
       <AbilityDesc>[Aliado Único]
 Se o HP do bibliotecário está em 50%/35%/25% ou menos, ganha 1/2/4 de Força a cada Cena.</AbilityDesc>
-      <FlaborText>Me acostumei a afiar machados ao invés de pegar flores quando eu tinha 15.</FlaborText>
+      <FlaborText>Me acostumei a afiar machados ao invés de pegar flores quando eu tinha 15 anos.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Não são as decorações orgulhosas de um sobrevivente. São a prova da minha vontade de viver.</Dialogue>
+        <Dialogue ID="1">Não é a orgulhosa decoração de um sobrevivente. É a prova da minha vontade de viver.</Dialogue>
         <Dialogue ID="2">Quanto mais cicatrizes você ganha, mais forte a sua vontade de sobreviver se torna.</Dialogue>
-        <Dialogue ID="3">Não tenha orgulho disso. São o sinal que você não tem habilidade o bastante.</Dialogue>
+        <Dialogue ID="3">Não tenha orgulho disso. É sinal de que você não tinha habilidade suficiente.</Dialogue>
         <Dialogue ID="4">…Me sinto terrível quando eu olho para essas cicatrizes. Elas fazem eu me tremer de raiva.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
@@ -1430,8 +1430,8 @@ Se o HP do bibliotecário está em 50%/35%/25% ou menos, ganha 1/2/4 de Força a
       <Abnormality>Lobo Grande que Será Mau</Abnormality>
       <CardName>Garras de Salvageria</CardName>
       <AbilityDesc>[Aliado Único]
-Depois que o bibliotecário sofrer 25% da vida máxima ou mais em dano, ele não pode ser Selecionado para Embates ou interceptado na próxima Cena
-O bibliotecário ganha 2 de Força na Cena e causa 1 de Sangramento com cada ataque.</AbilityDesc>
+Após o bibliotecário sofrer dano maior que 25% de seu HP Máx., ele não pode ser Selecionado para Embates ou interceptado na próxima Cena.
+O bibliotecário ganha 2 de Força na Cena e causa 1 de Sangramento com cada ataque bem-sucedido.</AbilityDesc>
       <FlaborText>Era uma vez, essas garras poderiam cortar as barrigas de várias criaturas e dilacerar suas entranhas.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Que garras grandes que eu tenho, para melhor servir o papel que eu nasci para servir…</Dialogue>
@@ -1447,7 +1447,7 @@ O bibliotecário ganha 2 de Força na Cena e causa 1 de Sangramento com cada ata
       <AbilityDesc>[Aliado Único]
 Sempre que o bibliotecário selecionado ganha um Embate, o último dado da página ganha 1-2 de Poder.
 Recupere 3-7 de HP ao golpear com o esse último dado.</AbilityDesc>
-      <FlaborText>O sabor da cerne era tão bom depois de tanto sempo sem devora-la. Desde então, ficou mais e mais difícil dele se manter em cheque. Ainda assim, não importava para ele. Afinal, ele estava 'destinado' a ser o grande Lobo Mau.</FlaborText>
+      <FlaborText>O sabor da carne era tão bom depois de tanto sempo sem devorá-la. Desde então, ficou mais e mais difícil dele se manter em cheque. Ainda assim, não importava para ele. Afinal, ele estava "destinado" a ser um grande lobo mau.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Este lugar tem um cheiro horrível… Ele me chama…</Dialogue>
         <Dialogue ID="2">Como a lua vazia cheia de escuridão, minha barriga deveria estar cheia de carne…</Dialogue>
@@ -1461,25 +1461,25 @@ Recupere 3-7 de HP ao golpear com o esse último dado.</AbilityDesc>
       <CardName>O Papel do Lobo</CardName>
       <AbilityDesc>[Aliado Único]
 Os dados de Contra-ataque ganham 1-2 de Poder.
-Os dados de Contra-ataque infligem 2 de Fragil ao ganhar o Embate. (3 veces por escena)</AbilityDesc>
+Os dados de Contra-ataque infligem 2 de Frágil ao ganhar o Embate. (3 vezes por cena)</AbilityDesc>
       <FlaborText>Lobos não podiam cruzar a linha quando fazendo coisas ruins. E lobos tinham que ser punidos. Lobos sempre tinham que ser o exemplo.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Não importa… Estou fadado a ser o grande Lobo Mau…</Dialogue>
+        <Dialogue ID="1">Não importa… Estou fadado a ser um grande lobo mau…</Dialogue>
         <Dialogue ID="2">Todos me chamavam assim, então deve ser verdade… Velhos contos nunca estão errados…</Dialogue>
         <Dialogue ID="3">Um lobo não precisa de nome, ele apenas obedece ao papel para o qual nasceu…</Dialogue>
-        <Dialogue ID="4">Ninguém nunca desejou estar perto do Lobo assustador……</Dialogue>
+        <Dialogue ID="4">Ninguém nunca desejou estar perto do Lobo assustador…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
         <AbnormalityCard ID="Mountain_Eat">
       <Abnormality>Montanha de Corpos Sorridentes</Abnormality>
-      <CardName>Absorción</CardName>
+      <CardName>Absorção</CardName>
 <AbilityDesc>[Aliado Único]
-Pela duração do Ato, recupere 20% do HP máximo (Máx. 20) sempre que derrotar um inimigo
-Ao começo da Cena, ganha Força baseada na quantidade de HP que o biblitecário recuperou nesse Ato. (1 de Força cada 10% de HP máximo curado, até 3)</AbilityDesc>
+Pela duração do Ato, recupere 20% do HP máximo (Máx. 20) sempre que derrotar um inimigo.
+No começo da Cena, ganha Força baseada na quantidade de HP que o biblitecário recuperou nesse Ato. (1 de Força cada 10% de HP máximo curado, até 3)</AbilityDesc>
       <FlaborText>Ele só queria uma coisa: Nossa carne banhada em sangue. Assim que conseguir cheirar a essência, ele vai nos perseguir instantaneamente .</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Carne… Delicioso… car…ne…</Dialogue>
+        <Dialogue ID="1">Carne… Deliciosa… car…ne…</Dialogue>
         <Dialogue ID="2">Esse cheiro… por… aqui…</Dialogue>
         <Dialogue ID="3">Não… suficiente… preciso comer… mais…</Dialogue>
         <Dialogue ID="4">Mais corpos… vão… me fazer… mais fortes…</Dialogue>
@@ -1518,7 +1518,7 @@ O bibliotecário selecionado recebe Capacidade Máxima de Luz, Restauração de 
     
     <AbnormalityCard ID="Nosferatu_BloodHope">
       <Abnormality>Nosferatu</Abnormality>
-      <CardName>Medo de água</CardName>
+      <CardName>Medo da Água</CardName>
       <AbilityDesc>[Aliado Único]
 Ao golpear, inflige 1 de Sangramento e ganha 1 de Sangue.(Exclui Ataques Em Massa)
 'Sangue' concede vários defeitos dependendo da quantidade, como aumentar dano ao custo de HP, receber dano de Atordoamento em troca de Força.</AbilityDesc>
@@ -1547,44 +1547,44 @@ Ao derrotar um inimigo com Sangramento, todos os aliados recuperam 10 de HP, e o
       <Abnormality>Nosferatu</Abnormality>
       <CardName>Vampirismo</CardName>
       <AbilityDesc>[Aliado Único]
-Causa +2-4 de dano e recupera 2-5 de HP quando atacando inimigos com Sangramento.(Exclui Ataques Em Massa)</AbilityDesc>
+Cause +2-4 de dano e recupera 2-5 de HP quando atacando inimigos com Sangramento.(Exclui Ataques Em Massa)</AbilityDesc>
       <FlaborText>…E a sede nunca poderia ser verdadeiramente saciada.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">O morce dança de forma macabra com todos! Todos vocês tem a chance honesta de serem consumidos</Dialogue>
+        <Dialogue ID="1">A morte dança de forma macabra com todos! Todos vocês tem a chance honesta de serem consumidos</Dialogue>
         <Dialogue ID="2">Hora de um banquete! Aproveite a noite vermelho-sangue imbuída de loucura o quanto quiser!</Dialogue>
         <Dialogue ID="3">Não há como fugir desta sede!</Dialogue>
-        <Dialogue ID="4">Mastique tudo! Beba até a última gota!</Dialogue>
+        <Dialogue ID="4">Mastigue tudo! Beba até a última gota!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="NothingThere_Goodbye">
-      <Abnormality>Nada Aqui</Abnormality>
+      <Abnormality>Nada Alí</Abnormality>
       <CardName>Adeus</CardName>
       <AbilityDesc>[Aliado Único]
-Dobra o Poder do último dado que o bibliotecário usar por Cena.</AbilityDesc>
+Dobra o Poder do último dado que o bibliotecário usar cada Cena.</AbilityDesc>
       <FlaborText>Se foi confirmado que aquilo escapou e está de pé, tem apenas uma coisa que pode fazer. Ajoelhe-se, entrelace suas mãos, reze futilmente para qualquer deus que puder te ouvir e observe a situação se desdobrar</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Me… Ajude… Aju… ME AJUDE!!!</Dialogue>
         <Dialogue ID="2">TEM ALGUÉM… GUÉM… AÍ?! ALGUÉM AÍ!!!</Dialogue>
         <Dialogue ID="3">Não… quero… N… não quero… Não quero morrer…</Dialogue>
-        <Dialogue ID="4">Olá. O-lá. O… lá… Olá.</Dialogue>
+        <Dialogue ID="4">Alô. A-lô. A… lô… Alô.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="NothingThere_Hello">
-      <Abnormality>Nada Aí</Abnormality>
-      <CardName>Olá?</CardName>
+      <Abnormality>Nada Alí</Abnormality>
+      <CardName>Alô?</CardName>
       <AbilityDesc>[Aliado Único]
-A cada Cena, o primeiro dado que o bibliotecário jogar recupera Hp igual a quantidade de dano causado.</AbilityDesc>
+A cada Cena, o primeiro dado que o bibliotecário jogar recupera HP igual a quantidade de dano causado.</AbilityDesc>
       <FlaborText>“O que era pior, é que tentava imitar humanos. Fazendo coisas como olhar no espelho, murmurando pra si mesmo, ou tentando ajeitar sua estrutura esqueletal; como se estivesse tentando imitar 'nós'.”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Mon… stro. Ese… mons… tro… Esse monstro… porque está aquí…</Dialogue>
         <Dialogue ID="2">…er …ger!!! Me… Salvem!</Dialogue>
-        <Dialogue ID="3">E… es… horr… ivel… monstro… monstro…</Dialogue>
-        <Dialogue ID="4">O… la… Olá? ¿la… Olá?</Dialogue>
+        <Dialogue ID="3">E… es… horr… ível… monstro… monstro…</Dialogue>
+        <Dialogue ID="4">A… lô… Alô? lô… Alô?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="NothingThere_Skin">
-      <Abnormality>Nada Aqui</Abnormality>
+      <Abnormality>Nada Alí</Abnormality>
       <CardName>Casca</CardName>
       <AbilityDesc>[Aliado Único]
 Nulifica todo o Dano de Atordoamento vindo de ataques.</AbilityDesc>
@@ -1619,7 +1619,7 @@ Quando o bibliotecário usa uma Página de combate, descarte uma Página aleató
       <Abnormality>Espantalho Buscando Sabedoria</Abnormality>
       <CardName>Colher</CardName>
       <AbilityDesc>[Aliado Único]
-Depois de atacar um inimigo com mais Resistência de Atordoamento, cause 2-4 de Dano de Atordoamento, e recupere 2-5 de Resistência de Atordoamento.(Exclui Ataques Em Massa)</AbilityDesc>
+Depois de atacar um inimigo com mais Resistência ao Atordoamento, cause 2-4 de Dano de Atordoamento, e recupere 2-5 de Resistência ao Atordoamento.(Exclui Ataques Em Massa)</AbilityDesc>
       <FlaborText>Ele demonstra agressão contra certos funcionários, tentando roubar seus cérebros. Esses funcionários são aqueles que pontuaram “Excelente” no teste de inteligência.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Eu me sinto muito mais esperto… Posso saber de tudo agora…</Dialogue>
@@ -1630,12 +1630,12 @@ Depois de atacar um inimigo com mais Resistência de Atordoamento, cause 2-4 de 
     
     <AbnormalityCard ID="Scarecrow_Rake">
       <Abnormality>Espantalho Buscando Sabedoria</Abnormality>
-      <CardName>Rastelo</CardName>
+      <CardName>Ancinho</CardName>
       <AbilityDesc>[Aliado Único]
-Depois de Atordoar um inimigo, copie duas páginas que esse inimigo tem e adicione-as à mão do biblitecário com 2 de Custo a menos.
-Páginas copiadas são Abdicadas ao usar.
-(Só pode copiar páginas À Distância com Páginas Chave que aceitam páginas À Distância e vice-versa; Não tem efeito contra inimigos que tenham a passiva 'Cintilante')</AbilityDesc>
-      <FlaborText>O rastelo arava um cérebro humano ao invés de uma fazenda. Quantas pessoas sábias perderam suas vidas para esse rastelo?</FlaborText>
+Após Atordoar um inimigo, copie duas páginas que esse inimigo tem e adicione-as à mão do biblitecário com 2 de Custo a menos.
+Páginas copiadas são abdicadas ao usar.
+(Só pode copiar páginas À Distância com Páginas Chave que aceitam páginas À Distância e vice-versa; não tem efeito contra inimigos que tenham a passiva 'Cintilante')</AbilityDesc>
+      <FlaborText>O ancinho arava um cérebro humano ao invés de uma fazenda. Quantas pessoas sábias perderam suas vidas para esse ancinho?</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Eu arrancarei sua sabedoria…</Dialogue>
         <Dialogue ID="2">Eu quero ser esperto como os outros…</Dialogue>
@@ -1647,8 +1647,8 @@ Páginas copiadas são Abdicadas ao usar.
       <Abnormality>Lenhador de Coração Caloroso</Abnormality>
       <CardName>Um Coração Caloroso</CardName>
       <AbilityDesc>[Aliado Único]
-Ao começo da Cena, aumenta o Poder dos dados Ofensivos em +1-2 pela Cena se o bibliotecário tem 3 de luz ou mais</AbilityDesc>
-      <FlaborText>Em raiva, ele balançou seu machado pelo coração da feiticeira. O coração quente estava pulsando vigorosamente.</FlaborText>
+No começo da Cena, aumenta o Poder dos dados Ofensivos em +1-2 pela Cena se o bibliotecário tem 3 ou mais Luz.</AbilityDesc>
+      <FlaborText>Na raiva, ele balançou seu machado pelo coração da feiticeira. O coração quente estava pulsando vigorosamente.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">É essa… a sensação de ter um coração que bate…</Dialogue>
         <Dialogue ID="2">Quanto mais alto o coração ecoa… mais rápido eu movo…</Dialogue>
@@ -1688,11 +1688,11 @@ A redução dura até usar as páginas.</AbilityDesc>
     </AbnormalityCard>
 
    <AbnormalityCard ID="House_LionAtk">
-      <Abnormality>O Caminho para Casa</Abnormality>
+      <Abnormality>A Estrada para Casa</Abnormality>
       <CardName>Coragem</CardName>
       <AbilityDesc>[Aliado Único]
-Ao começo da Cena, ganha Força e Proteção igual ao número de alaidos vivos menos 2. (Se o valor for menor que 0, receba Fraco e Frágil.)</AbilityDesc>
-      <FlaborText>Posso te seguir para sempre? Assim eu posso rasga-los…</FlaborText>
+No começo da Cena, ganha Força e Proteção igual ao número de alaidos vivos menos 2. (Se o valor for menor que 0, receba Fraco e Frágil.)</AbilityDesc>
+      <FlaborText>Posso te seguir para sempre? Assim eu posso rasgá-los…</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Amigo. Não tenho nada a temer quando você está por perto!</Dialogue>
         <Dialogue ID="2">Nós saimos com todos~ Dançando no caminho!</Dialogue>
@@ -1702,31 +1702,31 @@ Ao começo da Cena, ganha Força e Proteção igual ao número de alaidos vivos 
     </AbnormalityCard>
     
     <AbnormalityCard ID="House_BigHouse">
-      <Abnormality>O Caminho para Casa</Abnormality>
+      <Abnormality>A Estrada para Casa</Abnormality>
       <CardName>Casa</CardName>
       <AbilityDesc>[Todos os Aliados]
-Ao começo da Cena, alvos númerados são colocados em até 3/2/2/1/1 inimigos,  dependendo de quantos aliados estão vivos.
+No começo da Cena, alvos númerados são colocados em até 3/2/2/1/1 inimigos, dependendo de quantos aliados estão vivos.
 Sempre que um alvo é atacado na ordem correta, aumenta o dano causado pelos bibliotecários em 3 pela Cena.</AbilityDesc>
       <FlaborText>Incapazes de voltar para caza, eles começaram uma jornada sem fim.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Não nos incomode! Nos deixem voltar para casa em paz!</Dialogue>
         <Dialogue ID="2">Ah~ Aquela feiticeira! Aquela feiticeira perversa!</Dialogue>
-        <Dialogue ID="3">A feiticeira malvada levou meus amigos</Dialogue>
-        <Dialogue ID="4">Amigos. Oh, amigos. Nós voltaremos pra casa?</Dialogue>
+        <Dialogue ID="3">A feiticeira malvada levou meus amigos!</Dialogue>
+        <Dialogue ID="4">Amigos. Oh, amigos. Será que voltaremos pra casa?</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="House_Home">
-      <Abnormality>O Caminho para Casa</Abnormality>
+      <Abnormality>A Estrada para Casa</Abnormality>
       <CardName>A Estrada Que Andamos Juntos</CardName>
       <AbilityDesc>[Aliado Único]
 Se um aliado redirecionar um ataque direcionado ao bibliotecário selecionado, os dados na página do aliado ganham 1-2 de Poder no Embate.</AbilityDesc>
       <FlaborText>Andaremos juntos. Para uma terra maravilhosa… O mundo dos sonhos.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Eu estava em um sono profundo… e de repente a aventura começou….</Dialogue>
+        <Dialogue ID="1">Eu estava em um sono profundo… e de repente a aventura começou.</Dialogue>
         <Dialogue ID="2">Hoyoyo~ Vamos, juntos~!</Dialogue>
         <Dialogue ID="3">Vamos saltitar para casa juntos~!</Dialogue>
-        <Dialogue ID="4">No final do caminho, tem que ter uma terra fantástica</Dialogue>
+        <Dialogue ID="4">No final do caminho, tem que ter uma terra fantástica…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -1734,7 +1734,7 @@ Se um aliado redirecionar um ataque direcionado ao bibliotecário selecionado, o
       <Abnormality>Ozma</Abnormality>
       <CardName>Poder do Passado</CardName>
       <AbilityDesc>[Aliado Único]
-Aumenta o Custo das Páginas de Combate em 1
+Aumenta o Custo das Páginas de Combate em 1.
 Todos os dados ganham 3-4 de Poder.</AbilityDesc>
       <FlaborText>Ozma segurou a faca de esculpir abóboras, e então correu na direção onde a feiticeira deveria estar.</FlaborText>
       <Dialogues>
@@ -1749,7 +1749,7 @@ Todos os dados ganham 3-4 de Poder.</AbilityDesc>
       <Abnormality>Ozma</Abnormality>
       <CardName>Oblívio</CardName>
       <AbilityDesc>[Aliado Único]
-Adicione uma Página de 'Oblívio' : ‘Custo 3 - [Ao Jogar;] [Uso Único] Imobilizado por essa Cena; Não pode ser o alvo de ataques. Ao final dessa Cena recupere 40% da vida máxima (até 48) e restaure toda a Luz.’
+Adicione uma Página de 'Oblívio' : ‘Custo 3 - [Ao Jogar;] [Uso Único] Imobilizado por essa Cena; não pode ser o alvo de ataques. Ao final dessa Cena recupere 40% da vida máxima (até 48) e restaure toda a Luz.’
 Esta página também estará no baralho no começo dos Atos subsequentes.</AbilityDesc>
       <FlaborText>Tinha uma pessoa boa e bela, olhando para ela com uma expressão perplexa.</FlaborText>
       <Dialogues>
@@ -1765,7 +1765,7 @@ Esta página também estará no baralho no começo dos Atos subsequentes.</Abili
       <CardName>Pó da Vida</CardName>
       <AbilityDesc>[Todos os Aliados]
 Quando um biblitecário recebe dano letal, nulifique-o e recupere 20% do HP máximo (até 24). Só pode ativar uma vez por recepção.</AbilityDesc>
-      <FlaborText>Finalmente, ela polvilhou o pó de canela -seu favorito- e abraçou a abóbora com seus braços.</FlaborText>
+      <FlaborText>Finalmente, ela polvilhou o pó de canela—o favorito dela—e abraçou a abóbora com seus braços.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Tudo o que me resta agora… são essas crianças.</Dialogue>
         <Dialogue ID="2">Aqui, criança… Te darei nova vida.</Dialogue>
@@ -1775,14 +1775,14 @@ Quando um biblitecário recebe dano letal, nulifique-o e recupere 20% do HP máx
     </AbnormalityCard>
     
     <AbnormalityCard ID="Oz_Emerald">
-      <Abnormality>Adulto que Conta Mentiras</Abnormality>
+      <Abnormality>Adulta que Conta Mentiras</Abnormality>
       <CardName>Esmeralda</CardName>
       <AbilityDesc>[Aliado Único]
-Adicione uma Página de 'Esmeralda' à mão: ‘Custo 5 - [Ao Jogar;] [Alvo inimigo] Cancela 2 Páginas de Combate aleatórias no Dado de Velocidade do alvo. Recupere 1 de Luz para cada ataque bem sucedido no alvo nessa Cena (até 2)’.
+Adicione uma Página de 'Esmeralda' à mão: ‘Custo 5 - [Ao Jogar;] [Alvo Inimigo] Cancela 2 Páginas de Combate aleatórias nos Dados de Velocidade do alvo. Recupere 1 de Luz para cada ataque bem-sucedido no alvo nessa Cena (até 2)’.
 Esta página também estará no baralho no começo dos Atos subsequentes.</AbilityDesc>
-      <FlaborText>Oz teve uma ideia brilhante. Seus olhos esmeralda pareciam cintliar ainda mais brilhantes.</FlaborText>
+      <FlaborText>Oz teve uma ideia brilhante. Seus olhos esmeralda pareciam cintliar ainda mais.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Os caminhos esmeralda brilhavam como sempre.</Dialogue>
+        <Dialogue ID="1">As estradas esmeraldas brilhavam como sempre.</Dialogue>
         <Dialogue ID="2">Ela era uma pobre, pobre criança… Seus olhos eram como os meus.</Dialogue>
         <Dialogue ID="3">Siga por esse caminho. Você talvez encontre o que quer.</Dialogue>
         <Dialogue ID="4">Posso tornar seus desejos em realidade. O que você deseja?</Dialogue>
@@ -1790,7 +1790,7 @@ Esta página também estará no baralho no começo dos Atos subsequentes.</Abili
     </AbnormalityCard>
     
     <AbnormalityCard ID="Oz_Gift">
-      <Abnormality>Adulto que Conta Mentiras</Abnormality>
+      <Abnormality>Adulta que Conta Mentiras</Abnormality>
       <CardName>Falso Presente</CardName>
       <AbilityDesc>[Todos os Aliados]
 Adicione páginas de Custo 0, ao jogar, 'Falsos Presentes' à lista de páginas de E.G.O: 'Coragem Líquida', 'Saco de Seda com Serragem', 'Coração de Chumbo', 'Casa que Não Pode ser Alcançada' e 'Transformação'.
@@ -1805,7 +1805,7 @@ As páginas de 'Falso presente' também são adicionadas à lista de páginas de
     </AbnormalityCard>
     
     <AbnormalityCard ID="Oz_Control">
-      <Abnormality>Adulto que Conta Mentiras</Abnormality>
+      <Abnormality>Adulta que Conta Mentiras</Abnormality>
       <CardName>Truque de Mágica</CardName>
       <AbilityDesc>[Aliado Único]
 Adicione uma Página de 'Truque de Mágica' à mão: ‘Custo 4 - [Ao Jogar]  Reduz o Custo de todas as páginas na mão para 0. A redução de custo se mantém até a página ser usada.’
@@ -1814,8 +1814,8 @@ Esta página também estará no baralho no começo dos Atos subsequentes.</Abili
       <Dialogues>
         <Dialogue ID="1">Pobre monte de palha. Eu te darei a sabedoria para ponderar sobre qualquer coisa.</Dialogue>
         <Dialogue ID="2">Lenhador de Lata. Eu te darei o coração para perdoar e amar qualquer um.</Dialogue>
-        <Dialogue ID="3">Gatinho covarde. Eu te darei a coragem para enfrentar tudo e todos</Dialogue>
-        <Dialogue ID="4">Por último, caminho que está perdido. Eu te levarei para casa</Dialogue>
+        <Dialogue ID="3">Gatinho covarde. Eu te darei a coragem para enfrentar tudo e todos.</Dialogue>
+        <Dialogue ID="4">Por último, estrada que está perdida. Eu te levarei para casa.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
@@ -1824,11 +1824,11 @@ Esta página também estará no baralho no começo dos Atos subsequentes.</Abili
   <Sephirah SephirahType="Binah">
     <AbnormalityCard ID="Bigbird_Eye">
       <Abnormality>Pássaro Grande</Abnormality>
-      <CardName>Ojos vigilantes</CardName>
+      <CardName>Olhos Vigilantes</CardName>
       <AbilityDesc>[Aliado Único]
 Recupera completamente a Luz do aliado selecionado.
 A cada Cena, um aliado aleatório não recupera Luz e o biblitecário selecionado recupera 1 Luz a mais.</AbilityDesc>
-      <FlaborText>Os olhos sempre brilhavam intensamente, queimando como estrelas no céu noturno. Mas ele deu seus olhos para o Pássaro Grande para proteger a floresta</FlaborText>
+      <FlaborText>Os olhos sempre brilhavam intensamente, queimando como estrelas no céu noturno. Mas ele deu seus olhos para o Pássaro Grande para proteger a floresta.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Para cada critura na floresta que eu salvei, eu ganho mais um olho.</Dialogue>
         <Dialogue ID="2">Eu preciso de olhos para checar os arredores completamente, para manter a floresta segura.</Dialogue>
@@ -1841,7 +1841,7 @@ A cada Cena, um aliado aleatório não recupera Luz e o biblitecário selecionad
       <Abnormality>Pássaro Grande</Abnormality>
       <CardName>Lâmpada Eterna</CardName>
       <AbilityDesc>[Aliado Único]
-Qualquer inimigo alvejado por esse bibliotecário será forçado a alvejar esse biblitecário de volta, independente de velocidade.</AbilityDesc>
+Qualquer inimigo alvejado por esse bibliotecário será forçado a alvejar esse biblitecário de volta, independente de Velocidade.</AbilityDesc>
       <FlaborText>“Se eu matar as criaturas primeiro, então ningém será morto pela besta!”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Siga a lâmpada. Eu vou salvar todos vocês.</Dialogue>
@@ -1855,14 +1855,14 @@ Qualquer inimigo alvejado por esse bibliotecário será forçado a alvejar esse 
       <Abnormality>Pássaro Grande</Abnormality>
       <CardName>Salvação</CardName>
       <AbilityDesc>[Aliado Único]
-Todos os dados ganham +1 de Poder contra inimigos com maior velocidade
-Se o alvo estiver com 25% de HP ou menos, destroí todos os dados ao vencer um Embate.</AbilityDesc>
+Todos os dados ganham +1 de Poder contra inimigos com maior Velocidade.
+Se o alvo estiver com 25% ou menos de HP, destroi todos os dados ao vencer um Embate.</AbilityDesc>
       <FlaborText>Para esse pássaro, morte em sua essência é salvação.</FlaborText>
-      <Dialogues>
+      <Dialogues> 
         <Dialogue ID="1">Se eu matá-los primeiro… então ninguém será morto pela besta!</Dialogue>
         <Dialogue ID="2">Um monstro grande e assustador vive nesta floresta! Tenha cuidado.</Dialogue>
         <Dialogue ID="3">Uma criança em perigo precisa da minha proteção.</Dialogue>
-        <Dialogue ID="4">Para os fracos e sem força… Eu preciso tomar a iniciativa.</Dialogue>
+        <Dialogue ID="4">Para os fracos e sem poder… Eu preciso tomar a iniciativa.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
       
@@ -1870,8 +1870,8 @@ Se o alvo estiver com 25% de HP ou menos, destroí todos os dados ao vencer um E
       <Abnormality>Pássaro Punitivo</Abnormality>
       <CardName>Punição</CardName>
       <AbilityDesc>[Aliado Único]
-Depois de receber dano, o primeiro dado da primeira página que o bibliotecário usar na próxima Cena ganha 2-4 de Poder. (Exclui páginas [Ao Jogar])</AbilityDesc>
-      <FlaborText>“As pessoas fazem coisas ruins porquê não tem ninguém para punir as pessoas. Se alguém ter esse papel, então nenhum ato vil irá acontecer nesse mundo”</FlaborText>
+Após receber dano, o primeiro dado da primeira página que o bibliotecário usar na próxima Cena ganha 2-4 de Poder. (Exclui páginas [Ao Jogar])</AbilityDesc>
+      <FlaborText>“As pessoas fazem coisas ruins porquê não tem ninguém para puni-las. Se alguém ter esse papel, então nenhum ato vil irá acontecer nesse mundo de novo!”</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Se eu os punir, então não terá nenhuma pessoa ruim, certo?</Dialogue>
         <Dialogue ID="2">Não tem propósito em perdoar. Um crime é um crime.</Dialogue>
@@ -1894,7 +1894,7 @@ Os ataques do biblitecário causam dano bônus igual ao número de Cenas que pas
       
     <AbnormalityCard ID="Smallbird_Fly">
       <Abnormality>Pássaro Punitivo</Abnormality>
-      <CardName>Pequeno Bater de Asas</CardName>
+      <CardName>Pequenas Bateções de Asas</CardName>
       <AbilityDesc>[Aliado Único]
 Os dados Evasivos ganham 1-2 de Poder.
 Ao ganhar um Embate com um dado Evasivo, o próximo dado Ofensivo ganha 1-2 de Poder</AbilityDesc>
@@ -1911,7 +1911,7 @@ Ao ganhar um Embate com um dado Evasivo, o próximo dado Ofensivo ganha 1-2 de P
       <Abnormality>Pássaro do Julgamento</Abnormality>
       <CardName>O Peso do Pecado</CardName>
       <AbilityDesc>[Aliado Único]
-Quando um dado desse biblitecário rolar o valor mínimo, receba 2-7 de Dano e ganhe 1-2 de Força e Endurecido na próxima Cena</AbilityDesc>
+Quando um dado desse biblitecário rolar o valor mínimo, receba 2-7 de Dano e ganhe 1-2 de Força e Endurecido na próxima Cena.</AbilityDesc>
       <FlaborText>Sua balança não negligenciava o peso do menor do pecados.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Hora de pesar seus pecados.</Dialogue>
@@ -1922,9 +1922,9 @@ Quando um dado desse biblitecário rolar o valor mínimo, receba 2-7 de Dano e g
       
    <AbnormalityCard ID="LongBird_Scale">
       <Abnormality>Pássaro do Julgamento</Abnormality>
-      <CardName>Balança inclinada</CardName>
+      <CardName>Balança Inclinada</CardName>
       <AbilityDesc>[Aliado Único]
-Depois de atacar o inimigo com o maior HP, recupere 2-8 de HP do aliado com o menor HP (3 vezes por Cena, Excluí Ataques Em Massa)</AbilityDesc>
+Depois de atacar o inimigo com o maior HP, recupere 2-8 de HP do aliado com o menor HP (3 vezes por Cena, Exclui Ataques Em Massa)</AbilityDesc>
       <FlaborText>Tudo o que resta é uma balança injusta. O Pássaro Longo continua, distribuindo o julgamento.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Essa balança sempre mostra um veredito claro; posso fazer um bom julgamento com elas…</Dialogue>
@@ -1938,10 +1938,10 @@ Depois de atacar o inimigo com o maior HP, recupere 2-8 de HP do aliado com o me
       <Abnormality>Pássaro do Julgamento</Abnormality>
       <CardName>Julgamento</CardName>
       <AbilityDesc>[Aliado Único]
-Ao começo da Cena, todos os personagens tem 50% de chance de receber 1 Pecado.
-Caso um personagem tenha 5+ de Pecado, eles recebem 10% de sua vida máxima como dano no começo da Cena e o Pecado é removido.
-'Pecado' pode ser transferido para outro personagem ao golpea-los. (Uma por página)</AbilityDesc>
-      <FlaborText>Então alguém disse "Mas e se a balança não ir para nenhum lado?" Preocupado, o Pássaro Longo fez com que a balança sempre fosse para um dos lados. Assim todo o julgamento sempre iria entregar um veredito claro.</FlaborText>
+Ao começo da Cena, todos os personagens tem 50% de chance de ganhar 1 Pecado.
+Caso um personagem tenha 5+ de Pecado, eles tomam 10% de sua vida máxima como dano no começo da Cena e o acúmulo de Pecado é removido.
+'Pecado' pode ser transferido para outro personagem ao golpea-los. (Uma vez por página)</AbilityDesc>
+      <FlaborText>Então alguém perguntou: “E se algum dia a balança não ir para direção alguma?” Preocupado, o Pássaro Longo fez uma balança que sempre ia para uma só direção, dessa forma, cada julgamento teria um claro veredito.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Quando eu levanto a balança, eu desejo imortalidade para os culpados.</Dialogue>
         <Dialogue ID="2">Darei um julgamento a todos, marcando todos seus pecados…</Dialogue>
@@ -1956,8 +1956,8 @@ Caso um personagem tenha 5+ de Pecado, eles recebem 10% de sua vida máxima como
       <CardName>Olhos Grandes</CardName>
       <AbilityDesc>[Aliado Único]
 Ao começo da Cena, inflige 'Encantado' a todos os inimigos.
-Os inimigos 'Encantados' priorizam esse biblitecário, e causam +2-4 de dano com seus ataques.
-Ganha 1-2 de poder contra inimigos 'Encantado' e recupera 2-5 de HP e Resistência de Atordoamento ao ganhar um Embate.</AbilityDesc>
+Os inimigos com 'Encantado' priorizam esse biblitecário, e causam +2-4 de dano com seus ataques.
+Ganha 1-2 de poder contra inimigos com 'Encantado' e recupera 2-5 de HP e Resistência ao Atordoamento ao ganhar um Embate.</AbilityDesc>
       <FlaborText>Os olhos do Pássaro Grande prendiam a luz.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A luz brilhante está presa.</Dialogue>
@@ -1976,7 +1976,7 @@ Adicione uma Página de'Bico Pequeno' à mão: ‘Custo 0 - [Ao Jogar;] [Volta �
         <Dialogue ID="1">Eu sussurro… Sem parar…</Dialogue>
         <Dialogue ID="2">Todos somos castigados por nossos pecados, mas é claro que mais vão nascer das raizes do pecado.</Dialogue>
         <Dialogue ID="3">Assim, punição deve arrancar o mal pela raiz……</Dialogue>
-        <Dialogue ID="4">Devo castiga-los com meu pequeno, mas duro, bico.</Dialogue>
+        <Dialogue ID="4">Devo castigá-los com meu pequeno, mas duro, bico.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
         <AbnormalityCard ID="ApocalypseBird_LongArm">
@@ -1984,7 +1984,7 @@ Adicione uma Página de'Bico Pequeno' à mão: ‘Custo 0 - [Ao Jogar;] [Volta �
       <CardName>Braços Compridos</CardName>
       <AbilityDesc>[Aliado Único]
 Não recebe dano de certos Efeitos Negativos (Queimadura, Sangramento, Fada, Pecado).</AbilityDesc>
-      <FlaborText>Os braços do Pássaro longo velavam o tempo.</FlaborText>
+      <FlaborText>Os braços do Pássaro Longo velavam o tempo.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Escondi o tempo.</Dialogue>
         <Dialogue ID="2">Te condeno, mas você ainda vai cometer pecados sem fim…</Dialogue>
@@ -2000,12 +2000,12 @@ Não recebe dano de certos Efeitos Negativos (Queimadura, Sangramento, Fada, Pec
 Ativa se o bibliotecário selecionado possuí as seguintes Páginas de Anormalidade: 'Olhos Grandes', 'Bico Pequeno', 'Braços Longos'.
 Todos os dados de personagens alvejados por esse biblitecário são inafetadas por ganho ou perda de Poder, e seus valores máximos e mínimos são reduzidos em 3
 Ao fim da Cena, todos os outros personagens recebem 15 de dano, e esse personagem restaura toda a Luz.</AbilityDesc>
-      <FlaborText>O dia que os olhos do Pássaro Grande poderiam ver quilômetros de distância, o Pássaro Longo que podia julgar qualquer pecado, e a boca do Pássaro Pequeno que poderia devorar qualquer coisa, escuridão caiu sob o bosque</FlaborText>
+      <FlaborText>O dia que os olhos do Pássaro Grande poderiam ver quilômetros de distância, o Pássaro Longo que podia julgar qualquer pecado, e a boca do Pássaro Pequeno que poderia devorar qualquer coisa, escuridão caiu sob a floresta.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Não posso deixar o mal levar minhas coisas preciosas.</Dialogue>
         <Dialogue ID="2">Se eu puder devorar qualquer coisa ao meu redor…</Dialogue>
-        <Dialogue ID="3">Nós juntamos nossas forças para proteger mais pessoas</Dialogue>
-        <Dialogue ID="4">Tenho que me apressar e encontra-los. Não posso deixar a besta destruir esse lugar…</Dialogue>
+        <Dialogue ID="3">Nós juntamos nossas forças para proteger mais pessoas.</Dialogue>
+        <Dialogue ID="4">Tenho que me apressar e encontrá-los. Não posso deixar a besta destruir esse lugar…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     <AbnormalityCard ID="ApocalypseBird_Gate">
@@ -2013,8 +2013,8 @@ Ao fim da Cena, todos os outros personagens recebem 15 de dano, e esse personage
       <CardName>Guardiões da Floresta</CardName>
       <AbilityDesc>[Aliado Único]
 Todos os bibliotecários ganham 1 de Celeridade no começo de cada Cena pela duração da Recepção.
-Se todos os cinco bibliotecários tem uma página de Anormalidade, ganha 1-2 de Força e Endurecido adicionais.</AbilityDesc>
-      <FlaborText>Então foi qunado os pássaros decidiram ser os guardiões da floresta. Eles amavam essa floresta mais que qualquer um, então eles queriam proteger as criaturas vivendo na floresta e manter a paz.</FlaborText>
+Se todos os cinco bibliotecários tem uma página de Anormalidade, ganha 1-2 de Força e Endurecido a mais.</AbilityDesc>
+      <FlaborText>E foi aí que os pássaros decidiram se tornar os guardiões da floresta. Eles a amavam mais do que qualquer um, por isso queriam proteger todas as criaturas que viviam nela enquanto mantinham a paz.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Para proteger esse lugar que amamos mais que qualquer um.</Dialogue>
         <Dialogue ID="2">Esperamos por um mundo onde essas vidas patéticas possam viver em conforto.</Dialogue>
@@ -2026,9 +2026,9 @@ Se todos os cinco bibliotecários tem uma página de Anormalidade, ganha 1-2 de 
       <Abnormality>Pássaro do Apocalipse</Abnormality>
       <CardName>Paz</CardName>
       <AbilityDesc>[Aliado Único]
-Quando não há 'Intrusos' presente, o primeiro alvo que o bibliotecário atacar se torna um 'Intruso'.(Exclui Ataques Em Massa)
+Quando não há 'Intrusos' presente, o primeiro alvo que o bibliotecário atacar se torna um 'Intruso'. (Exclui Ataques Em Massa)
 Todos os ataques do 'Intruso' causam 2-4 a menos de Dano e Dano de Atordoamento; O 'Intruso' também recebe 1-2 de dano a mais de ataques.</AbilityDesc>
-      <FlaborText>O pássaro começou a varrer a floresta, olhando pela besta. Mas não tinha nada. Não tinha nenhuma criatura, nenhum sol ou lua, e nenhuma besta. Tudo o que tinha sobrado era o pássaro e a Floresta Negra.</FlaborText>
+      <FlaborText>O pássaro então começou a vagar pela floresta, procurando pela besta. Mas não havia nada. Não haviam criaturas. Não havia sol, não havia lua, e sequer havia a fera. Tudo que havia sobrado era um pássaro e a Floresta Negra.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Aqueles que superam o medo irão encontrar paz…</Dialogue>
         <Dialogue ID="2">Nada vai ousar te machucar.</Dialogue>
