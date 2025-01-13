@@ -2,62 +2,62 @@
 <WhiteNightTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <!-- Matthew 16:18 -->
   <param key="first" index="1">
-    “Mas yo también te digo que tu eres mi primer Apóstol, y sobre esta roca edificaré mi iglesia, y las puertas del infierno no prevalecerán contra ella.”
+    “E eu também te digo, que você és o meu primeiro Apóstolo, e sobre esta rocha eu construo minha igreja; as portas do inferno não prevalecerão contra ela.”
   </param>
 
   <!-- Matthew 24:3 -->
   <param key="second" index="2">
-    “Dinos, ¿cuándo serán estas cosas, y qué señal habrá de tu venida y del fin del mundo?”
+    “Nos diga, quando serão essas coisas?”
   </param>
 
   <!-- Luke 9:54 -->
   <param key="third" index="3">
-    “ Señor, ¿quieres que mandemos que descienda fuego del cielo, y los consuma?”
+    “Senhor, queres que comandemos o fogo para que caia do céu e os consuma?”
   </param>
 
   <!-- Mark 3:17 -->
   <param key="fourth" index="4">
-    “Y al tercer y cuarto Apóstol; a quienes apellidó Boanerges, esto es, Hijos del trueno”
+    “E ao terceiro e quarto Apóstolo; ele os apelidou de Boanerges, que significava, 'Os Filhos do Trovão'.”
   </param>
 
   <!-- John 14:8 -->
   <param key="fifth" index="5">
-    “El quinto Apóstol dijo, Señor, muéstranos el Padre, y nos basta.”
+    “O quinto Apóstolo disse a ele, Senhor, nos mostre o Pai, e isso nos bastou.”
   </param>
 
   <!-- Matthew 9:9 -->
   <param key="sixth" index="6">
-    “Y pasando él de allí, vio a un hombre, el sexto Apóstol: y le dijo: Sígueme. Y se levantó y le siguió.”
+    “E quando ele saiu de lá, ele viu um homem, o sexto Apóstolo: e disse a ele, siga-me. Então ele se levantou e o seguiu.”
   </param>
 
   <!-- Acts 8:9 -->
   <param key="seventh" index="7">
-    “ Y había un cierto hombre, llamado el septimo, que antes había ejercido la hechicería en aquella ciudad y que había engañado a la gente, diciéndose ser algún grande.”
+    “Mas havia um certo homem, chamado o sétimo, que antes do tempo usava feiticaria e enfeitiçava pessoas, dando a entender que ele era alguém grandioso.”
   </param>
 
   <!-- John 11:16 -->
   <param key="eighth" index="8">
-    “Dijo entonces el octavo Apóstol, a sus condiscípulos: Vamos también nosotros, para que muramos con él.”
+    “Então disse o oitavo Apóstolo, para seus condiscípulos, Vamos ir também, para que possamos morrer junto a ele.”
   </param>
 
   <!-- John 1:49 -->
   <param key="ninth" index="9">
-    “El noveno Apóstol respondió y le dijo, tú eres el Hijo de Dios; tú eres el Rey de la tierra santa.”
+    “O nono Apóstolo respondeu e o disse, você és o Filho de Deus; você és o Rei de Israel.”
   </param>
 
   <!-- John 14:22 -->
   <param key="tenth" index="10">
-    “El decimo Apóstol le dijo, Señor, ¿cómo es que te manifestarás a nosotros, y no al mundo?”
+    “O décimo Apóstolo disse a ele, Senhor, como tu se manifestará a nós, e não ao mundo?”
   </param>
 
   <!-- Galatians 6:17 -->
   <param key="eleventh" index="11">
-    “Por lo demás, que nadie me cause más problemas, porque yo llevo en el cuerpo las cicatrices de Él.”
+    “De agora em diante, nenhum homem me perturba: já que agora eu carrego em meu corpo a marca Dele.”
   </param>
 
   <!-- John 6:70 -->
   <param key="twelveth" index="12">
-    “¿No os he escogido yo a vosotros los doce, y uno de vosotros es diablo?”
+    “Ele respondeu, eu escolhi vocês doze, e um de vocês é um demônio?”
   </param>
 </WhiteNightTextRoot>
 
