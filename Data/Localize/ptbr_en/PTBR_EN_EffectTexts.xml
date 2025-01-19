@@ -1117,8 +1117,8 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
     </BattleEffectText>
   
     <BattleEffectText ID="onlypage_yan_Keyword">
-      <Name>Página exclusiva de 얀샋ㄷ요무</Name>
-			<Desc>Solo se puede colocar en un mazo con la página clave de 얀샋ㄷ요무.</Desc>
+      <Name>Página exclusiva de ㅛ무얀색챠애</Name>
+			<Desc>Solo se puede colocar en un mazo con la página clave de ㅛ무얀색챠애.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="YanArea_Ready">

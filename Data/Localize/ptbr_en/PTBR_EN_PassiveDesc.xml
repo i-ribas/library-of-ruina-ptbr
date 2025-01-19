@@ -1103,7 +1103,7 @@ Tiene acceso a E.G.O único.</Desc>
   
   <PassiveDesc ID="150139">
     <Name>Mano</Name>
-    <Desc>No puede ser aturdido; no se puede derrotar al agotar su HP. No puede Actuar si el HP está en 30 o menos al comienzo de la escena. Se destruye cuando 얀샋ㄷ요무 no está presente.</Desc>
+    <Desc>No puede ser aturdido; no se puede derrotar al agotar su HP. No puede Actuar si el HP está en 30 o menos al comienzo de la escena. Se destruye cuando ㅛ무얀색챠애 no está presente.</Desc>
   </PassiveDesc>
 
   <!-- Yan (enemy) -->
@@ -1112,7 +1112,7 @@ Tiene acceso a E.G.O único.</Desc>
     <Desc>Al comienzo de cada escena, agota todas las páginas en mano y el mazo; añade nuevas páginas a la mano. Sus costes se vuelven 0.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="150151">
-    <Name>얀샋ㄷ요무</Name>
+    <Name>ㅛ무얀색챠애</Name>
     <Desc>Si el HP de este personaje está en 301 o mayor y el HP de todas las manos está en 30 o menos, fusionate con las Manos.
 Si el HP de este personaje baja a 300 o menos mientras está fusionado con las Manos, separate de las Manos al final de la escena; cuando se separa, elimina todos los efectos de estado y recupera completamente la resistencia al aturdimiento.</Desc>
   </PassiveDesc>
@@ -1123,7 +1123,7 @@ El ataque en Masa también es usado si el acto dura un gran número de escenas.<
   </PassiveDesc>
   
   <PassiveDesc ID="250051">
-    <Name>얀샋ㄷ요무</Name>
+    <Name>ㅛ무얀색챠애</Name>
     <Desc>Si un personaje tiene más páginas de Anormalidad de 'Ruptura (Rojo)' que de 'Despertar (Azul)', todos los dados ganan +1 de Poder. Si las páginas de ruptura superan a las de despertar por 2 o más, incrementa el daño y daño de aturdimiento de los dados ofensivos en +1 en adición.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250151">

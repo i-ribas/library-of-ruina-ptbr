@@ -11236,7 +11236,7 @@
     </Episode>
   </Group>
   <Group>
-    <GroupName>얀샋ㄷ요무</GroupName>
+    <GroupName>ㅛ무얀색챠애</GroupName>
     <Episode>
       <EpisodeName>Episode 1</EpisodeName>
       <Place>
@@ -12040,7 +12040,7 @@
           <Content>¿No piensas también lo mismo?</Content>
         </Dialog>
         <Dialog ID="133" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_61-02</VoiceFile>
           <Content>... Moirai. La Ciudad sabe a dónde debo ir.</Content>
@@ -12070,7 +12070,7 @@
           <Content>... Bien, aquí. Es una Invitación a la Biblioteca. Preparada solo para ti.</Content>
         </Dialog>
         <Dialog ID="138" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_62-01</VoiceFile>
           <Content>... Como la Ciudad desea.</Content>
@@ -12250,19 +12250,19 @@
       <Place>
         <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
         <Dialog ID="167" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_63</VoiceFile>
           <Content>Recibir un Precepto... y llevarlo a cabo...</Content>
         </Dialog>
         <Dialog ID="168" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_64</VoiceFile>
           <Content>Recibir un Precepto... y llevarlo a cabo...</Content>
         </Dialog>
         <Dialog ID="169" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_65-01</VoiceFile>
           <Content>Recibir...</Content>
@@ -12280,7 +12280,7 @@
           <Content>Yo soy A—</Content>
         </Dialog>
         <Dialog ID="172" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_66-01</VoiceFile>
           <Content>Angela...</Content>
@@ -12292,19 +12292,19 @@
           <Content>... Sí, parece que me conoces bien.</Content>
         </Dialog>
         <Dialog ID="174" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_67</VoiceFile>
           <Content>Los Preceptos lo conocen todo.</Content>
         </Dialog>
         <Dialog ID="175" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_68</VoiceFile>
           <Content>Los Preceptos representan la voluntad de la Ciudad... ellos conocen todo lo que pasa en la Ciudad.</Content>
         </Dialog>
         <Dialog ID="176" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_69-01</VoiceFile>
           <Content>Saben lo que voy a hacer... lo que tú vas a hacer. Todo.</Content>
@@ -12322,13 +12322,13 @@
           <Content>¿No tienes dudas sobre los Preceptos?</Content>
         </Dialog>
         <Dialog ID="179" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_70-01</VoiceFile>
           <Content>Por supuesto que no. Los Preceptos son la voluntad de la Ciudad y la voluntad de la Ciudad es la mía...</Content>
         </Dialog>
         <Dialog ID="180" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_71</VoiceFile>
           <Content>Negar la voluntad de la Ciudad es negarme a mí mismo.</Content>
@@ -12340,19 +12340,19 @@
           <Content>Al aceptar eso como verdad, estás reconociendo que no tienes libre albedrío; ¿no sientes que es injusto?</Content>
         </Dialog>
         <Dialog ID="182" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_72</VoiceFile>
           <Content>Ya no tenemos que caer en la desesperación por las repercusiones de nuestras elecciones... No tenemos que desgastarnos por el dolor, estando de pie en un campo de espinas.</Content>
         </Dialog>
         <Dialog ID="183" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_73</VoiceFile>
           <Content>Al llenar esa parte que no puede ser alcanzada solo, nuestras vidas pueden volverse de mucha más calidad.</Content>
         </Dialog>
         <Dialog ID="184" Model="뒤틀림 얀">
-          <Teller>얀샋ㄷ요무</Teller>
+          <Teller>ㅛ무얀색챠애</Teller>
           <Title>???</Title>
           <VoiceFile>ch6_Index_ep3_Yan_74-01</VoiceFile>
           <Content>Tengo el talento de caminar por el camino en frente mío...  Incluso si no tengo mucha felicidad, sé adónde debo ir en un futuro inminente. Y es suficiente para mí.</Content>
