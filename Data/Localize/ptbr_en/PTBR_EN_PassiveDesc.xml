@@ -382,7 +382,7 @@
   </PassiveDesc>
   <PassiveDesc ID="230006">
     <Name>Ataque sorpresa</Name>
-    <Desc>Los dados ofensivos ganan +3 de Poder por la primer escena</Desc>
+    <Desc>Los Dados Ofensivos ganan +3 de Poder por la primer escena</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="230007">
@@ -449,7 +449,7 @@
   </PassiveDesc>
   <PassiveDesc ID="230020">
     <Name>Herida profunda</Name>
-    <Desc>Al ganar un choque con dados ofensivos, inflige 1 de Sangrado la siguiente escena</Desc>
+    <Desc>Al ganar un choque con Dados Ofensivos, inflige 1 de Sangrado la siguiente escena</Desc>
   </PassiveDesc>
   <PassiveDesc ID="231001">
     <Name>Golpe de espada</Name>
@@ -696,7 +696,7 @@ Comienza la Batalla con 25% menos de HP</Desc>
   </PassiveDesc>
   <PassiveDesc ID="240227">
     <Name>Pasión volátil</Name>
-    <Desc>Si el objetivo tiene Quemadura, incrementa el Poder de los dados ofensivos en +1</Desc>
+    <Desc>Si el objetivo tiene Quemadura, incrementa el Poder de los Dados Ofensivos en +1</Desc>
   </PassiveDesc>
   
   <!-- 우는 아이 -->
@@ -753,7 +753,7 @@ En su lugar, uno de los Niños juega una página con un dado que tiene el siguie
   <!--매우 강한 1급 해결사-->
   <PassiveDesc ID="243005">
     <Name>Escultor de cicatrices</Name>
-    <Desc>Los dados ofensivos en la primera página de combate que el personaje usa cada escena gana un efecto adicional: ‘[Al golpear] Inflige 2 de Sangrado’</Desc>
+    <Desc>Los Dados Ofensivos en la primera página de combate que el personaje usa cada escena gana un efecto adicional: ‘[Al golpear] Inflige 2 de Sangrado’</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="243105">
@@ -768,7 +768,7 @@ En su lugar, uno de los Niños juega una página con un dado que tiene el siguie
   
   <PassiveDesc ID="250001">
     <Name>Fervor</Name>
-    <Desc>Los dados ofensivos ganan +1 de Poder en nivel de emoción 3 o mayor</Desc>
+    <Desc>Los Dados Ofensivos ganan +1 de Poder en nivel de emoción 3 o mayor</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250002">
     <Name>Un peleador que nunca se rinde</Name> <!-- 로웰, 臨戰無退 -->
@@ -794,7 +794,7 @@ En su lugar, uno de los Niños juega una página con un dado que tiene el siguie
   </PassiveDesc>
   <PassiveDesc ID="250106">
     <Name>Tenacidad triplicada</Name> <!-- 칼로 -->
-    <Desc>Cada tercer dado ofensivo gana +1 de Poder. Comenzando desde la cuarta escena, todos los dados ofensivos ganan +1 de Poder en su lugar.</Desc>
+    <Desc>Cada tercer dado ofensivo gana +1 de Poder. Comenzando desde la cuarta escena, todos los Dados Ofensivos ganan +1 de Poder en su lugar.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250007">
     <Name>Arena</Name> <!-- 보리스 -->
@@ -1081,7 +1081,7 @@ El E.G.O manifestado es potencial si el nivel de emoción del personaje es 4 o m
   </PassiveDesc>
   <PassiveDesc ID="250136">
     <Name>Nueve hijos del Dragón</Name>
-    <Desc>Poder de los dados ofensivos +1. gana la habilidad pasiva 'Bā Xià'.
+    <Desc>Poder de los Dados Ofensivos +1. gana la habilidad pasiva 'Bā Xià'.
 El E.G.O es potencial si el nivel de emoción del personaje es 4 o mayor al final de la escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250236">
@@ -1124,7 +1124,7 @@ El ataque en Masa también es usado si el acto dura un gran número de escenas.<
   
   <PassiveDesc ID="250051">
     <Name>ㅛ무얀색챠애</Name>
-    <Desc>Si un personaje tiene más páginas de Anormalidad de 'Ruptura (Rojo)' que de 'Despertar (Azul)', todos los dados ganan +1 de Poder. Si las páginas de ruptura superan a las de despertar por 2 o más, incrementa el daño y daño de aturdimiento de los dados ofensivos en +1 en adición.</Desc>
+    <Desc>Si un personaje tiene más páginas de Anormalidad de 'Ruptura (Rojo)' que de 'Despertar (Azul)', todos los dados ganan +1 de Poder. Si las páginas de ruptura superan a las de despertar por 2 o más, incrementa el daño y daño de aturdimiento de los Dados Ofensivos en +1 en adición.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="250151">
     <Name>El mensajero</Name> <!-- 傳令 -->
@@ -1189,7 +1189,7 @@ Al comienzo del acto, roba 2 páginas.</Desc>
 
   <PassiveDesc ID="260006">
     <Name>Sobrecalentar</Name>
-    <Desc>Mientras el personaje tiene Quemadura, los dados ofensivos ganan +1 Poder.</Desc>
+    <Desc>Mientras el personaje tiene Quemadura, los Dados Ofensivos ganan +1 Poder.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="260007">
@@ -1199,7 +1199,7 @@ Al comienzo del acto, roba 2 páginas.</Desc>
 
   <PassiveDesc ID="260008">
     <Name>Prepara el plato principal</Name>
-    <Desc>Cuando se usa una página de combate melee, si el objetivo tiene Sangrado, Los dados ofensivos en la página ganan +1~2 de Poder.</Desc>
+    <Desc>Cuando se usa una página de combate melee, si el objetivo tiene Sangrado, Los Dados Ofensivos en la página ganan +1~2 de Poder.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="260009">
@@ -1308,7 +1308,7 @@ De no se asi, recupera HP y resistencia al aturdimiento cuando Enlace del alma e
   </PassiveDesc>
   <PassiveDesc ID="170204">
     <Name>Marca negra</Name>
-    <Desc>Cuando no tengas Enlace del alma, prioriza apuntar al bibliotecario que tenga una 'Marca negra'. Los dados ofensivos ganan +3 de Poder contra el objetivo Marcado.</Desc>
+    <Desc>Cuando no tengas Enlace del alma, prioriza apuntar al bibliotecario que tenga una 'Marca negra'. Los Dados Ofensivos ganan +3 de Poder contra el objetivo Marcado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170205">
     <Name>Querido adios</Name>
@@ -1378,7 +1378,7 @@ De no se asi, recupera HP y resistencia al aturdimiento cuando Enlace del alma e
   </PassiveDesc>
   <PassiveDesc ID="170331">
     <Name>Pulsación</Name>
-    <Desc>Dado de velocidad -1. Al golpear, da 1 de Fuerza a todos los aliados la siguiente escena. Si el personaje no pudo hacer ningún Dañ usando dados ofensivos por el final de la escena, recibe daño de aturdimiento.</Desc>
+    <Desc>Dado de velocidad -1. Al golpear, da 1 de Fuerza a todos los aliados la siguiente escena. Si el personaje no pudo hacer ningún Dañ usando Dados Ofensivos por el final de la escena, recibe daño de aturdimiento.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="170332">
     <Name>Aspiración</Name>
@@ -1454,7 +1454,7 @@ De no se asi, recupera HP y resistencia al aturdimiento cuando Enlace del alma e
   <!--뒤틀린 잔향악단 중층 Tanya-->
   <PassiveDesc ID="1406011">
     <Name>Tormenta feroz</Name>
-    <Desc>Al final de la escena, todos los bibliotecarios reciben 3-5 de daño. Los dados ofensivos de Jae-heon ganan '[Al golpear] Inflige 1 de Sangrado'.</Desc>
+    <Desc>Al final de la escena, todos los bibliotecarios reciben 3-5 de daño. Los Dados Ofensivos de Jae-heon ganan '[Al golpear] Inflige 1 de Sangrado'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1406012">
     <Name>Tormenta violenta</Name>
@@ -1504,7 +1504,7 @@ De no se asi, recupera HP y resistencia al aturdimiento cuando Enlace del alma e
 <!-- 밤의 송곳 (Night Awls) -->
   <PassiveDesc ID="252001">
     <Name>Misericordia</Name>
-    <Desc>Los dados ofensivos ganan +1 de Poder contra objetivos con menos que 10% de HP.</Desc>
+    <Desc>Los Dados Ofensivos ganan +1 de Poder contra objetivos con menos que 10% de HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="252002">
     <Name>Estilete</Name>

@@ -276,7 +276,7 @@
   </PassiveDesc>
   <PassiveDesc ID="305432">
     <Name>¡Dame ese regalo!</Name>
-    <Desc>Los dados ofensivos ganan poder igual a el número de 'Regalos' en la mano del objetivo</Desc>
+    <Desc>Los Dados Ofensivos ganan poder igual a el número de 'Regalos' en la mano del objetivo</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305511">
     <Name>Ropa de ortigas</Name>
@@ -1073,7 +1073,7 @@ El ataque en la 'Casa' es cancelado si todos los bibliotecarios con 'Camino de l
   <!-- 작은새 -->
   <PassiveDesc ID="805211">
     <Name>¡Fechorías no permitidas!</Name>
-    <Desc>Los dados ofensivos ganan +50 de poder cuando tienes un choque contra dados ofensivos</Desc>
+    <Desc>Los Dados Ofensivos ganan +50 de poder cuando tienes un choque contra Dados Ofensivos</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805212">
     <Name>¡Ellos deben ser castigados!</Name>
@@ -1096,7 +1096,7 @@ El ataque en la 'Casa' es cancelado si todos los bibliotecarios con 'Camino de l
   </PassiveDesc>
   <PassiveDesc ID="805223">
     <Name>Guardían del bosque</Name>
-    <Desc>Prioriza apuntar a personajes aturdidos. La velocidad tiene valores especificos fijos cada escena. Los dados ofensivos ganan +2 de poder contra objetivos con menor velocidad.</Desc>
+    <Desc>Prioriza apuntar a personajes aturdidos. La velocidad tiene valores especificos fijos cada escena. Los Dados Ofensivos ganan +2 de poder contra objetivos con menor velocidad.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805224">
     <Name>Sueño</Name>
@@ -1230,7 +1230,7 @@ Al comienzo de la siguiente escena, recuperate del aturdimiento, elimina todos l
   </PassiveDesc>
   <PassiveDesc ID="905502">
     <Name>Te seguiré</Name>
-    <Desc>Los dados ofensivos ganan +2 de poder contra bibliotecarios con 'Revelación'.</Desc>
+    <Desc>Los Dados Ofensivos ganan +2 de poder contra bibliotecarios con 'Revelación'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="905521">
     <Name>Guardían</Name>
@@ -1335,11 +1335,11 @@ Si este personaje está suspendido, La resistencia de Angela cambia a "Fatal" la
   </PassiveDesc>
   <PassiveDesc ID="1005313">
     <Name>Nariz larga</Name>
-    <Desc>Cuando una página que contiene una mentira se enfrenta contra '¡Mentir es malo!', todos los dados en la página pierden 8 de poder.</Desc>
+    <Desc>Cuando una página que contiene una mentira se enfrenta contra '¡Mentir é Ruim!!', todos los dados en la página pierden 8 de poder.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005314">
     <Name>Fábula alegre</Name>
-    <Desc>Cuando una página que contiene una mentira no se enfrenta contra '¡Mentir es malo!', todos los dados en la página ganan 8 de poder.</Desc>
+    <Desc>Cuando una página que contiene una mentira no se enfrenta contra '¡Mentir é Ruim!!', todos los dados en la página ganan 8 de poder.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005315">
     <Name>¿Por qué es malo?</Name>

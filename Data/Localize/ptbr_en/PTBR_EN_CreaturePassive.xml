@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- Bloodbath -->
   <PassiveDesc ID="1001011">
-    <Name>Cicatrices</Name>
-    <Desc>Recibe 1-5 menos de daño de ataque cortantes.</Desc>
+    <Name>Cicatrizes</Name>
+    <Desc>Receba 1-5 menos dano de ataque cortantes.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1001012">
-    <Name>Sangre</Name>
-    <Desc>Pierde 3 de velocidad. Incrementa el resultado máximo de los dados de bloqueo en +3.</Desc>
+    <Name>Sangue</Name>
+    <Desc>Perca 3 de Velocidade. Aumenta o valor máximo dos dados de bloqueio em +3.</Desc>
   </PassiveDesc>
+  <!-- Heart of Aspiration -->
   <PassiveDesc ID="1002021">
-    <Name>Aspiración</Name>
-    <Desc>Pierde 4 de HP si el personaje no hizo ningún daño por una escena.</Desc>
+    <Name>Aspiração</Name>
+    <Desc>Perca 4 HP se o personagem não causou dano por uma Cena.</Desc>
   </PassiveDesc>
   <!-- 피노키오 : 거짓말쟁이 -->
+  <!-- Pinocchio the Liar -->
   <PassiveDesc ID="1003011">
-    <Name>Personificar</Name>
-    <Desc>Copia el mazo del jefe bibliotecario. La Luz es restaurada al máximo cada escena.</Desc>
+    <Name>Fingir ser Alguém</Name>
+    <Desc>Copia as Páginas de Combate (Baralho) do Bibliotecário Chefe. Luz é restaurada para o máximo cada Cena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003012">
     <Name>Mentiras</Name>
-    <Desc>Juega una página que contiene una mentira cada 2~3 escenas que muestra información falsa.</Desc>
+    <Desc>Joga uma página que contém uma Mentira a cada 2~3 Cenas, que mostra informações falsas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003014">
-    <Name>Nariz larga</Name>
-    <Desc>Cuando te enfrentas contra '¡Mentir es malo!' mientras mientes, todos los dados pierden 4 de Poder.</Desc>
+    <Name>Pego de Nariz Comprido</Name>
+    <Desc>Em um embate contra 'Mentir é Ruim!' quando estiver mentindo, todos os dados perdem 4 Poder.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003015">
-    <Name>Fábula alegre</Name>
-    <Desc>Mientras mientes, todos los dados ganan +4 de Poder si el personaje no se enfrenta contra '¡Mentir es malo!'.</Desc>
+    <Name>Fábula Alegre</Name>
+    <Desc>Quando estiver mentindo, todos os dados ganham +4 Poder se um personagem não faz um embate contra 'Mentir é Ruim!'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003016">
-    <Name>¿Por qué es malo?</Name>
-    <Desc>Después que la mentira ha sido descubierta, todos los Pinóquios ganan 2 de Endeble y Desarmar la siguiente escena y todas las resistencias al daño de aturdimiento cambian a "Débil".</Desc>
+    <Name>Por que é Ruim?</Name>
+    <Desc>Depois que a mentira for descoberta, todos os Pinóquios ganhan 2 de Fraqueza e Desarme na próxima Cena e todas as Resistências ao Atordoamento mudam para "Fraca".</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003018">
     <Name>Lalala~</Name>
     <Desc>Si la mentira no ha sido descubierta, todos los Pinóquios ganan 4 de Fuerza y Dureza la siguiente escena.</Desc>
   </PassiveDesc>
   <!-- 피노키오 : 호기심쟁이 -->
+  <!-- Pinocchio the Curious -->
   <PassiveDesc ID="1003021">
     <Name>Recibir después</Name>
     <Desc>Copia el mazo del primer asistente bibliotecario.</Desc>
@@ -47,6 +51,7 @@
     <Desc>Mientra este personaje está vivo, el coste de las páginas en las manos de todos los bibliotecarios es aleatorio cada escena. (Páginas de coste 4 excluidas)</Desc>
   </PassiveDesc>
   <!-- 피노키오 : 따라쟁이 -->
+  <!-- Pinocchio the Copycat -->
   <PassiveDesc ID="1003031">
     <Name>Timo</Name>
     <Desc>Copia el mazo del segundo asistente bibliotecario.</Desc>
@@ -438,7 +443,7 @@ Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="304032">
     <Name>¡Dame ese regalo!</Name>
-    <Desc>Los dados ofensivos ganan Poder igual al número de 'Regalos' en la mano del objetivo.</Desc>
+    <Desc>Los Dados Ofensivos ganan Poder igual al número de 'Regalos' en la mano del objetivo.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="404015">
@@ -664,7 +669,7 @@ Después de atacar a A Serva da Ira de nuevo en la segunda escena, usa una pági
 
   <PassiveDesc ID="802011">
     <Name>¡Fechorías no permitidas!</Name>
-    <Desc>Gana +50 de Poder cuando tienes un choque contra dados ofensivos.</Desc>
+    <Desc>Gana +50 de Poder cuando tienes un choque contra Dados Ofensivos.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="802012">
     <Name>¡Castigo!</Name>
@@ -676,7 +681,7 @@ Después de atacar a A Serva da Ira de nuevo en la segunda escena, usa una pági
   </PassiveDesc>
   <PassiveDesc ID="802021">
     <Name>Guardían del bosque</Name>
-    <Desc>Prioriza apuntar a personajes aturdidos. Los dados ofensivos de este personaje ganan +2 de Poder contra objetivos con menor velocidad.</Desc>
+    <Desc>Prioriza apuntar a personajes aturdidos. Los Dados Ofensivos de este personaje ganan +2 de Poder contra objetivos con menor velocidad.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="802022">
     <Name>Candado robado</Name>

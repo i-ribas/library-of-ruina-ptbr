@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <effectTextList>
+    <!-- unused -->
     <BattleEffectText ID="OldLady_Lonely">
       <Name>Solicitud</Name>
       <Desc>Reduz a Velocidade em 2. Recebe 1-2 de Dano al comienzo de la escena. (No se acumula)</Desc>
@@ -30,6 +31,7 @@
       <Name>Dulce</Name>
       <Desc>Haz {0}% de Dano adicional al objetivo que ha usado &lt;Dulce&gt;.</Desc>
     </BattleEffectText>
+    <!-- end of unused -->
     <BattleEffectText ID="ChildofGalaxy_Token">
       <Name>Token</Name>
       <Desc>Por {0} Cena(s), restaura 10% del HP máximo en el comienzo de la escena. Recebe 20% del HP máximo como Dano cuando un aliado muere.</Desc>
@@ -44,11 +46,11 @@
     </BattleEffectText>
     <BattleEffectText ID="Burn">
       <Name>Queimadura</Name>
-      <Desc>Ao final da Cena, recebe {0} de dano e subraia 1/3 dos acúmulos de Queimadura (Arredondado para baixo)</Desc>
+      <Desc>Ao final da Cena, receba {0} de dano e subtrai 1/3 dos acúmulos de Queimadura (Arredondado para baixo)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Paralysis">
       <Name>Paralisado</Name>
-      <Desc>pela duração dessa Cena, quando esse personagem jogar uma Página de Combate, até {0} dados aleatórios tem seu resultado máximo reduzido em 3.</Desc>
+      <Desc>Pela duração dessa Cena, quando esse personagem jogar uma Página de Combate, até {0} dados aleatórios tem seu valor máximo reduzido em 3.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Bleeding">
       <Name>Sangramento</Name>
@@ -56,36 +58,37 @@
     </BattleEffectText>
     <BattleEffectText ID="Vulnerable">
       <Name>Frágil</Name>
-      <Desc>Recebe {0} de Dano adicional de ataques pela duração dessa Cena.</Desc>
+      <Desc>Recebe {0} de dano adicional de ataques pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Weak">
-      <Name>Fraco</Name>
-      <Desc>Reduz o Poder de todos os dados ofensivos em {0} pela duração dessa Cena</Desc>
+      <Name>Débil</Name>
+      <Desc>Reduz o Poder de todos os Dados Ofensivos por {0} pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Disarm">
-      <Name>Desarmar</Name>
-      <Desc>Reduz o Poder de todos os dados defensivos em {0} pela duração dessa Cena</Desc>
+      <Name>Desarme</Name>
+      <Desc>Reduz o Poder de todos os Dados defensivos por {0} pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Binding">
       <Name>Amarro</Name>
-      <Desc>Reduz a Velocidade em {0} pela duração dessa Cena.</Desc>
+      <Desc>Reduz todos os valores de Velocidade por {0} pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Protection">
       <Name>Proteção</Name>
-      <Desc>Recebe {0} menos Dano de ataques pela duração dessa Cena.</Desc>
+      <Desc>Recebe {0} menos dano de ataques pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Strength">
-      <Name>Força</Name>
-      <Desc>Aumenta o Poder de todos os dados ofensivos en {0} pela duração dessa Cena</Desc>
+      <Name>Fortalecer</Name>
+      <Desc>Aumenta o Poder de todos os Dados Ofensivos por {0} pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Endurance">
-      <Name>Endurecido</Name>
-      <Desc>Aumenta o Poder de todos os dados defensivos en {0} pela duração dessa Cena</Desc>
+      <Name>Durável</Name>
+      <Desc>Aumenta o Poder de todos os Dados Defensivos por {0} pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Quickness">
       <Name>Celeridade</Name>
-      <Desc>Aumenta a velocidade em {0} pela duração dessa Cena</Desc>
+      <Desc>Aumenta a velocidade por {0} pela duração dessa Cena.</Desc>
     </BattleEffectText>
+    <!-- unused? -->
     <BattleEffectText ID="Blurry">
       <Name>Borroso</Name>
       <Desc>Este personaje no puede volverse objetivo por el enemigo mientras otros objetivos sin Borroso existan. Se remueve Ao final da Cena.</Desc>
@@ -93,11 +96,11 @@
 
     <BattleEffectText ID="Burn_Keyword">
       <Name>Queimadura X</Name>
-      <Desc>Ao final da Cena, recebe {0} de dano e subraia 1/3 dos acúmulos de Queimadura (Arredondado para baixo)</Desc>
+      <Desc>Ao final da Cena, receba {0} de dano e subtrai 1/3 do acúmulo. (Arredonda para baixo)</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Paralysis_Keyword">
-      <Name>Paralisado X</Name>
-      <Desc>pela duração dessa Cena, quando esse personagem jogar uma Página de Combate, até X dados aleatórios tem seu resultado máximo reduzido em 3.</Desc>
+      <Name>Paralisia X</Name>
+      <Desc>Pela duração dessa Cena, quando esse personagem jogar uma Página de Combate, até X dados aleatórios tem seu resultado máximo reduzido em 3.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Bleeding_Keyword">
       <Name>Sangramento X</Name>
@@ -108,11 +111,11 @@
       <Desc>Recebe X de Dano adicional de ataques pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Weak_Keyword">
-      <Name>Fraco X</Name>
-      <Desc>Os dados ofensivos perdem X de Poder pela duração dessa Cena.</Desc>
+      <Name>Débil X</Name>
+      <Desc>Os Dados Ofensivos perdem X de Poder pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Disarm_Keyword">
-      <Name>Desarmar X</Name>
+      <Name>Desarme X</Name>
       <Desc>Os dados defensivos perdem X de Poder pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Binding_Keyword">
@@ -125,7 +128,7 @@
     </BattleEffectText>
     <BattleEffectText ID="Strength_Keyword">
       <Name>Força X</Name>
-      <Desc>Os dados ofensivos ganham +X de Poder pela duração dessa Cena.</Desc>
+      <Desc>Os Dados Ofensivos ganham +X de Poder pela duração dessa Cena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Endurance_Keyword">
       <Name>Dureza X</Name>
@@ -340,7 +343,7 @@
 
     <BattleEffectText ID="BurningGirl_Burn">
       <Name>Cinzas</Name>
-      <Desc>Os dados ofensivos ganham “[Ao Golpear] Inflige 1 de Queimadura”.</Desc>
+      <Desc>Os Dados Ofensivos ganham “[Ao Golpear] Inflige 1 de Queimadura”.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BurningGirl_Ember">
       <Name>Brasas</Name>
@@ -434,7 +437,7 @@
     </BattleEffectText>
     <BattleEffectText ID="DmgUp">
       <Name>Dano aumentado</Name>
-      <Desc>Todos os dados ofensivos que el personaje juega tienen +{0} de Dano pela duração dessa Cena.</Desc>
+      <Desc>Todos os Dados Ofensivos que el personaje juega tienen +{0} de Dano pela duração dessa Cena.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Universe_DecreaseMaxBp">
@@ -535,7 +538,7 @@
 
     <BattleEffectText ID="Lumberjack_Cut">
       <Name>Un corazón cálido</Name>
-      <Desc>Aumenta o Poder de todos os dados ofensivos en 1-2 si el personaje tiene 3 o más Luz al comienzo de la Fase de combate.</Desc>
+      <Desc>Aumenta o Poder de todos os Dados Ofensivos en 1-2 si el personaje tiene 3 o más Luz al comienzo de la Fase de combate.</Desc>
     </BattleEffectText>
     
     <BattleEffectText ID="SnowQueen_Debuf">
@@ -999,7 +1002,7 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
     </BattleEffectText>
     <BattleEffectText ID="Wizard_Ozma_Support">
       <Name>Ayudando a Jack</Name>
-      <Desc>Os dados ofensivos ganham +2 de Poder durante essa Cena.</Desc>
+      <Desc>Os Dados Ofensivos ganham +2 de Poder durante essa Cena.</Desc>
     </BattleEffectText>
 
     <!-- 환상체카드 -->
@@ -1141,7 +1144,7 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_ApostlePowerUp">
       <Name>Revelación</Name>
-      <Desc>Os dados ofensivos los Apóstoles ganham +2 de Poder cuando pelean con un personaje con este estado.</Desc>
+      <Desc>Os Dados Ofensivos los Apóstoles ganham +2 de Poder cuando pelean con un personaje con este estado.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="WhiteNight_BeApostle">
       <Name>Llamada</Name>
@@ -1320,7 +1323,7 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackMark">
       <Name>Marca oscura</Name>
-      <Desc>Apuntado por Roland. Os dados ofensivos de Roland ganham +3 de Poder contra este personaje.</Desc>
+      <Desc>Apuntado por Roland. Os Dados Ofensivos de Roland ganham +3 de Poder contra este personaje.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BlackFrantic">
       <Name>Frenético</Name>
@@ -1338,7 +1341,7 @@ Ri - ‘Al usar: roba 2 páginas</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_Weapon">
       <Name>Rotura de arma</Name>
-      <Desc>Ignora los efectos de Cicatriz de Roland. Os dados ofensivos ganham +1 de Poder contra Roland.</Desc>
+      <Desc>Ignora los efectos de Cicatriz de Roland. Os Dados Ofensivos ganham +1 de Poder contra Roland.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Roland_4th_DmgReduction_Hit">
       <Name>Cicatrices - Contusiones</Name>
@@ -1488,7 +1491,7 @@ Este efecto es removido cuando la Ofensiva de Aspiración acaba.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Gaze_Attack">
       <Name>Ansiedad</Name>
-      <Desc>Durante essa Cena, cualquier dado en peleas que involucre a este personaje no es afectado por Aumento o Reducción de Poder. Haz +1~2 de Dano con ataques. Si el personaje falla en hacer cualquier Dano con os dados ofensivos esta escena, recibe 15 Dano de Atordoamento.</Desc>
+      <Desc>Durante essa Cena, cualquier dado en peleas que involucre a este personaje no es afectado por Aumento o Reducción de Poder. Haz +1~2 de Dano con ataques. Si el personaje falla en hacer cualquier Dano con os Dados Ofensivos esta escena, recibe 15 Dano de Atordoamento.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="KeterFinal_SilenceGirl_Gaze_Defense">
       <Name>Miedo</Name>

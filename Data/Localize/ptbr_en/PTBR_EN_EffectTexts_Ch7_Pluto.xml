@@ -15,7 +15,7 @@
     </BattleEffectText>
     <BattleEffectText ID="Pluto_Contracted_4">
       <Name>Obligación de contrato: Poder</Name>
-      <Desc>Al comienzo de la escena, gana 2 de Fuerza. Si el personaje usa una página de combate que tiene 2 o más dados ofensivos que no sean de contraataque, te aturdes la siguiente escena.</Desc>
+      <Desc>Al comienzo de la escena, gana 2 de Fuerza. Si el personaje usa una página de combate que tiene 2 o más Dados Ofensivos que no sean de contraataque, te aturdes la siguiente escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Pluto_Contracted_5">
       <Name>Obligación de contrato: Luz</Name>

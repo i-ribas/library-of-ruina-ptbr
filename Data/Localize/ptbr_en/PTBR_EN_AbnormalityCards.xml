@@ -21,7 +21,7 @@ Quando o HP de um bibliotecário está em 20% ou menos, cause 30% do HP máximo 
       <Abnormality>Garota Queimada</Abnormality>
       <CardName>Cinzas</CardName>
       <AbilityDesc>[Aliado Único]
-Ao ser Golpeado, Inflige 1-3 de Queimadura ao atacante e tem 40% de chance de ganhar um efeito positivo na próxima Cena: 'Dados ofensivos infligem 1 de Queimadura ao golpear' (Não acumula)
+Ao ser Golpeado, Inflige 1-3 de Queimadura ao atacante e tem 40% de chance de ganhar um efeito positivo na próxima Cena: 'Dados Ofensivos infligem 1 de Queimadura ao golpear' (Não acumula)
       </AbilityDesc>
       <FlaborText>“O corpo carbonizado representa a esperança desmoronada da criança, enquanto as chamas ardentes representam a obsessão por afeto.”</FlaborText>
       <Dialogues>
@@ -315,7 +315,7 @@ A cada três Embates vencidos, restaure 1 de Luz e ganhe 1-2 de Celeridade na pr
       <Abnormality>Auxiliar Geral</Abnormality>
       <CardName>Limpar</CardName>
       <AbilityDesc>[Aliado Único]
-Os dados ofensivos ganham Poder contra inimigos mais lentos (+1 de Poder por ponto de diferença, Máx. 3).</AbilityDesc>
+Os Dados Ofensivos ganham Poder contra inimigos mais lentos (+1 de Poder por ponto de diferença, Máx. 3).</AbilityDesc>
       <FlaborText>Ele reconhece o mau humor como um sinal de um ambiente sujo, e prontamente entra em modo de limpeza.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">O robô auxiliar pode ajudar você com qualquer tarefa doméstica!</Dialogue>
@@ -362,7 +362,7 @@ Pela duração da batalha, ganha 1 Ritmo no começo de cada Cena. Quanto um pers
       <Abnormality>Máquina Cantora</Abnormality>
       <CardName>Vício Musical</CardName>
       <AbilityDesc>[Aliado Único]
-Todos os dados ofensivos ganham 1-3 de Poder
+Todos os Dados Ofensivos ganham 1-3 de Poder
 Todos os dados defensivos rolam 1.</AbilityDesc>
       <FlaborText>No fim das contas, arte é um presente do diabo, nascido de desespero e sofrimento. Uma performace sem pausas até o corpo se tornar pó.</FlaborText>
       <Dialogues>
@@ -438,7 +438,7 @@ Quando o bibliotecário selecionado mata o Alvo Solicitado, recupere totalmente 
       <Abnormality>Der Freischütz</Abnormality>
       <CardName>A Sétima Bala</CardName>
       <AbilityDesc>[Aliado Único]
-Cause +1-7 de Dano com dados Ofensivos
+Cause +1-7 de Dano com Dados Ofensivos
 Quando um dado Ofensivo empata ou perde um Embate, cause dano igual ao valor do Dado ao oponente.
 A Sérima Página Corpo-a-Corpo ou A Distância, tem como alvo um personagem aleatório, incluindo aliados.</AbilityDesc>
       <FlaborText>O Diabo propós um contrato infantil: A última bala iria perfurar a cabeça de quem ele mais ama. E mo momento que ele ouviu isso, ele procurou e atirou em todas as pessoas que ele amava.</FlaborText>
@@ -453,7 +453,7 @@ A Sérima Página Corpo-a-Corpo ou A Distância, tem como alvo um personagem ale
       <Abnormality>Der Freischütz</Abnormality>
       <CardName>Chama Negra</CardName>
       <AbilityDesc>[Aliado Único]
-Pela duração da recepção, as resistências 'Resistentes/Inefetivo' de todos os personagens trocam para 'Fraco/Fatal'.
+Pela duração da recepção, as resistências 'Resistentes/Inefetivo' de todos os personagens trocam para 'Fraca/Fatal'.
 Ganhe 1-2 de Celeridade e 2-4 de Força toda Cena.</AbilityDesc>
       <FlaborText>Um dia, o franco-atirador percebeu que o Diabo não o seguia mais. Ele se perguntou o porquê, então realizou que sua alma já tinha caído pro Inferno desde o começo.</FlaborText>
       <Dialogues>
@@ -1647,7 +1647,7 @@ Páginas copiadas são abdicadas ao usar.
       <Abnormality>Lenhador de Coração Caloroso</Abnormality>
       <CardName>Um Coração Caloroso</CardName>
       <AbilityDesc>[Aliado Único]
-No começo da Cena, aumenta o Poder dos dados Ofensivos em +1-2 pela Cena se o bibliotecário tem 3 ou mais Luz.</AbilityDesc>
+No começo da Cena, aumenta o Poder dos Dados Ofensivos em +1-2 pela Cena se o bibliotecário tem 3 ou mais Luz.</AbilityDesc>
       <FlaborText>Na raiva, ele balançou seu machado pelo coração da feiticeira. O coração quente estava pulsando vigorosamente.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">É essa… a sensação de ter um coração que bate…</Dialogue>
@@ -1661,7 +1661,7 @@ No começo da Cena, aumenta o Poder dos dados Ofensivos em +1-2 pela Cena se o b
       <Abnormality>Lenhador de Coração Caloroso</Abnormality>
       <CardName>Madeira</CardName>
       <AbilityDesc>[Aliado Único]
-Quando atacando alvos com mais Luz que o bibliotecário, dados Ofensivos ganham poder igual a quantidade de Luz que o alvo tem (até 2)</AbilityDesc>
+Quando atacando alvos com mais Luz que o bibliotecário, Dados Ofensivos ganham poder igual a quantidade de Luz que o alvo tem (até 2)</AbilityDesc>
       <FlaborText>Essa era uma floresta cheia de corações. Não importa quantos ele cortava, a floresta permanecia densa.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Eu corto e corto… Mas a floresta ainda está densa…</Dialogue>

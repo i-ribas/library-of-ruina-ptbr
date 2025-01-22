@@ -1668,7 +1668,7 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
     </BattleCardDesc>
     <BattleCardDesc ID="9907652">
       <LocalizedName>Me Ajude, Jack!</LocalizedName>
-      <Ability>[Comienzo del combate] Todos los dados Ofensivos de los otros aliados ganan +2 de Poder por esta escena</Ability>
+      <Ability>[Comienzo del combate] Todos los Dados Ofensivos de los otros aliados ganan +2 de Poder por esta escena</Ability>
     </BattleCardDesc>
     
     <!-- Binah 비나 최종 -->
@@ -1947,7 +1947,7 @@ No se puede utilizar si este bibliotecario ya tiene este estado o posee el efect
     <BattleCardDesc ID="9909151">
       <LocalizedName>Pois Ele É Santo</LocalizedName>
       <!-- Peter 1:16 -->
-      <Ability>Los dados Ofensivos ganan Poder por la cantidad de Sangrado del objetivo</Ability>
+      <Ability>Los Dados Ofensivos ganan Poder por la cantidad de Sangrado del objetivo</Ability>
       <Behaviour ID="0">[Al ganar un choque] Destruye todos los dados del objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9909152">
