@@ -1691,7 +1691,7 @@ A redução dura até usar as páginas.</AbilityDesc>
       <Abnormality>A Estrada para Casa</Abnormality>
       <CardName>Coragem</CardName>
       <AbilityDesc>[Aliado Único]
-No começo da Cena, ganha Força e Proteção igual ao número de alaidos vivos menos 2. (Se o valor for menor que 0, receba Fraco e Frágil.)</AbilityDesc>
+No começo da Cena, ganha Força e Proteção igual ao número de alaidos vivos menos 2. (Se o valor for menor que 0, receba Fraqueza e Frágil.)</AbilityDesc>
       <FlaborText>Posso te seguir para sempre? Assim eu posso rasgá-los…</FlaborText>
       <Dialogues>
         <Dialogue ID="1">Amigo. Não tenho nada a temer quando você está por perto!</Dialogue>
@@ -2038,93 +2038,94 @@ Todos os ataques do 'Intruso' causam 2-4 a menos de Dano e Dano de Atordoamento;
     </AbnormalityCard>
   </Sephirah>
 
-  
+<!-- Hokmaballs -->  
   <Sephirah SephirahType="Hokma">
     <AbnormalityCard ID="Bloodytree_Wing">
       <Abnormality>O Céu Perfurador</Abnormality>
-      <CardName>Alas enSanguentadas</CardName>
+      <CardName>Desabrochem, Asas Ensanguentadas</CardName>
       <AbilityDesc>[Aliado Único]
-Al desviar daño, haz la mitad del resultado del dado de bloqueo como daño fisico al oponente.</AbilityDesc>
-      <FlaborText>Una vez reconoce que ha perdido tu atención… Extenderá sus alas. Como un ángel, sus alas llegarán a los cielos y se extenderán a la tierra, eventualmente bloqueando el sol.</FlaborText>
+Ao defletir, cause metade da rolagem do Dado de Bloqueio como Dano ao oponente.</AbilityDesc>
+      <FlaborText>Assim que aquilo perceber que perdeu sua atenção e foco… Ele vai expandir suas asas. Como um anjo, suas asas vão chegar aos céus e se extender até o chão, eventualmente bloqueando a luz so Sol</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Disfrutando la mirada y atención de todos… Finalmente, llegará a fruto y extenderá sus alas.</Dialogue>
-        <Dialogue ID="2">El que extiende sus alas sacrifico todo lo que tenían y aun así…</Dialogue>
-        <Dialogue ID="3">Si alguna vez volvemos a abrir nuestros ojos, ¿seremos capaces de ver el fruto de nuestra labor en esa mirada?</Dialogue>
-        <Dialogue ID="4">No vengas aquí… No hay nada más que un árbol espinoso. No hay un lugar para que descanses…</Dialogue>
+        <Dialogue ID="1">Desfrutando do olhar e da atenção de todos… Finalmente se concretizará e abrirá suas asas.</Dialogue>
+        <Dialogue ID="2">A pessoa que abriu suas asas sacrificou tudo o que tinha, e ainda assim…</Dialogue>
+        <Dialogue ID="3">Se algum dia abrirmos os olhos novamente, veremos o fruto do nosso trabalho naquele olhar?</Dialogue>
+        <Dialogue ID="4">Não venha aqui… Não há nada além de uma árvore espinhosa; não é lugar para você descansar.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Bloodytree_Gaze">
       <Abnormality>O Céu Perfurador</Abnormality>
-      <CardName>Mirada de otros</CardName>
+      <CardName>Olhar dos outros</CardName>
       <AbilityDesc>[Aliado Único]
-Haz +2-4 de daño un ataque de un solo-lado.
-En un choque, haz 3-6 menos de daño con ataques, pero los dados de bloqueo ganan 1-3 de Poder.</AbilityDesc>
-      <FlaborText>Eso es lo que una mirada es. Atención. Un hilo invisible que nos conecta.</FlaborText>
+Causa +2-4 de Dano em ataques unilaterais.
+Em um Embate, causa 3-6 menos de Dano com ataques, porém os dados de Bloqueio recebem +1-3 de Poder.</AbilityDesc>
+      <FlaborText>É isso que a visão é. Atenção. Um fio invisível que nos conecta. Foco singular.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Solo cierra tus ojos. Está bien, lo estás haciendo bien…</Dialogue>
-        <Dialogue ID="2">Si no puedes cerrarlos, entonces no lo alcanzaras.</Dialogue>
-        <Dialogue ID="3">El deseo por lo inalcanzable solo crecerá más grande. Y para perseguirlo… tienes que andar en un camino de espinar.</Dialogue>
-        <Dialogue ID="4">Una vez lo recuerdes y vuelvas a mirarlo… Regresará a su oscuro y profundo subterráneo…</Dialogue>
+        <Dialogue ID="1">Apenas feche seus olhos. Isso, você está indo bem…</Dialogue>
+        <Dialogue ID="2">Se você não consegue vê-lo, você não consegue alcançá-lo.</Dialogue>
+        <Dialogue ID="3">O desejo pelo inalcançável só crescerá. E persegui-lo… é trilhar um caminho cheio de espinhos.</Dialogue>
+        <Dialogue ID="4">Uma vez que ele estiver em seu conhecimento… Ele vai voltar para o fundo, escuro abismo…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Bloodytree_Forcus">
       <Abnormality>O Céu Perfurador</Abnormality>
-      <CardName>Atención y concentración</CardName>
+      <CardName>Atenção e Foco.</CardName>
       <AbilityDesc>[Aliado Único]
-Haz y Recibe el doble de daño de aturdimiento al desviar daño.</AbilityDesc>
-      <FlaborText>No desvíes tu mirada, mantén tus ojos en el. Contenlo en tu mirada.</FlaborText>
+Recebe e recebe o dobro de Dano de Atordoamento ao Defletir.</AbilityDesc>
+      <FlaborText>Não olhe pra longe, mantenha seus olhos naquilo. Contenha-o na sua visão.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">No pestañearas ante esta vista impresionante.</Dialogue>
-        <Dialogue ID="2">Sigue mirándolo… Continuamente… Está vivo, mirándote de vuelta</Dialogue>
-        <Dialogue ID="3">Contenlo en tu mirada…</Dialogue>
-        <Dialogue ID="4">Tú me miras… y yo te miro a ti…</Dialogue>
+        <Dialogue ID="1">Você ficará pasmo diante dessa vista magnífica.</Dialogue>
+        <Dialogue ID="2">Continue olhando… Constantemente… Isto tem vida, e está observando você em torno, não é?</Dialogue>
+        <Dialogue ID="3">Contenha-o em sua visão…</Dialogue>
+        <Dialogue ID="4">Você me vê… e eu vejo você…</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
         <AbnormalityCard ID="Clock_Time">
       <Abnormality>O Preço do Silêncio</Abnormality>
-      <CardName>Tiempo</CardName>
+      <CardName>Tempo</CardName>
       <AbilityDesc>[Todos os Aliados]
-El jugador tiene 30 segundo para seleccionar la página de combate antes que la Fase de combate comience en cada escena.
-Incrementa el Poder de todos los dados del bibliotecario en 1-2.</AbilityDesc>
-      <FlaborText>El tiempo fluye como la vida hace y la vida como el tiempo hace.</FlaborText>
+A cada Cena, o jogador tem 30 segundos para selecionar as Páginas de Combate antes do combate começar.
+Aumenta o Poder de todos os dados de todos os bibliotecários em 1-2.</AbilityDesc>
+      <FlaborText>O tempo flui conforme a vida, e a vida passa conforme o tempo.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Que uno no tenga suficiente tiempo es una queja inútil.</Dialogue>
-        <Dialogue ID="2">Mañana podría o no podría llegar.</Dialogue>
-        <Dialogue ID="3">Te darán más tiempo del que has perdido.</Dialogue>
-        <Dialogue ID="4">El Tiempo es dado a todos por igual, pero el destino lo hace injusto.</Dialogue>
+        <Dialogue ID="1">Que um não tem tempo o suficiente, é uma reclamação inútil.</Dialogue>
+        <Dialogue ID="2">O amanhã pode ou não chegar.</Dialogue>
+        <Dialogue ID="3">Te darei mais tempo do que você perdeu.</Dialogue>
+        <Dialogue ID="4">O tempo é dado a todos igualmente, mas o destino o torna injusto.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Clock_Thirteen">
       <Abnormality>O Preço do Silêncio</Abnormality>
-      <CardName>El decimotercer peaje</CardName>
+      <CardName>O Décimo-Terceiro Tributo</CardName>
       <AbilityDesc>[Aliado Único]
-Cada 13 páginas de combate el bibliotecario gana 1-2 de Poder. Todos os Aliados
-El dado en la página también gana este efecto: ‘[Al golpear] Haz daño adicional igual al (Valor del dado)% del HP máximo del objetivo’.</AbilityDesc>
-      <FlaborText>Conozco la soledad absoluta. Compartí mi silencio y ahora recibo su precio. Una vez el tiempo venga y el propietario original llegue, el precio será pagado.</FlaborText>
+Cada 13 páginas de Combate o bibliotecário ganha 1-2 de Poder. (Exclui páginas [Ao Jogar])
+Os dados dessa página também ganham o seguinte efeito: ‘[Ao Golpear] Causa Dano adicional (Valor do Dado)% do HP máximo do alvo’.</AbilityDesc>
+      <FlaborText>Eu conheço solidão absoluta. Eu compartilhei meu silêncio, e sei que ele tem seu preço. Assim que o tempo chegar e o dono original chegar, o preço será pago</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Escuché esa campana desastrosa una vez más.</Dialogue>
-        <Dialogue ID="2">Cuando la campana sonó, un grito rompió el silencio por fin…</Dialogue>
-        <Dialogue ID="3">La campana dobla por última vez, en un momento que nunca parecía llegar.</Dialogue>
-        <Dialogue ID="4">Di mi silencio y ahora recibo su precio.</Dialogue>
+        <Dialogue ID="1">Eu escuto aquele maldito sino mais uma vez.</Dialogue>
+        <Dialogue ID="2">Quando o sino toca, um grito enfim quebra o silêncio…</Dialogue>
+        <Dialogue ID="3">O sino cobra pela última vez, em um momento que nunca parece chegar.</Dialogue>
+        <Dialogue ID="4">Eu dei o meu silêncio, e agora eu pago seu preço.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="Clock_Kill">
       <Abnormality>O Preço do Silêncio</Abnormality>
-      <CardName>Silencio</CardName>
+      <CardName>Silêncio</CardName>
       <AbilityDesc>[Aliado Único]
-Adicione uma Página de'Silencio' à mão: ‘Custo 0 - [Ao Jogar]  Recibe 15% del HP máximo como daño; Todos los otros personajes pierden 5 de velocidad’. 
-Adicione uma Página de'Amplificar' à mão: ‘Custo 0 - [Ao Jogar]  Recibe 10% del HP máximo como daño; Gana 5 de velocidad’.</AbilityDesc>
-      <FlaborText>Raramente, siento como si el tiempo se detuviera. Momentos fugaces de silencio me ocurren a veces.</FlaborText>
+Adicione uma Página de'Silêncio' à mão: ‘Custo 0 - [Ao Jogar]  Recebe 15% do HP máximo como Dano; Todos os outros personagens perdem 5 de Velocidade’. 
+Adicione uma Página de'Amplificar' à mão: ‘Custo 0 - [Ao Jogar]  Recebe 10% do HP máximo como Dano; Ganha 5 de Velocidade’
+Esta página também estará no baralho no começo dos Atos subsequentes.</AbilityDesc>
+      <FlaborText>Raramente, sinto que o tempo parou. Momentos fugazes de silêncio as vezes voltam a mim.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">El silencio no siempre trae la paz.</Dialogue>
-        <Dialogue ID="2">Un instante de silencio, como si el tiempo se detuviera.</Dialogue>
-        <Dialogue ID="3">Cuando el tiempo se detiene, el silencio desciende. De alguna manera, ellos son uno y el mismo.</Dialogue>
-        <Dialogue ID="4">Incluso si todo se detuviera, el alma no moriría.</Dialogue>
+        <Dialogue ID="1">O silêncio nem sempre traz paz.</Dialogue>
+        <Dialogue ID="2">Um instante de silêncio, como se o tempo tivesse parado.</Dialogue>
+        <Dialogue ID="3">Cuando o tempo para, silêncio segue. De certo modo, eles são um e o mesmo.</Dialogue>
+        <Dialogue ID="4">Mesmo quando tudo está parado, a alma não morrerá.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
@@ -2132,77 +2133,78 @@ Adicione uma Página de'Amplificar' à mão: ‘Custo 0 - [Ao Jogar]  Recibe 10%
       <Abnormality>Estrela Azul</Abnormality>
       <CardName>Mártir</CardName>
       <AbilityDesc>[Aliado Único]
-Adicione uma Página de'Mártir' à mão: ‘Custo 0 - [Ao Jogar]  por esta escena, haz 4-6 bonus de daño de aturdimiento con ataques pero recibe 1-3 de daño después de un ataque exitoso’.</AbilityDesc>
-      <FlaborText>Reunámonos de nuevo como estrellas.</FlaborText>
+Adicione uma Página de'Mártir' à mão: ‘Custo 0 - [Ao Jogar] Por essa Cena, causa +4-6 de Dano de Atordoamento com ataques, mas recebe 1-3 de Dano com cada ataque bem sucedido’
+Esta página também estará no baralho no começo dos Atos subsequentes.</AbilityDesc>
+      <FlaborText>Nos encontraremos de novo como estrelas.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Vamos a saborear la felicidad eterna en el final de este universo juntos.</Dialogue>
-        <Dialogue ID="2">La vida no puede resistir sus instintos; todos volvemos a ese lugar algún día.</Dialogue>
-        <Dialogue ID="3">No estamos muriendo. Simplemente regresamos a donde pertenecemos.</Dialogue>
+        <Dialogue ID="1">Vamos saborear essa felicidade eterna no fim desse universo, juntos.</Dialogue>
+        <Dialogue ID="2">A vida não consegue resistir o instinto; todos nós voltaremos a aquele lugar algum dia.</Dialogue>
+        <Dialogue ID="3">Não estamos morrendo. Estamos voltando para onde pertencemos.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
         <AbnormalityCard ID="BlueStar_Atonement">
       <Abnormality>Estrela Azul</Abnormality>
-      <CardName>Penitencia</CardName>
+      <CardName>Penitência</CardName>
       <AbilityDesc>[Aliado Único]
-Si algún personaje está aturdido al comienzo de una escena, ellos reciben 3-7 de daño y Todos os Aliados ganan 1 de Fuerza por la escena. (Multiples personajes aturdidos no dan más Fuerza)</AbilityDesc>
-      <FlaborText>Nuestra Estrela Azul es el único santuario que nos acepta. Seremos limpiados de todos nuestros pecados aquí.</FlaborText>
+Se algum personagem está Atordoado no começo dessa Cena, ele recebe 3-7 de Dano, e todos os aliados ganham 1 de Força nessa Cena (Multiplos personagens Atordoados não concedem mais Força)</AbilityDesc>
+      <FlaborText>Nossa Estrela Azul é o único santuário que nos aceita. Nós seremos purificados dos nossos pecados.</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Vamos a quitarnos completamente este sucio cascarón y brillemos intensamente.</Dialogue>
-        <Dialogue ID="2">No deberíamos dejar que nuestra ansiedad nos infeste por dentro, ocupados, intentando olvidar todas nuestras malas acciones al borrarlas.</Dialogue>
-        <Dialogue ID="3">Eventualmente, todos volveremos a ese lugar y nos limpiaremos de todos los pecados.</Dialogue>
+        <Dialogue ID="1">Vamos completamente tirar essas cascas sujas e brilhar intensamente.</Dialogue>
+        <Dialogue ID="2">Não deveriamos deixar nossas ansiedades crescerem dentro de nós, nos ocupando, tentando esquecer nossos erros, apagando eles.</Dialogue>
+        <Dialogue ID="3">Eventualmente, iremos voltar para aquele lugar e nos purificar dos nossos pecados.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
         <AbnormalityCard ID="BlueStar_Melody">
       <Abnormality>Estrela Azul</Abnormality>
-      <CardName>Un sonido nostálgico</CardName>
+      <CardName>Um Som Nostálgico</CardName>
       <AbilityDesc>[Todos os Aliados]
-Todos os Aliados hacen +2-4 de daño de aturdimiento por esta escena. El efecto de esta página se activa 3 escenas después.</AbilityDesc>
-      <FlaborText>El ascenso de una estrella en un nuevo comienzo. ¿No escuchas el sonido eterno de la trompeta?</FlaborText>
+Todos os Aliados causam +2-4 de Dano de Atordoamento nessa Cena. Então, esse efeito ativa-se a cada 3 Cenas..</AbilityDesc>
+      <FlaborText>O nascer de uma estrela é o sinal de um novo começo. Você não ouve o som eterno das cornetas?</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">¿Puedes escuchar este sonido? ¿El nostálgico eco que hemos estado buscando tan ansiosamente?</Dialogue>
-        <Dialogue ID="2">¡Aah… Por fin…! ¡Por fin está llamando por nosotros!</Dialogue>
-        <Dialogue ID="3">¡Esa llamada nos guía al único lugar que nos aceptará……!</Dialogue>
+        <Dialogue ID="1">Consegue ouvir esse som? O eco nostálgico que tanto procuravamos?</Dialogue>
+        <Dialogue ID="2">Aah… Enfim…! Enfim está nos chamando! </Dialogue>
+        <Dialogue ID="3">Esse som está nos guiando para o único lugar que nos aceitará……!</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="WhiteNight_Bless">
-      <Abnormality>NocheBlanca</Abnormality>
-      <CardName>Bautismo</CardName>
+      <Abnormality>Noites Brancas</Abnormality>
+      <CardName>Batismo</CardName>
       <AbilityDesc>[Aliado Único]
-Adicione uma Página de'Bautismo' à mão: ‘Custo 2 - [Ao Jogar;] [Regresa à mão] El objetivo recupera 6 HP y gana 1 de Dureza esta escena (Una vez por escena)’.</AbilityDesc>
-      <FlaborText>“Te sanaré, curando todas las heridas y enfermedades que poseas.”</FlaborText>
+Adicione uma Página de'Batismo' à mão: ‘Custo 2 - [Ao Jogar;] [Retorne à mão] O alvo recupera 6 de HP e ganha 1 de Endurecido nessa Cena (Uma vez por Cena)’.</AbilityDesc>
+      <FlaborText>“Eu curarei você, tratando de toda doença ou machucado que possuir.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Estoy aquí para tratar la enfermedad.</Dialogue>
-        <Dialogue ID="2">Deposita tu confianza en mí. Soy el único que puede ayudarte.</Dialogue>
-        <Dialogue ID="3">¿Por qué no has tratado esa cicatriz?</Dialogue>
-        <Dialogue ID="4">Te sanaré, curando todas las heridas y enfermedades que poseas.</Dialogue>
+        <Dialogue ID="1">Estou aqui para tratar sua doença.</Dialogue>
+        <Dialogue ID="2">Confie em mim. Eu sou o único que pode te ajudar.</Dialogue>
+        <Dialogue ID="3">Por que você não tratou essa cicatriz?</Dialogue>
+        <Dialogue ID="4">"Eu curarei você, tratando de toda doença ou machucado que possuir."</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
         <AbnormalityCard ID="WhiteNight_Red">
-      <Abnormality>NocheBlanca</Abnormality>
-      <CardName>Adviento</CardName>
+      <Abnormality>Noites Brancas</Abnormality>
+      <CardName>Advento</CardName>
       <AbilityDesc>[Aliado Único]
-Por la duracion de la recepción, restaura 1 de Luz adicional al comienzo de una escena.
-Si el bibliotecario seleccionado también tiene la página de Anormalidad 'Bautismo', este efecto es incrementado: ‘El objetivo recupera 12 de HP y gana 2 de Dureza esta escena’.</AbilityDesc>
-      <FlaborText>“Soy muerte y vida. Oscuridad y luz.”</FlaborText>
+Pela duração da Recepção, restaura 1 de Luz adicional ao começo de cada Cena
+Se o bibliotecário selecionado também tem a Página de Anormalidade 'Batismo', o efeito também é melhorado: ‘O alvo recupera 12 de HP e ganha 2 de Endurecido nessa Cena’.</AbilityDesc>
+      <FlaborText>“Sou morte e vida. Escuridão e Luz”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Tú que estás empapado en pecado. Levántate y enfréntame.</Dialogue>
-        <Dialogue ID="2">No me he manifestado en esta forma para juzgarlos.</Dialogue>
-        <Dialogue ID="3">Liberaré las restricciones que te han encarcelado en este lugar y guiarte al paraíso que da bienvenida a todos.</Dialogue>
-        <Dialogue ID="4">Estaré contigo mientras te libero del miedo a una muerte horrible.</Dialogue>
+        <Dialogue ID="1">Tu qe estás mergulhado em pecado. Levante e encare-me.</Dialogue>
+        <Dialogue ID="2">Não manifestei-me nesta forma para julgar-te.</Dialogue>
+        <Dialogue ID="3">Desfazer-me-ei as restrições que prendem-te nesse lugar, e guiar-te para o paraíso que acolhe a todos.</Dialogue>
+        <Dialogue ID="4">Eu estarei com vocês enquanto os libero do medo de uma horrível morte.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="WhiteNight_Confess">
-      <Abnormality>NocheBlanca</Abnormality>
-      <CardName>Confesión</CardName>
+      <Abnormality>Noites Brancas</Abnormality>
+      <CardName>Confissão</CardName>
       <AbilityDesc>[Todos os Aliados]
-Recupera completamente la resistencia al aturdimiento y elimina todos los efectos de estado. (También aplica a los bibliotecarios aturdidos)
-Por la duracion de la recepción, Recibe 2 menos de daño de aturdimiento de los ataques.</AbilityDesc>
-      <FlaborText>Estar dispuesta a soportar el dolor es la mitad de la expiación.</FlaborText>
+Recupera completamente a Resistência de Atordoamento, e purifica todos os efeitos negativos (Também aplica a bibliotecários Atordoados)
+Pela duração da Recepção, recebe -2 de Dano de Atordoamento vindo de ataques.</AbilityDesc>
+      <FlaborText>Estar disposto a suportar a dor, é metado do expiação.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">…</Dialogue>
         <Dialogue ID="2">… …</Dialogue>
@@ -2211,47 +2213,47 @@ Por la duracion de la recepción, Recibe 2 menos de daño de aturdimiento de los
     </AbnormalityCard>
     
     <AbnormalityCard ID="WhiteNight_Guard">
-      <Abnormality>NocheBlanca</Abnormality>
-      <CardName>Centinela</CardName>
+      <Abnormality>Noites Brancas</Abnormality>
+      <CardName>Sentinela</CardName>
       <AbilityDesc>[Aliado Único]
-Mientras hayan otros bibliotecarios que puedan volverse objetivos, El bibliotecario seleccionado no puede volverse objetivo de los ataques.
-Si este personaje esta con vida al final de la recepción, consigue un libro adicional por cada invitado derrotado.</AbilityDesc>
-      <FlaborText>“Tú eres su hijo; tú eres el Rey.”</FlaborText>
+Enquanto outros aliados estiverem vivos, o bibliotecário selecionado não pode ser alvejado por ataques.
+Se esse personagem estiver vivo ao fim da Recepção, recebe um livro adicional para cada convidado derrotado.</AbilityDesc>
+      <FlaborText>“Tu és Filho dele; Tu és o Rei.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Tú que estás lleno de bendiciones, regocíjate. Porque estoy contigo.</Dialogue>
-        <Dialogue ID="2">Te guiaré al paraíso que da bienvenida a todos.</Dialogue>
-        <Dialogue ID="3">Estaré contigo mientras te libero del miedo a una muerte horrible.</Dialogue>
-        <Dialogue ID="4">Disfrutaremos de la fortuna de estar juntos para siempre y nadie se marchará.</Dialogue>
+        <Dialogue ID="1">Vós que estais cheios de bênçãos, alegrai-vos, porque eu estou convosco.</Dialogue>
+        <Dialogue ID="2">Guiarei-te ao paraiso que acolhe a todos.</Dialogue>
+        <Dialogue ID="3">Eu estarei com vocês enquanto os libero do medo de uma horrível morte.</Dialogue>
+        <Dialogue ID="4">Disfruteis da fortuna de estar juntos para sempre, e nenhum irá deixar.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="WhiteNight_White">
-      <Abnormality>NocheBlanca</Abnormality>
-      <CardName>Poder divino</CardName>
+      <Abnormality>Noites Brancas</Abnormality>
+      <CardName>Poder Divino</CardName>
       <AbilityDesc>[Aliado Único]
-Mientras este personaje este con vida, Todos os Aliados ganan 2 de Protección cada escena.
-Si este personaje ha usado la página E.G.O. de la NocheBlanca, los aliados también reciben 3 menos de daño por ataque.</AbilityDesc>
-      <FlaborText>“No tengas miedo. Soy el salvador y estaré contigo.”</FlaborText>
+Enquanto esse bibliotecário estiver vivo, Todos os Aliados ganham 2 de Proteção a cada Cena
+Se esse personagem usou alguma página de E.G.O das Noites Brancas, todos os aliados também absorvem instancias de Dano de 3 ou menos.</AbilityDesc>
+      <FlaborText>“Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus;”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">No temas. Ninguna calamidad podrá perturbarte.</Dialogue>
-        <Dialogue ID="2">Conseguirás un cuerpo nuevo libre de la corrupción, así como puede alguien negar que esto es salvación.</Dialogue>
-        <Dialogue ID="3">Creé en mí y estarás por siempre fuera de la oscuridad.</Dialogue>
-        <Dialogue ID="4">Serás venerado, porque soy divino.</Dialogue>
+        <Dialogue ID="1">Não temeis. Nenhuma calamidade poderá perturbá-los..</Dialogue>
+        <Dialogue ID="2">Ganhareis um corpo livre de tal corrupção, então como podereis negar que isto é salvação.</Dialogue>
+        <Dialogue ID="3">Creis em mim, e para sempre estará fora da escuridão.</Dialogue>
+        <Dialogue ID="4">Serás venerado, porque sou Divino.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
     
     <AbnormalityCard ID="WhiteNight_Apostle">
-      <Abnormality>NocheBlanca</Abnormality>
-      <CardName>Apóstoles</CardName>
+      <Abnormality>Noites Brancas</Abnormality>
+      <CardName>Apóstolos</CardName>
       <AbilityDesc>[Aliado Único]
-Mientras este personaje este con vida, Todos os Aliados hacen +2-7 de daño con sus ataques.
-Si el personaje ha usado 'Bautismo' 12 o más veces esta recepción, los aliados también ganan +1 de Poder.</AbilityDesc>
-      <FlaborText>“¿No os he escogido yo a vosotros los doce? Ahora levántense, mis sirvientes. Levántense y Sírvanme.”</FlaborText>
+Enquanto esse bibliotecário estiver vivo, todos os aliados causam +2-7 de Dano.
+Se esse personagem 'Batismo' 12 vezes nessa recepção, os aliados também ganham +1 de Poder.</AbilityDesc>
+      <FlaborText>“Não vos escolhi a vós os doze? Agora levantai, meus servos. Levantai e servi-me.”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Busca la paz y la santidad. Sin estos, no podrás mirarme.</Dialogue>
-        <Dialogue ID="2">Aquellos que aguantan hasta el final serán capaces de seguir.</Dialogue>
-        <Dialogue ID="3">Acepta mi gracia y enterraré tus errores en el pasado.</Dialogue>
-        <Dialogue ID="4">Obedéceme y deléitate con la alegría y felicidad eterna.</Dialogue>
+        <Dialogue ID="1">Busque paz e santidade. Sem isso, tu não deves olhar a mim.</Dialogue>
+        <Dialogue ID="2">Aqueles que suportaram até o fim, poderão prosseguir.</Dialogue>
+        <Dialogue ID="3">Aceita minha graça, e enterrarei seus erros no passado.</Dialogue>
+        <Dialogue ID="4">Obedecei-me e regojize em felicidade e júbilo eterna.</Dialogue>
       </Dialogues>
     </AbnormalityCard>
   </Sephirah>
@@ -2261,7 +2263,7 @@ Si el personaje ha usado 'Bautismo' 12 o más veces esta recepción, los aliados
     <AbnormalityCard ID="Enemy_Fight">
       <Abnormality></Abnormality>
       <CardName>???</CardName>
-      <AbilityDesc>Al comienzo de una escena, gana 1 de Fuerza.</AbilityDesc>
+      <AbilityDesc>Ao começo de uma Cena, ganha 1 de Força.</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
@@ -2271,7 +2273,7 @@ Si el personaje ha usado 'Bautismo' 12 o más veces esta recepción, los aliados
     <AbnormalityCard ID="Enemy_Gloom">
       <Abnormality></Abnormality>
       <CardName>???</CardName>
-      <AbilityDesc>Al comienzo de una escena, gana 1 de Endeble y 2 de Dureza.</AbilityDesc>
+      <AbilityDesc>Ao começo de uma Cena, ganha 1 de Fraqueza e 2 de Endurecido.</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
@@ -2281,7 +2283,7 @@ Si el personaje ha usado 'Bautismo' 12 o más veces esta recepción, los aliados
     <AbnormalityCard ID="Enemy_Friend">
       <Abnormality></Abnormality>
       <CardName>? ? ?</CardName>
-      <AbilityDesc>Cuando otro aliado es atacado, gana 1 de Fuerza la siguiente escena (Dos veces por escena)</AbilityDesc>
+      <AbilityDesc>Quando outro aliado é atacado, recebe 1 de Força na próxima cena. (Duas vezes por Cena)</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
@@ -2291,7 +2293,7 @@ Si el personaje ha usado 'Bautismo' 12 o más veces esta recepción, los aliados
     <AbnormalityCard ID="Enemy_Bind">
       <Abnormality></Abnormality>
       <CardName>? ? ?</CardName>
-      <AbilityDesc>Al comienzo de una escena, gana 1 de Dureza.</AbilityDesc>
+      <AbilityDesc>Ao começo de uma Cena, ganha 1 de Endurecido.</AbilityDesc>
       <FlaborText></FlaborText>
       <Dialogues>
         <Dialogue ID="1"></Dialogue>
