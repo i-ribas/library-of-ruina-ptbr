@@ -3,14 +3,14 @@
 
   <!--캐릭터 스탯관련--> 
   <text id="ui_tooltip_content_ability_hp">HP</text>
-  <text id="ui_tooltip_content_ability_break">Resistencia a atordoamento</text>
-  <text id="ui_tooltip_content_ability_speeddice">Dado de velocidade</text>
-  <text id="ui_tooltip_content_resistance_slash">&#60;color=#ff0000ff&#62;Cortante&#60;/color&#62; Resistencia a dano</text>
-  <text id="ui_tooltip_content_resistance_penetrate">&#60;color=#ff0000ff&#62;Perfurante&#60;/color&#62; Resistencia a dano</text>
-  <text id="ui_tooltip_content_resistance_hit">&#60;color=#ff0000ff&#62;Contundente&#60;/color&#62; Resistencia a dano</text>
-  <text id="ui_tooltip_content_resistancebreak_slash">&#60;color=#ffff00ff&#62;Cortante&#60;/color&#62; Resistencia a dano de atordoamento</text>
-  <text id="ui_tooltip_content_resistancebreak_penetrate">&#60;color=#ffff00ff&#62;Perfurante&#60;/color&#62; Resistencia a dano de atordoamento</text>
-  <text id="ui_tooltip_content_resistancebreak_hit">&#60;color=#ffff00ff&#62;Contundente&#60;/color&#62; Resistencia a dano de atordoamento</text>
+  <text id="ui_tooltip_content_ability_break">Resistência ao Atordoamento</text>
+  <text id="ui_tooltip_content_ability_speeddice">Dado de Velocidade</text>
+  <text id="ui_tooltip_content_resistance_slash">Resistência a Dano &#60;color=#ff0000ff&#62;Cortante&#60;/color&#62;</text>
+  <text id="ui_tooltip_content_resistance_penetrate">Resistência a Dano &#60;color=#ff0000ff&#62;Perfurante&#60;/color&#62; </text>
+  <text id="ui_tooltip_content_resistance_hit">Resistência a Dano &#60;color=#ff0000ff&#62;Contundente&#60;/color&#62; </text>
+  <text id="ui_tooltip_content_resistancebreak_slash">Resistência ao Dano de Atordoamento &#60;color=#ffff00ff&#62;Cortante&#60;/color&#62;</text>
+  <text id="ui_tooltip_content_resistancebreak_penetrate">Resistência ao Dano de Atordoamento &#60;color=#ffff00ff&#62;Perfurante&#60;/color&#62;</text>
+  <text id="ui_tooltip_content_resistancebreak_hit">Resistência ao Dano de Atordoamento &#60;color=#ffff00ff&#62;Contundente&#60;/color&#62;</text>
 
 
   <!--Auto tooltip-->

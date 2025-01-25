@@ -2235,7 +2235,7 @@ Enquanto esse bibliotecário estiver vivo, Todos os Aliados ganham 2 de Proteç�
 Se esse personagem usou alguma página de E.G.O da NoiteBranca, todos os aliados também absorvem instâncias de Dano de 3 ou menos.</AbilityDesc>
       <FlaborText>“Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus”</FlaborText>
       <Dialogues>
-        <Dialogue ID="1">Não temeis. Nenhuma calamidade poderá perturbá-los..</Dialogue>
+        <Dialogue ID="1">Não temeis. Nenhuma calamidade poderá perturbá-los.</Dialogue>
         <Dialogue ID="2">Ganhareis um corpo livre de tal corrupção, então como podereis negar que isto é salvação.</Dialogue>
         <Dialogue ID="3">Creis em mim, e para sempre estará fora da escuridão.</Dialogue>
         <Dialogue ID="4">Serás venerado, porque sou Divino.</Dialogue>
