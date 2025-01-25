@@ -153,12 +153,12 @@
     </BattleEffectText>
 
     <BattleEffectText ID="FairyFestival_Recovery">
-      <Name>Carne preparada</Name>
+      <Name>Carne Preparada</Name>
       <Desc>En 1 HP, seran consumidos por la Reina hada.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="SpiderBud_Cocoon">
-      <Name>Capullo</Name>
+      <Name>Casulo</Name>
       <Desc>Objetivo de las Aranhazinhas.</Desc>
     </BattleEffectText>
 

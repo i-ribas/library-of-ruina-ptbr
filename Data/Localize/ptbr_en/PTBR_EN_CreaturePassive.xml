@@ -34,130 +34,130 @@
   </PassiveDesc>
   <PassiveDesc ID="1003016">
     <Name>Por que é Ruim?</Name>
-    <Desc>Depois que a mentira for descoberta, todos os Pinóquios ganhan 2 de Fraqueza e Desarme na próxima Cena e todas as Resistências ao Atordoamento mudam para "Fraca".</Desc>
+    <Desc>Depois que a mentira for descoberta, todos os Pinóquios ganham 2 Débil e 2 Desarme na próxima Cena e todas as Resistências ao Atordoamento mudam para "Fraca".</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003018">
     <Name>Lalala~</Name>
-    <Desc>Si la mentira no ha sido descubierta, todos los Pinóquios ganan 4 de Fuerza y Dureza la siguiente escena.</Desc>
+    <Desc>Se a mentira não for descoberta, todos os Pinóquios ganham 4 Força e 4 Durável na próxima Cena.</Desc>
   </PassiveDesc>
   <!-- 피노키오 : 호기심쟁이 -->
   <!-- Pinocchio the Curious -->
   <PassiveDesc ID="1003021">
-    <Name>Recibir después</Name>
-    <Desc>Copia el mazo del primer asistente bibliotecario.</Desc>
+    <Name>Puxar Alguém</Name>
+    <Desc>Copia as Páginas de Combate (Baralho) do primeiro Bibliotecário Assistente.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003023">
-    <Name>Una canción al revés</Name>
-    <Desc>Mientra este personaje está vivo, el coste de las páginas en las manos de todos los bibliotecarios es aleatorio cada escena. (Páginas de coste 4 excluidas)</Desc>
+    <Name>Um Canto Ao Contrário</Name>
+    <Desc>Enquanto este personagem estiver vivo, o Custo das páginas nas mãos de todos os bibliotecários é randomizado a cada cena. (Páginas de 4 Custo excluídas)</Desc>
   </PassiveDesc>
   <!-- 피노키오 : 따라쟁이 -->
   <!-- Pinocchio the Copycat -->
   <PassiveDesc ID="1003031">
-    <Name>Timo</Name>
-    <Desc>Copia el mazo del segundo asistente bibliotecario.</Desc>
+    <Name>Fraudar</Name>
+    <Desc>Copia as Páginas de Combate (Baralho) do segundo Bibliotecário Assistente.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1003033">
-    <Name>Una Canción para Todos</Name>
-    <Desc>Mientra este personaje está vivo, todos los Pinóquios ganan 2 de Fuerza o 2 de Dureza al comienzo de cada escena.</Desc>
+    <Name>Um Canto Para Todos</Name>
+    <Desc>Enquanto este personagem estiver vivo, todos os Pinóquios ganham 2 Força ou 2 Durável no início de cada Cena.</Desc>
   </PassiveDesc>
   
   <PassiveDesc ID="101011">
-    <Name>Llama moribunda</Name>
-    <Desc>Pierde 50% del HP máximo y se aturde cuando un aliado muere.</Desc>
+    <Name>Chama Moribunda</Name>
+    <Desc>Perca 50% Máx. HP e se atordoe quando um aliado morre.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="101012">
-    <Name>Cenizas</Name>
-    <Desc>Pierde toda la Luz cuando queda aturdido.</Desc>
+    <Name>Cinzas</Name>
+    <Desc>Perca toda Luz ao ser atordoado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="102011">
-    <Name>Afección</Name>
-    <Desc>Reduce el coste de 'Memorias nostalgicas' en 1 después de participar en un choque.</Desc>
+    <Name>Afeição</Name>
+    <Desc>Reduz o Custo de 'Abraço Nostálgico do Passado' por 1 após participar em um Embate.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="201011">
     <Name>Ira</Name>
-    <Desc>Haz el doble de daño de aturdimiento en ataques exitosos.</Desc>
+    <Desc>Cause dobro de Dano de Atordoamento em ataques bem-sucedidos.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="201012">
-    <Name>Miedo</Name>
-    <Desc>Todos los dados pierden 4 de Poder cuando el personaje tiene un efecto de estado.</Desc>
+    <Name>Medo</Name>
+    <Desc>Todos os dados perdem 4 Poder quando o personagem tem efeitos de status.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="202011">
-    <Name>Reconocimiento de patrones repetitivos</Name>
-    <Desc>Restaura 1 de Luz después de hacer 10 o más daño en una sola escena.</Desc>
+    <Name>Reconhecimento de Padrões Repetitivos</Name>
+    <Desc>Restaura 1 Luz após causar 10 ou mais dano em uma só Cena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="301011">
-    <Name>Expresión</Name>
-    <Desc>Los dados ganan diferentes cantidad de Poder dependiendo de la cara actual.</Desc>
+    <Name>Expressão</Name>
+    <Desc>Os dados ganham quantidades diferentes de Poder dependendo do rosto atual.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="302021">
-    <Name>Atraído</Name>
-    <Desc>Prioriza al objetivo con Sangrado.</Desc>
+    <Name>Atração</Name>
+    <Desc>Prioriza alvos com Sangramento.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="401011">
-    <Name>Incomprensible</Name>
-    <Desc>Haz el doble de daño de aturdimiento.</Desc>
+    <Name>Incompreensível</Name>
+    <Desc>Cause o dobro de Dano de Atordoamento.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="402011">
-    <Name>Token</Name>
-    <Desc>Restaura 20% de HP al comienzo de la escena. No se activa si el HP actual es 1.</Desc>
+    <Name>Pedrinha</Name>
+    <Desc>Restaure 20% HP no começo da Cena. Não ativa se o HP atual é 1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="402012">
-    <Name>No Me dejes</Name>
-    <Desc>El HP no disminuye de 1; se aturde al recibir daño letal. Después de 2 escenas, recupera HP igual al HP actual de otro aliado. Si todos los aliados tienen 1 HP al comienzo de la escena, muere.</Desc>
+    <Name>Não Me Deixe</Name>
+    <Desc>O HP não cai abaixo de 1; se Atordoe ao levar dano letal. Após 2 Cenas, recupere HP igual ao HP atual de outro aliado. Se todos os aliados tiverem 1 HP no início da Cena, morra.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="402013">
-    <Name>Lágrimas de despedida</Name>
-    <Desc>Al comienzo de la escena, si hay un aliado con 1 HP (Incluyendote a ti mismo), todos los personajes pierden 10% de su HP máximo.</Desc>
+    <Name>Lágrimas de Despedida</Name>
+    <Desc>No começo da Cena, se existe um aliado com 1 HP (incluindo a si mesmo), todos os personagems perdem 10% de seu HP Máx.</Desc>
   </PassiveDesc>
 
   <!-- 요정 -->
   <PassiveDesc ID="103011">
-    <Name>Saciedad momentánea</Name>
-    <Desc>Si un aliado con el estado Carne preparada tiene 1 de HP, consumela al comienzo de la escena y gana 10 de Frágil, Endeble, Desarmar por la duración de esa escena.</Desc>  
+    <Name>Saciedade Momentânea</Name>
+    <Desc>Se um aliado com o status Carne Preparada tem 1 HP, consuma-o no começo da Cena e ganhe 10 de Frágil, Débil, Desarme pela duração daquela Cena.</Desc>  
   </PassiveDesc>
   <!-- 요정 -->
   <PassiveDesc ID="103012">
-    <Name>Voracidad</Name>
-    <Desc>Si el HP baja de 25% o menos, mata a todos los aliados y gana 30 de Fuerza al final de la escena si no hay más aliados presentes.</Desc>
+    <Name>Voracidade</Name>
+    <Desc>Se o HP cair para 25% ou menos, mate todos os aliados e ganhe 30 de Força no final da Cena se nenhum outro aliado estiver presente.</Desc>
   </PassiveDesc>
   <!-- 요정 -->
   <PassiveDesc ID="103021">
-    <Name>Hambriento</Name>
-    <Desc>Al final de cada escena, pierde 6 de HP y gana 2 de Fuerza Si el HP es 50% o menos.</Desc>
+    <Name>Fome</Name>
+    <Desc>No final de cada Cena, perca 6 HP e ganhe 2 Força se o HP está em 50% ou menos.</Desc>
   </PassiveDesc>
   <!-- 요정 -->
   <PassiveDesc ID="103022">
     <Name>Cuidado</Name>
-    <Desc>Al comienzo de cada escena, restaura 10 de HP. El HP no baja de 1 hasta que la Reina muere.</Desc>
+    <Desc>No começo de cada Cena, restaure 10 HP. O HP não cai abaixo de 1 até a Rainha morrer.</Desc>
   </PassiveDesc>
 
   <!-- 거미봉오리 -->
   <PassiveDesc ID="303011">
-    <Name>Rastreo</Name>
-    <Desc>Apunta enemigos que han matado a un aliado.</Desc>
+    <Name>Rastrear</Name>
+    <Desc>Alveja inimigos que mataram um aliado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="303012">
-    <Name>Comienza la caza</Name>
-    <Desc>Se Actica y ataca enemigos por 2 escenas después que un aliado muere.</Desc>
+    <Name>A Caça Começa</Name>
+    <Desc>Ative-se e alveje inimigos por duas Cenas após um aliado morrer.</Desc>
   </PassiveDesc>
   <!-- 거미봉오리 -->
   <PassiveDesc ID="303021">
-    <Name>¡Hora de comer!</Name>
-    <Desc>Apunta enemigo con el estado 'Capullo'.</Desc>
+    <Name>Hora do Rango!</Name>
+    <Desc>Alveje inimigos com o efeito de status 'Casulo'.</Desc>
   </PassiveDesc>
 
   <!-- 포큐버스 -->
   <PassiveDesc ID="403011">
-    <Name>Espinas que dan felicidad</Name>
-    <Desc>Al golpear, da al objetivo 2 monedas de emoción positiva.</Desc>
+    <Name>Espinhos Concedendo Felicidade</Name>
+    <Desc>Ao golpear, dê ao alvo 2 Moedas de Emoção Positiva.</Desc>
   </PassiveDesc>
   <!-- 포큐버스 -->
   <PassiveDesc ID="403012">
-    <Name>Revoloteo</Name>
-    <Desc>No recibe daño de páginas de rango.</Desc>
+    <Name>Esvoaçante</Name>
+    <Desc>Não receba dano de Páginas À Distância.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="403013">
-    <Name>Placer insoportable</Name>
+    <Name>Prazer Insuportável</Name>
     <Desc>Al comienzo de cada escena, los personajes restauran 1 de Luz por cada página de 'Placer' en sus manos. Al golpear, si el objetivo tiene tres páginas de 'Placer', haz 20 de daño y agota esas páginas.</Desc>
   </PassiveDesc>
 

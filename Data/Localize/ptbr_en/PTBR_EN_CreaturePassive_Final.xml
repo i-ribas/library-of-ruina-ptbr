@@ -3,11 +3,11 @@
 
   <!-- 불타버린 소녀 -->
   <PassiveDesc ID="105010">
-    <Name>Corrosión</Name>
+    <Name>Corrosão</Name>
     <Desc>Muevete a la siguiente fase cuando el HP baja a 1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305510">
-    <Name>Corrosión</Name>
+    <Name>Corrosão</Name>
     <Desc>Muevete a la siguiente fase cuando el HP baja a 0.</Desc>
   </PassiveDesc>
 
@@ -24,7 +24,7 @@
 
   <!-- 테디 -->
   <PassiveDesc ID="105211">
-    <Name>Afección</Name>
+    <Name>Afeção</Name>
     <Desc>Cuando el personaje usa una página, su objetivo recibe 1 afección.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="105212">
@@ -34,12 +34,12 @@
 
   <!-- 요정 -->
   <PassiveDesc ID="105311">
-    <Name>Saciedad momentánea</Name>
+    <Name>Saciedade Momentânea</Name>
     <Desc>Si un aliado tiene 20 o menos de HP, consumelo al comienzo de la escena y recupera 20 de HP y gana 2 de Fuerza.</Desc>
   </PassiveDesc>
   <!-- 요정 -->
   <PassiveDesc ID="105312">
-    <Name>Voracidad</Name>
+    <Name>Voracidade</Name>
     <Desc>Después de recibir 40 de daño en total durante la batalla, consume al aliado con menor HP al comienzo de la escena y recupera 40 de HP. Gana permanentemente 2 de Fuerza por cada aliado derrotado de esta manera.</Desc>
   </PassiveDesc>
   <!-- 요정 -->
@@ -236,7 +236,7 @@
   </PassiveDesc>
   <PassiveDesc ID="305321">
     <Name>¡Hora de comer!</Name>
-    <Desc>Apunta enemigo con el estado 'Capullo'</Desc>
+    <Desc>Apunta enemigo con el estado 'Casulo'</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305411">
     <Name>¡Te Daré un regalo!</Name>

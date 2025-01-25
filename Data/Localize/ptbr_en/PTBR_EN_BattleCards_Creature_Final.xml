@@ -404,7 +404,7 @@
     <BattleCardDesc ID="9903301">
       <LocalizedName>Gritar</LocalizedName>
       <Ability />
-      <Behaviour ID="0">[Al golpear] Aturde al objetivo; inflige el estado 'Capullo' al objetivo</Behaviour>
+      <Behaviour ID="0">[Al golpear] Aturde al objetivo; inflige el estado 'Casulo' al objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9903302">
       <LocalizedName>Olhos Brilhantes</LocalizedName>

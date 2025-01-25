@@ -128,7 +128,7 @@
     </BattleCardDesc>
     <BattleCardDesc ID="901101">
       <LocalizedName>Decreto da Rainha</LocalizedName>
-      <Ability>[Al usar] Da el estado 'Carne preparada' a un aliado</Ability>
+      <Ability>[Al usar] Da el estado 'Carne Preparada' a un aliado</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="901102">
       <LocalizedName>Bateção de Asas Voraz</LocalizedName>
@@ -170,7 +170,7 @@
     <BattleCardDesc ID="901301">
       <LocalizedName>Capturando Comida</LocalizedName>
       <Ability />
-      <Behaviour ID="0">[Al golpear] Inflige el estado 'Capullo' al objetivo</Behaviour>
+      <Behaviour ID="0">[Al golpear] Inflige el estado 'Casulo' al objetivo</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901302">
       <LocalizedName>Olhos Vermelhos</LocalizedName>
