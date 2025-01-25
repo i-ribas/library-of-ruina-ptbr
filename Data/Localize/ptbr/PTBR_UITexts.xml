@@ -504,7 +504,7 @@ Você deseja sobrescrever con um baralho novo?</text>
   <text id="ui_card_equipstate_fullofdeck">A lista de baralhos está cheia</text>
   <text id="ui_card_equipstate_overcardlimit">Limite de Cartas Equipadas</text>
   <text id="ui_card_equipstate_overfloorlimit">Limite por Andar Excedido</text>
-  <text id="ui_card_equipstate_fartypelimit">Apenas a Distância</text>
+  <text id="ui_card_equipstate_fartypelimit">Apenas à Distância</text>
   <text id="ui_card_equipstate_neartypelimit">Apenas Corpo-a-Corpo</text>
   <text id="ui_card_equipstate_onlypagelimit">Página exclusiva incompatível com esta Página Chave</text>
   <text id="ui_card_bookcardequipinfo_notify">Você apenas verá Páginas Chave desequipadas.</text>
@@ -577,7 +577,7 @@ Você deseja sobrescrever con um baralho novo?</text>
   <!--202011227-->
   <text id ="ui_customcoretype_melee">Página Chave Personalizada</text>
   <text id ="ui_customcoretype_hybrid">Página Híbrida Personalizada</text>
-  <text id ="ui_customcoretype_range">Página a distância Personalizada</text>
+  <text id ="ui_customcoretype_range">Página à Distância Personalizada</text>
 
 	<text id ="ui_drop_reward">{0}: {1}% - Cópias: {2}</text>
 

@@ -440,7 +440,7 @@ Quando o bibliotecário selecionado mata o Alvo Solicitado, recupere totalmente 
       <AbilityDesc>[Aliado Único]
 Cause +1-7 de Dano com Dados Ofensivos
 Quando um dado Ofensivo empata ou perde um Embate, cause dano igual ao valor do Dado ao oponente.
-A Sérima Página Corpo-a-Corpo ou A Distância, tem como alvo um personagem aleatório, incluindo aliados.</AbilityDesc>
+A Sétima Página Corpo-a-Corpo ou À Distância, tem como alvo um personagem aleatório, incluindo aliados.</AbilityDesc>
       <FlaborText>O Diabo propós um contrato infantil: A última bala iria perfurar a cabeça de quem ele mais ama. E mo momento que ele ouviu isso, ele procurou e atirou em todas as pessoas que ele amava.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A última bala vai perfurar a cabeça de sua amada..</Dialogue>
