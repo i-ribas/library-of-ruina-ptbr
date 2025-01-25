@@ -6,15 +6,15 @@
   <text id="dropbook_9fixer">Livro de um Grau 9</text>
   <text id="dropbook_novicefixer">Livro de Fixer Novato</text>
   <text id="dropbook_finn">Livro do Finn</text>
-  <text id="dropbook_yunoffice">Livro da Associação do Yun</text>
+  <text id="dropbook_yunoffice">Livro do Escritório do Yun</text>
   <text id="dropbook_eri">Livro da Eri</text>
   <text id="dropbook_yun">Livro do Yun</text>
   <text id="dropbook_iron">Livro da Irmandade de Ferro</text>
   <text id="dropbook_mo">Livro de Mo</text>
   <text id="dropbook_consta">Livro de Consta</text>
   <text id="dropbook_arnold">Livro de Arnold</text>
-  <text id="dropbook_hook1">Oficina Hook, Vol. Ⅰ</text>
-  <text id="dropbook_hook2">Oficina Hook, Vol. Ⅱ</text>
+  <text id="dropbook_hook1">Escritório dos Ganchos, Vol. Ⅰ</text>
+  <text id="dropbook_hook2">Escritório dos Ganchos, Vol. Ⅱ</text>
   <text id="dropbook_taein">Livro do Taein</text>
   <text id="dropbook_naoki">Livro da Naoki</text>
   <text id="dropbook_mccullin">Livro do McCullin</text>
@@ -31,14 +31,14 @@
 
 <!-- Lenda Urbana -->
   <text id="dropbook_zwei1">Livro da Zwei Secção Sul 6</text>
-  <text id="dropbook_streetlight1">Oficina Streetlight</text>
-  <text id="dropbook_streetlight2">Oficina Streetlight, Vol. Ⅱ</text>
+  <text id="dropbook_streetlight1">Escritório Poste de Luz</text>
+  <text id="dropbook_streetlight2">Escritório Poste de Luz, Vol. Ⅱ</text>
   <text id="dropbook_san">Livro do San</text>
   <text id="dropbook_julia">Livro da Julia</text>
   <text id="dropbook_zwei2">Livro da Zwei Secção Sul 6, Vol. Ⅱ</text>
   <text id="dropbook_isadora">Livro da Isadora</text>
   <text id="dropbook_walter">Livro do Walter</text>
-  <text id="dropbook_molar">Livro da Oficina Molar</text>
+  <text id="dropbook_molar">Livro da Escritório Molar</text>
   <text id="dropbook_olga">Livro da Olga</text>
   <text id="dropbook_rain">Livro do Rain</text>
   <text id="dropbook_mika">Livro da Mika</text>
@@ -58,16 +58,16 @@
 <!-- Praga Urbana -->
   <text id="dropbook_carnival">Livro do Carnaval</text>
 
-  <text id="dropbook_fullstop">Livro de Oficina Full-Stop</text>
+  <text id="dropbook_fullstop">Livro de Escritório Ponto-Final</text>
   <text id="dropbook_liwei">Livro do Liwei</text>
   <text id="dropbook_stephan">Livro do Stephan</text>
   <text id="dropbook_tamaki">Livro da Tamaki</text>
   
-  <text id="dropbook_dawn">Livro da Oficina Amanhecer</text> <!-- Dawn Office -->
+  <text id="dropbook_dawn">Livro da Escritório Amanhecer</text> <!-- Dawn Office -->
   <text id="dropbook_salvador">Livro do Salvador</text>
   <text id="dropbook_yuna">Livro da Yuna</text>
 
-  <text id="dropbook_gaze">Livro de Oficina Gaze</text>
+  <text id="dropbook_gaze">Livro de Escritório Visionário</text>
   <text id="dropbook_alloc">Livro do Alloc</text>
   <text id="dropbook_dalloc">Livro da Dalloc</text>
   <text id="dropbook_bono">Livro do Bono</text>
@@ -84,7 +84,7 @@
   <text id="dropbook_mumu">Livro do MuMu</text>
   <text id="dropbook_oink">Livro do Oink</text>
 
-  <text id="dropbook_wedge">Livro de Oficina Wedge</text>
+  <text id="dropbook_wedge">Livro de Escritório Cunha</text>
   <text id="dropbook_oscar">Livro do Oscar</text>
   <text id="dropbook_pameli">Livro da Pameli</text>
   <text id="dropbook_pamela">Livro da Pamela</text>
@@ -93,7 +93,7 @@
   <text id="dropbook_rustychain">Livro de um Corrente Enferrujada</text>
 
   <text id="dropbook_hanahuda">Livro da Hanafuda</text>
-  <text id="dropbook_J_Cop">Livro de un Fixer da Oficina do Jeong</text>
+  <text id="dropbook_J_Cop">Livro de un Fixer do Escritório do Jeong</text>
 
 <!-- Pesadelo Urbano -->
   <text id="dropbook_sweeper">Livro de um Sweeper</text>
@@ -122,7 +122,7 @@
   <text id="dropbook_wang">Livro de Wang</text>
   <text id="dropbook_jin">Livro de Jin</text>
   <text id="dropbook_mi">Livro de Mi</text>
-  <text id="dropbook_smilingfaces">Livro dos Rostos Sorridentes</text>
+  <text id="dropbook_smilingfaces">Livro dos Carinhas Sorridentes</text>
 
   <text id="dropbook_philip">Livro instável da Criança que Chora</text> <!-- Unstable Crying Children-->
 
@@ -146,7 +146,7 @@
   <text id="dropbook_cecil">Livro de Cecil</text>
   <text id="dropbook_mei">Livro de Mei</text>
 
-  <text id="dropbook_cane">Livro de Oficina Cane</text>
+  <text id="dropbook_cane">Livro de Escritório Bastão</text>
   <text id="dropbook_nemo">Livro de Nemo</text>
   <text id="dropbook_martina">Livro da Martina</text>
   <text id="dropbook_bada">Livro do Bada</text>
@@ -192,10 +192,10 @@
   <text id="dropbook_miraenamed">Livro da Irina</text>
   <text id="dropbook_mirae">Livro da Seguradoria de Vida Mirae</text>
   <text id="dropbook_cornamed">Livro da Yae</text>
-  <text id="dropbook_cor">Livro de um Fixer da Oficina Folhetos</text>
+  <text id="dropbook_cor">Livro de um Fixer da Ateliê Folhetos</text>
   <text id="dropbook_bayyardnamed">Livro do Bayard</text>
   <text id="dropbook_bayyard">Livro de um Fixer da Oficina do Bayard</text>
-  
+
 <!-- Impuritas-->
   <text id="dropbook_hanaAssociation">Livro de Associação Hana</text>
   <text id="dropbook_mirinae">Livro da Mirinae</text>

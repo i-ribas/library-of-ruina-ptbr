@@ -42,21 +42,21 @@
 	<Name ID="44">Hod</Name>
 	<Name ID="45">Netzach</Name>
 	<Name ID="46">Tiphereth</Name>
-	<Name ID="47">Miembro de Zwei</Name>
-	<Name ID="999">Desconocido</Name>
+	<Name ID="47">Membro da Zwei</Name>
+	<Name ID="999">Desconhecido</Name>
 	<Name ID="48">Pierre</Name>
-	<Name ID="49">Amigo de Lulu</Name>
-	<Name ID="50">Fixer de grado 9 de Yun</Name>
+	<Name ID="49">Amigo da Lulu</Name>
+	<Name ID="50">Fixer de Grau 9 de Yun</Name>
 	<Name ID="51">Fixer de Yun</Name>
-	<Name ID="52">Carnicero de las Callejuelas</Name>
+	<Name ID="52">Carnicero da Periferia</Name>
 	<Name ID="53">Fixer de Hook</Name>
-	<Name ID="54">Fixer ordinario de grado 8</Name>
-	<Name ID="55">Fixer capaz de grado 8</Name>
-	<Name ID="56">Fixer ordinario de grado 7</Name>
-	<Name ID="57">Fixer capaz de grado 7</Name>
-	<Name ID="58">Grumete de la Pandilla del hacha</Name>
-	<Name ID="59">Ejecutivo de la Pandilla del hacha</Name>
-	<Name ID="60">Perro callejero</Name>
+	<Name ID="54">Fixer ordinario de Grau 8</Name>
+	<Name ID="55">Fixer capaz de Grau 8</Name>
+	<Name ID="56">Fixer ordinario de Grau 7</Name>
+	<Name ID="57">Fixer capaz de Grau 7</Name>
+	<Name ID="58">Grumete da Gangue do Machado</Name>
+	<Name ID="59">Executor da Gangue do Machado</Name>
+	<Name ID="60">Vira-Lata</Name>
 
   <Name ID="61">Alpha</Name>
   <Name ID="62">Beta</Name>
@@ -74,16 +74,16 @@
   <Name ID="71">Dalloc</Name>
   <Name ID="72">Bono</Name>
 
-  <Name ID="73">Persona de Lovetown</Name>
-  <Name ID="74">Persona de Lovetown</Name>
-  <Name ID="75">Persona de Lovetown</Name>
+  <Name ID="73">Cidadão de Lovetown</Name>
+  <Name ID="74">Cidadão de Lovetown</Name>
+  <Name ID="75">Cidadão de Lovetown</Name>
   <Name ID="76">Tomerry</Name>
   <Name ID="77">Tomerry</Name>
 
   <Name ID="78">Sayo</Name>
   <Name ID="79">Yang</Name>
   <Name ID="80">Gin</Name>
-  <Name ID="81">Secuaz de Kurokumo</Name>
+  <Name ID="81">Capanga da Kurokumo</Name>
 
   <Name ID="82">Meow</Name>
   <Name ID="83">MuMu</Name>
@@ -97,47 +97,47 @@
   <Name ID="88">Yujin</Name>
   <Name ID="89">Valentin</Name>
   <Name ID="90">Tenma</Name>
-  <Name ID="91">Fixer de Asociación Shi Sección 2</Name>
+  <Name ID="91">Fixer da Associação Shi Secção 2</Name>
 
-  <Name ID="92">Marioneta ágil</Name>
-  <Name ID="93">Marioneta pesada</Name>
-  <Name ID="94">Marioneta</Name>
+  <Name ID="92">Marionete ágil</Name>
+  <Name ID="93">Marionete pesada</Name>
+  <Name ID="94">Marionete</Name>
 
   <Name ID="95">Emma &amp; Noah</Name>
   <Name ID="96">Emma</Name>
   <Name ID="97">Noah</Name>
-  <Name ID="98">León</Name>
-  <Name ID="99">Mono</Name>
+  <Name ID="98">Leão</Name>
+  <Name ID="99">Macaco</Name>
   <Name ID="100">Elefante</Name>
 
   <Name ID="101">Anton</Name>
   <Name ID="102">Lyla</Name>
   <Name ID="103">Valerie</Name>
   <Name ID="104">Sweeper</Name>
-  <Name ID="105">Prosélito del Índice</Name>
+  <Name ID="105">Prosélitos do Indicador</Name>
 
   <Name ID="106">Rose</Name>
   <Name ID="107">Sen</Name>
   <Name ID="108">Lesti</Name>
-  <Name ID="109">Equipo de limpieza WARP</Name>
+  <Name ID="109">Equipe de Limpeza WARP</Name>
 
   <Name ID="110">Wang</Name>
   <Name ID="111">Jin</Name>
   <Name ID="112">Mi</Name>
-  <Name ID="113">Cara Sonriente</Name>
+  <Name ID="113">Carinha Sorridente</Name>
   
-  <Name ID="114">Los Niños Llorando</Name>
-  <Name ID="115">Niño que no ve</Name>
-  <Name ID="116">Niño que no oye</Name>
-  <Name ID="117">Niño que no habla</Name>
+  <Name ID="114">As Crianças que Choram</Name> <!-- Crying Children-->
+  <Name ID="115">Criança que não vê</Name>
+  <Name ID="116">Criança que não ouve</Name>
+  <Name ID="117">Criança que não fala</Name>
   
-  <Name ID="118">Fixer de Asociación Liu Sección 2</Name>
+  <Name ID="118">Fixer da Associação Liu Secção 2</Name>
 
 	<Name ID="119">Lowell</Name>
 	<Name ID="120">Cecil</Name>
 	<Name ID="121">Mei</Name>
 
-  <Name ID="122">Soldato del Pulgar</Name>
+  <Name ID="122">Soldado do Polegar</Name>
   <Name ID="123">Kalo</Name>
   <Name ID="124">Boris</Name>
   <Name ID="125">Katriel</Name>
@@ -148,14 +148,14 @@
   <Name ID="129">Martina</Name>
 
   <Name ID="130">Argalia</Name>
-  <Name ID="131">Adorador Iglesia de los engranajes</Name>
+  <Name ID="131">Adorador da Igreja das Engrenagens</Name>
 
   <Name ID="132">Esther</Name>
   <Name ID="133">Hubert</Name>
   <Name ID="134">Gloria</Name>
 
   <Name ID="135">Chun</Name>
-  <Name ID="136">Fixer de Asociación Liu Sección 1</Name>
+  <Name ID="136">Fixer de Associação Liu Secção 1</Name>
   <Name ID="137">Xiao</Name>
   <Name ID="138">Miris</Name>
 
@@ -166,17 +166,17 @@
   <Name ID="142">Maxim</Name>
   <Name ID="143">Rudolph</Name>
 
-  <Name ID="144">Conejo</Name>
+  <Name ID="144">Lebre</Name>
   <Name ID="145">Rinoceronte</Name>
-  <Name ID="146">Reno</Name>
+  <Name ID="146">Rena</Name>
 
   <Name ID="147">Iori</Name>
 
   <Name ID="148">ㅛ무얀색챠애</Name>
-  <Name ID="149">Mano derecha</Name>
-  <Name ID="150">Mano izquierda</Name>
+  <Name ID="149">Mão Direita</Name>
+  <Name ID="150">Mão Esquerda</Name>
 
-  <Name ID="151">Fixer de Asociación Hana Sección 3</Name>
+  <Name ID="151">Fixer de Associação Hana Secção 3</Name>
   <Name ID="152">Mirinae</Name>
   <Name ID="153">Harold</Name>
   <Name ID="154">Olivier</Name>
@@ -187,16 +187,16 @@
   <Name ID="157">Roland</Name>
   <Name ID="158">Angelica</Name>
   <Name ID="159">O Silêncio Preto</Name>
-  <Name ID="160">Martillo</Name>
-  <Name ID="161">Maza y hacha</Name>
-  <Name ID="162">Daga</Name>
-  <Name ID="163">Guantele y revólver</Name>
-  <Name ID="164">Lanza</Name>
-  <Name ID="165">Espada larga</Name>
+  <Name ID="160">Martelo</Name>
+  <Name ID="161">Maça e Machado</Name>
+  <Name ID="162">Adaga</Name>
+  <Name ID="163">Manopla e Revólver</Name>
+  <Name ID="164">Lança</Name>
+  <Name ID="165">Espada Larga</Name>
   <Name ID="166">Espada</Name>
-  <Name ID="167">Gran espada</Name>
+  <Name ID="167">Grande espada</Name>
   <Name ID="168">Escopeta</Name>
-  <Name ID="169">Imagen del pasado</Name>
+  <Name ID="169">Imagem do Passado</Name>
 <!--검은침묵 2페이즈 잡몹-->
   <Name ID="170">Desecho humeante</Name>
   
@@ -205,24 +205,24 @@
   <Name ID="212">Niño que no habla</Name>
 
   <Name ID="221">Eileen</Name>
-  <Name ID="222">Adorador de engranajes</Name>
+  <Name ID="222">Adorador de Engrenagens</Name>
 
   <Name ID="231">Greta</Name>
   <Name ID="232">Carne fresca</Name>
 
-  <Name ID="241">Los músicos de Bremen</Name>
+  <Name ID="241">Os Músicos de Bremen</Name>
 
   <Name ID="251">Oswald</Name>
-  <Name ID="252">Sr. Cuchillo</Name>
-  <Name ID="253">Sra. Sirena</Name>
+  <Name ID="252">Sr. Adaga</Name>
+  <Name ID="253">Sra. Sereia</Name>
 
   <Name ID="261">Tanya</Name>
   
   <Name ID="271">Jae-heon</Name>
-  <Name ID="272">Marioneta Angelica</Name>
+  <Name ID="272">Marionete da Angelica</Name>
 
   <Name ID="281">Elena</Name>
-  <Name ID="282">La Cruz Bermellón</Name>
+  <Name ID="282">A Cruz Vermelha</Name> <!--Vermillion Cross-->
   
   <Name ID="291">Pluto</Name>
   <Name ID="292">Sombra</Name>
@@ -234,7 +234,7 @@
   <Name ID="331">Greta</Name>
   <Name ID="341">Bremen</Name>
   <Name ID="351">Oswald</Name>
-  <Name ID="352">Sr. Conejo</Name>
+  <Name ID="352">Sr. Coelho</Name>
   <Name ID="361">Tanya</Name>
   <Name ID="371">Jae-heon</Name>
   <Name ID="381">Elena</Name>
@@ -248,24 +248,24 @@
 
 
   <Name ID="1001">Jikan</Name>
-  <Name ID="1002">Cadena oxidada</Name>
-  <Name ID="1003">Fixer afiliado al taller</Name>
+  <Name ID="1002">Corrente Enferrujada</Name>
+  <Name ID="1003">Fixer Afiliado ao Ateliê</Name>
   <Name ID="1004">Dante</Name>
-  <Name ID="1005">Fixer Asociación Seven</Name>
-  <Name ID="1006">Sombrero de bambú Kim</Name>
-  <Name ID="1007">Asesino linaje de la espada</Name>
-  <Name ID="1008">Fixer de grado 1 Dong-hwan</Name>
+  <Name ID="1005">Fixer Associação Seven</Name>
+  <Name ID="1006">Kim Chapéu-de-bambu</Name>
+  <Name ID="1007">Degolador da Linhagem da Espada</Name>
+  <Name ID="1008">Fixer de Grau 1 Dong-hwan</Name>
   
   <Name ID="1009">Hanafuda</Name>
   <Name ID="1010">Allen</Name>
-  <Name ID="1011">Punzón Nocturno</Name>
-  <Name ID="1012">Fixer Oficina de Jeong</Name>
+  <Name ID="1011">Perfurador Noturno</Name>
+  <Name ID="1012">Fixer Oficina do Jeong</Name>
   <Name ID="1013">Udjat</Name>
   <Name ID="1014">Irina</Name>
   <Name ID="1015">Asegurador de Mirae</Name>
   <Name ID="1016">Yae</Name>
-  <Name ID="1017">Fixer del taller de folletos</Name>
+  <Name ID="1017">Fixer do Ateliê dos Folhetos</Name>
   <Name ID="1018">Bayard</Name>
-  <Name ID="1019">Fixer Oficina de Bayard</Name>
+  <Name ID="1019">Fixer Oficina do Bayard</Name>
   
 </CharactersNameRoot>
