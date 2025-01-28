@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<text id="ui_search_coreloc">Buscar...</text>
+	<text id="ui_enter_text_ptbr">Inserir texto...</text>
+	<text id="ui_ability_passive_ptbr_short">Buscar Passiva.</text>
+	<text id="ui_corepage_ptbr_short">Buscar Página.</text>
+	<text id="ui_skip_story_coreloc">PULAR</text>
+	<text id="ui_library_level_coreloc">Nv.</text>
+	<text id="ui_floor_level_coreloc">Nv.</text>
+</localize>

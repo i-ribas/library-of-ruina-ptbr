@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<text id="ui_search_ru">Buscar...</text>
-	<text id="ui_enter_text_ru">Inserir texto...</text>
-	<text id="ui_ability_passive_ru_short">Buscar Passiva.</text>
-	<text id="ui_corepage_ru_short">Buscar Página.</text>
-</localize>
