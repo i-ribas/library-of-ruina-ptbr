@@ -881,7 +881,7 @@ Este efecto está desactivado al ser aturdido.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="DefensePowerUp">
-      <Name>Defensa incrementada</Name>
+      <Name>Defesa incrementada</Name>
       <Desc>Os dados defensivos ganham +{0} de Poder durante essa Cena</Desc>
     </BattleEffectText>
 

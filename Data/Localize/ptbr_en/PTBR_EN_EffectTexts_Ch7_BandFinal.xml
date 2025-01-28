@@ -16,8 +16,8 @@
 
     <!-- 플루토 뒤틀림 -->
     <BattleEffectText ID="PlutoUnfairProtect">
-      <Name>Contrato injusto: Defensa</Name>
-      <Desc>Actualmente tiene 'Contraparte injusta: Defensa'</Desc>
+      <Name>Contrato injusto: Defesa</Name>
+      <Desc>Actualmente tiene 'Contraparte injusta: Defesa'</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="PlutoUnfairAtk">

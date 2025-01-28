@@ -19,7 +19,7 @@
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="3">
-      <LocalizedName>Defensa Leve</LocalizedName>
+      <LocalizedName>Defesa Leve</LocalizedName>
       <Ability />
     </BattleCardDesc>
     <BattleCardDesc ID="4">
@@ -1021,7 +1021,7 @@
       <LocalizedName>Fluxo da Espada</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601004">
-      <LocalizedName>Defensa Robusta</LocalizedName>
+      <LocalizedName>Defesa Robusta</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="601005">
       <LocalizedName>Espada Rápida</LocalizedName>
@@ -1166,7 +1166,7 @@
       <LocalizedName>Vapor</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="604002">
-      <LocalizedName>Ordem de Defensa</LocalizedName>
+      <LocalizedName>Ordem de Defesa</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="604003">
       <LocalizedName>Corrida Autônoma</LocalizedName>

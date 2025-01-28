@@ -228,7 +228,7 @@
     <Desc>Incrementa el resultado máximo de los dados de evasión en +3 con una probabilidad de 50%</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="200005">
-		<Name>El arte de la defensa</Name>
+		<Name>El arte de la Defesa</Name>
     <Desc>Incrementa el resultado máximo de los dados defensivos en +3 con una probabilidad de 25%</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="201001">

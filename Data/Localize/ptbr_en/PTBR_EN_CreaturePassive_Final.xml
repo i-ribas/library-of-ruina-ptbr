@@ -1088,7 +1088,7 @@ El ataque en la 'Casa' es cancelado si todos los bibliotecarios con 'Camino de l
   </PassiveDesc>
   <PassiveDesc ID="805221">
     <Name>Para proteger…</Name>
-    <Desc>Cuando Roland no está el modo castigo, gana vigilancia cada 2 escenas, y cambia entre el modo ataque y modo defensa cada escena.</Desc>
+    <Desc>Cuando Roland no está el modo castigo, gana vigilancia cada 2 escenas, y cambia entre el modo ataque y modo Defesa cada escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805222">
     <Name>Ahuyentar…</Name>
