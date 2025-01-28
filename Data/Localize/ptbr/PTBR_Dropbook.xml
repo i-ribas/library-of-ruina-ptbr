@@ -38,7 +38,7 @@
   <text id="dropbook_zwei2">Livro da Zwei Secção Sul 6, Vol. Ⅱ</text>
   <text id="dropbook_isadora">Livro da Isadora</text>
   <text id="dropbook_walter">Livro do Walter</text>
-  <text id="dropbook_molar">Livro da Escritório Molar</text>
+  <text id="dropbook_molar">Livro do Escritório Molar</text>
   <text id="dropbook_olga">Livro da Olga</text>
   <text id="dropbook_rain">Livro do Rain</text>
   <text id="dropbook_mika">Livro da Mika</text>
@@ -58,7 +58,7 @@
 <!-- Praga Urbana -->
   <text id="dropbook_carnival">Livro do Carnaval</text>
 
-  <text id="dropbook_fullstop">Livro de Escritório Ponto-Final</text>
+  <text id="dropbook_fullstop">Livro do Escritório Ponto-Final</text>
   <text id="dropbook_liwei">Livro do Liwei</text>
   <text id="dropbook_stephan">Livro do Stephan</text>
   <text id="dropbook_tamaki">Livro da Tamaki</text>
@@ -67,7 +67,7 @@
   <text id="dropbook_salvador">Livro do Salvador</text>
   <text id="dropbook_yuna">Livro da Yuna</text>
 
-  <text id="dropbook_gaze">Livro de Escritório Visionário</text>
+  <text id="dropbook_gaze">Livro do Escritório Visionários</text>
   <text id="dropbook_alloc">Livro do Alloc</text>
   <text id="dropbook_dalloc">Livro da Dalloc</text>
   <text id="dropbook_bono">Livro do Bono</text>
@@ -84,7 +84,7 @@
   <text id="dropbook_mumu">Livro do MuMu</text>
   <text id="dropbook_oink">Livro do Oink</text>
 
-  <text id="dropbook_wedge">Livro de Escritório Cunha</text>
+  <text id="dropbook_wedge">Livro do Escritório Cunha</text>
   <text id="dropbook_oscar">Livro do Oscar</text>
   <text id="dropbook_pameli">Livro da Pameli</text>
   <text id="dropbook_pamela">Livro da Pamela</text>
@@ -93,7 +93,7 @@
   <text id="dropbook_rustychain">Livro de um Corrente Enferrujada</text>
 
   <text id="dropbook_hanahuda">Livro da Hanafuda</text>
-  <text id="dropbook_J_Cop">Livro de un Fixer do Escritório do Jeong</text>
+  <text id="dropbook_J_Cop">Livro de um Fixer do Escritório do Jeong</text>
 
 <!-- Pesadelo Urbano -->
   <text id="dropbook_sweeper">Livro de um Sweeper</text>
@@ -146,7 +146,7 @@
   <text id="dropbook_cecil">Livro de Cecil</text>
   <text id="dropbook_mei">Livro de Mei</text>
 
-  <text id="dropbook_cane">Livro de Escritório Bastão</text>
+  <text id="dropbook_cane">Livro do Escritório Bastão</text>
   <text id="dropbook_nemo">Livro de Nemo</text>
   <text id="dropbook_martina">Livro da Martina</text>
   <text id="dropbook_bada">Livro do Bada</text>
