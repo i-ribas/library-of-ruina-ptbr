@@ -7,4 +7,6 @@
 	<text id="ui_skip_story_coreloc">PULAR</text>
 	<text id="ui_library_level_coreloc">Nv.</text>
 	<text id="ui_floor_level_coreloc">Nv.</text>
+	<text id="ui_autoplay_on_coreloc">:ON</text>
+	<text id="ui_autoplay_off_coreloc">:OFF</text>
 </localize>
