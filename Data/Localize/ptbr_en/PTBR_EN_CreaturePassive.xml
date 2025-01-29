@@ -158,42 +158,42 @@
   </PassiveDesc>
   <PassiveDesc ID="403013">
     <Name>Prazer Insuportável</Name>
-    <Desc>Al comienzo de cada escena, los personajes restauran 1 de Luz por cada página de 'Placer' en sus manos. Al golpear, si el objetivo tiene tres páginas de 'Placer', haz 20 de daño y agota esas páginas.</Desc>
+    <Desc>No começo de cada Cena, os personagens restauram 1 Luz por cada página de 'Prazer' nas suas mãos. Ao golpear, se o alvo tem três páginas de 'Prazer', cause 20 dano e esgote esas páginas.</Desc>
   </PassiveDesc>
 
 	<!-- 노래하는 기계 -->
 	<PassiveDesc ID="203011">
-		<Name>La máquina que canta</Name>
-		<Desc>No puede ser apuntado. No puede actuar. No recibe daño.</Desc>
+		<Name>A Máquina Que Canta</Name>
+		<Desc>Não pode ser alvejada. Não age. Não recebe dano.</Desc>
 	</PassiveDesc>
 	<PassiveDesc ID="203012">
-		<Name>Actuación</Name>
-		<Desc>En la escena después que '¡ANHELO esa melodía!' ha sido activado, toca música usando el personaje en la maquina. El personaje recibe daño igual a 30% de su HP máximo y es excluido de la batalla por esa escena. Mientras la música está tocando, todos los personajes ganan 5 de Fuerza y todas las resistencias al daño de aturdimiento cambian a 'Fatal'.</Desc>
+		<Name>Performance</Name>
+		<Desc>Na Cena após 'EU ANSEIO por essa melodia!' ter sido ativado, toca música usando o personagem na máquina. O personagem recebe dano igual a 30% de seu HP Máx. e é excluído da batalha naquela Cena. Enquanto a música está tocando, todos os personagens ganham 5 Força e todas as Resistências ao Atordoamento mudam para 'Fatal'.</Desc>
 	</PassiveDesc>
   <PassiveDesc ID="203021">
-    <Name>¡ANHELO esa melodía!</Name>
-    <Desc>Comenzando con la tercera escena: cada cuatro escena, gana un dado de velocidad adicional y usa un conjunto diferente de páginas de combate. Si estás aturdido mientras esto está activo, te introduces a la maquina al comienzo de la siguiente escena.</Desc>
+    <Name>EU ANSEIO por essa melodia!</Name>
+    <Desc>Começando a partir da terceira Cena: a cada quatro Cenas, ganhe um dado de Velocidade extra, e use um baralho diferente de Páginas de Combate. Se estiver atordoado enquanto isso estiver ativo, seja colocado na máquina no início da próxima Cena.</Desc>
   </PassiveDesc>
 
   <!-- 증오의 여왕 -->
   <PassiveDesc ID="501011">
-    <Name>Cambio Adverso</Name>
-    <Desc>Cuando el medidor de histeria está lleno, transformate. El medidor de histeria incrementa al perder choques o ser atacado por enemigos marcados y disminuye al ganar choques o atacar a enemigos marcados. La pantalla se vuelve rosa de izquierda a derecha a medida que se llena el medidor.
-Al final de la escena, restaura toda la Luz y Roba 2 páginas.</Desc>
+    <Name>Mudança Adversa</Name>
+    <Desc>Quando a barra de Histeria estiver cheia, transforme. A barra de Histeria aumenta ao perder embates ou tomar ataques de personagens marcados, e diminue após ganhar embates ou ao atacar personagens marcados. A tela fica rosa da esquerda para a direita conforme a barra enche.
+No final da Cena, restaure toda sua Luz e compre 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="501012">
-    <Name>En el nombre del odio</Name>
-    <Desc>Usa una página que deja un "Marca" en el objetivo cada 2 escenas. Todas las resistencias del personaje Marcado cambian a "Débil" y el personaje será apuntado principalmente por la Anormalidad.</Desc>
+    <Name>Em Nome do Ódio</Name>
+    <Desc>Usa uma página que deixa uma "Marca" no alvo a cada 2 Cenas. Todas as resistências do personagem marcado mudam para "Fraca" e o personagem será primariamente alvejado pela Anormalidade.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="501013">
-    <Name>Esclavo arcano</Name>
-    <Desc>Usa una página de Ataque en masa que apunta a todos los bibliotecarios cada 4 escenas. Si la Anormalidad usa la página mientras está transformada, se aturde en la siguiente escena.</Desc>
+    <Name>Escravo Arcana</Name>
+    <Desc>Usa uma página de Ataque em Massa que alveja todos os bibliotecários a cada 4 Cenas. Se a Anormalidade usa a página enquanto está transformada, ela se atordoa na próxima Cena.</Desc>
   </PassiveDesc>
 
   <!-- 절망의 기사 본체-->
   <PassiveDesc ID="502011">
-    <Name>Protección leal</Name>
-    <Desc>No puede ser apuntado. No puede actuar.</Desc>
+    <Name>Proteção Leal</Name>
+    <Desc>Não pode ser alvejada. Não age.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="502012">
     <Name>Pena</Name>

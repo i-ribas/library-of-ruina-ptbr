@@ -195,11 +195,11 @@
 	  </BattleCardDesc>
 	  <BattleCardDesc ID="901403">
 		  <LocalizedName>Escute esse Bela Canção!</LocalizedName>
-		  <Ability>Usado mientras '¡ANHELO esa melodía!' está activo; Si el usuario falla en hacer daño, se aturde a si mismo</Ability>
+		  <Ability>Usado mientras '¡EU ANSEIO por essa melodia!!' está activo; Si el usuario falla en hacer daño, se aturde a si mismo</Ability>
 	  </BattleCardDesc>
 	  <BattleCardDesc ID="901404">
 		  <LocalizedName>Eu Anseio Por Esta Bela Canção!!</LocalizedName>
-		  <Ability>Usado mientras '¡ANHELO esa melodía!' está activo</Ability>
+		  <Ability>Usado mientras '¡EU ANSEIO por essa melodia!!' está activo</Ability>
 		  <Behaviour ID="0">[Al golpear] El objetivo se introduce en la Máquina</Behaviour>
 	  </BattleCardDesc>
 
@@ -234,7 +234,7 @@
       <Behaviour ID="2">[Al golpear] Inflige 3 de Atadura, Gana 2 de Fuerza la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="901605">
-      <LocalizedName>Escravo Arcano</LocalizedName>
+      <LocalizedName>Escravo Arcana</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="901606">
       <LocalizedName>Luz de Ódio</LocalizedName>
@@ -245,7 +245,7 @@
       <LocalizedName>Em Nome Do Amor e Ódio</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="901608">
-      <LocalizedName>Escravo Arcano</LocalizedName>
+      <LocalizedName>Escravo Arcana</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="901609">
       <LocalizedName>Batidas Arcanas</LocalizedName>

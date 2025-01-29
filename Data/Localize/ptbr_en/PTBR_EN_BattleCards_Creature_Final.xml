@@ -727,7 +727,7 @@
       <Behaviour ID="2">[Al golpear] Inflige 3 de Atadura; Gana 2 de Fuerza la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9905105">
-      <LocalizedName>Escravo Arcano</LocalizedName>
+      <LocalizedName>Escravo Arcana</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9905111">
       <LocalizedName>Ódio</LocalizedName>
@@ -743,7 +743,7 @@
       <Ability></Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="9905114">
-      <LocalizedName>Escravo Arcano!</LocalizedName>
+      <LocalizedName>Escravo Arcana!</LocalizedName>
     </BattleCardDesc>
     
      <BattleCardDesc ID="9905211">
@@ -924,7 +924,7 @@
       <LocalizedName>Em Nome Do Amor e Ódio</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9905514">
-      <LocalizedName>Escravo Arcano</LocalizedName>
+      <LocalizedName>Escravo Arcana</LocalizedName>
     </BattleCardDesc>
     <!-- 광대 - 절망 -->
     <BattleCardDesc ID="9905521">
@@ -1037,7 +1037,7 @@ Si cualquier aliado es golpeado, haz 10 de daño a todos los bibliotecarios y re
       <Behaviour ID="2">[Al golpear] Inflige 3 de Atadura, Gana 2 de Fuerza la siguiente escena</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="9905615">
-      <LocalizedName>Escravo Arcano</LocalizedName>
+      <LocalizedName>Escravo Arcana</LocalizedName>
     </BattleCardDesc>
     <BattleCardDesc ID="9905616">
       <LocalizedName>Esperança</LocalizedName>

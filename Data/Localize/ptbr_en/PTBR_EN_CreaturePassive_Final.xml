@@ -141,7 +141,7 @@
   </PassiveDesc>
   <PassiveDesc ID="205312">
     <Name>¡Vamos a hacer música!</Name>
-    <Desc>En la escena 'ANHELO esa melodía!' ha sido activado, usa una página que da bonificaciones a los aliados.</Desc>
+    <Desc>En la escena 'EU ANSEIO por essa melodia!!' ha sido activado, usa una página que da bonificaciones a los aliados.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205313">
     <Name>Armonía de desesperación</Name>
@@ -153,19 +153,19 @@
   </PassiveDesc>
   <PassiveDesc ID="205322">
     <Name>Comienza el espectaculo</Name>
-    <Desc>Si un personaje está dentro de la maquina al comienzo de la escena después que 'ANHELO esa melodía!' fue activado, activa 'Actuación' por la escena.</Desc>
+    <Desc>Si un personaje está dentro de la maquina al comienzo de la escena después que 'EU ANSEIO por essa melodia!!' fue activado, activa 'Actuación' por la escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205323">
     <Name>Actuación</Name>
     <Desc>Al comienzo de la escena, el personaje dentro de la maquina recibe daño igual a 30% de su HP máximo. Mientras la música está tocando, todos los personajes ganan 5 de Fuerza y todas las resistencias al daño de aturdimiento cambian a "Fatal".</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205331">
-    <Name>¡ANHELO esa melodía!</Name>
+    <Name>¡EU ANSEIO por essa melodia!!</Name>
     <Desc>Comenzando con la tercera escena: cada cuatro escena, inflige 5 de Atadura a ti mismo, gana un dado de velocidad adicional, y usa un conjunto diferente de páginas de combate.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205332">
     <Name>Adicción a la música</Name>
-    <Desc>Si nadie está dentro de maquina de canto por el final de la escena que 'ANHELO esa melodía!' fue activado, el Funcionário Viciado con menos HP entra a la maquina.</Desc>
+    <Desc>Si nadie está dentro de maquina de canto por el final de la escena que 'EU ANSEIO por essa melodia!!' fue activado, el Funcionário Viciado con menos HP entra a la maquina.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205411">
     <Name>Mano de salvación</Name>
