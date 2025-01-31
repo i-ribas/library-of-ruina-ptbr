@@ -18,7 +18,7 @@
   <text id="BattleUI_Get_Emotion_Negative">Emoção Negativa Acumulada</text>
   <text id="BattleUI_Quick_Mode">Modo Rápido</text>
   <text id="BattleUI_MaxValue">Dano Máximo!</text>
-  <text id="BattleUI_Breaked">Atordoado!</text>
+  <text id="BattleUI_Breaked">Atordoou!</text>
   <text id="BattleUI_SpeedDiceBonus">Bônus de Velocidade</text>
   <text id="BattleUI_Deflect">Defletido!</text>
   <text id="BattleUI_StartBattle_CreatureInfo">{0}</text>
