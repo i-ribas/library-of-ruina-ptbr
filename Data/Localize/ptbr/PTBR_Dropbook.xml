@@ -4,7 +4,7 @@
   <text id="dropbook_something">Livro de Alguma Coisa</text>
   <text id="dropbook_rat">Livro dos Ratos</text>
   <text id="dropbook_9fixer">Livro de um Grau 9</text>
-  <text id="dropbook_novicefixer">Livro de Fixer Novato</text>
+  <text id="dropbook_novicefixer">Livro de Sicário Novato</text>
   <text id="dropbook_finn">Livro do Finn</text>
   <text id="dropbook_yunoffice">Livro do Escritório do Yun</text>
   <text id="dropbook_eri">Livro da Eri</text>
@@ -24,10 +24,10 @@
   <text id="dropbook_pierre">Livro da Pierre</text>
   <text id="dropbook_jack">Livro do Jack</text>
   <text id="dropbook_darkbackstreet1">Becos Escuros da Periferia, Vol. Ⅰ</text>
-  <text id="dropbook_backstreet1">Um Fixer da Periferia, Vol. Ⅰ</text>
+  <text id="dropbook_backstreet1">Um Sicário da Periferia, Vol. Ⅰ</text>
   <text id="dropbook_mars">Livro do Mars</text>
   <text id="dropbook_lulu">Livro da Lulu</text>
-  <text id="dropbook_backstreet2">Um Fixer da Periferia, Vol. Ⅱ</text>
+  <text id="dropbook_backstreet2">Um Sicário da Periferia, Vol. Ⅱ</text>
 
 <!-- Lenda Urbana -->
   <text id="dropbook_zwei1">Livro da Zwei Secção Sul 6</text>
@@ -47,10 +47,10 @@
   <text id="dropbook_dino">Livro do Dino</text>
   <text id="dropbook_zulu">Livro do Zulu</text>
   <text id="dropbook_darkbackstreet2">Becos Escuros da Periferia, Vol. Ⅱ</text>
-  <text id="dropbook_backstreet3">Um Fixer da Periferia, Vol. Ⅲ</text>
-  <text id="dropbook_backstreet4">Um Fixer da Periferia, Vol. Ⅳ</text>
-  <text id="dropbook_8fixer">Livro de um Grau 8</text> <!-- Fixer 8 -->
-  <text id="dropbook_7fixer">Livro de um Grau 7</text> <!-- Fixer 9-->
+  <text id="dropbook_backstreet3">Um Sicário da Periferia, Vol. Ⅲ</text>
+  <text id="dropbook_backstreet4">Um Sicário da Periferia, Vol. Ⅳ</text>
+  <text id="dropbook_8fixer">Livro de um Sicário Grau 8</text> <!-- Fixer 8 -->
+  <text id="dropbook_7fixer">Livro de um Sicário Grau 7</text> <!-- Fixer 9-->
   <text id="dropbook_axegang">Livro da Gangue do Machado</text>
   <text id="dropbook_distortion">Livro da Distorção</text>
   <text id="dropbook_lobotomycorp">Livro da Lobotomy Corporation</text>
@@ -93,7 +93,7 @@
   <text id="dropbook_rustychain">Livro de um Corrente Enferrujada</text>
 
   <text id="dropbook_hanahuda">Livro da Hanafuda</text>
-  <text id="dropbook_J_Cop">Livro de um Fixer do Escritório do Jeong</text>
+  <text id="dropbook_J_Cop">Livro de um Sicário do Escritório do Jeong</text>
 
 <!-- Pesadelo Urbano -->
   <text id="dropbook_sweeper">Livro de um Sweeper</text>
@@ -127,7 +127,7 @@
   <text id="dropbook_philip">Livro instável da Criança que Chora</text> <!-- Unstable Crying Children-->
 
   <text id="dropbook_dante">Livro de Dante</text>
-  <text id="dropbook_sevenfixers">Livro de um Fixer da Associação Seven</text>
+  <text id="dropbook_sevenfixers">Livro de um Sicário da Associação Seven</text>
   <text id="dropbook_kimsatgat">Livro do Kim Chapéu-de-bambu</text>
   <text id="dropbook_sword">Livro de um Degolador da Linhagem da Espada</text>
 
@@ -184,17 +184,17 @@
 
   <text id="dropbook_yan">Livro de ㅛ무얀색챠애</text>
 
-  <text id="dropbook_workshopsolver">Livro de um Fixer Afiliado</text>
-  <text id="dropbook_classonefixer">Livro do Fixer de Grau 1 Dong-hwan</text>
+  <text id="dropbook_workshopsolver">Livro de um Sicário Afiliado</text>
+  <text id="dropbook_classonefixer">Livro do Sicário de Grau 1 Dong-hwan</text>
   <text id="dropbook_awlofnight">Livro de um Sovela de Couruja</text>
   <text id="dropbook_awlofnightnamed">Livro de Allen</text>
   <text id="dropbook_usett">Livro de um Udjat</text>
   <text id="dropbook_miraenamed">Livro da Irina</text>
   <text id="dropbook_mirae">Livro da Seguradoria de Vida Mirae</text>
   <text id="dropbook_cornamed">Livro da Yae</text>
-  <text id="dropbook_cor">Livro de um Fixer da Ateliê Folhetos</text>
+  <text id="dropbook_cor">Livro de um Sicário da Ateliê Folhetos</text>
   <text id="dropbook_bayyardnamed">Livro do Bayard</text>
-  <text id="dropbook_bayyard">Livro de um Fixer da Oficina do Bayard</text>
+  <text id="dropbook_bayyard">Livro de um Sicário da Oficina do Bayard</text>
 
 <!-- Impuritas-->
   <text id="dropbook_hanaAssociation">Livro de Associação Hana</text>
