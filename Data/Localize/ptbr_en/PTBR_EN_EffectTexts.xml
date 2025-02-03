@@ -180,18 +180,18 @@
     </BattleEffectText>
 
     <BattleEffectText ID="QueenOfHatred_Sign">
-      <Name>Villano</Name>
-      <Desc>Se vuelve el objetivo de A Rainha do Ódio.</Desc>
+      <Name>Vilão</Name>
+      <Desc>Torne-se alvo da Rainha do Ódio.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="QueenOfHatred_Hatred">
-      <Name>Odio</Name>
-      <Desc>Se vuelve el objetivo de *todas* las páginas de A Rainha do Ódio.</Desc>
+      <Name>Ódio</Name>
+      <Desc>Torne-se alvo de *todas* as páginas da Rainha do Ódio.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="KnightOfDespair_Blessing">
       <Name>Lágrimas</Name>
-      <Desc>Gana un dado de velocidad. Usa páginas de combate especiales. Las resistencias cambian.</Desc>
+      <Desc>Ganhe un dado de Velocidade. Use Páginas de Combate especiais. As resistências mudam.</Desc>
     </BattleEffectText>
 
     <BattleEffectText ID="Gaho">

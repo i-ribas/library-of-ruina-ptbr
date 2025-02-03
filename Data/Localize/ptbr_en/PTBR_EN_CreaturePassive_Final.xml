@@ -728,15 +728,15 @@
   </PassiveDesc>
   <PassiveDesc ID="605222">
     <Name>En la oscuridad</Name>
-    <Desc>Después que el personaje pierda 25% o más de el HP que tenía antes de transformarse, gana el estado 'Acechador en la sombra' por las siguientes 2 escenas.</Desc>
+    <Desc>Después que el personaje pierda 25% o más de el HP que tenía antes de transformarse, gana el estado 'Escondendo-se nas Sombras' por las siguientes 2 escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605223">
-    <Name>Acechador en la sombra</Name>
-    <Desc>Mientras el personaje tiene el estado 'Acechador en la sombra', los bibliotecarios que no sean los apuntados por este personaje no pueden apuntarlo.</Desc>
+    <Name>Escondendo-se nas Sombras</Name>
+    <Desc>Mientras el personaje tiene el estado 'Escondendo-se nas Sombras', los bibliotecarios que no sean los apuntados por este personaje no pueden apuntarlo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605224">
     <Name>Cansancio</Name>
-    <Desc>Después que 'Acechador en la sombra' termine, usa la página de ataque en masa, 'Aullido'; todas las resistencias al daño de aturdimiento cambian a "Fatal" por la escena.</Desc>
+    <Desc>Después que 'Escondendo-se nas Sombras' termine, usa la página de ataque en masa, 'Aullido'; todas las resistencias al daño de aturdimiento cambian a "Fatal" por la escena.</Desc>
   </PassiveDesc>
 
   <!-- 웃시산 -->

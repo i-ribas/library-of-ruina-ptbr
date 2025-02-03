@@ -187,8 +187,8 @@
   </PassiveDesc>
   
   <PassiveDesc ID="10001">
-    <Name>Velocidad</Name>
-    <Desc>Dado de velocidad +1 (No se superpone)</Desc>
+    <Name>Velocidade</Name>
+    <Desc>Dado de Velocidade +1 (Não pode Sobrepor)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10002">
     <Name>Solo rango</Name>
@@ -199,11 +199,11 @@
     <Desc>Puede usar páginas de combate de rango (y melee)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10004">
-    <Name>Velocidad Ⅱ</Name>
-    <Desc>Dado de velocidad +2 (No se superpone)</Desc>
+    <Name>Velocidade Ⅱ</Name>
+    <Desc>Dado de Velocidade +2 (Não pode Sobrepor)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10005">
-    <Name>La Niebla Roja</Name>
+    <Name>A Névoa Vermelha</Name>
     <Desc>???</Desc>
   </PassiveDesc>
   <PassiveDesc ID="10006">
@@ -215,8 +215,8 @@
     <Desc>???</Desc>
   </PassiveDesc>
 	<PassiveDesc ID="10008">
-		<Name>Velocidad Ⅲ</Name>
-		<Desc>Dado de velocidad +1. Gana un dado de velocidad adicional en nivel de emoción 3. (No se superpone)</Desc>
+		<Name>Velocidade Ⅲ</Name>
+		<Desc>Dado de Velocidade +1. Ganhe mais um dado de Velocidade no Nível de Emoção 3. (Não pode Sobrepor)</Desc>
 	</PassiveDesc>
   
 	<PassiveDesc ID="200004">
