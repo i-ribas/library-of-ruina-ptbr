@@ -450,8 +450,8 @@
     </BattleEffectText>
 
     <BattleEffectText ID="Alriune_Attacker">
-      <Name>Corona de Laura de expiación</Name>
-      <Desc>Solo este personaje puede dañar a Alriune (y alguien usando su Poder).</Desc>
+      <Name>Coroa de Louros da Expiação</Name>
+      <Desc>Apenas este personagem pode causar dano a Alriune (e alguém usando seu poder).</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Alriune_Debuf">
       <Name>Aroma</Name>
@@ -524,8 +524,8 @@
     </BattleEffectText>
     
     <BattleEffectText ID="BigBird_Charm">
-      <Name>Encantado</Name>
-      <Desc>Incontrolable. velocidad es fijada en 1. Usa ‘Deslumbrado’, apunta a Pájaro grande.</Desc>
+      <Name>Encanto</Name>
+      <Desc>Incontrolável. Velocidade é fixa em 1. Usa ‘Deslumbre’, alvejando o Pássaro Grande.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="BigBird_Eye">
       <Name>Mirando fijamente a</Name>
@@ -1076,7 +1076,7 @@ El coste de 'Calabaza' es reducido a 0 cuando la Fase de este personaje comienza
       <Desc>Gana Força igual a la cantidad de veces que alidos con menos velocidad fueron atacados esta escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Final_BigBird_Charm">
-      <Name>Encantado</Name>
+      <Name>Encanto</Name>
       <Desc>Dura {0} Cena(s). incontrolable. velocidad es fijada en 1. Usa una página de combate especial, apunta a Roland. No recibe Dano fisico cuando es golpeado por aliados. removido cuando el personaje es aturdido.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="Final_BigBird_Darkness">
@@ -1606,7 +1606,7 @@ En 1+ de Sangre: Cuando lanzas un dado ofensivo, perde 2-7 de HP, e incrementa e
 At 15+ de Sangre: Gana 2 de Força. La cantidad de Sangre es reseteada al comienzo de la siguiente escena.</Desc>
     </BattleEffectText>
     <BattleEffectText ID="ApocalypseBird_BigEyeEffect">
-      <Name>Encantado por Pájaro grande</Name>
+      <Name>Encanto do Passáro Grande</Name>
       <Desc>Apunta al personaje con la página de Anormalidad &lt;'Ojos Grandes'&gt;. Hace +2-4 de Dano con ataques.</Desc>
     </BattleEffectText>
 

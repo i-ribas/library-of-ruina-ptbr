@@ -649,7 +649,7 @@
     </BattleCardDesc>
     <BattleCardDesc ID="902604">
       <LocalizedName>Incepção do Inverno</LocalizedName>
-      <Ability>[Al usar] Da 'Corona de Laurel' la siguiente escena</Ability>
+      <Ability>[Al usar] Da 'Coroa de Louros' la siguiente escena</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902605">
       <LocalizedName>Final Magnífico</LocalizedName>
@@ -673,12 +673,12 @@
 
     <BattleCardDesc ID="902701">
       <LocalizedName>Deslumbre</LocalizedName>
-      <Ability>[Al usar] El objetivo se vuelve 'Encantado' la siguiente escena</Ability>
+      <Ability>[Al usar] El objetivo se vuelve 'Encanto' la siguiente escena</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902702">
       <LocalizedName>Salvação</LocalizedName>
       <Ability>El dado pierde Poder cuando se tiene un choque contra 'Nana'.</Ability>
-      <Behaviour ID="0">[Al golpear] Si el objetivo está Encantado, matalo al instante.</Behaviour>
+      <Behaviour ID="0">[Al golpear] Si el objetivo está Encanto, matalo al instante.</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902703">
       <LocalizedName>Patrulhar</LocalizedName>
@@ -696,7 +696,7 @@
     <BattleCardDesc ID="902706">
       <LocalizedName>Olhar Intenso</LocalizedName>
       <Ability></Ability>
-      <Behaviour ID="1">[Al golpear] Fuerza al objetivo a atacar a este personaje la siguiente escena (Excepto si está Encantado)</Behaviour>
+      <Behaviour ID="1">[Al golpear] Fuerza al objetivo a atacar a este personaje la siguiente escena (Excepto si está Encanto)</Behaviour>
     </BattleCardDesc>
     <BattleCardDesc ID="902707">
       <LocalizedName>Caminhada Desastrada</LocalizedName>
@@ -706,10 +706,10 @@
     </BattleCardDesc>
     <BattleCardDesc ID="902708">
       <LocalizedName>Deslumbre</LocalizedName>
-      <Ability>Apunta a Pájaro grande</Ability>
+      <Ability>Alveja o Pássaro Grande</Ability>
     </BattleCardDesc>
     <BattleCardDesc ID="902709">
-      <LocalizedName>Gaiola</LocalizedName>
+      <LocalizedName>Gaiola de Pássaro</LocalizedName>
       <Ability>El efecto de esta página solo aplica/afecta a los bibliotecarios</Ability>
       <Behaviour ID="0">[Al golpear] Rompe un dado del objetivo e Inmoviliza al objetivo la siguiente escena</Behaviour>
     </BattleCardDesc>

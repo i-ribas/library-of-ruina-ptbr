@@ -75,7 +75,7 @@
   </PassiveDesc>
   <PassiveDesc ID="201011">
     <Name>Ira</Name>
-    <Desc>Cause dobro de Dano de Atordoamento em ataques bem-sucedidos.</Desc>
+    <Desc>Cause o dobro de Dano de Atordoamento em ataques bem-sucedidos.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="201012">
     <Name>Medo</Name>
@@ -158,7 +158,7 @@
   </PassiveDesc>
   <PassiveDesc ID="403013">
     <Name>Prazer Insuportável</Name>
-    <Desc>No começo de cada Cena, os personagens restauram 1 Luz por cada página de 'Prazer' nas suas mãos. Ao golpear, se o alvo tem três páginas de 'Prazer', cause 20 dano e esgote esas páginas.</Desc>
+    <Desc>No começo de cada Cena, os personagens restauram 1 Luz por cada página de 'Prazer' nas suas mãos. Ao golpear, se o alvo tem três páginas de 'Prazer', cause 20 dano e esgote essas páginas.</Desc>
   </PassiveDesc>
 
 	<!-- 노래하는 기계 -->
@@ -361,139 +361,139 @@ No final da Cena, restaure toda sua Luz e compre 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="602022">
     <Name>Na Escuridão</Name>
-    <Desc>Después que la Anormalidad pierda 25% o más de el HP que tenía antes de Transformarse, gana el estado 'Escondendo-se nas Sombras' por las siguientes 2 escenas.</Desc>
+    <Desc>Após a Anormalidade perder 25% ou mais HP da vida que ela tinha após transformar, ganha o efeito 'Escondendo-se nas Sombras' pelas próximas 2 Cenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="602023">
     <Name>Escondendo-se nas Sombras</Name>
-    <Desc>Mientras la Anormalidad tiene el estado 'Escondendo-se nas Sombras', otros bibliotecarios que no sean el apuntado por la Anormalidad no pueden apuntarlo.</Desc>
+    <Desc>Enquanto a Anormalidade está sob efeito de 'Escondendo-se nas Sombras', bibliotecários além daqueles que são alvejados pela Anormalidade não podem alvejar a Anormalidade.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="602024">
-    <Name>Cansancio</Name>
-    <Desc>Después que 'Escondendo-se nas Sombras' termine, todas las resistencias al daño de aturdimiento cambian a 'Fatal' por una escena.</Desc>
+    <Name>Cansaço</Name>
+    <Desc>Após o efeito 'Escondendo-se nas Sombras' acabar, todas as Resistências ao Atordoamento mudam para 'Fatal' pela Cena.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="503010">
-    <Name>Ámbar de oro</Name>
-    <Desc>No Actua. Si el HP llega a 0 antes de el final de la escena, despierta como una Chica Mágica. De no se asi, despierta como O Rei da Ganância.</Desc>
+    <Name>Ámbar Áureo</Name>
+    <Desc>Não age. Se HP chega a 0 antes do fim da Cena, desperta como uma Garota Mágica. Caso contrário, desperta como O Rei da Ganância.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503011">
-    <Name>Deseo palpitante</Name>
-    <Desc>Si el HP baja a 50% o menos, transformate en O Rei da Ganância la siguiente escena. El HP no disminuye de 50% antes de transformarse.</Desc>
+    <Name>Desejo Oscilante</Name>
+    <Desc>Se HP cai para 50% ou menos, transforme-se em O Rei da Ganância na próxima Cena. O HP não cai abaixo de 50% antes de se transformar.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503012">
-    <Name>El camino del oro</Name>
-    <Desc>Cada 3 escenas, crea Beatitude Brilhante y no pueden apuntarte, pero no actuas. La siguiente escena, usa una página de combate especial contra todos los bibliotecarios.</Desc>
+    <Name>O Caminho de Ouro</Name>
+    <Desc>A Cada 3 Cenas, cria Beatitude Brilhante e torna-se inalvejável, mas não age. Na próxima Cena, usa uma Página de Combate especial contra todos os bibliotecários.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503013">
     <Name>Narcisismo</Name>
-    <Desc>Si hay 3 o menos bibliotecarios consiguen negar el ataque de la página de combate especial, gana 3 de Fuerza y Prisa la siguiente escena. (Si dos o menos bibliotecarios están vivos, uno o ningún bibliotecario que niegue la página activará este efecto)</Desc>
+    <Desc>Se três ou menos biblotecários conseguirem negar o dano da Página de Combate especial, ganhe 3 Força e Celeridade na próxima Cena. (Se dois ou menos bibliotecários estão vivos, um ou zero bibliotecários negando a página ativará esse efeito)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503014">
-    <Name>Felicidad momentánea</Name>
-    <Desc>Si todos los bibliotecarios consiguen negar el ataque de la página de combate especial, la Anormalidad se aturde la siguiente escena.</Desc>
+    <Name>Felicidade Momentânea</Name>
+    <Desc>Se todos os bibliotecários conseguirem negar o ataque da Página de Combate especial, a Anormalidade se atordoa na próxima Cena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503021">
     <Name>O Rei da Ganância</Name>
-    <Desc>Usa páginas de combate diferentes. En un golpe exitoso, haz daño adicional igual a las acumulaciones de Sangrado en el objetivo.</Desc>
+    <Desc>Usa Páginas de Combate diferentes. Em um golpe bem-sucedido, dê dano bônus igual ao acúmulo de Sangramento no alvo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503022">
-    <Name>El camino del Rey</Name>
-    <Desc>Cada 3 escenas, crea Beatitude Brilhante y no pueden apuntarte, pero no actuas. La siguiente escena, usa dos páginas de combate especiales contra un solo objetivo.</Desc>
+    <Name>O Caminho do Rei</Name>
+    <Desc>A Cada 3 Cenas, cria Beatitude Brilhante e torna-se inalvejável, mas não age. Na próxima Cena, usa duas Páginas de Combate especiais contra um único alvo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503023">
-    <Name>Voracidad</Name>
-    <Desc>Si un bibliotecario falla en negar cualquiera de los ataques de las páginas de combate especiales, haz 15 de daño a todos los bibliotecarios y recupera 25 de HP.</Desc>
+    <Name>Voracidade</Name>
+    <Desc>Se um bibliotecário falha a negar qualquer um dos ataques da Página de Combate especial, dê 15 dano contra todos os bibliotecários e recupere 25 HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503024">
-    <Name>Un momento de felicidad</Name>
-    <Desc>Si un bibliotecario niega con exito todos los ataques de la página de combate especial, la Anormalidad se aturde la siguiente escena.</Desc>
+    <Name>Felicidade de um Momento</Name>
+    <Desc>Se um bibliotecário consegue negar todos os ataques da Página de Combate especial, a Anormalidade se atordoa na próxima Cena</Desc>
   </PassiveDesc>
   <PassiveDesc ID="503031">
     <Name>Beatitude Brilhante</Name>
-    <Desc>Existe por una escena. Da una página de combate especial al bibliotecario que lo derrota.</Desc>
+    <Desc>Existe por uma Cena. Dá Páginas de Combate especiais para o bibliotecário que o derrota.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="304011">
-    <Name>¡Te daré un regalo!</Name>
-    <Desc>Prioriza al objetivo con la menor cantidad de 'Regalos' en mano.</Desc>
+    <Name>Vou Te Dar Um Presentinho!</Name>
+    <Desc>Prioriza o alvo com a menor quantidade de 'Presentes' na mão.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="304012">
-    <Name>¿Jugarás conmigo?</Name>
-    <Desc>Los dados de bloqueo pierden Poder por 4x el número de 'Regalos' en la mano del Oponente.</Desc>
+    <Name>Você Vai Brincar Comigo?</Name>
+    <Desc>Dados de bloqueio perdem Poder por 4x do número de 'Presentes' na mão do oponente.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="304013">
-    <Name>Estar solo es triste</Name>
-    <Desc>Si todos los aliados han muerto, todas las resistencias cambian a 'Fatal'.</Desc>
+    <Name>Estar Só é Triste</Name>
+    <Desc>Se todos os outros aliados estiverem mortos, todas as Resistências ao Atordoamento mudam para 'Fatal'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="304021">
-    <Name>Re..ga..lo</Name>
-    <Desc>Prioriza al objetivo con la mayor cantidad de 'Regalos' en mano.</Desc>
+    <Name>Pre...sente...</Name>
+    <Desc>Prioriza o alvo com a maior quantidade de 'Presentes' na mão.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="304022">
-    <Name>¡BOOM!</Name>
-    <Desc>En la tercera escena, usa una página de combate Poderosa que hará una cantidad de daño significante y da tres copias de 'Regalo' a su objetivo antes de que causa que el usuario se autodestruya. El personaje muere luego de usar está página.</Desc>
+    <Name>BUM!</Name>
+    <Desc>Na terceira Cena, usa uma Página de Combate poderosa que causa dano significativo e dá três cópias de 'Presente' para o alvo antes de fazer que o usuário se autodestrua. O personagem morre após usar aquela página.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="304023">
-    <Name>Un regalo sorpresa</Name>
-    <Desc>Si este personaje muere, un 'Pequeño amiguito' aparecerá la siguiente escena. Si el personaje muere antes de que se pueda autodestruir usando una página de combate especial, el amigo aparecerá con 80% del HP.</Desc>
+    <Name>Lá Vem Um Presente Surpresa</Name>
+    <Desc>Se esse personagem morrer, um Amiguinho da Bruxinha nasce na próxima Cena. Se o personagem morrer antes dele poder se autodestruir usando a Página de Combate especial, o Amiguinho nascerá com 80% HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="304031">
-    <Name>Re..ga..lo</Name>
-    <Desc>Prioriza al objetivo con la mayor cantidad de 'Regalos' en mano.</Desc>
+    <Name>Pre...sente...</Name>
+    <Desc>Prioriza o alvo com a maior quantidade de 'Presentes' na mão.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="304032">
-    <Name>¡Dame ese regalo!</Name>
-    <Desc>Los Dados Ofensivos ganan Poder igual al número de 'Regalos' en la mano del objetivo.</Desc>
+    <Name>Me Dá Esse Presente!</Name>
+    <Desc>Dados Ofensivos ganham Poder igual ao número de 'Presentes' na mão do alvo.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="404015">
-    <Name>Muñeca hecha en la tierra</Name>
-    <Desc>No recibe daño de Quemadura o Sangrado.</Desc>
+    <Name>Boneca Feita da Terra</Name>
+    <Desc>Não recebe dano de Queimadura ou Sangramento.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="404012">
-    <Name>Fragancia floreciente</Name>
-    <Desc>Los ataques de este personaje solo hacen daño de aturdimiento a los bibliotecarios. Si un bibliotecario está aturdido, muere de forma instantánea y 'Aquele que Emergiu da Terra' aparecerá la siguiente escena.</Desc>
+    <Name>Fragrância Florescente</Name>
+    <Desc>Ataques desse personagem causam apenas Dano de Atordoamento. Se um bibliotecário se Atordoa, ele é morto instantaneamente, e 'Aquele que Emergiu da Terra' nascerá na próxima Cena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="404011">
-    <Name>Expiación</Name>
-    <Desc>La Anormalidad solo recibe daño del bibliotecario con el estado 'Corona de Laurel'.</Desc>
+    <Name>Expiação sem Fôlego</Name>
+    <Desc>A Anormalidade apenas recebe dano do bibliotecário com o efeito 'Coroa de Louros'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="404013">
-    <Name>Flor inmortal</Name>
-    <Desc>Comenzando en la escena 2, un Pétalo florecerá atras de la Anormalidad al comienzo de cada escena. Si se acumulan 3 Pétalos en el comienzo de la escena, remuevelos todos y usa una página de Ataque en masa.</Desc>
+    <Name>Flor Que Não Murcha</Name>
+    <Desc>A partir da Cena 2, uma pétala floresce atras da Anormalidade no início de cada Cena. Se três pétalas se acumularam no início de uma Cena, remova todas elas e use uma página de Ataque em Massa.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="404014">
-    <Name>Lágrimas de pétalos</Name>
-    <Desc>Cuando queda aturdido, pierde 40 de HP y remueve todos los Pétalos al comienzo de la siguiente escena. En adición, todos los bibliotecarios recuperan 50% de su resistencia al aturdimiento máxima.</Desc>
+    <Name>Lágrimas das Pétalas</Name>
+    <Desc>Ao se Atordoar, perca 40 HP e remova todas as pétalas no início da próxima Cena. Adicionalmente, todos os bibliotecários recuperam 50% da Resistência ao Atordoamento Máx.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="404021">
-    <Name>A la tierra de donde vengo…</Name>
-    <Desc>Este personaje muere cuando queda aturdido.</Desc>
+    <Name>Para a Terra de Onde Venho…</Name>
+    <Desc>Esse personagem morre ao se Atordoar.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="404023">
-    <Name>Muñeca hecha en la tierra</Name>
-    <Desc>No recibe daño de Quemadura o Sangrado.</Desc>
+    <Name>Boneca Feita da Terra</Name>
+    <Desc>Não recebe dano de Queimadura ou Sangramento.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="404022">
-    <Name>Fragancia floreciente</Name>
-    <Desc>Los ataques de este personaje solo hacen daño de aturdimiento a los bibliotecarios. Si un bibliotecario está aturdido, muere de forma instantánea y 'Aquele que Emergiu da Terra' aparecerá la siguiente escena.</Desc>
+    <Name>Fragrância Florescente</Name>
+    <Desc>Ataques desse personagem causam apenas Dano de Atordoamento. Se um bibliotecário se Atordoa, ele é morto instantaneamente, e 'Aquele que Emergiu da Terra' nascerá na próxima Cena.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="801011">
-    <Name>Ojos vigilantes</Name>
-    <Desc>Los objetivos de Pássaro Grande no pueden ser redirigidos por los bibliotecarios.</Desc>
+    <Name>Olhos Vigilantes</Name>
+    <Desc>Os alvos do Pássaro Grande não podem ser redirecionados por bibliotecários.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="801012">
-    <Name>Una lámpara que arde por siempre</Name>
-    <Desc>Usa 'Deslumbrar' en la primera escena y cada 3 escenas después, que inflige 'Encantado' en un bibliotecario. Cuando un bibliotecario está Encantado, una copia de 'Jaula' es añadida a la mano de de todos los bibliotecarios que no están Encantados.</Desc>
+    <Name>Uma Lâmpada que Queima Eternamente</Name>
+    <Desc>Usa 'Deslumbre' na primeira Cena e a cada 3 Cenas, que inflige 'Encanto' em um bibliotecário. Quando um bibliotecário está sob efeito de Encanto, uma cópia de 'Gaiola de Pássaro' é adicionada a mão de todos os bibliotecários que não estão sob o efeito de Encanto.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="801021">
-    <Name>Ojos Cansados</Name>
-    <Desc>Da una página de combate especial que puede aturdir a Pássaro Grande a los bibliotecarios que derroten este personaje.</Desc>
+    <Name>Olhos Sonolentos</Name>
+    <Desc>Dá uma Página de Combate especial que consegue atordoar o Pássaro Grande para o bibliotecário que derrotar esse personagem.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="801022">
     <Name>Seguidor</Name>
-    <Desc>No apunta a bibliotecarios que esten Encantados.</Desc>
+    <Desc>Não alveja bibliotecários sob o efeito de Encanto.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="901011">
