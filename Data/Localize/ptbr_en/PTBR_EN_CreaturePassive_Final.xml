@@ -244,7 +244,7 @@
   </PassiveDesc>
   <PassiveDesc ID="305412">
     <Name>Broma Divertida</Name>
-    <Desc>Añade un 'Regalo' a la mano de cada bibliotecario cada 2 escenas. Da un 'Regalo' adicional por cada dos 'Amiguinhos da Bruxinha' que han muerto.</Desc>
+    <Desc>Añade un 'Regalo' a la mano de cada bibliotecario cada 2 escenas. Da un 'Regalo' adicional por cada dos 'Amiguinho da Bruxinha' que han muerto.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305413">
     <Name>¡¡Graaan~ regalo!!</Name>
@@ -376,7 +376,7 @@
   </PassiveDesc>
   <PassiveDesc ID="405411">
     <Name>Expiación</Name>
-    <Desc>Este personaje solo recibe daño del bibliotecario con el estado 'Corona de Laurel'.</Desc>
+    <Desc>Este personaje solo recibe daño del bibliotecario con el estado 'Coroa de Louros'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405413">
     <Name>Flor Inmortal</Name>
@@ -1059,7 +1059,7 @@ El ataque en la 'Casa' es cancelado si todos los bibliotecarios con 'Camino de l
   <!-- 큰새 -->
   <PassiveDesc ID="805111">
     <Name>Una lámpara que arde por siempre</Name>
-    <Desc>Comenzando con la primera escena, inflige a un asistente bibliotecario aleatorio con 'Encantado' cada 3 escenas. Más bibliotecarios son afectados con sucesos posteriores (1-2-2-3).</Desc>
+    <Desc>Comenzando con la primera escena, inflige a un asistente bibliotecario aleatorio con 'Encanto' cada 3 escenas. Más bibliotecarios son afectados con sucesos posteriores (1-2-2-3).</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805112">
     <Name>Oscuridad</Name>

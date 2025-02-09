@@ -42,7 +42,7 @@
   <text id="Redshoes_hod_kill">Foi arriscado, mas eu consigo aguentar.</text>
 
 	<text id="Redshoes_librarian_start">Esses saltos malditos ficavam mais vermelhos com o sangue das pessoas.</text>
-	<text id="Redshoes_librarian_kill">Eu quase fiquei encantado por um momento ali. Eu quase enlouqueci.</text>
+	<text id="Redshoes_librarian_kill">Eu quase caí no encanto por um momento ali. Eu quase enlouqueci.</text>
   <!-- Fragment of the Universe -->
 	<text id="Spacepiece_netzach_start">Os ecos vindos de algum lugar… Ainda não consigo esquecer o zumbido.</text>
 	<text id="Spacepiece_netzach_die">Resultados à parte, acho que posso dormir bem agora…</text>
@@ -425,7 +425,7 @@
   <text id="BigBird_librarian1_start">A besta mais perigosa da floresta é a que estamos enfrentando agora…</text>
   <text id="BigBird_librarian1_kill">Eu aprecio como o passarinho quer nos salvar da “besta”, mas estou muito bem sem a ajuda dele…</text>
 
-  <text id="BigBird_librarian2_start">Eu tô lembrado. Tivemos que colocar aquele pássaro para dormir antes de podermos trabalhar com ele.</text>
+  <text id="BigBird_librarian2_start">Eu me lembro. Tivemos que colocar aquele pássaro para dormir antes de podermos trabalhar com ele.</text>
   <text id="BigBird_librarian2_kill">…A gente matou? Acabou?</text>
 
   <text id="BigBird_librarian3_start">Enfim… A Dona Binah não está aqui para nos ajudar, então devemos fazer isso por conta própria.</text>

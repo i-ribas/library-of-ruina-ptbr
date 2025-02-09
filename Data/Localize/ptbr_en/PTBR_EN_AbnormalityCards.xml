@@ -1955,9 +1955,9 @@ Caso um personagem tenha 5+ de Pecado, eles tomam 10% de sua vida máxima como d
       <Abnormality>Pássaro do Apocalipse</Abnormality>
       <CardName>Olhos Grandes</CardName>
       <AbilityDesc>[Aliado Único]
-No começo da Cena, inflige 'Encantado' a todos os inimigos.
-Os inimigos com 'Encantado' priorizam esse biblitecário, e causam +2-4 de dano com seus ataques.
-Ganha 1-2 Poder contra inimigos com 'Encantado' e recupera 2-5 de HP e Resistência ao Atordoamento ao ganhar um Embate.</AbilityDesc>
+No começo da Cena, inflige 'Encanto' a todos os inimigos.
+Os inimigos com 'Encanto' priorizam esse biblitecário, e causam +2-4 de dano com seus ataques.
+Ganha 1-2 Poder contra inimigos com 'Encanto' e recupera 2-5 de HP e Resistência ao Atordoamento ao ganhar um Embate.</AbilityDesc>
       <FlaborText>Os olhos do Pássaro Grande prendiam a luz.</FlaborText>
       <Dialogues>
         <Dialogue ID="1">A luz brilhante está presa.</Dialogue>
