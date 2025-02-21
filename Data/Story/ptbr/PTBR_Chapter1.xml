@@ -250,7 +250,7 @@
           <Teller>Roland</Teller>
           <Title>Intruso</Title>
           <VoiceFile>ch1_prol2_ep1_roland3</VoiceFile>
-          <Content>Paciente minha bunda… Era pra eu ficar grato por isso?</Content>
+          <Content>Paciente, minha bunda… Era pra eu ficar grato por isso?</Content>
         </Dialog>
         <Dialog ID="8" Model="롤랑">
           <Teller>Roland</Teller>
@@ -690,76 +690,76 @@
       <EpisodeName>Episodio 1</EpisodeName>
   <!-- EP1 -->    
       <Place>
-        <PlaceName>Localización: Algún lugar en las Callejuelas</PlaceName>
+        <PlaceName>Local: Algún lugar en las Callejuelas</PlaceName>
         <Dialog ID="0" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit1</VoiceFile>
-          <Content>¡Eh! ¡Apresúrate y sácalos ya! ¡Esos matones de Zwei pueden llegar en cualquier momento!</Content>
+          <Content>Ei! Anda logo e raspa ele, agora! Esses capangas da Zwei podem chegar a qualquer momento!</Content>
         </Dialog>
         <Dialog ID="1" Model="레니">
           <Teller>Lenny</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny1</VoiceFile>
-          <Content>¡¡Lo hago lo mejor que puedo!!</Content>
+          <Content>Estou fazendo o melhor que posso!!!</Content>
         </Dialog>
         <Dialog ID="2" Model="레니">
           <Teller>Lenny</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny2</VoiceFile>
           <Content>No soy capaz de hacer un corte limpio, el interior de este tipo está todo revuelto.</Content>
         </Dialog>
         <Dialog ID="3" Model="레니">
           <Teller>Lenny</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny3</VoiceFile>
           <Content>Nunca he escuchado de ningún proceso de modificación corporal que te deje en tal mal estado...</Content>
         </Dialog>
         <Dialog ID="4" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi1</VoiceFile>
           <Content>Algo está mal con estos órganos. Todos se ven realmente extraños...</Content>
         </Dialog>
         <Dialog ID="5" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit2</VoiceFile>
           <Content>¡Maldición! Sus pisadas están cada vez más cerca.</Content>
         </Dialog>
         <Dialog ID="6" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit3</VoiceFile>
           <Content>¡¡Olvídate de los cortes limpios, solo sácalos y ya!!</Content>
         </Dialog>
         <Dialog ID="7" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit4</VoiceFile>
           <Content>A este ritmo nos decapitarán.</Content>
         </Dialog>
         <Dialog ID="8" Model="레니">
           <Teller>Lenny</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny4</VoiceFile>
           <Content>Por qué tiene este tipo de cosas en su cuerpo...</Content>
         </Dialog>
         <Dialog ID="9" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit5</VoiceFile>
           <Content>¡Lo que sea, solo tómalo! ¡Nos estamos quedando sin tiempo!</Content>
         </Dialog>
         <Dialog ID="10" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi2</VoiceFile>
           <Content>¡Casi listo!</Content>
         </Dialog>
         <Dialog ID="11" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit6</VoiceFile>
           <Content>¡Ahora, corran!</Content>
         </Dialog>
