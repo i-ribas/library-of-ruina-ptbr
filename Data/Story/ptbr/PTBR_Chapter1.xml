@@ -690,543 +690,543 @@
       <EpisodeName>Episodio 1</EpisodeName>
   <!-- EP1 -->    
       <Place>
-        <PlaceName>Local: Algún lugar en las Callejuelas</PlaceName>
+        <PlaceName>Local: Algum lugar nos Becos</PlaceName>
         <Dialog ID="0" Model="피트">
           <Teller>Pete</Teller>
           <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit1</VoiceFile>
-          <Content>Ei! Anda logo e raspa ele, agora! Esses capangas da Zwei podem chegar a qualquer momento!</Content>
+          <Content>Ei! Anda logo e raspa ele, agora! Aqueles capangas da Zwei podem chegar a qualquer momento!</Content>
         </Dialog>
         <Dialog ID="1" Model="레니">
           <Teller>Lenny</Teller>
           <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny1</VoiceFile>
-          <Content>Estou fazendo o melhor que posso!!!</Content>
+          <Content>Estou fazendo o melhor que posso!</Content>
         </Dialog>
         <Dialog ID="2" Model="레니">
           <Teller>Lenny</Teller>
           <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny2</VoiceFile>
-          <Content>No soy capaz de hacer un corte limpio, el interior de este tipo está todo revuelto.</Content>
+          <Content>Eu simplesmente não consigo fazer uma abertura limpa, o conteúdo desse cara está estranhamente grudado.</Content>
         </Dialog>
         <Dialog ID="3" Model="레니">
           <Teller>Lenny</Teller>
           <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny3</VoiceFile>
-          <Content>Nunca he escuchado de ningún proceso de modificación corporal que te deje en tal mal estado...</Content>
+          <Content>Eu nunca ouvi falar de nenhum processo de modificação corporal que te deixe em tão mau estado...</Content>
         </Dialog>
         <Dialog ID="4" Model="망치">
           <Teller>Mang-chi</Teller>
           <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi1</VoiceFile>
-          <Content>Algo está mal con estos órganos. Todos se ven realmente extraños...</Content>
+          <Content>Não importa o quanto eu olhe, o estado das entranhas está estranho. É sério..</Content>
         </Dialog>
         <Dialog ID="5" Model="피트">
           <Teller>Pete</Teller>
           <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit2</VoiceFile>
-          <Content>¡Maldición! Sus pisadas están cada vez más cerca.</Content>
+          <Content>Droga! Os passos deles estão cada vez mais perto.</Content>
         </Dialog>
         <Dialog ID="6" Model="피트">
           <Teller>Pete</Teller>
           <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit3</VoiceFile>
-          <Content>¡¡Olvídate de los cortes limpios, solo sácalos y ya!!</Content>
+          <Content>Esqueça os cortes limpos, apenas tire-os e pronto!!</Content>
         </Dialog>
         <Dialog ID="7" Model="피트">
           <Teller>Pete</Teller>
           <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit4</VoiceFile>
-          <Content>A este ritmo nos decapitarán.</Content>
+          <Content>Nesse ritmo eles vão nos decapitar.</Content>
         </Dialog>
         <Dialog ID="8" Model="레니">
           <Teller>Lenny</Teller>
           <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny4</VoiceFile>
-          <Content>Por qué tiene este tipo de cosas en su cuerpo...</Content>
+          <Content>Por que ele tem esse tipo de coisa no corpo...</Content>
         </Dialog>
         <Dialog ID="9" Model="피트">
           <Teller>Pete</Teller>
           <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit5</VoiceFile>
-          <Content>¡Lo que sea, solo tómalo! ¡Nos estamos quedando sin tiempo!</Content>
+          <Content>Tanto faz, pega logo! Estamos ficando sem tempo!</Content>
         </Dialog>
         <Dialog ID="10" Model="망치">
           <Teller>Mang-chi</Teller>
           <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi2</VoiceFile>
-          <Content>¡Casi listo!</Content>
+          <Content>Quase pronto!</Content>
         </Dialog>
         <Dialog ID="11" Model="피트">
           <Teller>Pete</Teller>
           <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit6</VoiceFile>
-          <Content>¡Ahora, corran!</Content>
+          <Content>Agora, corram!</Content>
         </Dialog>
       </Place>
       <Place>
         <PlaceName>Localización: Un escondite en las Callejuelas</PlaceName>
         <Dialog ID="12" Model="레니">
           <Teller>Lenny</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny5</VoiceFile>
-          <Content>Uf... Eso estuvo cerca.</Content>
+          <Content>Ufa... Essa foi por pouco.</Content>
         </Dialog>
         <Dialog ID="13" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi3</VoiceFile>
-          <Content>Eres bastante atrevido, Pete. Ir a cosechar órganos en un territorio controlado por los Zwei.</Content>
+          <Content>Você é bastante ousado, Pete. Ir colher órgãos em um território controlado pelos Zwei.</Content>
         </Dialog>
         <Dialog ID="14" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit7</VoiceFile>
-          <Content>Estos son los únicos trabajos que nos quedan.</Content>
+          <Content>Esses são os únicos trabalhos que nos restam.</Content>
         </Dialog>
         <Dialog ID="15" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit8</VoiceFile>
-          <Content>Tenemos que escalar usando cualquier medio. Sin importar lo que tome...</Content>
+          <Content>Temos que subir a qualquer custo. Não importa o que seja necessário...</Content>
         </Dialog>
         <Dialog ID="16" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit9</VoiceFile>
-          <Content>¿Conoces mi sueño, verdad? El volverme uno de los dedos de las Callejuelas.</Content>
+          <Content>Você conhece o meu sonho, não é? Me tornar um dos dedos dos Becos</Content>
         </Dialog>
         <Dialog ID="17" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi4</VoiceFile>
-          <Content>Tengo que admitirlo, es raro ver a alguien con un sueño estos días.</Content>
+          <Content>Eu vou admitir, é raro ver alguém com um sonho hoje em dia.</Content>
         </Dialog>
         <Dialog ID="18" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi5</VoiceFile>
-          <Content>Vamos a vender estos órganos primero.</Content>
+          <Content>Vamos vender esses órgãos primeiro.</Content>
         </Dialog>
         <Dialog ID="19" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi6</VoiceFile>
-          <Content>Tenemos que preparar suficiente dinero para ofrecérselo a los Perros callejeros.</Content>
+          <Content>Temos que preparar dinheiro suficiente para oferecer aos Cães de Rua.</Content>
         </Dialog>
         <Dialog ID="20" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit10</VoiceFile>
-          <Content>Cierto... Esta podría ser nuestra mejor oportunidad de unirnos a un Sindicato de clase leyenda urbana...</Content>
+          <Content>É verdade... Esta pode ser a nossa chance de entrar para um Sindicato de nível Lenda Urbana...</Content>
         </Dialog>
         <Dialog ID="21" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit11</VoiceFile>
-          <Content>Muy bien, vamos a revisar nuestra cosecha.</Content>
+          <Content>Muito bem, vamos verificar a nossa colheita.</Content>
         </Dialog>
         <Dialog ID="22" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit12</VoiceFile>
-          <Content>¡Eh! ¿Esto es una broma? ¡¿Estás segura de que tomaste las cosas correctas?!</Content>
+          <Content>Ei! Isso é uma brincadeira? Tem certeza de que pegou as coisas certas?!</Content>
         </Dialog>
         <Dialog ID="23" Model="레니">
           <Teller>Lenny</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny6</VoiceFile>
-          <Content>Te lo dije. Este chico no tenía ningún órgano en condiciones dentro.</Content>
+          <Content>Eu te disse. Esse cara não tinha nenhum órgão bom dentro dele.</Content>
         </Dialog>
         <Dialog ID="24" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit13</VoiceFile>
-          <Content>Esperaba órganos empapados en drogas como encefalina en el peor de los casos...</Content>
+          <Content>Eu esperava órgãos encharcados de drogas como Encefalina, na pior das hipóteses...</Content>
         </Dialog>
         <Dialog ID="25" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit14</VoiceFile>
-          <Content>Estos están demasiado dañados. Es casi como si alguien los hubiera reventado.</Content>
+          <Content>Estes estão danificados demais. É quase como se alguém os tivesse estourado.</Content>
         </Dialog>
         <Dialog ID="26" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi7</VoiceFile>
-          <Content>Nosotros solo lo dormimos con anestésicos. No le hicimos ningún daño.</Content>
+          <Content>Nós apenas o adormecemos com anestésicos. Não lhe causamos nenhum dano.</Content>
         </Dialog>
         <Dialog ID="27" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit15</VoiceFile>
-          <Content>Esto no tiene sentido... Cómo podría incluso caminar en este estado...</Content>
+          <Content>Isso não faz sentido... Como ele poderia andar nesse estado...</Content>
         </Dialog>
         <Dialog ID="28" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi8</VoiceFile>
-          <Content>... ¿Qué pasa si es uno de esos? Ya sabes, los rumores dicen que hay un tipo que cose a gente viva y la convierte en muñecos...</Content>
+          <Content>...E se ele for um desses? Sabe, os rumores dizem que existe um cara que costura pessoas vivas e as transforma em bonecos...</Content>
         </Dialog>
         <Dialog ID="29" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit16</VoiceFile>
-          <Content>Sí, también he escuchado de eso. ¡Pero solo tienes que mirar lo que cosechamos! No es el caso en absoluto.</Content>
+          <Content>Sim, eu também já ouvi falar disso. Mas você só precisa olhar o que colhemos! Não é o caso de jeito nenhum.</Content>
         </Dialog>
         <Dialog ID="30" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit17</VoiceFile>
-          <Content>Escuché que esos muñecos están hechos uniendo su carne y huesos juntos. ¡Pero este hijo de perra no tenía ninguna cicatriz o puntada que se viera!</Content>
+          <Content>Eu ouvi dizer que esses bonecos são feitos costurando a carne e os ossos deles. Mas esse filho da puta não tinha nenhuma cicatriz ou pontos para mostrar!</Content>
         </Dialog>
         <Dialog ID="31" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi9</VoiceFile>
-          <Content>... Ahora que lo pienso, tenía una especie de símbolo naranja en la nuca...</Content>
+          <Content>...Agora que eu penso nisso, havia um símbolo laranja e redondo na nuca...</Content>
         </Dialog>
         <Dialog ID="32" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi10</VoiceFile>
-          <Content>Al principio pensé que era un tatuaje, pero no parecía el tipo de persona que tendría uno. Este idiota era un simple oficinista.</Content>
+          <Content>No começo, pensei que fosse uma tatuagem, mas ele não parecia ser o tipo de pessoa que tinha uma. Ele era um nerd que trabalhava em escritório.</Content>
         </Dialog>
         <Dialog ID="33" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit18</VoiceFile>
-          <Content>¿Símbolos? ¿Tatuajes? Maldita sea, no me digas que metimos la pata...</Content>
+          <Content>Símbolos? Tatuagens? Droga, não me diga que erramos...</Content>
         </Dialog>
         <Dialog ID="34" Model="레니">
           <Teller>Lenny</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny7</VoiceFile>
-          <Content>Aparte de eso...</Content>
+          <Content>Além disso...</Content>
         </Dialog>
         <Dialog ID="35" Model="레니">
           <Teller>Lenny</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny8</VoiceFile>
-          <Content>Ese tipo tenía este envoltorio dentro de su cuerpo.</Content>
+          <Content>Ele também tinha este envelope no corpo.</Content>
         </Dialog>
         <Dialog ID="36" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit19</VoiceFile>
-          <Content>¡¿Qué demonios hacia un envoltorio en un cuerpo humano?! ¡Las cosas se ponen cada vez peor... Dame eso!</Content>
+          <Content>Que diabos um envelope estava fazendo em um corpo humano?! As coisas estão piorando cada vez mais... Me dá isso!</Content>
         </Dialog>
         <Dialog ID="37" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit20</VoiceFile>
-          <Content>¿Una Invitación a una Biblioteca? Qué demonios...</Content>
+          <Content>Um convite para uma Biblioteca? Do que se trata isso...</Content>
         </Dialog>
         <Dialog ID="38" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi11</VoiceFile>
-          <Content>¿Libros? ¿Podemos conseguir libros de la Biblioteca? Qué estupidez.</Content>
+          <Content>Livros? Podemos conseguir livros da biblioteca? Que estupidez.</Content>
         </Dialog>
         <Dialog ID="39" Model="레니">
           <Teller>Lenny</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny9</VoiceFile>
-          <Content>No vamos a ganar nada de dinero con estos órganos... Y el pago vence mañana.</Content>
+          <Content>Não vamos ganhar dinheiro com esses órgãos... E o pagamento vence amanhã.</Content>
         </Dialog>
         <Dialog ID="40" Model="레니">
           <Teller>Lenny</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny10</VoiceFile>
-          <Content>Tenemos exactamente 7 horas. Es muy poco tiempo para intentar cosechar órganos de nuevo...</Content>
+          <Content>Temos exatamente 7 horas. É muito pouco tempo para tentar colher órgãos de novo...</Content>
         </Dialog>
         <Dialog ID="41" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit21</VoiceFile>
-          <Content>... Tenemos que ir a la Biblioteca como dice la Invitación.</Content>
+          <Content>...Estamos indo para a Biblioteca, como diz o convite.</Content>
         </Dialog>
         <Dialog ID="42" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit22</VoiceFile>
-          <Content>No sé qué es esto de los ‘libros’, pero no tenemos muchas opciones. Tenemos que aprovechar cada oportunidad que aparezca.</Content>
+          <Content>Eu não sei o que são esses "livros", mas não temos muitas opções. Temos que aproveitar toda oportunidade que aparecer.</Content>
         </Dialog>
         <Dialog ID="43" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi12</VoiceFile>
-          <Content>¿No es un suicidio? No sabemos qué tipo de lugar podría ser.</Content>
+          <Content>Não é suicídio? Não sabemos que tipo de lugar poderia ser.</Content>
         </Dialog>
         <Dialog ID="44" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit23</VoiceFile>
-          <Content>¡No puede ser peor que morir a manos de los Perros callejeros o la Asociación Zwei; estamos arruinados de todos modos! Solo cállate y sígueme si quieres vivir.</Content>
+          <Content>Não pode ser pior do que morrer nas mãos dos Cães de Rua ou da Associação Zwei; estamos arruinados de qualquer jeito! Apenas cala a boca e me siga se quiser viver.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Local: Dentro da Biblioteca - Primera Invitación</PlaceName>
+        <PlaceName>Localização: Dentro da Biblioteca - Primeiro Convite</PlaceName>
         <Dialog ID="45" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland1</VoiceFile>
-          <Content>¿Qué es lo que acabamos de ver...?</Content>
+          <Content>O que foi isso que acabamos de ver...?</Content>
         </Dialog>
         <Dialog ID="46" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela1</VoiceFile>
-          <Content>Fragmentos del proceso de Invitación.</Content>
+          <Content>Fragmentos do processo do convite.</Content>
         </Dialog>
         <Dialog ID="47" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela2</VoiceFile>
-          <Content>Podemos echar un vistazo a las historias de los próximos invitados.</Content>
+          <Content>Podemos dar uma olhada nas histórias dos próximos convidados.</Content>
         </Dialog>
         <Dialog ID="48" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland2</VoiceFile>
-          <Content>No pensé que fueras una chismosa.</Content>
+          <Content>Não pensei que você fosse uma fofoqueira.</Content>
         </Dialog>
         <Dialog ID="49" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela3</VoiceFile>
-          <Content>Es más conveniente saber qué tipo de invitados nos visitarán de antemano, ¿no es así?</Content>
+          <Content>É mais conveniente saber com antecedência que tipo de hóspedes nos visitarão, não é?</Content>
         </Dialog>
         <Dialog ID="50" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela4</VoiceFile>
-          <Content>Además de eso, esta es la voluntad de la Invitación, no la mía.</Content>
+          <Content>Além disso, esta é a vontade do convite, não a minha..</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland3</VoiceFile>
-          <Content>Tienes una cosa espléndida ahí, ma’am. Observas a las personas y también las secuestra. Una herramienta perfecta para los crímenes.</Content>
+          <Content>Que coisa esplêndida que a senhora tem aí. Espiona as pessoas e as sequestra também. Uma ferramenta perfeita para crimes.</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland4</VoiceFile>
-          <Content>Demonios, si la Invitación puede hacer todo eso, ¿por qué no nos saltamos la parte de la recepción?</Content>
+          <Content>Caramba, se o convite pode fazer tudo isso, por que não pulamos a parte da recepção?</Content>
         </Dialog>
         <Dialog ID="53" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland5</VoiceFile>
-          <Content>¿No podemos simplemente transportarlos a una habitación llena de trampas o algo así?</Content>
+          <Content>Não podemos simplesmente transportá-los para uma sala cheia de armadilhas ou algo assim?</Content>
         </Dialog>
         <Dialog ID="54" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela5</VoiceFile>
-          <Content>No puedo hacer eso. Solo podemos echar un vistazo cuando ha sido decidido que el invitado viene aquí por su propia voluntad.</Content>
+          <Content>Eu não posso fazer isso. Só podemos dar uma olhada quando for decidido que o convidado vem para cá por vontade própria.</Content>
         </Dialog>
         <Dialog ID="55" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela6</VoiceFile>
-          <Content>Y el poder de la Invitación no es completamente mío. Simplemente lo estoy tomando prestado.</Content>
+          <Content>E o poder do convite não é completamente meu. Eu estou apenas o pegando emprestado.</Content>
         </Dialog>
         <Dialog ID="56" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland6</VoiceFile>
-          <Content>Claro claro, no hay forma de que algo pueda ser tan conveniente en la Ciudad.</Content>
+          <Content>Claro, claro, não tem como algo ser tão conveniente na Cidade.</Content>
         </Dialog>
         <Dialog ID="57" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela7</VoiceFile>
-          <Content>Nuestros invitados están bastante desesperados.</Content>
+          <Content>Nossos convidados estão bastante desesperados.</Content>
         </Dialog>
         <Dialog ID="58" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland7</VoiceFile>
-          <Content>Dime, ¿fue la Invitación la responsable de ese símbolo y el daño interno?</Content>
+          <Content>Diga-me, foi o Convite o responsável por esse símbolo e o dano interno?</Content>
         </Dialog>
         <Dialog ID="59" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela8</VoiceFile>
-          <Content>¿Qué? Para nada, no tiene nada que ver con lo que ha pasado.</Content>
+          <Content>O quê? De jeito nenhum, não tem nada a ver com o que aconteceu.</Content>
         </Dialog>
         <Dialog ID="60" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela9</VoiceFile>
-          <Content>La Invitación simplemente encuentra su camino hacia aquellas personas que la necesitan.</Content>
+          <Content>O Convite simplesmente encontra o caminho até as pessoas que precisam dele.</Content>
         </Dialog>
         <Dialog ID="61" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland8</VoiceFile>
-          <Content>Eso significa que esos extraños sucesos fueron culpa de alguien más... </Content>
+          <Content>Isso significa que esses acontecimentos estranhos foram culpa de outra pessoa...</Content>
         </Dialog>
         <Dialog ID="62" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland9</VoiceFile>
-          <Content>Nunca he visto este tipo de fenómenos cuando era un Fixer. Es como algo salido de las ruinas...</Content>
+          <Content>Eu nunca vi esse tipo de fenômeno quando eu era um Fixer. É como algo saído das ruínas...</Content>
         </Dialog>
         <Dialog ID="63" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela10</VoiceFile>
-          <Content>¿Ruinas?</Content>
+          <Content>Ruínas?</Content>
         </Dialog>
         <Dialog ID="64" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland10</VoiceFile>
-          <Content>... Tampoco sé mucho sobre ellas. Solo he escuchado historias. Debería describirlo como... ¿Magia?</Content>
+          <Content>...Eu também não sei muito sobre elas. Só ouvi histórias. Eu deveria descrever isso como... Mágica?</Content>
         </Dialog>
         <Dialog ID="65" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland11</VoiceFile>
-          <Content>Aparentemente, cosas fuera de este mundo existen en las ruinas.</Content>
+          <Content>Aparentemente, coisas de outro mundo existem nas ruínas.</Content>
         </Dialog>
         <Dialog ID="66" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela11</VoiceFile>
-          <Content>En cualquier caso, solo tenemos que recibir a nuestros invitados. No parecen ser personas muy capaces.</Content>
+          <Content>De qualquer forma, só nos resta dar as boas-vindas aos nossos convidados. Eles não parecem ser pessoas muito competentes.</Content>
         </Dialog>
         <Dialog ID="67" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland12</VoiceFile>
-          <Content>Probablemente son un montón de pandilleros de las Callejuelas. Los llamamos ‘Ratas’.</Content>
+          <Content>Provavelmente são um monte de bandidos dos Beco. Nós os chamamos de "Ratos".</Content>
         </Dialog>
         <Dialog ID="68" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland13</VoiceFile>
-          <Content>Grupos de matones a medias que apenas califican como un Sindicato. No tienen poder ni dinero.</Content>
+          <Content>Grupos de bandidos de meia-tigela que mal se qualificam como um Sindicato. Eles não têm poder nem dinheiro.</Content>
         </Dialog>
         <Dialog ID="69" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland14</VoiceFile>
-          <Content>Son unos perdedores que solo piensan en sobrevivir día a día.</Content>
+          <Content>Eles são uns perdedores que só pensam em sobreviver dia a dia.</Content>
         </Dialog>
         <Dialog ID="70" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland15</VoiceFile>
-          <Content>Mmm... Quizás me haya quemado un poco a mí mismo ahora.</Content>
+          <Content>Hmm... Acho que acabei de me queimar aqui.</Content>
         </Dialog>
         <Dialog ID="71" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela12</VoiceFile>
-          <Content>Las Callejuelas... Las conozco.</Content>
+          <Content>Os Beco... Eu os conheço.</Content>
         </Dialog>
         <Dialog ID="72" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland16</VoiceFile>
-          <Content>¿De verdad?</Content>
+          <Content>Sério?</Content>
         </Dialog>
         <Dialog ID="73" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela13</VoiceFile>
-          <Content>Alguien que conozco era de las Callejuelas.</Content>
+          <Content>Alguém que eu conheço era dos Becos.</Content>
         </Dialog>
         <Dialog ID="74" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland17</VoiceFile>
-          <Content>Bueno, no es nada raro. Las Callejuelas se distribuyen por toda la Ciudad como venas.</Content>
+          <Content>Bem, não é nada incomum. Os Beco se espalham por toda a cidade como veias.</Content>
         </Dialog>
         <Dialog ID="75" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland18</VoiceFile>
-          <Content>Demonios, podría ser más difícil encontrar a alguien que pertenezca a ellos.</Content>
+          <Content>Caramba, pode ser ainda mais difícil encontrar alguém que não seja dos Becos.</Content>
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Entrada de la Biblioteca</PlaceName>
+        <PlaceName>Localização: Entrada da Biblioteca</PlaceName>
         <Dialog ID="76" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit24</VoiceFile>
-          <Content>Así que esta es una Biblioteca. Se ve más elegante de lo que pensaba.</Content>
+          <Content>Então isso é uma Biblioteca. Parece mais chique do que eu pensava.</Content>
         </Dialog>
         <Dialog ID="77" Model="레니">
           <Teller>Lenny</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_lenny11</VoiceFile>
-          <Content>Podría haber muchas cosas valiosas aquí dentro.</Content>
+          <Content>Pode haver um monte de coisas valiosas aqui.</Content>
         </Dialog>
         <Dialog ID="78" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela14</VoiceFile>
-          <Content>Bienvenidos, queridos invitados. Esta es la Biblioteca.</Content>
+          <Content>Bem-vindos, queridos convidados. Esta é a Biblioteca.</Content>
         </Dialog>
         <Dialog ID="79" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela15</VoiceFile>
-          <Content>Y yo soy Angela, la bibliotecaria de esta Biblioteca.</Content>
+          <Content>E eu sou Angela, a bibliotecária que dá nome ao meu papel.</Content>
         </Dialog>
         <Dialog ID="80" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela16</VoiceFile>
-          <Content>Espero que puedas encontrar lo que desees aquí, pero también podrías terminar entregándonos tus preciosas posesiones a nosotros.</Content>
+          <Content>Vocês podem encontrar o que deseja aqui, mas também podem acabar cedendo seus bens preciosos para nós.</Content>
         </Dialog>
         <Dialog ID="81" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit25</VoiceFile>
-          <Content>¿Eres la propietaria de este lugar? ¿Tenemos permitido tomar lo que queramos, verdad?</Content>
+          <Content>Você é a dona deste lugar? Nós podemos pegar o que quisermos, certo?</Content>
         </Dialog>
         <Dialog ID="82" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela17</VoiceFile>
-          <Content>Correcto. Puedes ganar libros, para ser exacta.</Content>
+          <Content>Correto. Você pode ganhar livros, para ser exata.</Content>
         </Dialog>
         <Dialog ID="83" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela18</VoiceFile>
-          <Content>Si eres capaz, por supuesto.</Content>
+          <Content>Se você for capaz, é claro.</Content>
         </Dialog>
         <Dialog ID="84" Model="망치">
           <Teller>Mang-chi</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_mangchi13</VoiceFile>
-          <Content>Esos libros... ¿Pueden valer un montón de dinero...?</Content>
+          <Content>Esses livros... Eles podem valer muito dinheiro...?</Content>
         </Dialog>
         <Dialog ID="85" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela19</VoiceFile>
-          <Content>Por supuesto que pueden, si la información que contienen es valiosa. </Content>
+          <Content>É claro que podem, se a informação que eles contêm for valiosa.</Content>
         </Dialog>
         <Dialog ID="86" Model="피트">
           <Teller>Pete</Teller>
           <Title>Rata</Title>
           <VoiceFile>ch1_rat_ep1_pit26</VoiceFile>
-          <Content>¡Mang-chi! Los mendigos no tenemos permitido escoger. Tenemos que aferrarnos a cualquier cosa que podamos encontrar.</Content>
+          <Content>Mang-chi! Mendigos não podem escolher. Temos que nos agarrar a qualquer coisa que pudermos encontrar.</Content>
         </Dialog>
         <Dialog ID="87" Model="앤젤라">
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela20</VoiceFile>
-          <Content>Entonces, que encuentres tu libro en este lugar.</Content>
+          <Content>Então, que você encontre seu livro neste lugar.</Content>
         </Dialog>
       </Place>
     </Episode>
