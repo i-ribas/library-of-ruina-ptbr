@@ -687,7 +687,7 @@
     <GroupName>Rats</GroupName>
 <!-- Convite dos Ratos -->    
     <Episode>
-      <EpisodeName>Episodio 1</EpisodeName>
+      <EpisodeName>Episódio 1</EpisodeName>
   <!-- EP1 -->    
       <Place>
         <PlaceName>Local: Algum lugar nos Becos</PlaceName>
@@ -765,7 +765,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localización: Un escondite en las Callejuelas</PlaceName>
+        <PlaceName>Local: Um esconderijo nos Becos</PlaceName>
         <Dialog ID="12" Model="레니">
           <Teller>Lenny</Teller>
           <Title>Rato</Title>
@@ -966,7 +966,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localização: Dentro da Biblioteca - Primeiro Convite</PlaceName>
+        <PlaceName>Local: Dentro da Biblioteca - Primeiro Convite</PlaceName>
         <Dialog ID="45" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
@@ -1155,7 +1155,7 @@
         </Dialog>
       </Place>
       <Place>
-        <PlaceName>Localização: Entrada da Biblioteca</PlaceName>
+        <PlaceName>Local: Entrada da Biblioteca</PlaceName>
         <Dialog ID="76" Model="피트">
           <Teller>Pete</Teller>
           <Title>Rato</Title>
@@ -1218,7 +1218,7 @@
         </Dialog>
         <Dialog ID="86" Model="피트">
           <Teller>Pete</Teller>
-          <Title>Rata</Title>
+          <Title>Rato</Title>
           <VoiceFile>ch1_rat_ep1_pit26</VoiceFile>
           <Content>Mang-chi! Mendigos não podem escolher. Temos que nos agarrar a qualquer coisa que pudermos encontrar.</Content>
         </Dialog>
