@@ -1239,13 +1239,13 @@
           <Teller>Angela</Teller>
           <Title>Diretora da Biblioteca</Title>
           <VoiceFile>ch1_rat_ep1_angela21</VoiceFile>
-          <Content>Me pregunto, ¿era tan importante para ellos pertenecer a un Sindicato de renombre?</Content>
+          <Content>Eu me pergunto, é assim tão importante pertencer a um Sindicato?</Content>
         </Dialog>
         <Dialog ID="1" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Servo</Title>
           <VoiceFile>ch1_rat_ep1_roland19</VoiceFile>
-          <Content>Todo es parte de la vida en la Ciudad. Tienes que pertenecer a un grupo, ya sea un Sindicato o a cualquier otra cosa. Vivir en la Ciudad se vuelve muy duro estando solo.</Content>
+          <Content>Para sobreviver na Cidade, não tem jeito. É um lugar onde é difícil sobreviver sem encontrar um grupo, seja ele um Sindicato ou qualquer outro. É o jeito da Cidade.</Content>
         </Dialog>
       </Place>
     </Episode>
